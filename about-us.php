@@ -232,7 +232,7 @@
   
     <!-- Left Image -->
     <div style="flex: 1 1 300px; text-align: center;">
-      <img src="/image/section/img-section-about-h3.jpg" alt="Empowering Visionaries" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+      <img src="image/section/img-section-about-h3.jpg" alt="Empowering Visionaries" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
     </div>
     
     <!-- Right Content -->

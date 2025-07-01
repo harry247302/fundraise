@@ -699,7 +699,7 @@
             <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
                 <div class="process-top">
                     <div class="icon">
-                       <img src="/image/icon/strategy-development_4129547.png"  alt="">
+                       <img src="./image/icon/strategy-development_4129547.png"  alt="">
                     </div>
                     <span class="label text-btn-uppercase">Marketing Strategy</span>
                 </div>
@@ -734,7 +734,7 @@
             <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
                 <div class="process-top">
                     <div class="icon">
-                       <img src="/image/icon/investment_2300422.png" alt="">
+                       <img src="./image/icon/investment_2300422.png" alt="">
                     </div>
                     <span class="label text-btn-uppercase">Financing Strategy</span>
                 </div>
@@ -769,7 +769,7 @@
             <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
                 <div class="process-top">
                     <div class="icon">
-                        <img src="/image/icon/improvement_12445193.png" alt="">
+                        <img src="./image/icon/improvement_12445193.png" alt="">
                     </div>
                     <span class="label text-btn-uppercase">Business Development Strategy</span>
                 </div>
@@ -807,7 +807,7 @@
             <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
                 <div class="process-top">
                     <div class="icon">
-                     <img src="/image/icon/documentation_9746243.png" alt="">
+                     <img src="./image/icon/documentation_9746243.png" alt="">
                     </div>
                     <span class="label text-btn-uppercase">Business Documentation Strategy</span>
                 </div>
