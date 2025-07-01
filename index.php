@@ -229,7 +229,7 @@
                                 </div>
                                 <ul class="text-coor-change mb-40">
 
-<li> <h3>At Impact Nest, we offer expert business planning to help you reach your goals. Our team provides
+<li> <h3>at Impact Nest, we offer expert business planning to help you reach your goals. Our team provides
 tailored strategies and solutions for your financial success and security.</h3> 
 </li>
 
