@@ -911,7 +911,7 @@
 
 
 
-            
+
 <section class="section-team h-5 tf-spacing-29 bg-surface">
                 <div class="tf-container position-relative">
                     <div class="row">
@@ -1581,9 +1581,8 @@
                     <div class="col-12">
                         <div class="footer-top">
                             <div class="footer-left">
-                                <div class="logo-footer">
-                                    <a href="index-2.php" class="logo">
-                                        
+                               <div class="logo-footer" style="height:100%;border:0px solid black;display:flex;justify-content:center;align-items:center">
+                                    <a href="/" class="logo">    
                                         <img     style="width: 200px; " src="image/logo/logo-footer.png" alt="">
                                     </a>
                                 </div>

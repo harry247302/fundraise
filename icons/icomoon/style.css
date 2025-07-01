@@ -90,6 +90,7 @@
 }
 .icon-checkbox:before {
   content: "\e914";
+  /* color: ; */
 }
 .icon-customized:before {
   content: "\e92d";

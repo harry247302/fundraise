@@ -419,7 +419,7 @@ tailored strategies and solutions for your financial success and security.</h3>
                                     <div class="text-anime-wave">
                                         <a href="#" class="tag label text-btn-uppercase bg-white">Our Services</a>
                                     </div>
-                                    <h3 class="title-section text-anime-wave">
+                                    <h3 style="color:var(--primary)" class="title-section text-anime-wave">
                                         Custom Strategies for Your Goals
                                     </h3>
                                 </div>
@@ -437,7 +437,7 @@ tailored strategies and solutions for your financial success and security.</h3>
                                         <ul class="tab-product min-w-757" role="tablist">
                                             <li class="nav-tab-item" role="presentation">
                                                 <h5>
-                                                    <a href="#retirement-planning" data-bs-toggle="tab" role="tab" class="active">Investment</a>
+                                                    <a href="#retirement-planning" data-bs-toggle="tab" role="tab" class="active">Fundraising</a>
                                                 </h5>
                                             </li>
                                             <li class="nav-tab-item" role="presentation">
@@ -468,7 +468,7 @@ tailored strategies and solutions for your financial success and security.</h3>
                                                     <div class="heading">
                                                         <h3>
                                                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR38nkl0Du_r32efbKi2Avu-3GX-xrFKZe4Q&s" style="width:40px" alt="">    
-                                                        <a href="services-details-1.php" class="name-services wow fadeInUp">Fundraise Planning</a></h3>
+                                                        <a href="services-details-1.php" class="name-services wow fadeInUp">Fundraising</a></h3>
                                                         <div class="sub-name body-2 wow fadeInUp">
                                                          At Impact Nest, we help businesses raise capital with a structured and strategic
 approach. From refining your pitch to connecting with the right investors, we streamline the entire
@@ -677,16 +677,6 @@ investors.
                 </div>
             </section><!-- /.section-services -->
 
-            <!-- Section-process -->
-            <section class="section-benefit h-1 tf-spacing-3">
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-12">
-                           
-                        </div>
-                    </div>
-                </div>
-            </section>
 
 
 
@@ -698,7 +688,7 @@ investors.
                             <div class="heading-section style-2 mb-40">
                                 <div class="left">
                                    
-                                    <h3 class="title-section text-anime-wave">
+                                    <h3 style="color:var(--primary)" class="title-section text-anime-wave">
                                         Pathway to Success
                                     </h3>
                                 </div>
@@ -1051,7 +1041,7 @@ investors.
   <div style="max-width: 1200px; margin: 0 auto;">
     
     <!-- Section Heading -->
-    <h2 style="text-align: center; font-size: 36px; color: #000; margin-bottom: 50px;">
+    <h2  style="color:var(--primary);text-align: center; font-size: 36px;  margin-bottom: 50px;">
     Proven Results You Can See
     </h2>
 
@@ -1060,7 +1050,7 @@ investors.
 
       <!-- Card 1 -->
       <div style="flex: 1 1 30%; background-color: #fff; padding: 25px 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.06);">
-        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEA88QV26awUw/company-logo_200_200/company-logo_200_200/0/1679036635010/mufin_finance_logo?e=2147483647&v=beta&t=27UTM5hfRPJasDDk0VspzqzcQaxLhWpFh2xQk2TcSgw" alt="Mufin Green Infra Logo" style="height: 50px; object-fit: contain; margin-bottom: 20px;">
+        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEA88QV26awUw/company-logo_200_200/company-logo_200_200/0/1679036635010/mufin_finance_logo?e=2147483647&v=beta&t=27UTM5hfRPJasDDk0VspzqzcQaxLhWpFh2xQk2TcSgw" alt="Mufin Green Infra Logo" style="height: 100px; object-fit: contain; margin-bottom: 20px;">
         <h3 style="font-size: 18px; color: #000; margin-bottom: 10px;">Mufin Green Infra</h3>
         <p style="color: #444; font-size: 15px; line-height: 1.6;">
           Partnering with Impact Nest was a game-changer for Mufin Green Infra. Their strategic support and fundraising expertise helped us unlock ₹25 Cr in business over the past year.
@@ -1069,7 +1059,7 @@ investors.
 
       <!-- Card 2 -->
       <div style="flex: 1 1 30%; background-color: #fff; padding: 25px 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.06);">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD5hEOm_sLNYsiQJDxnscBB4nooProK7afIw&s" alt="On EV Logo" style="height: 50px; object-fit: contain; margin-bottom: 20px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD5hEOm_sLNYsiQJDxnscBB4nooProK7afIw&s" alt="On EV Logo" style="height: 100px; object-fit: contain; margin-bottom: 20px;">
         <h3 style="font-size: 18px; color: #000; margin-bottom: 10px;">On EV</h3>
         <p style="color: #444; font-size: 15px; line-height: 1.6;">
           Thanks to Impact Nest’s tailored strategy and financial guidance, On EV saw a 30% boost in profit. Their expertise and hands-on approach unlocked real business value.
@@ -1078,7 +1068,7 @@ investors.
 
       <!-- Card 3 -->
       <div style="flex: 1 1 30%; background-color: #fff; padding: 25px 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.06);">
-        <img src="https://media.licdn.com/dms/image/v2/C560BAQEVhmQnKNjlWw/company-logo_200_200/company-logo_200_200/0/1630576670106?e=2147483647&v=beta&t=9s5fnw2mA62MqBK7ax2tvBVb8QRwuuQuZ5jfnm_Cw10" alt="Swap India Logo" style="height: 50px; object-fit: contain; margin-bottom: 20px;">
+        <img src="https://media.licdn.com/dms/image/v2/C560BAQEVhmQnKNjlWw/company-logo_200_200/company-logo_200_200/0/1630576670106?e=2147483647&v=beta&t=9s5fnw2mA62MqBK7ax2tvBVb8QRwuuQuZ5jfnm_Cw10" alt="Swap India Logo" style="height: 100px; object-fit: contain; margin-bottom: 20px;">
         <h3 style="font-size: 18px; color: #000; margin-bottom: 10px;">Swap India</h3>
         <p style="color: #444; font-size: 15px; line-height: 1.6;">
           Impact Nest played a pivotal role in our fundraising journey. With their investor network and guidance, we successfully raised over ₹100 Cr+ in funding.
@@ -1103,7 +1093,7 @@ investors.
                                         <div class="text-anime-wave">
                                             <a href="#" class="tag label text-btn-uppercase bg-white">FAQs</a>
                                         </div>
-                                        <h4 class="title-section mb-12 text-anime-wave">
+                                        <h4 style="color:var(--primary)" class="title-section mb-12 text-anime-wave">
                                         What Every Founder Should Know
                                         </h4>
                                         <div class="sub-title body-2 text-anime-wave mb-40">
