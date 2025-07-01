@@ -364,7 +364,7 @@ tailored strategies and solutions for your financial success and security.</h3>
     <!-- Investment -->
     <div class="box-icon">
       <div class="icon">
-        <img src="./image/icon/investment_2300422.png" alt="Investment">
+        <img src="../image/icon/investment_2300422.png" alt="Investment">
       </div>
       <a href="#" class="title-box">Investment</a>
       <div class="sub-title">
@@ -375,7 +375,7 @@ tailored strategies and solutions for your financial success and security.</h3>
     <!-- Tailored Strategies -->
     <div class="box-icon">
       <div class="icon">
-        <img src="./image/icon/strategy-development_4129547.png">
+        <img src="../image/icon/strategy-development_4129547.png">
       </div>
       <a href="#" class="title-box">Tailored Strategies</a>
       <div class="sub-title">
@@ -386,7 +386,7 @@ tailored strategies and solutions for your financial success and security.</h3>
     <!-- Financial Modelling -->
     <div class="box-icon">
       <div class="icon">
-        <img src="./image/icon/financial_4221500.png" alt="Financial Modelling">
+        <img src="../image/icon/financial_4221500.png" alt="Financial Modelling">
       </div>
       <a href="#" class="title-box">Financial Modelling</a>
       <div class="sub-title">
@@ -397,7 +397,7 @@ tailored strategies and solutions for your financial success and security.</h3>
     <!-- Deck Design -->
     <div class="box-icon">
       <div class="icon">
-        <img src="./image/icon/desk_6881229.png" alt="Deck Design">
+        <img src="../image/icon/desk_6881229.png" alt="Deck Design">
       </div>
       <a href="#" class="title-box">Deck Design</a>
       <div class="sub-title">

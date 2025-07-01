@@ -3886,7 +3886,7 @@ input[type=checkbox] {
   width: 100vw;
   height: 100vh;
   z-index: 999;
-  cursor: url(../image/icon/cursor-close.svg), auto;
+  cursor: url(.../image/icon/cursor-close.svg), auto;
 }
 .top-search.active .top-search-content {
   transform: translateY(0);
@@ -3904,7 +3904,7 @@ body.no-scroll {
 }
 
 .offcanvas-backdrop {
-  cursor: url(../image/icon/cursor-close.svg), auto;
+  cursor: url(.../image/icon/cursor-close.svg), auto;
   background-color: var(--on-suface-container);
 }
 .offcanvas-backdrop.show {
@@ -4043,7 +4043,7 @@ body.no-scroll {
 }
 
 .modal {
-  cursor: url(../image/icon/cursor-close.svg), auto;
+  cursor: url(.../image/icon/cursor-close.svg), auto;
 }
 .modal .modal-content {
   cursor: default !important;
