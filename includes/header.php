@@ -32,7 +32,7 @@
                                             <a href="#" class="item-link">Services</a>
                                             <ul  class="sub-menu">
                                                 <li class="sub-menu-item"><a href="our-services-1.php" class="item-link-2">Services</a></li>
-                                                <li class="sub-menu-item"><a href="/our-teams.php" class="item-link-2">Our Teams & Industry</a></li>
+                                                <li class="sub-menu-item"><a href="/our-teams-industry.php" class="item-link-2">Our Teams & Industry</a></li>
                                                 <li class="sub-menu-item"><a href="Investor-pitch-desck-design.php" class="item-link-2">Investor Pitch Desck Design & Development</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Business Plan and Executive Summary</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Financial Model & Visualation Support</a></li>

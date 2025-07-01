@@ -407,7 +407,7 @@
             <div class="tf-container">
                 <div class="page-title-content">
                     <div class="breadkcum">
-                        <a href="index-2.php" class="caption-1 home">Homepage</a>
+                        <a href="/" class="caption-1 home">Homepage</a>
                         <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
                                 <g clip-path="url(#clip0_9360_28061)">
                                     <path d="M3.125 10H16.875" stroke="#A2A3AB" stroke-linecap="round" stroke-linejoin="round" />
@@ -444,17 +444,17 @@
 
 <!-- ////////////////////////////////////////////////////////////////////////// -->
 
-<div class="main-content">
+<div class="main-content" style="border:0px solid black">
 
-            <div class="tf-container tf-spacing-2">
-                <div class="row rg-60">
+            <div class="tf-container tf-spacin-2">
+                <div class="row rg-60" style="border:0px solid black">
                     <div class="col-lg-8">
                         <div class="case-studies-details">
                             <div class="image-details image mb-40">
                                 <img src="image/page-title/iamge-create.jpg" data-src="image/section/img-details-case.jpg" alt="" class=" ls-is-cached lazyloaded">
                             </div>
                             <div class="detalis-content mb-40">
-                                <h4 class="title-content mb-16">
+                                <h4 style="color:var(--primary)" class="title-content mb-16">
                                 Deck Design
                                 </h4>
                                 <div class="desc mb-16 body-2">
@@ -464,7 +464,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                                 </div>
                             </div>
                             <div class="detalis-content mb-40">
-                                <h4 class="title-content mb-16">
+                                <h4 style="color:var(--primary)" class="title-content mb-16">
                                 What We Offer
                                 </h4>
                                 <!-- <div class="desc mb-20 body-2">
@@ -515,7 +515,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                         </div>
                           
                         <div class="detalis-content mb-34">
-                                <h4 class="title-content mb-16">
+                                <h4 style="color:var(--primary)" class="title-content mb-16">
                                     Results Achieved
                                 </h4>
                                 <div class="benefit-lists">
@@ -742,13 +742,15 @@ We combine strategic messaging, compelling design, and market-aligned content to
 </style>
 
 
-<div class="tf-container" >
+
+
+<div class="tf-container" style="margin-top:50px" >
                     <div class="row">
                         <div class="col-14">
                             <div class="heading-section style-2 mb-40">
                                 <div class="left">
                                    
-                                    <h3 class="title-section text-anime-wave" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1;">
+                                    <h3  style="color:var(--primary)" class="title-section text-anime-wave" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1;">
                                     Why a Strong Deck Matters
                                     </h3>
                                 </div>
@@ -882,6 +884,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
 
   </div>
 
+
   <!-- Right Column: Image -->
   <!-- <div style="flex: 1 1 35%; min-width: 300px; text-align: center;">
     <img 
@@ -898,6 +901,75 @@ We combine strategic messaging, compelling design, and market-aligned content to
   </div>
 
 </section>
+
+
+
+<section style="
+  /* background: #121212; */
+  margin-top:50px;
+  /* padding: 80px 20px; */
+  /* font-family: 'Segoe UI', sans-serif; */
+  /* color: #fff; */
+">
+  <div style="max-width: 1300px; margin: auto;">
+
+    <!-- Heading -->
+    <div style="text-align: left; margin-bottom: 60px;">
+      <h2 style="font-size: 36px; font-weight: 700; margin-bottom: 20px;color:var(--primary)">Financial Modelling & Deck Design</h2>
+      <p style="font-size: 17px; color: black; line-height: 1.8; max-width: 800px; ">
+        At Impact Nest, we build powerful, investor-ready financial models that bring structure to your growth story. Our models are strategic tools to project performance and validate value for investors.
+      </p>
+    </div>
+
+    <!-- Content Grid -->
+    <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
+      
+      <!-- What We Offer -->
+      <div style="
+        /* flex: 1 1 500px; */
+        /* background: rgba(255,255,255,0.05); */
+        /* border: 1px solid rgba(255,255,255,0.12); */
+        backdrop-filter: blur(14px);
+        border-radius: 12px;
+        /* padding: 30px; */
+        /* box-shadow: 0 8px 24px rgba(0,0,0,0.25); */
+      ">
+        <h3 style="font-size: 24px; font-weight: 600; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px;">What We Offer</h3>
+        <ul style="font-size: 15px; color: black; line-height: 1.7; padding-left: 18px;">
+          <li><strong>Custom Financial Models</strong> – Tailored to your business model and goals.</li>
+          <li><strong>Forecasting</strong> – Dynamic cost and revenue projections.</li>
+          <li><strong>Scenario Analysis</strong> – Plan for best, base, and worst-case outcomes.</li>
+          <li><strong>Valuation Support</strong> – Estimate based on DCF, multiples, and industry data.</li>
+          <li><strong>Investor-Ready Outputs</strong> – Clean P&L, Balance Sheet, Cap Table, and more.</li>
+          <li><strong>Ongoing Iterations</strong> – Stay current with pitch updates and investor feedback.</li>
+        </ul>
+      </div>
+
+      <!-- Why It Matters -->
+      <div style="
+        flex: 1 1 500px;
+        background: rgba(255,255,255,0.05);
+        /* border: 1px solid rgba(255,255,255,0.12); */
+        /* backdrop-filter: blur(14px); */
+        /* border-radius: 12/px; */
+        /* padding: 30px; */
+        /* box-shadow: 0 8px 24px rgba(0,0,0,0.25); */
+      ">
+        <h3 style="font-size: 24px; font-weight: 600; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px;">Why Financial Modelling Matters</h3>
+        <ul style="font-size: 15px; color: black; line-height: 1.7; padding-left: 18px;">
+          <li><strong>Informed Decisions</strong> – Rely on data, not gut feelings.</li>
+          <li><strong>Investor Confidence</strong> – Build trust with clear, strong numbers.</li>
+          <li><strong>Strategic Planning</strong> – Align operations with financial targets.</li>
+          <li><strong>Risk Management</strong> – Spot weaknesses before they grow.</li>
+          <li><strong>Goal Tracking</strong> – Stay aligned with your KPIs and pitch feedback.</li>
+          <li><strong>Resilience Planning</strong> – Adapt fast with sensitivity models.</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
 
 
                         </div>
@@ -1075,7 +1147,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
             <div class="inner-mobile-nav">
                 <div class="top-header-mobi">
                     <div class="logo-mobile">
-                        <a href="index-2.php">
+                        <a href="/">
                             <img src="image/page-title/iamge-create.jpg" alt="">
                         </a>
                     </div>

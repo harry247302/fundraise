@@ -86,27 +86,8 @@
                 </div>
             </div>
         </div><!-- /.page-title -->
-            <section class="py-5 text-center bg-light" >
-            <div style="padding: 0 30px;">
-  <div style="border: 0px solid black; max-width: 80%; margin: 0 auto; padding:  20px 20px 0px 20px; box-sizing: border-box;">
-    <h3 class="mb-4 fw-bold wow fadeInUp" style="text-align: center; font-size: 35px; color: #2c3e50; margin-bottom: 20px;">
-      Empowering Visionaries. Accelerating Growth.
-    </h3>
-    <p style="text-align: left; max-width: 90%; margin: 0 auto; color: #444; line-height: 1.6;">
-      At Impact Nest, we partner with startups and growth-stage companies to unlock their true potential
-      through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch
-      design. Our mission is to provide founders with the clarity, tools, and connections needed to scale with
-      confidence and purpose.<br><br>
-      With deep industry expertise and a founder-first approach, we don't just consult — we co-create. Every
-      business is unique, and so is our approach. We combine sharp analytical thinking with creative execution
-      to ensure your business is investor-ready and growth-aligned.<br><br>
-      Whether you're raising your first round or expanding into new markets, we’re here to guide you through
-      every step of the journey — with insight, precision, and commitment.
-    </p>
-  </div>
-</div>
 
-            </section>
+        
            
            
                 <div>
@@ -237,6 +218,51 @@
                     </p>
                 </div>
     </section> -->
+
+
+    <section style="padding: 60px 20px; background-color: #f8f9fa; font-family: 'Segoe UI', sans-serif;">
+  <div style="
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 40px;
+  ">
+  
+    <!-- Left Image -->
+    <div style="flex: 1 1 300px; text-align: center;">
+      <img src="/image/section/img-section-about-h3.jpg" alt="Empowering Visionaries" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+    </div>
+    
+    <!-- Right Content -->
+    <div style="flex: 1 1 500px; padding: 10px;">
+      <h3 style="font-size: 35px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;">
+        Empowering Visionaries. Accelerating Growth.
+      </h3>
+      <p style="font-size: 16px; color: #444; line-height: 1.7; margin-bottom: 10px;">
+        At Impact Nest, we partner with startups and growth-stage companies to unlock their true potential
+        through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch
+        design. Our mission is to provide founders with the clarity, tools, and connections needed to scale with
+        confidence and purpose.
+      </p>
+      <p style="font-size: 16px; color: #444; line-height: 1.7; margin-bottom: 10px;">
+        With deep industry expertise and a founder-first approach, we don't just consult — we co-create. Every
+        business is unique, and so is our approach. We combine sharp analytical thinking with creative execution
+        to ensure your business is investor-ready and growth-aligned.
+      </p>
+      <p style="font-size: 16px; color: #444; line-height: 1.7;">
+        Whether you're raising your first round or expanding into new markets, we’re here to guide you through
+        every step of the journey — with insight, precision, and commitment.
+      </p>
+    </div>
+  </div>
+</section>
+
+
+
+
+
     <section class="section-about h-2" >
                 <div class="about-inner" style="margin-top:100px">
                     <div class="section-about-left">

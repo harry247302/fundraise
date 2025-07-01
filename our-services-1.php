@@ -610,24 +610,20 @@
 
       
   </div>
-</section>
+<!-- </section>
                       
 <section style="font-family: Arial, sans-serif; background: #f9fafb; padding: 20px 20px; max-width: 1800px; margin: 0 auto; color: #222;">
 
-  <!-- Section Heading -->
   <h2 style="text-align: center; font-size: 36px; margin-bottom: 50px; font-weight: 700;">
     Why Choose Impact Nest for Fundraising?
   </h2>
 
-  <!-- Flex container for left and right sections -->
   <div style="display: flex; flex-wrap: wrap; gap: 50px;">
 
-    <!-- Left Column: Reasons List -->
     <div style="flex: 1 1 45%;  padding: 0 10px;">
      <img  style="border-radius: 16px; display: block; width: 100%;box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);" src="https://media.istockphoto.com/id/1403293820/photo/woman-hand-picked-wooden-cube-block-with-light-bulb-icon-and-question-mark-symbol.jpg?s=612x612&w=0&k=20&c=MmuHWhJrknvEDpPguxZ-qzm0WApT6r_35YdRjf2aQ5k=" alt="">
     </div>
 
-    <!-- Right Column: Tailored Strategies -->
     <div style="flex: 1 1 50%; min-width: 300px; padding: 0 10px;">
       <h3 style="font-size: 28px; font-weight: 700; margin-bottom: 20px; border-bottom: 2px solid #222; padding-bottom: 10px;">
         Tailored Strategies
@@ -641,37 +637,32 @@
         Our approach combines market intelligence, operational insight, and strategic thinking to design actionable plans that fuel measurable outcomes. We don't just advise — we become your thinking partners in scaling smarter.
       </p>
       <ul style="list-style: none; padding-left: 0; margin-top: 10px; color: #444; font-size: 16px; line-height: 1.6;">
-        <!-- Each list item with icon and text -->
+    
         <li style="display: flex; align-items: center; ">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
   <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
 </svg>  
-          <!-- <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i> -->
-          Deep experience across startup and growth stages
+              Deep experience across startup and growth stages
         </li>
         <li style="display: flex; align-items: center;  ">
-          <!-- <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i> -->
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
   <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
 </svg>  
           Strong investor network across sectors
         </li>
         <li style="display: flex; align-items: center; ">
-          <!-- <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i> -->
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
   <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
 </svg>  
           Founder-first approach with hands-on support
         </li>
         <li style="display: flex; align-items: center;">
-          <!-- <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i> -->
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
   <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
 </svg>  
           Transparent, insight-driven processes
         </li>
         <li style="display: flex; align-items: center; ">
-          <!-- <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i> -->
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
   <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
 </svg>  
@@ -682,13 +673,17 @@
 
   </div>
 
-</section>
+</section> -->
 
 <!-- Bootstrap Icons CDN -->
 <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"> -->
 
 
-<section style="font-family: Arial, sans-serif; padding: 60px 20px; width: 95%; box-sizing: border-box;margin:auto">
+
+<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" /> -->
+
+
+<section style="font-family: Arial, sans-serif; padding: 60px 20px; width: 100%; box-sizing: border-box;margin:auto">
 
   <!-- <h2 style="text-align: center; font-size: 36px; color: #000; margin-bottom: 50px;">
    
@@ -704,7 +699,7 @@
             <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
                 <div class="process-top">
                     <div class="icon">
-                       <img src="https://static.vecteezy.com/system/resources/thumbnails/000/350/846/small/Business__2814_29.jpg"  alt="">
+                       <img src="/image/icon/strategy-development_4129547.png"  alt="">
                     </div>
                     <span class="label text-btn-uppercase">Marketing Strategy</span>
                 </div>
@@ -739,7 +734,7 @@
             <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
                 <div class="process-top">
                     <div class="icon">
-                       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKQAwjO97PMvHSnETMv1tOkZjUcN4bsvlsw&s" alt="">
+                       <img src="/image/icon/investment_2300422.png" alt="">
                     </div>
                     <span class="label text-btn-uppercase">Financing Strategy</span>
                 </div>
@@ -774,7 +769,7 @@
             <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
                 <div class="process-top">
                     <div class="icon">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCd_8rmnE1teaKZZkPF5GdrAWEbfMwau0Og&s" alt="">
+                        <img src="/image/icon/improvement_12445193.png" alt="">
                     </div>
                     <span class="label text-btn-uppercase">Business Development Strategy</span>
                 </div>
@@ -812,7 +807,7 @@
             <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
                 <div class="process-top">
                     <div class="icon">
-                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzNKszxRmpEioYsvKqwAuadVadPm575stvA&s" alt="">
+                     <img src="/image/icon/documentation_9746243.png" alt="">
                     </div>
                     <span class="label text-btn-uppercase">Business Documentation Strategy</span>
                 </div>
@@ -854,448 +849,6 @@
 </section>
 
 
-
-<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" /> -->
-
-<section style="
-  background: linear-gradient(rgba(0, 0, 0, 0.27), rgba(0, 0, 0, 0.29)), 
-              url('/image/page-title/iamge-create.jpg') no-repeat center center;
-  background-size: cover;
-  padding: 80px 20px;
-  color: #fff;
-  font-family: 'Segoe UI', sans-serif;
-">
-
-  <!-- Heading -->
-  <div class="text-center mb-5" >
-    <h2 style="font-size: 36px; font-weight: 700; padding-bottom: 12px; display: inline-block;color:white">
-      Financial Modelling & Deck Design
-    </h2>
-    <p class="mt-3" style=" margin: auto; font-size: 17px; color: #ddd; line-height: 1.8;">
-      At Impact Nest, we build powerful, reliable, and investor-ready financial models that bring structure to your growth story. Our models aren’t just spreadsheets — they are strategic tools to project performance and validate value for investors.
-    </p>
-  </div>
-
-  <!-- Content Blocks -->
-  <div class="row gy-4">
-    <!-- What We Offer -->
-    <div class="col-md-6">
-      <div class="p-4 rounded shadow-lg" style="background: rgba(255,255,255,0.08); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.2);">
-        <h4 style="color:white;font-size: 24px; font-weight: 600; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px;">
-          What We Offer
-        </h4>
-        <ul style="color: #eee; font-size: 15px; line-height: 1.7; padding-left: 20px;">
-          <li><strong>Custom Financial Models</strong> –  Tailored models that reflect your unique business model, revenue streams, and cost structures. We go
-          beyond templates to build fully customized tools.</li>
-          <li><strong>Revenue & Cost Forecasting</strong> – Accurate and dynamic forecasts that take into account market conditions, pricing strategies,
-          operational scaling, and product growth.</li>
-          <li><strong>SScenario & Sensitivity Analysis –</strong> We stress-test your assumptions with best-case, base-case, and worst-case outcomes — helping you
-          plan for every possibility.</li>
-          <li><strong>Valuation Support</strong> – We help you estimate fair valuation ranges based on DCF (Discounted Cash Flow), multiples, or industry
-          benchmarks — crucial for investor discussions.</li>
-          <li><strong>Investor-Ready Financials</strong> –Clean, easy-to-understand outputs aligned with investor expectations — including P&L, Balance Sheet,
-          Cash Flow, Cap Table, and Unit Economics.</li>
-          <li><strong>Model Iteration & Review</strong> –We stay with you through pitch revisions, investor feedback, and multiple fundraising rounds — updating
-          your model as your business evolves.</li>
-
-        </ul>
-      </div>
-    </div>
-
-    <!-- Why It Matters -->
-    <div class="col-md-6" style="">
-      <div class="p-4 rounded shadow-lg" style="padding-bottom:200px;background: rgba(255,255,255,0.08); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.2);">
-        <h4 style="color:white;font-size: 24px; font-weight: 600; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px;">
-          Why Financial Modelling Matters
-        </h4>
-        <ul style="color: #eee; font-size: 15px; line-height: 1.7; padding-left: 20px;padding-bottom:152px">
-          <li><strong>Informed Decision-Making</strong> –  Make smarter business and fundraising decisions based on real data and
-          sound projections.</li>
-          <li><strong>Investor Confidence</strong> – Well-structured models build credibility and trust in your numbers.</li>
-          <li><strong>Strategic Planning –</strong> – Align team goals, funding needs, and operational execution to a financial
-          roadmap.</li>
-          <li><strong>Risk Management </strong> – PTest assumptions, identify weak spots, and prepare for market fluctuations.</li>
-          <li><strong>Goal Tracking & KPI Monitoring</strong> – Updates based on pitch rounds and feedback</li>
-          <li><strong>Sensitivity Analysis</strong> – Plan for all scenarios with smart assumptions</li>
-
-        </ul>
-      </div>
-    </div>
-  </div>
-
-</section>
-
-
-
-<section style="font-family: Arial, sans-serif; background: #fff; padding: 60px 40px; width: 100%; box-sizing: border-box; color: #222; margin: 0 auto;">
-
-  <div style="
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: space-between;
-  padding: 60px 20px;
-  max-width: 1200px;
-  margin: 0 auto;
-  font-family: Arial, sans-serif;
-  box-sizing: border-box;
-  gap: 40px;
-">
-
-  <!-- Left Column: Content -->
-  <div style="flex: 1 1 10%;">
-
-    <!-- Intro Text -->
-    <h2 style=" text-align: center;font-size: 36px; font-weight: bold; margin-bottom: 20px; color: #000;">
-      Deck Design
-    </h2>
-    <p style="font-size: 16px; line-height: 1.7; color: #444; margin-bottom: 16px;">
-      At Impact Nest, we craft powerful, investor-ready pitch decks and company profiles that tell your story with clarity, confidence, and impact. Whether you're raising your first round or preparing for Series A, a well-designed deck can be the difference between a missed opportunity and a signed term sheet.
-    </p>
-    <p style="font-size: 16px; line-height: 1.7; color: #444; margin-bottom: 32px;">
-      We combine strategic messaging, compelling design, and market-aligned content to ensure your deck speaks directly to what investors care about — vision, traction, financials, scalability, and the opportunity ahead.
-    </p>
-
-    <!-- What We Offer -->
-    <h3 style="font-size: 24px; margin-bottom: 20px; border-left: 5px solid rgb(0, 0, 0); padding-left: 12px;">
-      What We Offer
-    </h3>
-    <style>
-  .step-tracker {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 24px;
-    /* max-width auto: 2000px; */
-    /* margin: 80px; */
-  }
-  .step-card {
-    flex: 1 1 45%;
-    /* min-width: 10px; */
-    border:0.5px solid rgba(0,0,0,0.08);
-    /* background: linear-gradient(135deg, #e0f7fa, #80deea); */
-    border-radius: 12px;
-    padding: 25px 20px 25px 60px;
-    position: relative;
-    /* box-shadow: 0 8px 20px rgba(0,0,0,0.08); */
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: default;
-  }
-  .step-card:hover {
-    transform: scale(1.05);
-    /* box-shadow: 0 16px 40px rgba(0,0,0,0.15); */
-  }
-  .step-number {
-    position: absolute;
-    left: 20px;
-    color:rgb(94, 94, 94);
-    top: 50%;
-    transform: translateY(-50%);
-    background: white;
-    /* color: white; */
-    font-weight: 700;
-    font-size: 18px;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  }
-  .step-title {
-    font-weight: 700;
-    font-size: 18px;
-    color: #317C6F;
-    margin-bottom: 8px;
-  }
-  .step-desc {
-    font-size: 14px;
-    line-height: 1.6;
-    color: #333;
-  }
-
-  /* Responsive tweak */
-  @media (max-width: 600px) {
-    .step-card {
-      flex: 1 1 100%;
-      padding-left: 50px;
-    }
-  }
-</style>
-
-<div class="step-tracker ">
-  <div class="step-card">
-    <div class="step-number">1</div>
-    <div class="step-title">Narrative Development</div>
-    <div class="step-desc">We help define your story- who you are, the problem you're solving, and why now is the right time. We
-    turn complex ideas into a clear, engaging narrative</div>
-  </div>
-
-  <div class="step-card" >
-    <div class="step-number" >2</div>
-    <div class="step-title">Visual Design & Branding</div>
-    <div class="step-desc">Professional, clean, and modern design that reflects your brand and grabs investor attention. Every slide
-    is visually structured for clarity and flow.</div>
-  </div>
-
-  <div class="step-card" ">
-    <div class="step-number" >3</div>
-    <div class="step-title">Investor-Focused Content</div>
-    <div class="step-desc">We highlight what matters most to investors — market size, traction, business model, financials, and use
-    of funds — in a format they trust.</div>
-  </div>
-
-  <div class="step-card" >
-    <div class="step-number" >4</div>
-    <div class="step-title">Content Strategy & Structuring</div>
-    <div class="step-desc">We organize your deck into a compelling flow: Introduction → Problem → Solution → Market → Business
-    Model → Traction → Team → Financials → Ask.</div>
-  </div>
-
-  <div class="step-card" >
-    <div class="step-number">5</div>
-    <div class="step-title">Iterative Support & Revisions</div>
-    <div class="step-desc">We collaborate closely, incorporating your feedback and aligning the deck with investor inputs and pitch
-    rounds.</div>
-  </div>
-
-  <div class="step-card">
-    <div class="step-number" >6</div>
-    <div class="step-title">Multiple Formats & Versions</div>
-    <div class="step-desc">Presentation-ready decks (for live pitches), email decks (for cold outreach), and one-pagers — tailored
-    for different fundraising scenarios.</div>
-  </div>
-</div>
-
-
-<style>
-  .why-matters-wrapper {
-    max-width: 720px;
-    margin: 60px auto;
-    font-family: Arial, sans-serif;
-    color: #000;
-  }
-
-  .why-matters-header {
-    font-size: 28px;
-    font-weight: 700;
-    margin-bottom: 40px;
-    text-align: center;
-    border-bottom: 3px solid #000;
-    padding-bottom: 12px;
-  }
-
-  .why-matters-list {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-  }
-
-  .why-matters-list li {
-    background: #fff;
-    border: 2px solid #000;
-    border-radius: 8px;
-    padding: 20px 25px;
-    margin-bottom: 30px;
-    max-width: 600px;
-    box-shadow: 2px 2px 6px rgba(0,0,0,0.15);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .why-matters-list li:hover {
-    transform: translateY(-5px);
-    box-shadow: 4px 4px 12px rgba(0,0,0,0.3);
-  }
-
-  .why-matters-list li strong {
-    display: block;
-    font-weight: 700;
-    margin-bottom: 10px;
-    font-size: 1.1rem;
-  }
-
-  /* Alternating left and right alignment */
-  .why-matters-list li:nth-child(odd) {
-    margin-left: 0;
-    margin-right: auto;
-    text-align: left;
-  }
-
-  .why-matters-list li:nth-child(even) {
-    margin-left: auto;
-    margin-right: 0;
-    text-align: left; /* Keep text left-aligned */
-  }
-
-  /* Responsive fallback */
-  @media (max-width: 700px) {
-    .why-matters-list li {
-      max-width: 100%;
-      margin-left: 0 !important;
-      margin-right: 0 !important;
-    }
-  }
-
-
-</style>
-
-
-<div class="tf-container" style="margin-top:100px">
-                    <div class="row">
-                        <div class="col-14">
-                            <div class="heading-section style-2 mb-40">
-                                <div class="left">
-                                   
-                                    <h3 class="title-section text-anime-wave" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1;">
-                                    Why a Strong Deck Matters
-                                    </h3>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row rg-50">
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="process-item step-hover active">
-                                <div class="process-top wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                    <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                        <!-- <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_9360_10043)">
-                                                <path d="M6.30025 27.2812C5.51922 23.0656 6.26859 18.7096 8.41349 14.9972C10.5584 11.2849 13.9579 8.46011 18.0002 7.03125V20.5312L6.30025 27.2812Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M24 24.0787V6C27.1537 6.00047 30.2519 6.82949 32.9843 8.40405C35.7168 9.9786 37.9876 12.2434 39.5694 14.9717C41.1512 17.7 41.9884 20.796 41.9972 23.9496C42.0061 27.1033 41.1862 30.2039 39.6197 32.941C38.0532 35.6781 35.7951 37.9556 33.0715 39.5454C30.3479 41.1352 27.2544 41.9816 24.1008 41.9997C20.9472 42.0178 17.8442 41.2071 15.1025 39.6487C12.3608 38.0903 10.0766 35.8389 8.47876 33.12L24 24.0787Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                            </g>
-                                            <defs>
-                                                <clipPath id="clip0_9360_10043">
-                                                    <rect width="48" height="48" fill="white"></rect>
-                                                </clipPath>
-                                            </defs>
-                                        </svg> -->
-                                    </div>
-                                    <span class="label text-btn-uppercase wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">First Impressions Count
-                                    </span>
-                                </div>
-                                <div class="process-content">
-                                    <!-- <h5 class="wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                        <a href="#" class="name-process">First Impressions Count
-                                        </a>
-                                    </h5> -->
-                                    <div class="desc wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                    Investors often make decisions based on the first 5 slides.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="process-item step-hover active">
-                                <div class="process-top wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                    <div class="icon wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        <!-- <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_9360_10053)">
-                                                <path d="M24 43.5V37.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M24 40.5C33.1127 40.5 40.5 33.1127 40.5 24C40.5 14.8873 33.1127 7.5 24 7.5C14.8873 7.5 7.5 14.8873 7.5 24C7.5 33.1127 14.8873 40.5 24 40.5Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M24 4.5V10.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M4.5 24H10.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M43.5 24H37.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M24 30C27.3137 30 30 27.3137 30 24C30 20.6863 27.3137 18 24 18C20.6863 18 18 20.6863 18 24C18 27.3137 20.6863 30 24 30Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                            </g>
-                                            <defs>
-                                                <clipPath id="clip0_9360_10053">
-                                                    <rect width="48" height="48" fill="white"></rect>
-                                                </clipPath>
-                                            </defs>
-                                        </svg> -->
-                                    </div>
-                                    <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">Tells Your Story Effectively</span>
-                                </div>
-                                <div class="process-content">
-                                    <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        <a href="#" class="name-process">Tells Your Story Effectively</a>
-                                    </h5> -->
-                                    <div class="desc wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                    A great deck simplifies and elevates your message.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="process-item step-hover active">
-                                <div class="process-top wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                    <div class="icon wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                        <!-- <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_9360_10067)">
-                                                <path d="M42 39H6V9" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M37.5 13.5L24 27L18 21L6 33" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M37.5 21V13.5H30" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                            </g>
-                                            <defs>
-                                                <clipPath id="clip0_9360_10067">
-                                                    <rect width="48" height="48" fill="white"></rect>
-                                                </clipPath>
-                                            </defs>
-                                        </svg> -->
-                                    </div>
-                                    <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Builds Investor Confidence</span>
-                                </div>
-                                <div class="process-content">
-                                    <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                        <a href="#" class="name-process">Builds Investor Confidence</a>
-                                    </h5> -->
-                                    <div class="desc wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                    Professionally presented data and visuals create credibility.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="process-item step-hover">
-                                <div class="process-top wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                    <div class="icon wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                        <!-- <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_9360_10078)">
-                                                <path d="M40.5 21V10.5C40.5 10.1022 40.342 9.72064 40.0607 9.43934C39.7794 9.15804 39.3978 9 39 9H9C8.60218 9 8.22064 9.15804 7.93934 9.43934C7.65804 9.72064 7.5 10.1022 7.5 10.5V21C7.5 39 24 43.5 24 43.5C24 43.5 40.5 39 40.5 21Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M16.5 25.5L21 30L31.5 19.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                            </g>
-                                            <defs>
-                                                <clipPath id="clip0_9360_10078">
-                                                    <rect width="48" height="48" fill="white"></rect>
-                                                </clipPath>
-                                            </defs>
-                                        </svg> -->
-                                    </div>
-                                    <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">Drives Action</span>
-                                </div>
-                                <div class="process-content">
-                                    <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                        <a href="#" class="name-process">Drives Action</a>
-                                    </h5> -->
-                                    <div class="desc wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                    A well-structured deck leads to more meetings, better conversations, and faster funding.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-  </div>
-
-  <!-- Right Column: Image -->
-  <!-- <div style="flex: 1 1 35%; min-width: 300px; text-align: center;">
-    <img 
-      src="https://www.shutterstock.com/image-photo/luxury-outdoor-deck-fire-pit-600nw-2417041719.jpg" 
-      alt="Deck Design Illustration" 
-      style="width: 100%; max-width: 500px; border-radius: 10px; object-fit: cover;"
-    />
-  </div> -->
-
-</div>
-
-
-
-  </div>
-
-</section>
 
 
                         </div>

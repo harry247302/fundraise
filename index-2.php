@@ -1535,49 +1535,7 @@
                 </div>
             </section><!-- /.section-awards -->
 
-            <!-- Section-cta -->
-            <section class="section-cta h-1 tf-spacing-3">
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="cta-inner">
-                                <div class="image tf-animate-1">
-                                    <img src="image/section/img-cta-1.png" data-src="image/section/img-cta-1.png" alt="" class="lazyload">
-                                </div>
-                                <div class="cta-content">
-                                    <div class="heading-section style-color-white mb-0">
-                                        <a href="#" class="tag label text-btn-uppercase bg-white wow fadeInUp">Contact US</a>
-                                        <h3 class="title-section wow fadeInUp mb-12">
-                                            Get in Touch with Us
-                                        </h3>
-                                        <div class="sub-title mb-28 body-2 wow fadeInUp">
-                                            Reach out today to discuss how we can support your business goals. Our team is ready to provide answers, offer solutions, and start your journey toward success.
-                                        </div>
-                                        <div class="bottom">
-                                            <a href="contact-us.php" class="tf-btn style-1 bg-white wow fadeInUp">
-                                                <span>Schedule a Consultation</span>
-                                            </a>
-                                            <div class="tf-phone no-border color-white g-14">
-                                                <a href="#" class="icon wow fadeInUp">
-                                                    <i class="icon-PhoneCall"></i>
-                                                </a>
-                                                <div class="content wow fadeInUp">
-                                                    <p class="caption-2 mb-2">
-                                                        Have any Question?
-                                                    </p>
-                                                    <h6>
-                                                        <a href="#">1-555-678-8888</a>
-                                                    </h6>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section><!-- /.section-cta -->
+          
 
 
         </div><!-- /.main-content -->
