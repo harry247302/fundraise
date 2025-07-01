@@ -998,7 +998,7 @@
                                             </div>
                                             <div class="item-content">
                                                 <div class="text">
-                                                    Our strategies have driven revenue growth by an average of 25% year-over-year for our clients.
+                                                Our strategies have consistently driven revenue growth by an average of over 25% year-over-year for our clients across diverse industries.
                                                 </div>
                                                 <div class="info-user">
                                                     <div class="image">

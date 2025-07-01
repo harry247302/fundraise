@@ -69,7 +69,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                     <div class="page-title-inner" style="
-    background: url('/image/page-title/page-title-5.jpg') center center / cover no-repeat;
+    background: url('image/page-title/page-title-5.jpg') center center / cover no-repeat;
     width: 100%;
     height: 700px;
     position: relative;
@@ -113,7 +113,7 @@
                     </div>
                     <div class="swiper-slide">
     <div class="page-title-inner" style="
-        background: url('/image/page-title/page-title-home--1.jpg') center center / cover no-repeat;
+        background: url('image/page-title/page-title-home--1.jpg') center center / cover no-repeat;
         width: 100%;
         height: 700px;
         position: relative;
@@ -157,7 +157,7 @@
 </div>
 <div class="swiper-slide">
     <div class="page-title-inner" style="
-        background: url('/image/page-title/page-title-home-2.jpg') center center / cover no-repeat;
+        background: url('image/page-title/page-title-home-2.jpg') center center / cover no-repeat;
         width: 100%;
         height: 700px;
         position: relative;
