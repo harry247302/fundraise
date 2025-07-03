@@ -141,268 +141,6 @@
             </div>
         </div><!-- /.top-bar -->
 
-        <!-- Header -->
-        <!-- <header class="header style-1 style-absolute header-sticky" id="header">
-            <div class="tf-container w-1870">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="header-content">
-                            <div class="header-left">
-                                <div class="logo">
-                                    <a href="index-2.php">
-                                        <img src="image/logo/logo.svg" alt="">
-                                    </a>
-                                </div>
-                                <nav class="main-menu">
-                                    <ul class="menu-primary-menu">
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="javascript:void(0)" class="item-link">Home </a>
-                                            <div class="sub-menu-home">
-                                                <ul>
-                                                    <li class="item">
-                                                        <div>
-                                                            <div class="image">
-                                                                <a class="img-home" href="index-2.php">
-                                                                    <img src="image/sub-menu-home/sub-menu-h1.jpg" data-src="image/sub-menu-home/sub-menu-h1.jpg" class="lazyload" alt="">
-                                                                </a>
-                                                                <div class="list-btn">
-                                                                    <a class="page-btn" href="index-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="index-2.php">Multi page</a>
-                                                                </div>
-                                                            </div>
-                                                            <h6 class="name-home">Financial Planning</h6>
-                                                        </div>
-                                                    </li>
-                                                    <li class="item">
-                                                        <div>
-                                                            <div class="image">
-                                                                <a class="img-home" href="consulting-agency.php">
-                                                                    <img src="image/sub-menu-home/sub-menu-h2.jpg" data-src="image/sub-menu-home/sub-menu-h2.jpg" class="lazyload" alt="">
-                                                                </a>
-                                                                <div class="list-btn">
-                                                                    <a class="page-btn" href="consulting-agency-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="consulting-agency.php">Multi page</a>
-                                                                </div>
-                                                            </div>
-                                                            <h6 class="name-home">Consulting Agency</h6>
-                                                        </div>
-                                                    </li>
-                                                    <li class="item">
-                                                        <div>
-                                                            <div class="image">
-                                                                <a class="img-home" href="strategy-consulting.php">
-                                                                    <img src="image/sub-menu-home/sub-menu-h3.jpg" data-src="image/sub-menu-home/sub-menu-h3.jpg" class="lazyload" alt="">
-                                                                </a>
-                                                                <div class="list-btn">
-                                                                    <a class="page-btn" href="strategy-consulting-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="strategy-consulting.php">Multi page</a>
-                                                                </div>
-                                                            </div>
-                                                            <h6 class="name-home">Strategy Consulting</h6>
-                                                        </div>
-                                                    </li>
-                                                    <li class="item">
-                                                        <div>
-                                                            <div class="image">
-                                                                <a class="img-home" href="digital-transformation.php">
-                                                                    <img src="image/sub-menu-home/sub-menu-h4.jpg" data-src="image/sub-menu-home/sub-menu-h4.jpg" class="lazyload" alt="">
-                                                                </a>
-                                                                <div class="list-btn">
-                                                                    <a class="page-btn" href="digital-transformation-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="digital-transformation.php">Multi page</a>
-                                                                </div>
-                                                            </div>
-                                                            <h6 class="name-home">Digital Transformation</h6>
-                                                        </div>
-                                                    </li>
-                                                    <li class="item">
-                                                        <div>
-                                                            <div class="image">
-                                                                <a class="img-home" href="marketing-consulting.php">
-                                                                    <img src="image/sub-menu-home/sub-menu-h5.jpg" data-src="image/sub-menu-home/sub-menu-h5.jpg" class="lazyload" alt="">
-                                                                </a>
-                                                                <div class="list-btn">
-                                                                    <a class="page-btn" href="marketing-consulting-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="marketing-consulting.php">Multi page</a>
-                                                                </div>
-                                                            </div>
-                                                            <h6 class="name-home">Marketing Consulting</h6>
-                                                        </div>
-                                                    </li>
-                                                    <li class="item">
-                                                        <div>
-                                                            <div class="image">
-                                                                <a class="img-home" href="insurance-consultancy.php">
-                                                                    <img src="image/sub-menu-home/sub-menu-h6.jpg" data-src="image/sub-menu-home/sub-menu-h6.jpg" class="lazyload" alt="">
-                                                                </a>
-                                                                <div class="list-btn">
-                                                                    <a class="page-btn" href="insurance-consultancy-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="insurance-consultancy.php">Multi page</a>
-                                                                </div>
-                                                            </div>
-                                                            <h6 class="name-home">Insurance Consultancy</h6>
-                                                        </div>
-                                                    </li>
-                                                    <li class="item">
-                                                        <div>
-                                                            <div class="image">
-                                                                <a class="img-home" href="tax-advisory.php">
-                                                                    <img src="image/sub-menu-home/sub-menu-h7.jpg" data-src="image/sub-menu-home/sub-menu-h7.jpg" class="lazyload" alt="">
-                                                                </a>
-                                                                <div class="list-btn">
-                                                                    <a class="page-btn" href="tax-advisory-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="tax-advisory.php">Multi page</a>
-                                                                </div>
-                                                            </div>
-                                                            <h6 class="name-home">Tax Advisory</h6>
-                                                        </div>
-                                                    </li>
-                                                    <li class="item">
-                                                        <div>
-                                                            <div class="image">
-                                                                <a class="img-home" href="it-consulting.php">
-                                                                    <img src="image/sub-menu-home/sub-menu-h8.jpg" data-src="image/sub-menu-home/sub-menu-h8.jpg" class="lazyload" alt="">
-                                                                </a>
-                                                                <div class="list-btn">
-                                                                    <a class="page-btn" href="it-consulting-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="it-consulting.php">Multi page</a>
-                                                                </div>
-                                                            </div>
-                                                            <h6 class="name-home">It Consulting</h6>
-                                                        </div>
-                                                    </li>
-                                                    <li class="item">
-                                                        <div>
-                                                            <div class="image">
-                                                                <a class="img-home" href="home-LTR.php">
-                                                                    <img src="image/sub-menu-home/sub-menu-hLTR.jpg" data-src="image/sub-menu-home/sub-menu-hLTR.jpg" class="lazyload" alt="">
-                                                                </a>
-                                                                <div class="list-btn">
-                                                                    <a class="page-btn" href="home-LTR-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="home-LTR.php">Multi page</a>
-                                                                </div>
-                                                            </div>
-                                                            <h6 class="name-home">Home LTR</h6>
-                                                        </div>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children position-relative current-menu-item">
-                                            <a href="javascript:void(0)" class="item-link">Services</a>
-                                            <ul class="sub-menu">
-                                                <li class="sub-menu-item current-item"><a href="our-services-1.php" class="item-link-2">Our Services 1</a></li>
-                                                <li class="sub-menu-item"><a href="our-services-2.php" class="item-link-2">Our Services 2</a></li>
-                                                <li class="sub-menu-item"><a href="services-details-1.php" class="item-link-2">Services Details 1</a></li>
-                                                <li class="sub-menu-item"><a href="services-details-2.php" class="item-link-2">Services Details 2</a></li>
-                                                <li class="sub-menu-item"><a href="services-details-3.php" class="item-link-2">Services Details 3</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children position-relative">
-                                            <a href="javascript:void(0)" class="item-link">Case</a>
-                                            <ul class="sub-menu">
-                                                <li class="sub-menu-item"><a href="case-studies-1.php" class="item-link-2">Case Studies 1</a></li>
-                                                <li class="sub-menu-item"><a href="case-studies-2.php" class="item-link-2">Case Studies 2</a></li>
-                                                <li class="sub-menu-item"><a href="case-studies-details.php" class="item-link-2">Case Studies Details</a></li>
-
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children position-relative">
-                                            <a href="javascript:void(0)" class="item-link">Pages </a>
-                                            <ul class="sub-menu">
-                                                <li class="sub-menu-item"><a href="about-us.php" class="item-link-2">About Us</a></li>
-                                                <li class="sub-menu-item"><a href="our-teams.php" class="item-link-2">Our Teams</a></li>
-                                                <li class="sub-menu-item"><a href="industries.php" class="item-link-2">Industries</a></li>
-                                                <li class="sub-menu-item"><a href="pricing.php" class="item-link-2">Pricing</a></li>
-                                                <li class="sub-menu-item"><a href="testimonials.php" class="item-link-2">Testimonials</a></li>
-                                                <li class="sub-menu-item"><a href="gallery.php" class="item-link-2">Gallery</a></li>
-                                                <li class="sub-menu-item"><a href="faq.php" class="item-link-2">Faq</a>
-                                                </li>
-                                                <li class="sub-menu-item"><a href="career.php" class="item-link-2">Career</a></li>
-                                                <li class="sub-menu-item"><a href="coming-soon.php" class="item-link-2">Coming Soon</a></li>
-                                                <li class="sub-menu-item"><a href="404.php" class="item-link-2">404 Error</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children position-relative">
-                                            <a href="javascript:void(0)" class="item-link">Our Store </a>
-                                            <ul class="sub-menu">
-                                                <li class="sub-menu-item"><a href="products.php" class="item-link-2">Products</a></li>
-                                                <li class="sub-menu-item"><a href="products-details.php" class="item-link-2">Product Details</a></li>
-                                                <li class="sub-menu-item"><a href="shopping-cart.php" class="item-link-2">Shopping Cart</a></li>
-                                                <li class="sub-menu-item"><a href="check-out.php" class="item-link-2">Check Out</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children position-relative">
-                                            <a href="javascript:void(0)" class="item-link">Blog </a>
-                                            <ul class="sub-menu">
-                                                <li class="sub-menu-item"><a href="blog-right-sidebar.php" class="item-link-2">Blog Right Sidebar</a></li>
-                                                <li class="sub-menu-item"><a href="blog-left-sidebar.php" class="item-link-2">Blog Left Sidebar</a></li>
-                                                <li class="sub-menu-item"><a href="blog-no-sidebar.php" class="item-link-2">Blog No Sidebarr</a></li>
-                                                <li class="sub-menu-item"><a href="blog-details-1.php" class="item-link-2">Blog Details 1</a></li>
-                                                <li class="sub-menu-item"><a href="blog-details-2.php" class="item-link-2">Blog Details 2</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="contact-us.php" class="item-link">Contact</a>
-                                        </li>
-                                    </ul>
-                                </nav>
-                            </div>
-                            <div class="header-right">
-                                <div class="nav-btn">
-                                    <a href="#" class="tf-btn bg-white style-1">
-                                        <span>Schedule A Consultation</span>
-                                    </a>
-                                </div>
-                                <div class="nav-icon">
-                                    <div class="nav-search">
-                                        <a class="search-btn">
-                                            <i class="icon-MagnifyingGlass"></i>
-                                        </a>
-                                    </div>
-                                    <div class="nav-cart">
-                                        <a href="#canvnasQuickview" data-bs-toggle="offcanvas">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
-                                                <g clip-path="url(#clip0_393_8)">
-                                                    <path d="M21.0547 5.13965H4.55469C4.14047 5.13965 3.80469 5.47543 3.80469 5.88965V19.3896C3.80469 19.8039 4.14047 20.1396 4.55469 20.1396H21.0547C21.4689 20.1396 21.8047 19.8039 21.8047 19.3896V5.88965C21.8047 5.47543 21.4689 5.13965 21.0547 5.13965Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    <path d="M3.80469 8.13965H21.8047" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                    <path d="M16.5547 11.1396C16.5547 12.1342 16.1596 13.088 15.4563 13.7913C14.7531 14.4946 13.7992 14.8896 12.8047 14.8896C11.8101 14.8896 10.8563 14.4946 10.153 13.7913C9.44978 13.088 9.05469 12.1342 9.05469 11.1396" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                </g>
-                                                <defs>
-                                                    <clipPath id="clip0_393_8">
-                                                        <rect width="24" height="24" fill="white" transform="translate(0.804688 0.639648)" />
-                                                    </clipPath>
-                                                </defs>
-                                            </svg>
-                                            <span class="number label">2</span>
-                                        </a>
-                                    </div>
-                                    <div class="canvas-btn">
-                                        <a href="#canvnasMegamenu" data-bs-toggle="offcanvas">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-                                                <path d="M4 6H20.5" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                <path d="M4 12H16" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                                <path d="M4 18L17.9647 18" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            </svg>
-                                        </a>
-                                    </div>
-                                    <div class="mobile-button">
-                                        <a href="#canvasMobile" data-bs-toggle="offcanvas">
-                                            <span></span>
-                                            <span></span>
-                                            <span></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header> -->
-        <!-- /.header -->
-
-        <!-- Page-title -->
         <div class="page-title style-1 bg-img-5">
             <div class="tf-container">
                 <div class="page-title-content">
@@ -444,6 +182,11 @@
                         <div class="col-12">
                         <section style=" padding: 100px 50px; font-family: Arial, sans-serif;">
   <div style=" margin: 0 auto;">
+  
+
+
+
+
   <div class="row">
   <h2 style="text-align: center; font-size: 46px; color: #222; margin-bottom: 60px;  font-weight: 700;">
       What We Offer
@@ -602,252 +345,7 @@
                         </div>
                     </div>
 
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-
-     
-
-      
-
-      
-  </div>
-<!-- </section>
-                      
-<section style="font-family: Arial, sans-serif; background: #f9fafb; padding: 20px 20px; max-width: 1800px; margin: 0 auto; color: #222;">
-
-  <h2 style="text-align: center; font-size: 36px; margin-bottom: 50px; font-weight: 700;">
-    Why Choose Impact Nest for Fundraising?
-  </h2>
-
-  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
-
-    <div style="flex: 1 1 45%;  padding: 0 10px;">
-     <img  style="border-radius: 16px; display: block; width: 100%;box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);" src="https://media.istockphoto.com/id/1403293820/photo/woman-hand-picked-wooden-cube-block-with-light-bulb-icon-and-question-mark-symbol.jpg?s=612x612&w=0&k=20&c=MmuHWhJrknvEDpPguxZ-qzm0WApT6r_35YdRjf2aQ5k=" alt="">
-    </div>
-
-    <div style="flex: 1 1 50%; min-width: 300px; padding: 0 10px;">
-      <h3 style="font-size: 28px; font-weight: 700; margin-bottom: 20px; border-bottom: 2px solid #222; padding-bottom: 10px;">
-        Tailored Strategies
-      </h3>
-
-      <p style="font-size: 16px; color: #555; line-height: 1.6; text-align: justify; margin-bottom: 20px;">
-        At Impact Nest, we believe that no two businesses are alike — and neither should their growth plans be. That’s why we create <strong>Tailored Strategies</strong> — personalized, data-driven plans that align with your unique vision, industry landscape, and growth stage. Whether you’re launching a new venture, entering a new market, or preparing to raise capital, we help you move forward with clarity, confidence, and direction.
-      </p>
-
-      <p style="font-size: 16px; color: #555; line-height: 1.6; text-align: justify;">
-        Our approach combines market intelligence, operational insight, and strategic thinking to design actionable plans that fuel measurable outcomes. We don't just advise — we become your thinking partners in scaling smarter.
-      </p>
-      <ul style="list-style: none; padding-left: 0; margin-top: 10px; color: #444; font-size: 16px; line-height: 1.6;">
-    
-        <li style="display: flex; align-items: center; ">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-              Deep experience across startup and growth stages
-        </li>
-        <li style="display: flex; align-items: center;  ">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          Strong investor network across sectors
-        </li>
-        <li style="display: flex; align-items: center; ">
-           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          Founder-first approach with hands-on support
-        </li>
-        <li style="display: flex; align-items: center;">
-           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          Transparent, insight-driven processes
-        </li>
-        <li style="display: flex; align-items: center; ">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          Proven results across multiple successful fundraises
-        </li>
-      </ul>
-    </div>
-
-  </div>
-
-</section> -->
-
-<!-- Bootstrap Icons CDN -->
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"> -->
-
-
-
-<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" /> -->
-
-
-<section style="font-family: Arial, sans-serif; padding: 60px 20px; width: 100%; box-sizing: border-box;margin:auto">
-
-  <!-- <h2 style="text-align: center; font-size: 36px; color: #000; margin-bottom: 50px;">
-   
-  </h2> -->
-  <div class="tf-contaier  position-relative">
-    <div class="row rg-30">
-    <h2 style="text-align: center; font-size: 36px; margin-bottom: 20px; font-weight: 700;">
-  Our Strategic Focus Areas
-  </h2>
-
-        <div class="col-md-3 " >
-            
-            <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
-                <div class="process-top">
-                    <div class="icon">
-                       <img src="../image/icon/strategy-development_4129547.png"  alt="">
-                    </div>
-                    <span class="label text-btn-uppercase">Marketing Strategy</span>
-                </div>
-                <div class="process-content">
-                    <h5>
-                        <a href="#" class="name-process">We help you reach the right audience with the right message at the right time.</a>
-                    </h5>
-                    <div class="desc">
-                    Our services include:
-                    </div>
-                    <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
-        <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Go-to-market (GTM) planning</li>
-        <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Brand positioning &amp; messaging frameworks</li>
-        <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Digital &amp; content marketing strategy</li>
-        <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Target audience profiling &amp; channel selection</li>
-        <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Lead generation and funnel design</li>
-      </ul>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3">
-            <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
-                <div class="process-top">
-                    <div class="icon">
-                       <img src="../image/icon/investment_2300422.png" alt="">
-                    </div>
-                    <span class="label text-btn-uppercase">Financing Strategy</span>
-                </div>
-                <div class="process-content">
-                    <h5>
-                        <a href="#" class="name-process">We prepare you for capital efficiency and investor readiness.</a>
-                    </h5>
-                    <div class="desc">
-                    Our services include:
-                    </div>
-                    <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Fundraising roadmaps and capital planning</li>
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Valuation support and cap table advisory</li>
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Financial structuring (equity, debt)</li>
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Financial modelling aligned with funding milestones</li>
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Scenario planning and runway analysis</li>
-      </ul>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3">
-            <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
-                <div class="process-top">
-                    <div class="icon">
-                        <img src="../image/icon/improvement_12445193.png" alt="">
-                    </div>
-                    <span class="label text-btn-uppercase">Business Development Strategy</span>
-                </div>
-                <div class="process-content">
-                    <h5>
-                        <a href="#" class="name-process">We help unlock new revenue streams and partnerships.</a>
-                    </h5>
-                    <div class="desc">
-                    Our services include:
-
-                    </div>
-                            <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
-                                    <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Sales strategy and market entry plans</li>
-                                    <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Strategic partnerships and channel development</li>
-                                    <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Product-market fit refinement</li>
-                                    <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Pricing and revenue model optimization</li>
-                                    <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Client onboarding and retention planning</li>
-                                </ul>
-                </div>
-                
-            </div>
-        </div>
-        
-        <div class="col-md-3">
-            <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
-                <div class="process-top">
-                    <div class="icon">
-                     <img src="../image/icon/documentation_9746243.png" alt="">
-                    </div>
-                    <span class="label text-btn-uppercase">Business Documentation Strategy</span>
-                </div>
-                <div class="process-content">
-                    <h5>
-                        <a href="#" class="name-process">    We create the critical documents needed to build trust and close deals.
-                        </a>
-                    </h5>
-                    <div class="desc">
-                
-                    Our services include:
-                    </div>
-                    <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Pitch decks and investor presentations</li>
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Business plans and executive summaries</li>
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Financial projections and use-of-funds documentation</li>
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Company profiles and service brochures</li>
-        <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                            </svg> Internal SOPs and operational playbooks</li>
-      </ul>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-</section>
-
+ 
 
 
 
@@ -857,7 +355,13 @@
             </section><!-- /.section-services -->
 
             <!-- Section-process -->
-            <section class="section-process h-2 tf-spacing-31 hover-active-step">
+            
+<section style="font-family: Arial, sans-serif; padding: 60px 20px; width: 100%; box-sizing: border-box;margin:auto">
+
+
+  <!-- ***************************************************** -->
+
+  <section class="section-process h-2 tf-spacing-31 hover-active-step" style="margin-top:100px">
                 <div class="tf-container position-relative">
                     <div class="row">
                         <div class="col-12">
@@ -944,164 +448,172 @@
                 </div>
             </section><!-- /.section-process -->
 
+            
+
+<!-- ******************************************************** -->
+
+<div class="tf-contaier  position-relative">
+  <div class="row rg-30">
+  <h2 style="text-align: center; font-size: 36px; margin-bottom: 20px; font-weight: 700;">
+Our Strategic Focus Areas
+</h2>
+
+      <div class="col-md-3 " >
+          
+          <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
+              <div class="process-top">
+                  <div class="icon">
+                     <img src="../image/icon/strategy-development_4129547.png"  alt="">
+                  </div>
+                  <span class="label text-btn-uppercase">Marketing Strategy</span>
+              </div>
+              <div class="process-content">
+                  <h5>
+                      <a href="#" class="name-process">We help you reach the right audience with the right message at the right time.</a>
+                  </h5>
+                  <div class="desc">
+                  Our services include:
+                  </div>
+                  <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
+      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  Go-to-market (GTM) planning</li>
+      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  Brand positioning &amp; messaging frameworks</li>
+      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  Digital &amp; content marketing strategy</li>
+      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  Target audience profiling &amp; channel selection</li>
+      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  Lead generation and funnel design</li>
+    </ul>
+              </div>
+          </div>
+      </div>
+      <div class="col-md-3">
+          <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
+              <div class="process-top">
+                  <div class="icon">
+                     <img src="../image/icon/investment_2300422.png" alt="">
+                  </div>
+                  <span class="label text-btn-uppercase">Financing Strategy</span>
+              </div>
+              <div class="process-content">
+                  <h5>
+                      <a href="#" class="name-process">We prepare you for capital efficiency and investor readiness.</a>
+                  </h5>
+                  <div class="desc">
+                  Our services include:
+                  </div>
+                  <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg> Fundraising roadmaps and capital planning</li>
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg> Valuation support and cap table advisory</li>
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg> Financial structuring (equity, debt)</li>
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg> Financial modelling aligned with funding milestones</li>
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg> Scenario planning and runway analysis</li>
+    </ul>
+              </div>
+          </div>
+      </div>
+      <div class="col-md-3">
+          <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
+              <div class="process-top">
+                  <div class="icon">
+                      <img src="../image/icon/improvement_12445193.png" alt="">
+                  </div>
+                  <span class="label text-btn-uppercase">Business Development Strategy</span>
+              </div>
+              <div class="process-content">
+                  <h5>
+                      <a href="#" class="name-process">We help unlock new revenue streams and partnerships.</a>
+                  </h5>
+                  <div class="desc">
+                  Our services include:
+
+                  </div>
+                          <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
+                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Sales strategy and market entry plans</li>
+                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Strategic partnerships and channel development</li>
+                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Product-market fit refinement</li>
+                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Pricing and revenue model optimization</li>
+                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Client onboarding and retention planning</li>
+                              </ul>
+              </div>
+              
+          </div>
+      </div>
+      
+      <div class="col-md-3">
+          <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
+              <div class="process-top">
+                  <div class="icon">
+                   <img src="../image/icon/documentation_9746243.png" alt="">
+                  </div>
+                  <span class="label text-btn-uppercase">Business Documentation Strategy</span>
+              </div>
+              <div class="process-content">
+                  <h5>
+                      <a href="#" class="name-process">    We create the critical documents needed to build trust and close deals.
+                      </a>
+                  </h5>
+                  <div class="desc">
+              
+                  Our services include:
+                  </div>
+                  <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Pitch decks and investor presentations</li>
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Business plans and executive summaries</li>
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Financial projections and use-of-funds documentation</li>
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Company profiles and service brochures</li>
+      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                          </svg> Internal SOPs and operational playbooks</li>
+    </ul>
+              </div>
+              
+          </div>
+      </div>
+  </div>
+</div>
+
+
+
+</section>
+
             <!-- Section-testimonials -->
-            <section class="section-testimonials h-3 tf-spacing-2">
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="heading-section style-2">
-                                <div class="left">
-                                    <div class="text-anime-wave">
-                                        <a href="#" class="tag label text-btn-uppercase">Testimonials</a>
-                                    </div>
-                                    <h3 class="title-section mb-12 text-anime-wave">
-                                        What is Clients say?
-                                    </h3>
-                                    <div class="sub-title body-2 text-anime-wave">
-                                        See the impact of our solutions through clear, measurable results.
-                                    </div>
-                                </div>
-                                <div class="text-anime-wave-2">
-                                    <a href="#" class="tf-btn style-1 bg-on-suface-container">
-                                        <span>
-                                            Read All Testimonials
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="sw-case-studies swiper sw-layout" data-preview="3" data-tablet="2" data-mobile-sm="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="10">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-item">
-                                            <div class="testimonial-top">
-                                                <div class="counter-item">
-                                                    <div class="counter">
-                                                        <div class="number-counter">
-                                                            <h4 class="number odometer color-primary" data-to="25" data-inviewport="yes">
-                                                                0
-                                                            </h4>
-                                                            <h4 class="plus color-primary">
-                                                                %
-                                                            </h4>
-                                                        </div>
-                                                        <h5 class="text">
-                                                            Revenue Growth
-                                                        </h5>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="item-content">
-                                                <div class="text">
-                                                Our strategies have consistently driven revenue growth by an average of over 25% year-over-year for our clients across diverse industries.
-                                                </div>
-                                                <div class="info-user">
-                                                    <div class="image">
-                                                        <img src="image/avatar/avt-4.jpg" data-src="image/avatar/avt-4.jpg" alt="" class="lazyload">
-                                                    </div>
-                                                    <div class="info-content">
-                                                        <a href="#" class="name text-btn">
-                                                            Alex Johnson
-                                                        </a>
-                                                        <div class="position-user caption-1">
-                                                            CEO of Innovate Inc
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-item">
-                                            <div class="testimonial-top">
-                                                <div class="counter-item">
-                                                    <div class="counter">
-                                                        <div class="number-counter">
-                                                            <h4 class="number odometer color-primary" data-to="15" data-inviewport="yes">
-                                                                0
-                                                            </h4>
-                                                            <h4 class="plus color-primary">
-                                                                %
-                                                            </h4>
-                                                        </div>
-                                                        <h5 class="text">
-                                                            Cost Reduction
-                                                        </h5>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="item-content">
-                                                <div class="text">
-                                                    Clients have reported a 15% reduction in operational costs through our performance improvement initiatives
-                                                </div>
-                                                <div class="info-user">
-                                                    <div class="image">
-                                                        <img src="image/avatar/avt-5.jpg" data-src="image/avatar/avt-5.jpg" alt="" class="lazyload">
-                                                    </div>
-                                                    <div class="info-content">
-                                                        <a href="#" class="name text-btn">
-                                                            Jamie Smith
-                                                        </a>
-                                                        <div class="position-user caption-1">
-                                                            Director of Operations at Growth Enterprises
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-item">
-                                            <div class="testimonial-top">
-                                                <div class="counter-item">
-                                                    <div class="counter">
-                                                        <div class="number-counter">
-                                                            <h4 class="number odometer color-primary" data-to="40" data-inviewport="yes">
-                                                                0
-                                                            </h4>
-                                                            <h4 class="plus color-primary">
-                                                                %
-                                                            </h4>
-                                                        </div>
-                                                        <h5 class="text">
-                                                            Customer Satisfaction Boost
-                                                        </h5>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="item-content">
-                                                <div class="text">
-                                                    Implementing our recommendations led to a 40% increase in customer satisfaction scores across various sectors.
-                                                </div>
-                                                <div class="info-user">
-                                                    <div class="image">
-                                                        <img src="image/avatar/avt-6.jpg" data-src="image/avatar/avt-6.jpg" alt="" class="lazyload">
-                                                    </div>
-                                                    <div class="info-content">
-                                                        <a href="#" class="name text-btn">
-                                                            Taylor Lee
-                                                        </a>
-                                                        <div class="position-user caption-1">
-                                                            CEO of Market Leaders Ltd.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section><!-- /.section-testimonials -->
-
+          
             <!-- Section-contact-home -->
             <section class="section-contact-home h-2 page-our-services tf-spacing-28">
                 <div class="tf-container position-relative">

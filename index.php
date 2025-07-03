@@ -113,10 +113,12 @@
                     </div>
                     <div class="swiper-slide">
     <div class="page-title-inner" style="
-        background: url('image/page-title/page-title-home--1.jpg') center center / cover no-repeat;
-        width: 100%;
-        height: 700px;
-        position: relative;
+      background: url('image/page-title/page-title-6.jpg') center center / cover no-repeat;
+    width: 100%;
+    height: 700px;
+    position: relative;
+        
+    
     ">
         <!-- 🔴 Overlay -->
         <div style="
@@ -185,13 +187,14 @@
                                     <div class="col-12">
                                         <div class="page-title-content">
                                             <h1 class="tf-fade-top fade-item-1">
-                                                Let’s Build Your Growth Story
+                                            Build Bold. Pitch Smart. Grow Fast
                                             </h1>
                                             <div class="sub-title body-2 tf-fade-top fade-item-2">
-                                                Connect with us for expert fundraising, strategic planning, financial modelling, and pitch deck design
+                                            From strategy to funding decks, we help businesses scale
+                                            with confidence and clarity.
                                             </div>
-                                            <a href="/contact-us.php" class="tf-btn style-1 bg-white tf-fade-top fade-item-3">
-                                                <span>Contact Us</span>
+                                            <a href="/our-services-1.php" class="tf-btn style-1 bg-white tf-fade-top fade-item-3">
+                                                <span>Services</span>
                                             </a>
                                         </div>
                                     </div>
@@ -229,7 +232,7 @@
                                 </div>
                                 <ul class="text-coor-change mb-40">
 
-<li> <h3>at Impact Nest, we offer expert business planning to help you reach your goals. Our team provides
+<li> <h3>At Impact Nest, we offer expert business planning to help you reach your goals. Our team provides
 tailored strategies and solutions for your financial success and security.</h3> 
 </li>
 
@@ -419,7 +422,7 @@ tailored strategies and solutions for your financial success and security.</h3>
                                     <div class="text-anime-wave">
                                         <a href="#" class="tag label text-btn-uppercase bg-white">Our Services</a>
                                     </div>
-                                    <h3 style="color:var(--primary)" class="title-section text-anime-wave">
+                                    <h3 style="color:var(--on-suface-container) !important" class="title-section text-anime-wave">
                                         Custom Strategies for Your Goals
                                     </h3>
                                 </div>
@@ -478,7 +481,9 @@ fundraising process for faster, smarter growth.
                                                     <div class="benefit-lists">
                                                         <div class="benefit-items">
                                                             <div class="icon wow fadeInUp">
-                                                                <i class="icon-checkbox"></i>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title wow fadeInUp" data-wow-delay=".1s">
                                                                 Fundraising provides the capital needed to scale your business operations and fuel growth.
@@ -486,7 +491,9 @@ fundraising process for faster, smarter growth.
                                                         </div>
                                                         <div class="benefit-items">
                                                             <div class="icon wow fadeInUp">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title wow fadeInUp" data-wow-delay=".1s">
                                                                 It enhances your company’s credibility and builds investor confidence.
@@ -494,7 +501,9 @@ fundraising process for faster, smarter growth.
                                                         </div>
                                                         <div class="benefit-items">
                                                             <div class="icon wow fadeInUp">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title wow fadeInUp" data-wow-delay=".1s">
                                                                With adequate funding, you can accelerate innovation and speed up your go-to-market strategy.
@@ -530,7 +539,9 @@ actionable planning to help you scale sustainably and stay ahead of the curve.
                                                     <div class="benefit-lists">
                                                         <div class="benefit-items">
                                                             <div class="icon">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title">
                                                                Helps in Strategic growth Plan for Market Expansion
@@ -538,7 +549,9 @@ actionable planning to help you scale sustainably and stay ahead of the curve.
                                                         </div>
                                                         <div class="benefit-items">
                                                             <div class="icon">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title">
                                                                Assures revamping operations for Higher Efficiency
@@ -546,7 +559,9 @@ actionable planning to help you scale sustainably and stay ahead of the curve.
                                                         </div>
                                                         <div class="benefit-items">
                                                             <div class="icon">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title">
                                                                 Stand out with insights-driven decisions that give you a competitive edge.
@@ -584,7 +599,9 @@ decision-making and are tailored to your funding and strategic goals.
                                                     <div class="benefit-lists">
                                                         <div class="benefit-items">
                                                             <div class="icon">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title">
                                                                Gain clarity with realistic forecasts and scenario analysis.
@@ -592,7 +609,9 @@ decision-making and are tailored to your funding and strategic goals.
                                                         </div>
                                                         <div class="benefit-items">
                                                             <div class="icon">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title">
                                                                Present well-structured financials that align with investor expectations.
@@ -600,7 +619,9 @@ decision-making and are tailored to your funding and strategic goals.
                                                         </div>
                                                         <div class="benefit-items">
                                                             <div class="icon">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title">
                                                                 EUse insights to guide budgeting, pricing, and growth strategies.
@@ -638,7 +659,9 @@ investors.
                                                     <div class="benefit-lists">
                                                         <div class="benefit-items">
                                                             <div class="icon">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title">
                                                                Present your vision with clarity and impact.
@@ -646,7 +669,9 @@ investors.
                                                         </div>
                                                         <div class="benefit-items">
                                                             <div class="icon">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title">
                                                                 Highlight what matters most to investors in a professional format.
@@ -654,7 +679,9 @@ investors.
                                                         </div>
                                                         <div class="benefit-items">
                                                             <div class="icon">
-                                                                <i class="icon-checkbox"></i>
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>
                                                             </div>
                                                             <div class="title">
                                                                 Boost your chances of funding with a high-quality, conversion-driven deck.
@@ -688,7 +715,7 @@ investors.
                             <div class="heading-section style-2 mb-40">
                                 <div class="left">
                                    
-                                    <h3 style="color:var(--primary)" class="title-section text-anime-wave">
+                                    <h3 style="color:var(--on-suface-container) !important" class="title-section text-anime-wave">
                                         Pathway to Success
                                     </h3>
                                 </div>
@@ -1041,42 +1068,97 @@ investors.
   <div style="max-width: 1200px; margin: 0 auto;">
     
     <!-- Section Heading -->
-    <h2  style="color:var(--primary);text-align: center; font-size: 36px;  margin-bottom: 50px;">
+    <h2  style="color:var(--on-suface-container) !important;text-align: center; font-size: 36px;  margin-bottom: 50px;">
     Proven Results You Can See
     </h2>
 
+
+    <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sw-case-studies swiper sw-layout swiper-backface-hidden swiper-initialized swiper-horizontal" data-preview="3" data-tablet="2" data-mobile-sm="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="10">
+                                <div class="swiper-wrapper" id="swiper-wrapper-7d152a67e593c26a" aria-live="polite">
+                                    <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 568px; margin-right: 30px;">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-top">
+                                                <div class="counter-item">
+                                                    <div class="counter">
+                                                        <div class="number-counter">
+                                                        <h4 class="color-primary">₹</h4><h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
+                                                            <h4 class="plus color-primary">
+                                                             Cr
+                                                            </h4>
+                                                        </div>
+                                                        <h5 class="text">
+                                                            Revenue Growth
+                                                        </h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="item-content">
+                                                <div class="text">
+                                                Partnering with Impact Nest was a game-changer for Mufin Green Infra. Their strategic support and fundraising expertise helped us unlock ₹25 Cr in business over the past year.                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 568px; margin-right: 30px;">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-top">
+                                                <div class="counter-item">
+                                                    <div class="counter">
+                                                        <div class="number-counter">
+                                                            <h4 class="number color-primary odometer odometer-auto-theme" data-to="30" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">1</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
+                                                            <h4 class="plus color-primary">
+                                                                %
+                                                            </h4>
+                                                        </div>
+                                                        <h5 class="text">
+                                                        On EV
+                                                        </h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="item-content">
+                                                <div class="text">
+                                                Thanks to Impact Nest’s tailored strategy and financial guidance, On EV saw a 30% boost in profit. <br/> Their expertise and hands-on approach unlocked real business value.                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide" role="group" aria-label="3 / 3" style="width: 568px; margin-right: 30px;">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-top">
+                                                <div class="counter-item">
+                                                    <div class="counter">
+                                                        <div class="number-counter">
+                                                            <h4 class="color-primary">₹</h4><h4 class="number color-primary odometer odometer-auto-theme" data-to="100" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">4</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span></div></h4>
+                                                            <h4 class="plus color-primary">
+                                                            Cr+
+                                                            </h4>
+                                                        </div>
+                                                        <h5 class="text">
+                                                        Swap India
+                                                        </h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="item-content">
+                                                <div class="text">
+                                                Impact Nest played a pivotal role in our fundraising journey. <br/> With their investor network and guidance, we successfully raised over ₹100 Cr+ in funding.                                                </div>
+                                              
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                        </div>
+                    </div>
+                </div>
+
     <!-- Testimonials Grid -->
-    <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
-
-      <!-- Card 1 -->
-      <div style="flex: 1 1 30%; background-color: #fff; padding: 25px 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.06);">
-        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEA88QV26awUw/company-logo_200_200/company-logo_200_200/0/1679036635010/mufin_finance_logo?e=2147483647&v=beta&t=27UTM5hfRPJasDDk0VspzqzcQaxLhWpFh2xQk2TcSgw" alt="Mufin Green Infra Logo" style="height: 100px; object-fit: contain; margin-bottom: 20px;">
-        <h3 style="font-size: 18px; color: #000; margin-bottom: 10px;">Mufin Green Infra</h3>
-        <p style="color: #444; font-size: 15px; line-height: 1.6;">
-          Partnering with Impact Nest was a game-changer for Mufin Green Infra. Their strategic support and fundraising expertise helped us unlock ₹25 Cr in business over the past year.
-        </p>
-      </div>
-
-      <!-- Card 2 -->
-      <div style="flex: 1 1 30%; background-color: #fff; padding: 25px 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.06);">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD5hEOm_sLNYsiQJDxnscBB4nooProK7afIw&s" alt="On EV Logo" style="height: 100px; object-fit: contain; margin-bottom: 20px;">
-        <h3 style="font-size: 18px; color: #000; margin-bottom: 10px;">On EV</h3>
-        <p style="color: #444; font-size: 15px; line-height: 1.6;">
-          Thanks to Impact Nest’s tailored strategy and financial guidance, On EV saw a 30% boost in profit. Their expertise and hands-on approach unlocked real business value.
-        </p>
-      </div>
-
-      <!-- Card 3 -->
-      <div style="flex: 1 1 30%; background-color: #fff; padding: 25px 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.06);">
-        <img src="https://media.licdn.com/dms/image/v2/C560BAQEVhmQnKNjlWw/company-logo_200_200/company-logo_200_200/0/1630576670106?e=2147483647&v=beta&t=9s5fnw2mA62MqBK7ax2tvBVb8QRwuuQuZ5jfnm_Cw10" alt="Swap India Logo" style="height: 100px; object-fit: contain; margin-bottom: 20px;">
-        <h3 style="font-size: 18px; color: #000; margin-bottom: 10px;">Swap India</h3>
-        <p style="color: #444; font-size: 15px; line-height: 1.6;">
-          Impact Nest played a pivotal role in our fundraising journey. With their investor network and guidance, we successfully raised over ₹100 Cr+ in funding.
-        </p>
-      </div>
-
-    </div>
-
+    
   </div>
 </section>
 
@@ -1093,7 +1175,7 @@ investors.
                                         <div class="text-anime-wave">
                                             <a href="#" class="tag label text-btn-uppercase bg-white">FAQs</a>
                                         </div>
-                                        <h4 style="color:var(--primary)" class="title-section mb-12 text-anime-wave">
+                                        <h4 style="color:var(--on-suface-container) !important" class="title-section mb-12 text-anime-wave">
                                         What Every Founder Should Know
                                         </h4>
                                         <div class="sub-title body-2 text-anime-wave mb-40">
@@ -1180,36 +1262,37 @@ both to align vision and execution.</p>
                     <div class="row">
                         <div class="col-12">
                             <div class="cta-inner">
-                                <div class="image tf-animate-1">
-                                    <img src="image/section/img-cta-1.png" data-src="image/section/img-cta-1.png" alt="" class="lazyload">
-                                </div>
-                                <div class="cta-content">
-                                    <div class="heading-section style-color-white mb-0">
-                                        <a href="#" class="tag label text-btn-uppercase bg-white wow fadeInUp">Contact US</a>
-                                        <h3 class="title-section wow fadeInUp mb-12">
-                                            Get in Touch with Us
-                                        </h3>
-                                        <div class="sub-title mb-28 body-2 wow fadeInUp">
-                                            Reach out today to discuss how we can support your business goals. Our team is ready to provide answers, offer solutions, and start your journey toward success.
+                            
+                                <div class="cta-contet">
+                                    <div class="headin-section style-color-white mb-0">
+                                     
+                                    <section style="color:rgb(255, 255, 255); padding: 60px 20px;">
+  <div style="max-width: 1100px; margin: 0 auto; display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
+
+    <!-- Left Side: Text Content -->
+    <div style="flex: 1 1 50%; min-width: 280px;">
+      <h2 style="font-size: 32px; font-weight: 700; margin-bottom: 20px;color:white">Let’s Talk Business</h2>
+      <p style="font-size: 16px; line-height: 1.6; margin-bottom: 30px;">
+        We’re here to help you bring your vision to life. Whether you’re looking to start a new project, ask questions, or simply connect — we’re just a message away.
+      </p>
+      <div class="text-anime-wave">
+                                            <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                                <span>Contact Support</span>
+                                            </a>
                                         </div>
-                                        <div class="bottom">
-                                            <!-- <a href="contact-us.php" class="tf-btn style-1 bg-white wow fadeInUp">
-                                                <span>Schedule a Consultation</span>
-                                            </a> -->
-                                            <div class="tf-phone no-border color-white g-14">
-                                                <a href="#" class="icon wow fadeInUp">
-                                                    <i class="icon-PhoneCall"></i>
-                                                </a>
-                                                <div class="content wow fadeInUp">
-                                                    <p class="caption-2 mb-2">
-                                                        Have any Question?
-                                                    </p>
-                                                    <h6>
-                                                        <a href="#">1-555-678-8888</a>
-                                                    </h6>
-                                                </div>
-                                            </div>
-                                        </div>
+    </div>
+
+    <!-- Right Side: Info Box -->
+    <div style="flex: 1 1 40%; min-width: 280px; padding: 30px; border-radius: 8px">
+      <h4 style="margin-top: 0; font-size: 22px;color:white; margin-bottom: 20px;">Contact Information</h4>
+      
+      <p style="margin: 0 0 10px;"><strong>Email:</strong> <a href="mailto:support@example.com" style="color:rgb(255, 255, 255); text-decoration: none;">support@example.com</a></p>
+      <p style="margin: 0 0 10px;"><strong>Phone:</strong> <a href="tel:15556788888" style="color:rgb(255, 255, 255); text-decoration: none;">1-555-678-8888</a></p>
+      <p style="margin: 0;"><strong>Address:</strong> 123 Business Road, New York, NY 10001</p>
+    </div>
+  </div>
+</section>
+
                                     </div>
                                 </div>
                             </div>
