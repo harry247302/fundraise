@@ -87,19 +87,97 @@
             </div>
         </div><!-- /.page-title -->
 
+
+
+                <!-- ******************* -->
+                
+                    <div class="tf-containr">
+                <div class="row">
+                    
+                    <div class="col-12">
+                        <div style="border:0px solid green" class="blog-contnt blog-details-2-content blog-details-ontent">
+                        
+                            <div class="image-blog">
+                                
+                            </div>
+                            <div class="desc-blog">
+                                                            <div class="counter text-center">
+                                                                
+                                        <!-- <h5 class="text fw-bold">What We Offer</h5> -->
+                                        <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                     Empowering Visionaries. Accelerating Growth.
+                                            </h3>
+                                            
+
+                                                                                    </div>
+                                                                                                <p class="body-2" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.6; text-align: justify;">
+                                                                At <strong>Impact Nest</strong> , we partner with startups and growth-stage companies to unlock their true potential
+                                            through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch
+                                            design. Our mission is to provide founders with the clarity, tools, and connections needed to scale with
+                                            confidence and purpose. <br>
+                                            With deep industry expertise and a founder-first approach, we don't just consult — we co-create. Every
+                                            business is unique, and so is our approach. We combine sharp analytical thinking with creative execution
+                                            to ensure your business is investor-ready and growth-aligned. <br>
+                                            Whether you're raising your first round or expanding into new markets, we’re here to guide you through
+                                            every step of the journey — with insight, precision, and commitment.</p>
+
+                                                                        
+                                                                        </div>
+                        </div>
+                    </div>
+                </div><!-- /.main-content -->
+            </div>
+        <div class="tf-containr">
+                <div class="row">
+                    <div class="col-12">
+                        <div style="border:0px solid green" class="blog-contnt blog-details-2-content blog-details-ontent">
+                        
+                            <div class="image-blog">
+                                
+                            </div>
+                            <div class="desc-blog">
+                                                            <div class="counter text-center">
+                                        <!-- <h5 class="text fw-bold">What We Offer</h5> -->
+                                        <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                        What Sets Impact Nest Apart?
+                                            </h3>
+                                        </div>
+                                                    <p class="body-2" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.6; text-align: justify;">
+                            Impact Nest is your one-stop destination for business growth.We offer a seamless
+                            blend of strategy, fundraising, financial modelling, and pitch design — all under one
+                            roof. What sets us apart is our ability to deliver end-to-end solutions tailored to your
+                            stage, sector, and vision. With a founder-first approach and a commitment to
+                            measurable outcomes, we simplify your growth journey and help you scale with
+                            confidence.</p>
+
+                              
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- /.main-content -->
+            </div>
         
+                
+                <!-- ************************** -->
+
+
+
+
            
            
                 <div>
-                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
-                Expertise.Innovation.Commitment.
-                </h3>
+             <h3 class="mb-4 fw-bold wow fadeInUp" 
+    style="text-align:center; font-size: clamp(20px, 5vw, 35px); color: #2c3e50;">
+    Expertise. Innovation. Commitment.
+</h3>
+
                 <div class="container py-4">
-  <div class="row justify-content-center g-4">
+                <div class="row justify-content-center" style="row-gap: 100px; column-gap: 100px;">
+
     
     <!-- Vision -->
     <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
-      <div class="testimonial-item p-4 bg-white rounded shadow h-100">
+      <div class="testimonial-item p-4  rounded  h-100">
         <div class="testimonial-top">
           <div class="counter-item">
             <div class="counter text-center">
@@ -145,14 +223,14 @@
         </div>
         <div class="item-content mt-2">
           <div class="text">
-            At the heart of Impact Nest are our core values: Commitment to every client’s journey, Innovation in every solution we offer, and Expertise that drives informed decisions. We believe in integrity, collaboration, and a results-driven mindset.
+            At the heart of Impact Nest are our core values: <strong>Commitment</strong> to every client’s journey, <strong>Innovation</strong> in every solution we offer, and <strong>Expertise</strong> that drives informed decisions. We believe in integrity, collaboration, and a results-driven mindset.
           </div>
         </div>
       </div>
     </div>
-
+<!-- ************************************************** -->
     <!-- What We Offer -->
-    <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+    <!-- <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
       <div class="testimonial-item p-4 bg-white rounded shadow h-100">
         <div class="testimonial-top">
           <div class="counter-item">
@@ -167,7 +245,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
   </div>
 </div>

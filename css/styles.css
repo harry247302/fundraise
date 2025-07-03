@@ -5109,14 +5109,14 @@ body.no-scroll {
 }
 
 .blog-details-2-content {
-  position: relative;
+  /* position: relative; */
   z-index: 2;
   max-width: 1030px;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  padding: 60px 60px 108px;
-  margin-top: -80px;
+  /* padding: 60px 60px 108px; */
+  margin-bottom: 40px;
   background-color: var(--white);
 }
 .blog-details-2-content .blog-details-top {
