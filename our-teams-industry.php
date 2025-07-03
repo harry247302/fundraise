@@ -953,8 +953,8 @@
 
                                         <div class="image-main">
                                             <div class="inner">
-                                                <a href="https://themeforest.net/user/themesflat/portfolio" target="_blank">
-                                                    <img src="image/logo/logo-group-features.svg" alt="">
+                                                <a href="https://themeforest.net/user/themesflat/portfolio" target="_blank" class="bg-light bg-opacity-100 p-4 rounded-full">
+                                                    <img src="image/logo/logo.png" alt="impact-nest">
                                                 </a>
                                             </div>
                                         </div>
