@@ -450,62 +450,62 @@
                 <div class="row rg-60" style="border:0px solid black">
                     <div class="col-lg-8">
                         <div class="case-studies-details">
-                            <div class="image-details image mb-40">
+                            <div class="image-details image mb-40" style="margin-top: 60px;">
                                 <img src="image/page-title/iamge-create.jpg" data-src="image/section/img-details-case.jpg" alt="" class=" ls-is-cached lazyloaded">
                             </div>
                             <div class="detalis-content mb-40">
-                                <h4 style="color:var(--primary)" class="title-content mb-16">
+                                <h4 style="color:var(--primary); letter-spacing:2px;" class="title-content mb-16">
                                 Deck Design
                                 </h4>
-                                <div class="desc mb-16 body-2">
+                                <div class="desc mb-16 body-2" style="line-height:1.8;">
                                 At Impact Nest, we craft powerful, investor-ready pitch decks and company profiles that tell your story with clarity, confidence, and impact. Whether you're raising your first round or preparing for Series A, a well-designed deck can be the difference between a missed opportunity and a signed term sheet.
 
 We combine strategic messaging, compelling design, and market-aligned content to ensure your deck speaks directly to what investors care about — vision, traction, financials, scalability, and the opportunity ahead.
                                 </div>
                             </div>
                             <div class="detalis-content mb-40">
-                                <h4 style="color:var(--primary)" class="title-content mb-16">
+                                <h4 style="color:var(--primary); letter-spacing:2px;" class="title-content mb-16">
                                 What We Offer
                                 </h4>
                                 <!-- <div class="desc mb-20 body-2">
                                     We conducted an in-depth operational audit to identify key areas for improvement, analyzing workflow patterns and resource usage. Our team introduced a combination of process automation, employee retraining programs, and data-driven workflow management tools. Additionally, we implemented real-time tracking systems to monitor productivity and adjust operations dynamically.
                                 </div> -->
 
-                                <div class="mb-20">
-                                    <h6 class="mb-8">1. Narrative Development</h6>
-                                    <div class="body-2 desc">
+                                <div class="mb-20" >
+                                    <h6 class="m-8 fw-bold" style="letter-spacing:2px; margin-bottom:8px;">1. Narrative Development</h6>
+                                    <div class="body-2 desc" style="letter-spacing:0.5px; letter: height 1.8px;">
                                     We help define your story- who you are, the problem you're solving, and why now is the right time. We turn complex ideas into a clear, engaging narrative                                    </div>
                                 </div>
                                 <div class="mb-20">
-                                    <h6 class="mb-8">2. Visual Design & Branding</h6>
-                                    <div class="body-2 desc">
+                                    <h6 class="m-8 fw-bold" style="letter-spacing:2px; margin-bottom:8px;">2. Visual Design & Branding</h6>
+                                    <div class="body-2 desc" style="letter-spacing:0.5px; letter: height 1.8px;">
                                     Professional, clean, and modern design that reflects your brand and grabs investor attention. Every slide is visually structured for clarity and flow.
                                     </div>
                                 </div>
                                 <div class="mb-20">
-                                    <h6 class="mb-8">3. Investor-Focused Content</h6>
-                                    <div class="body-2 desc">
+                                    <h6 class="m-8 fw-bold" style="letter-spacing:2px; margin-bottom:8px;">3. Investor-Focused Content</h6>
+                                    <div class="body-2 desc" style="letter-spacing:0.5px; letter: height 1.8px;">
                                     We highlight what matters most to investors — market size, traction, business model, financials, and use of funds — in a format they trust.                                    </div>
                                 </div>
                                 <div class="mb-20">
-                                    <h6 class="mb-8">3. Investor-Focused Content</h6>
-                                    <div class="body-2 desc">
+                                    <h6 class="m-8 fw-bold" style="letter-spacing:2px; margin-bottom:8px;">3. Investor-Focused Content</h6>
+                                    <div class="body-2 desc" style="letter-spacing:0.5px; letter: height 1.8px;">
                                     We highlight what matters most to investors — market size, traction, business model, financials, and use of funds — in a format they trust.                                    </div>
                                 </div>
                                 <div class="mb-20">
-                                    <h6 class="mb-8">4. Content Strategy & Structuring
+                                    <h6 class="m-8 fw-bold" style="letter-spacing:2px; margin-bottom:8px;">4. Content Strategy & Structuring
                                     </h6>
-                                    <div class="body-2 desc">
+                                    <div class="body-2 desc" style="letter-spacing:0.5px; letter: height 1.8px;">
                                     We organize your deck into a compelling flow: Introduction → Problem → Solution → Market → Business Model → Traction → Team → Financials → Ask.        </div>
                                 </div>
                                 <div class="mb-20">
-                                    <h6 class="mb-8">5.Iterative Support & Revisions</h6>
-                                    <div class="body-2 desc">
+                                    <h6 class="m-8 fw-bold" style="letter-spacing:2px; margin-bottom:8px;">5.Iterative Support & Revisions</h6>
+                                    <div class="body-2 desc" style="letter-spacing:0.5px; letter: height 1.8px;">
                                     We collaborate closely, incorporating your feedback and aligning the deck with investor inputs and pitch rounds.    </div>
                                 </div>
                                 <div class="mb-20">
-                                    <h6 class="mb-8">6. Multiple Formats & Versions</h6>
-                                    <div class="body-2 desc">
+                                    <h6 class="m-8 fw-bold" style="letter-spacing:2px; margin-bottom:8px;">6. Multiple Formats & Versions</h6>
+                                    <div class="body-2 desc" style="letter-spacing:0.5px; letter: height 1.8px;">
                                     Presentation-ready decks (for live pitches), email decks (for cold outreach), and one-pagers — tailored for different fundraising scenarios.    </div>
                                 </div>
 
@@ -515,7 +515,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                         </div>
                           
                         <div class="detalis-content mb-34">
-                                <h4 style="color:var(--primary)" class="title-content mb-16">
+                                <h4 style="color:var(--primary); letter-spacing:2px;" class="title-content mb-16">
                                     Results Achieved
                                 </h4>
                                 <div class="benefit-lists">
@@ -523,7 +523,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                                         <div class="icon">
                                             <i class="icon-checkbox"></i>
                                         </div>
-                                        <div class="title">
+                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
                                             Increased production efficiency by 30%, leading to faster turnaround times.
                                         </div>
                                     </div>
@@ -531,7 +531,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                                         <div class="icon">
                                             <i class="icon-checkbox"></i>
                                         </div>
-                                        <div class="title">
+                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
                                             Reduced operational costs by 20% through streamlined processes.
                                         </div>
                                     </div>
@@ -539,7 +539,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                                         <div class="icon">
                                             <i class="icon-checkbox"></i>
                                         </div>
-                                        <div class="title">
+                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
                                             Minimized downtime, enhancing product quality and consistency.
                                         </div>
                                     </div>
@@ -547,7 +547,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                                         <div class="icon">
                                             <i class="icon-checkbox"></i>
                                         </div>
-                                        <div class="title">
+                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
                                             Improved resource allocation, ensuring optimal use of materials and labor.
                                         </div>
                                     </div>
@@ -555,7 +555,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                                         <div class="icon">
                                             <i class="icon-checkbox"></i>
                                         </div>
-                                        <div class="title">
+                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
                                             Established a sustainable framework for ongoing operational improvements.
                                         </div>
                                     </div>
@@ -565,7 +565,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                     <div class="col-lg-4">
                         <div class="tf-sidebar sidebar-details ml-50">
                             <div class="sideber-details">
-                                <div class="case-details-box mb-40">
+                                <div class="case-details-box mb-40" style="margin-top: 60px;">
                                     <h5 class="color-on-suface-container">Case Details</h5>
                                     <div class="box-item client flex justify-content-between align-items-center">
                                         <span class="color-on-suface-variant-1">Client:</span>
@@ -750,7 +750,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                             <div class="heading-section style-2 mb-40">
                                 <div class="left">
                                    
-                                    <h3  style="color:var(--primary)" class="title-section text-anime-wave" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1;">
+                                    <h3  style="color:var(--primary); letter-spacing:2px;" class="title-section text-anime-wave" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1;">
                                     Why a Strong Deck Matters
                                     </h3>
                                 </div>
@@ -758,7 +758,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
                             </div>
                         </div>
                     </div>
-                    <div class="row rg-50">
+                    <div class="row rg-50" style="letter-spacing:0.9px; letter: height 1.8px;">
                         <div class="col-lg-3 col-sm-6">
                             <div class="process-item step-hover active">
                                 <div class="process-top wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
@@ -915,8 +915,8 @@ We combine strategic messaging, compelling design, and market-aligned content to
 
     <!-- Heading -->
     <div style="text-align: left; margin-bottom: 60px;">
-      <h2 style="font-size: 36px; font-weight: 700; margin-bottom: 20px;color:var(--primary)">Financial Modelling & Deck Design</h2>
-      <p style="font-size: 17px; color: black; line-height: 1.8; max-width: 800px; ">
+      <h2 style="font-size: 36px; font-weight: 500; margin-bottom: 20px;color:var(--primary); letter-spacing:2px;">Financial Modelling & Deck Design</h2>
+      <p style="font-size: 17px; color: black; line-height: 1.8; max-width: 800px; letter-spacing:2px;">
         At Impact Nest, we build powerful, investor-ready financial models that bring structure to your growth story. Our models are strategic tools to project performance and validate value for investors.
       </p>
     </div>
@@ -934,14 +934,14 @@ We combine strategic messaging, compelling design, and market-aligned content to
         /* padding: 30px; */
         /* box-shadow: 0 8px 24px rgba(0,0,0,0.25); */
       ">
-        <h3 style="font-size: 24px; font-weight: 600; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px;">What We Offer</h3>
+        <h3 style="font-size: 24px; font-weight: 500; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px; letter-spacing:2px;">What We Offer</h3>
         <ul style="font-size: 15px; color: black; line-height: 1.7; padding-left: 18px;">
-          <li><strong>Custom Financial Models</strong> – Tailored to your business model and goals.</li>
-          <li><strong>Forecasting</strong> – Dynamic cost and revenue projections.</li>
-          <li><strong>Scenario Analysis</strong> – Plan for best, base, and worst-case outcomes.</li>
-          <li><strong>Valuation Support</strong> – Estimate based on DCF, multiples, and industry data.</li>
-          <li><strong>Investor-Ready Outputs</strong> – Clean P&L, Balance Sheet, Cap Table, and more.</li>
-          <li><strong>Ongoing Iterations</strong> – Stay current with pitch updates and investor feedback.</li>
+          <li style="line-height:1.8;"><strong>Custom Financial Models</strong> – Tailored to your business model and goals.</li>
+          <li style="line-height:1.8;" ><strong>Forecasting</strong> – Dynamic cost and revenue projections.</li>
+          <li style="line-height:1.8;" ><strong>Scenario Analysis</strong> – Plan for best, base, and worst-case outcomes.</li>
+          <li style="line-height:1.8;" ><strong>Valuation Support</strong> – Estimate based on DCF, multiples, and industry data.</li>
+          <li style="line-height:1.8;" ><strong>Investor-Ready Outputs</strong> – Clean P&L, Balance Sheet, Cap Table, and more.</li>
+          <li style="line-height:1.8;" ><strong>Ongoing Iterations</strong> – Stay current with pitch updates and investor feedback.</li>
         </ul>
       </div>
 
@@ -955,14 +955,14 @@ We combine strategic messaging, compelling design, and market-aligned content to
         /* padding: 30px; */
         /* box-shadow: 0 8px 24px rgba(0,0,0,0.25); */
       ">
-        <h3 style="font-size: 24px; font-weight: 600; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px;">Why Financial Modelling Matters</h3>
+        <h3 style="font-size: 24px; font-weight: 500; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px; letter-spacing:2px;">Why Financial Modelling Matters</h3>
         <ul style="font-size: 15px; color: black; line-height: 1.7; padding-left: 18px;">
-          <li><strong>Informed Decisions</strong> – Rely on data, not gut feelings.</li>
-          <li><strong>Investor Confidence</strong> – Build trust with clear, strong numbers.</li>
-          <li><strong>Strategic Planning</strong> – Align operations with financial targets.</li>
-          <li><strong>Risk Management</strong> – Spot weaknesses before they grow.</li>
-          <li><strong>Goal Tracking</strong> – Stay aligned with your KPIs and pitch feedback.</li>
-          <li><strong>Resilience Planning</strong> – Adapt fast with sensitivity models.</li>
+          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Informed Decisions</strong> – Rely on data, not gut feelings.</li>
+          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Investor Confidence</strong> – Build trust with clear, strong numbers.</li>
+          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Strategic Planning</strong> – Align operations with financial targets.</li>
+          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Risk Management</strong> – Spot weaknesses before they grow.</li>
+          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Goal Tracking</strong> – Stay aligned with your KPIs and pitch feedback.</li>
+          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Resilience Planning</strong> – Adapt fast with sensitivity models.</li>
         </ul>
       </div>
 
