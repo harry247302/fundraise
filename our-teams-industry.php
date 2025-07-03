@@ -461,7 +461,7 @@
                                 <div class="image">
                                     <img src="image/team-item/team-item-1.jpg" data-src="image/team-item/team-item-1.jpg" alt="" class=" ls-is-cached lazyloaded">
                                     <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
-                                    <div class="team-social">
+                                    <!-- <div class="team-social">
                                         <ul class="tf-social bg-1 radius-50 g-8">
                                             <li class="item">
                                                 <a href="#">
@@ -500,14 +500,14 @@
                                             </li>
                                         </ul>
 
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="team-content">
                                     <h5 class="name-team">
-                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">James Thompson</a>
+                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Kamlesh Kaushik</a>
                                     </h5>
                                     <div class="position caption-1">
-                                        Chief Executive Officer
+                                       Technical Strategy Expert
                                     </div>
                                 </div>
                             </div>
@@ -515,9 +515,9 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="team-item hover-img">
                                 <div class="image">
-                                    <img src="image/team-item/team-item-2.jpg" data-src="image/team-item/team-item-2.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                    <img src="image/team-item/team-item-1.jpg" data-src="image/team-item/team-item-2.jpg" alt="" class=" ls-is-cached lazyloaded">
                                     <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
-                                    <div class="team-social">
+                                    <!-- <div class="team-social">
                                         <ul class="tf-social bg-1 radius-50 g-8">
                                             <li class="item">
                                                 <a href="#">
@@ -555,14 +555,14 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="team-content">
                                     <h5 class="name-team">
-                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Sarah Lopez</a>
+                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Ashish S Desai</a>
                                     </h5>
                                     <div class="position caption-1">
-                                        Chief Financial Officer
+                                        Finance Expert
                                     </div>
                                 </div>
                             </div>
@@ -572,7 +572,7 @@
                                 <div class="image">
                                     <img src="image/team-item/team-item-12.jpg" data-src="image/team-item/team-item-12.jpg" alt="" class=" ls-is-cached lazyloaded">
                                     <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
-                                    <div class="team-social">
+                                    <!-- <div class="team-social">
                                         <ul class="tf-social bg-1 radius-50 g-8">
                                             <li class="item">
                                                 <a href="#">
@@ -610,14 +610,14 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="team-content">
                                     <h5 class="name-team">
-                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Emily Chen</a>
+                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Rahul Sharma</a>
                                     </h5>
                                     <div class="position caption-1">
-                                        Director of Operations
+                                       Risk Analysis Expert
                                     </div>
                                 </div>
                             </div>
@@ -627,7 +627,7 @@
                                 <div class="image">
                                     <img src="image/team-item/team-item-4.jpg" data-src="image/team-item/team-item-4.jpg" alt="" class=" ls-is-cached lazyloaded">
                                     <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
-                                    <div class="team-social">
+                                    <!-- <div class="team-social">
                                         <ul class="tf-social bg-1 radius-50 g-8">
                                             <li class="item">
                                                 <a href="#">
@@ -665,14 +665,14 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="team-content">
                                     <h5 class="name-team">
-                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Michael Rivera</a>
+                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Mukul Chauhan</a>
                                     </h5>
                                     <div class="position caption-1">
-                                        Head of Business Development
+                                      Finance & Fundraising Expert
                                     </div>
                                 </div>
                             </div>
@@ -681,11 +681,11 @@
                         <!-- row-2 -->
 
                         <div class="col-lg-3 col-sm-6">
-                            <div class="team-item hover-img">
+                            <div class="team-item team-item1  hover-img" >
                                 <div class="image">
-                                    <img src="image/team-item/team-item-8.jpg" data-src="image/team-item/team-item-8.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                    <img src="image/team-item/team-item-8.jpg" style="height:60%" data-src="image/team-item/team-item-8.jpg" alt=""  class=" ls-is-cached lazyloaded">
                                     <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
-                                    <div class="team-social">
+                                    <!-- <div class="team-social">
                                         <ul class="tf-social bg-1 radius-50 g-8">
                                             <li class="item">
                                                 <a href="#">
@@ -723,14 +723,14 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="team-content">
                                     <h5 class="name-team">
-                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Rachel Kim</a>
+                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr Sagar Verma</a>
                                     </h5>
                                     <div class="position caption-1">
-                                        Marketing Director
+                                        Operations Expert
                                     </div>
                                 </div>
                             </div>
@@ -738,9 +738,9 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="team-item hover-img">
                                 <div class="image">
-                                    <img src="image/team-item/team-item-9.jpg" data-src="image/team-item/team-item-9.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                    <img src="image/team-item/team-item-9.jpg" style="height:60%" data-src="image/team-item/team-item-9.jpg" alt="" class=" ls-is-cached lazyloaded">
                                     <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
-                                    <div class="team-social">
+                                    <!-- <div class="team-social">
                                         <ul class="tf-social bg-1 radius-50 g-8">
                                             <li class="item">
                                                 <a href="#">
@@ -778,14 +778,14 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="team-content">
                                     <h5 class="name-team">
-                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Laura Nguyen</a>
+                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Gaurav Verma</a>
                                     </h5>
                                     <div class="position caption-1">
-                                        Human Resources Manager
+                                        Operations Strategy Expert
                                     </div>
                                 </div>
                             </div>
@@ -793,9 +793,9 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="team-item hover-img">
                                 <div class="image">
-                                    <img src="image/team-item/team-item-10.jpg" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                    <img src="image/team-item/team-item-10.jpg" style="height:60%" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
                                     <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
-                                    <div class="team-social">
+                                    <!-- <div class="team-social">
                                         <ul class="tf-social bg-1 radius-50 g-8">
                                             <li class="item">
                                                 <a href="#">
@@ -833,11 +833,11 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="team-content">
                                     <h5 class="name-team">
-                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Daniel Carter</a>
+                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Daniel Carter</a>
                                     </h5>
                                     <div class="position caption-1">
                                         Senior Financial Advisor
@@ -845,61 +845,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="team-item hover-img">
-                                <div class="image">
-                                    <img src="image/team-item/team-item-11.jpg" data-src="image/team-item/team-item-11.jpg" alt="" class=" ls-is-cached lazyloaded">
-                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
-                                    <div class="team-social">
-                                        <ul class="tf-social bg-1 radius-50 g-8">
-                                            <li class="item">
-                                                <a href="#">
-                                                    <div class="icon">
-                                                        <i class="icon-messenger"></i>
-                                                    </div>
-                                                </a>
-                                            </li>
-                                            <li class="item">
-                                                <a href="#">
-                                                    <div class="icon">
-                                                        <i class="icon-x"></i>
-                                                    </div>
-                                                </a>
-                                            </li>
-                                            <li class="item">
-                                                <a href="#">
-                                                    <div class="icon">
-                                                        <i class="icon-ig1"></i>
-                                                    </div>
-                                                </a>
-                                            </li>
-                                            <li class="item">
-                                                <a href="#">
-                                                    <div class="icon">
-                                                        <i class="icon-skype"></i>
-                                                    </div>
-                                                </a>
-                                            </li>
-                                            <li class="item">
-                                                <a href="#">
-                                                    <div class="icon">
-                                                        <i class="icon-telegram"></i>
-                                                    </div>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="team-content">
-                                    <h5 class="name-team">
-                                        <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">David Patel</a>
-                                    </h5>
-                                    <div class="position caption-1">
-                                        Technology Solutions Manager
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                      
                     </div>
                 </div>
             </div>
@@ -961,49 +907,49 @@
                                         <div class="img-item item-1">
                                             <div class="inner">
                                                 <a href="#">
-                                                    <img src="image/avatar/img-tf-group-features-1.jpg" data-src="image/avatar/img-tf-group-features-1.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                                    <img src="image/team-item/team-item-1.jpg" style="width:100px;height:100px" data-src="image/avatar/img-tf-group-features-1.jpg" alt="" class=" ls-is-cached lazyloaded">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="img-item item-2">
                                             <div class="inner">
                                                 <a href="#">
-                                                    <img src="image/avatar/img-tf-group-features-2.jpg" data-src="image/avatar/img-tf-group-features-2.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                                    <img src="image/team-item/team-item-12.jpg" style="width:100px;height:100px" data-src="image/avatar/img-tf-group-features-2.jpg" alt="" class=" ls-is-cached lazyloaded">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="img-item item-3">
                                             <div class="inner">
                                                 <a href="#">
-                                                    <img src="image/avatar/img-tf-group-features-3.jpg" data-src="image/avatar/img-tf-group-features-3.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                                    <img src="image/team-item/team-item-10.jpg" style="width:100px;height:100px" data-src="image/avatar/img-tf-group-features-3.jpg" alt="" class=" ls-is-cached lazyloaded">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="img-item item-4">
                                             <div class="inner">
                                                 <a href="#">
-                                                    <img src="image/avatar/img-tf-group-features-4.jpg" data-src="image/avatar/img-tf-group-features-4.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                                    <img src="image/team-item/team-item-9.jpg" style="width:100px;height:100px" data-src="image/avatar/img-tf-group-features-4.jpg" alt="" class=" ls-is-cached lazyloaded">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="img-item item-5">
                                             <div class="inner">
                                                 <a href="#">
-                                                    <img src="image/avatar/img-tf-group-features-5.jpg" data-src="image/avatar/img-tf-group-features-5.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                                    <img src="image/team-item/team-item-8.jpg" style="width:100px;height:100px" data-src="image/avatar/img-tf-group-features-5.jpg" alt="" class=" ls-is-cached lazyloaded">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="img-item item-6">
                                             <div class="inner">
                                                 <a href="#">
-                                                    <img src="image/avatar/img-tf-group-features-6.jpg" data-src="image/avatar/img-tf-group-features-6.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                                    <img src="image/team-item/team-item-4.jpg" style="width:100px;height:100px" data-src="image/avatar/img-tf-group-features-6.jpg" alt="" class=" ls-is-cached lazyloaded">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="img-item item-7">
                                             <div class="inner">
                                                 <a href="#">
-                                                    <img src="image/avatar/img-tf-group-features-7.jpg" data-src="image/avatar/img-tf-group-features-7.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                                    <img src="image/team-item/team-item-2.jpg" style="width:100px;height:100px" data-src="image/avatar/img-tf-group-features-7.jpg" alt="" class=" ls-is-cached lazyloaded">
                                                 </a>
                                             </div>
                                         </div>
