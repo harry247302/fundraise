@@ -176,10 +176,12 @@
         <div class="main-content">
 
             <!-- Section-services -->
-            <section class="sectin-service h-2 tf-spacing-31">
-                <div class="tf-containr">
-                    <div class="row">
-                        <div class="col-12">
+      
+
+            <!-- ************************************************* -->
+
+
+                
                         <section style=" padding: 100px 50px; font-family: Arial, sans-serif;">
   <div style=" margin: 0 auto;">
   
@@ -187,7 +189,7 @@
 
 
 
-  <div class="row">
+  <div class="row" >
   <h2 style="text-align: center; font-size: 46px; color: #222; margin-bottom: 60px;  font-weight: 700;">
       What We Offer
     </h2>
@@ -249,8 +251,8 @@
                                         </div>
                                     </div>
                                     <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 410px; margin-right: 30px;">
-                                        <div class="testimonial-item">
-                                            <div class="testimonial-top">
+                                        <div class="testimonial-item" >
+                                            <div class="testimonial-top" >
                                                 <div class="counter-item">
                                                     <div class="counter">
                                                         <!-- <div class="number-counter">
@@ -268,15 +270,15 @@
                                             </div>
                                             <div class="item-content">
                                                 <div class="text">
-                                                We prepare everything you need to impress investors and drive meaningful conversations                                                </div>
+We prepare everything you need to impress investors — from pitch decks to financial models — helping you lead confident, results-driven conversations that accelerate growth.                                            </div>
                                                 <div class="info-user">
                                                 <ul style="padding-left: 20px; font-size: 14px; color: #555;">
-          <li>
+          <!-- <li>
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
   <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
 </svg>  
           Investor pitch deck design & development</li>
-          <li>
+          <li> -->
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
   <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
 </svg>  
@@ -354,14 +356,11 @@
                 </div>
             </section><!-- /.section-services -->
 
-            <!-- Section-process -->
-            
-<section style="font-family: Arial, sans-serif; padding: 60px 20px; width: 100%; box-sizing: border-box;margin:auto">
 
 
   <!-- ***************************************************** -->
 
-  <section class="section-process h-2 tf-spacing-31 hover-active-step" style="margin-top:100px">
+  <section class="section-process h-2 tf-spacing-31 hover-active-step" style="margin-top:10px">
                 <div class="tf-container position-relative">
                     <div class="row">
                         <div class="col-12">
@@ -452,7 +451,7 @@
 
 <!-- ******************************************************** -->
 
-<div class="tf-contaier  position-relative">
+<div style="margin:50px 200px" class="tf-contaier  position-relative">
   <div class="row rg-30">
   <h2 style="text-align: center; font-size: 36px; margin-bottom: 20px; font-weight: 700;">
 Our Strategic Focus Areas
@@ -495,7 +494,7 @@ Our Strategic Focus Areas
           </div>
       </div>
       <div class="col-md-3">
-          <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
+          <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; padding-bottom:54px">
               <div class="process-top">
                   <div class="icon">
                      <img src="../image/icon/investment_2300422.png" alt="">
@@ -530,10 +529,10 @@ Our Strategic Focus Areas
           </div>
       </div>
       <div class="col-md-3">
-          <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
+          <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;padding-bottom:54px">
               <div class="process-top">
                   <div class="icon">
-                      <img src="../image/icon/improvement_12445193.png" alt="">
+                      <img src="../image/icon/growth.png" alt="">
                   </div>
                   <span class="label text-btn-uppercase">Business Development Strategy</span>
               </div>
@@ -568,10 +567,10 @@ Our Strategic Focus Areas
       </div>
       
       <div class="col-md-3">
-          <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
+          <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;padding-bottom:54px;">
               <div class="process-top">
                   <div class="icon">
-                   <img src="../image/icon/documentation_9746243.png" alt="">
+                   <img src="../image/icon/financial_4221500.png" alt="">
                   </div>
                   <span class="label text-btn-uppercase">Business Documentation Strategy</span>
               </div>
@@ -609,6 +608,9 @@ Our Strategic Focus Areas
 </div>
 
 
+            <!-- Section-process -->
+            
+<section style="font-family: Arial, sans-serif; padding: 60px 20px; width: 100%; box-sizing: border-box;margin:auto">
 
 </section>
 

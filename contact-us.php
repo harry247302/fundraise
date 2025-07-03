@@ -99,7 +99,129 @@
         <!-- Main-content -->
         <div class="main-content">
 
-            <section class="section-contact-home page-contact tf-spacing-2">
+
+        <div class="contact-section" style="background: rgba(250,250,250,0.95); padding: 80px 0 60px 0;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0">
+                    <div class="contact-info animate fadeInLeft wow animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInLeft;">
+                        <div class="heading-box mb-4">
+                            <span class="sub-title animate fadeInUp wow animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">Contact</span>
+                            <h2 class="heading-title animate fadeInUp wow animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">Let's Connect</h2>
+                            <p class="text-muted">Get a free business consultation today or simply send us your query.</p>
+                        </div>
+                        <ul class="list-unstyled">
+                            <li class="d-flex align-items-start mb-4">
+                                <img src="./image/icon/location.png" alt="icon" class="me-3" style="width: 32px;">
+                                <div>
+                                    <h6 class="mb-1">Address</h6>
+                                    <p class="mb-0">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4">
+                                <img src="./image/icon/envelope.png" alt="icon" class="me-3" style="width: 32px;">
+                                <div>
+                                    <h6 class="mb-1">Mail address</h6>
+                                    <a href="mailto:contact@panapadvisors.com">contact@panapadvisors.com</a>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4">
+                                <img src="./image/icon/phone-contact.png"  style="width: 32px;">
+                                <div>
+                                    <h6 class="mb-1">Phone</h6>
+                                    <a href="tel:+919971645151">+91-9971645151</a>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-start mb-4">
+                                <i class="fab fa-linkedin me-3" style="width: 32px; font-size: 32px; color: #0077B5;"></i>
+                                <div>
+                                    <h6 class="mb-1">LinkedIn</h6>
+                                    <a href="https://www.linkedin.com/company/leasegrid/">Leasegrid</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-7 col-lg-6">
+                    <div class="contact-form animate fadeInRight wow p-4 p-md-5 shadow-lg rounded-4 bg-white animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="border: 1px solid rgb(234, 234, 234); box-shadow: rgba(0, 0, 0, 0.08) 0px 10px 40px !important; visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInRight;">
+                        <div class="section-title mb-4">
+                            <h3 class="text-dark" style="font-weight: 600;">Get in Touch</h3>
+                            <p class="text-muted mb-0">Fill out the form below and we'll get back to you shortly.</p>
+                        </div>
+                        <form id="contactForm" class="contact-form-wrapper">
+                            <div id="formMessages"></div>
+                            <div class="row gy-4">
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="text" id="name" name="name" class="form-control" placeholder="Your Name" style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);" required="">
+                                        <label for="name" style="padding-left: 16px;">Your Name *</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="email" id="email" name="email" class="form-control" placeholder="Email Address" style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);" required="">
+                                        <label for="email" style="padding-left: 16px;">Email Address *</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="tel" id="phone" name="number" class="form-control" placeholder="Phone Number" style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);" required="">
+                                        <label for="phone" style="padding-left: 16px;">Phone Number *</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="need" name="need" style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);" required="">
+                                            <option value="" selected="" disabled="">Select a service</option>
+                                            <option value="IT Hardware">IT Hardware</option>
+                                            <option value="Plant and Machinery">Plant and Machinery</option>
+                                            <option value="Medical Equipment">Medical Equipment</option>
+                                            <option value="Retail Store Assets">Retail Store Assets</option>
+                                            <option value="Security Assets">Security Assets</option>
+                                            <option value="Construction Assets">Construction Assets</option>
+                                            <option value="Transportation Assets">Transportation Assets</option>
+                                            <option value="Other">Other</option>
+                                        </select>
+                                        <label for="need" style="padding-left: 16px;">Service Required *</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <textarea id="message" name="message" class="form-control" placeholder="Your Message" style="height: 120px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);" required=""></textarea>
+                                        <label for="message" style="padding-left: 16px;">Your Message *</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button type="submit" id="submitBtn" class="btn btn-primary btn-theme" style="width: 100%; padding: 12px; border-radius: 8px; font-weight: 500; font-size: 16px; 
+                                        text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
+                                        transition: all 0.3s ease;"><span>
+</span><span class="space"></span><span>S</span><span>e</span><span>n</span><span>d</span><span class="space"></span><span>M</span><span>e</span><span>s</span><span>s</span><span>a</span><span>g</span><span>e</span><span>
+</span><span class="space"></span></button>
+                                </div>
+                            </div>
+                        </form>
+                        <style>
+                            .form-control:focus, .form-select:focus {
+                                border-color: #0d6efd !important;
+                                box-shadow: 0 0 0 0.2rem rgba(13,110,253,.15) !important;
+                            }
+                            .btn-primary:hover {
+                                transform: translateY(-2px);
+                                box-shadow: 0 6px 20px rgba(0,0,0,0.15) !important;
+                            }
+                        </style>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            <!-- <section class="section-contact-home page-contact tf-spacing-2">
                 <div class="tf-container position-relative">
                     <div class="row rg-60">
                         <div class="col-lg-7">
@@ -257,15 +379,15 @@
                         </div>
                     </div>
                 </div>
-            </section>
-
+            </section> -->
+<!-- 
             <section class="section-map tf-spacing-3">
                 <div class="wg-map">
                     <div class="box-map">
                         <div id="map" class="map"></div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
             <!-- <section class="section-list-banner tf-spacing-3">
                 <div class="tf-container">
