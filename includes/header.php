@@ -37,24 +37,21 @@
                                                 <!-- <li class="sub-menu-item"><a href="/business-plan-and-executive-summary.php" class="item-link-2">Business Plan and Executive Summary</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Financial Model & Visualation Support</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Use Of Funds and Cap Table Guidence</a></li> -->
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Faq</a></li>
+                                              
                                                 <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Career</a></li> -->
                                                 <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Coming Soon</a></li> -->
                                                 
                                             </ul>
                                         </li>
-                                         <li class="menu-item position-relative">
-                                            <a href="/about-us.php" class="item-link">Business Plan and Executive Summary</a>
-                                          
-                                        </li>
-                                         <li class="menu-item position-relative">
+                                       
+                                         <!-- <li class="menu-item position-relative">
                                             <a href="/about-us.php" class="item-link">Financial Model & Visualation Support</a>
                                           
                                         </li>
                                           <li class="menu-item position-relative">
                                             <a href="/about-us.php" class="item-link">Use Of Funds and Cap Table Guidence</a>
                                           
-                                        </li>
+                                        </li> -->
 
                                       
                                        

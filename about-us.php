@@ -177,7 +177,7 @@
     
     <!-- Vision -->
     <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
-      <div class="testimonial-item p-4  rounded  h-100">
+      <div class="testimonial-item p-4  rounded  h-100"  >
         <div class="testimonial-top">
           <div class="counter-item">
             <div class="counter text-center">
@@ -195,7 +195,7 @@
 
     <!-- Mission -->
     <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
-      <div class="testimonial-item p-4 bg-white rounded shadow h-100">
+      <div class="testimonial-item p-4 bg-white rounded  h-100">
         <div class="testimonial-top">
           <div class="counter-item">
             <div class="counter text-center">
@@ -213,7 +213,7 @@
 
     <!-- Core Values -->
     <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
-      <div class="testimonial-item p-4 bg-white rounded shadow h-100">
+      <div class="testimonial-item p-4 bg-white rounded  h-100">
         <div class="testimonial-top">
           <div class="counter-item">
             <div class="counter text-center">
@@ -806,7 +806,7 @@ and the success we help create for each business we support.                    
             </section><!-- /.section-why-choose -->
 
             <!-- Section-testimonials -->
-            <section class="section-testimonials h-3 tf-spacing-2">
+            <!-- <section class="section-testimonials h-3 tf-spacing-2">
                 
                 <div class="tf-container">
                     <div class="row">
@@ -936,7 +936,7 @@ and the success we help create for each business we support.                    
                         </div>
                     </div>
                 </div>
-            </section><!-- /.section-testimonials -->
+            </section>/.section-testimonials -->
 
             <!-- Section-cta -->
             <section class="section-cta h-1">

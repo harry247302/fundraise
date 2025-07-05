@@ -52,16 +52,19 @@
                                             
                                             </a></li>
                                             <!-- <li class="support-item-footer caption-1"><a href="our-teams.php">Our Team</a></li> -->
-                                            <!-- <li class="support-item-footer caption-1"><a href="#">My Account</a></li> -->
-                                            
-                                            <li class="support-item-footer caption-1" >
-                                                <a href="#" style="font-weight:600" >
-          
-                                            <p style="color:black;font-weigth:600">                                    Team Teams & Our Experts</p> </a></li>
-                                            <!-- <li class="support-item-footer caption-1"><a href="case-studies-1.php">Case studies</a></li> -->
+                                            <!-- <li class="support-item-footer caption-1" style="color:black"><a href="#">Team Teams & Our Experts</a></li> -->
+                                            <li class="support-item-footer caption-1" style="color:black"><a style="font-weight:600;color:black"  href="our-teams-industry.php">
+                                              
+                                            Team Teams & Our Experts</a></li>
+                                             
+                                            <li class="support-item-footer caption-1" style="color:black"><a style="font-weight:600;color:black"  href="faq.php">
+                                              
+                                            FAQ</a></li>
                                             <li class="support-item-footer caption-1" style="color:black"><a style="font-weight:600;color:black"  href="contact-us.php">
                                               
-                                            Contact</a></li>
+                                              Contact</a></li>
+                                             
+                                            
                                         </ul>
                                     </div>
                                 </div>
