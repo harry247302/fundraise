@@ -21,34 +21,34 @@
                                 <nav class="main-menu">
                                     <ul class="menu-primary-menu">
                                         <li class="menu-item  current-menu-item">
-                                            <a href="/"  class="item-link">Home </a>
+                                            <a href="/" style="color:var(--on-suface-container) !important"  class="item-link">Home </a>
                                             
                                         </li>
                                         <li class="menu-item position-relative">
-                                            <a href="/about-us.php" class="item-link">About</a>
+                                            <a style="color:var(--on-suface-container) !important" href="/about-us.php" class="item-link">About</a>
                                           
                                         </li>
                                         <li class="menu-item menu-item-has-children position-relative">
-                                            <a href="#" class="item-link">Services</a>
+                                            <a href="#" class="item-link" style="color:var(--on-suface-container) !important">Services</a>
                                             <ul  class="sub-menu">
-                                                <li class="sub-menu-item"><a href="our-services-1.php" class="item-link-2">Strategic Focus Areas</a></li>
-                                                <li class="sub-menu-item"><a href="/our-teams-industry.php" class="item-link-2">Our Teams & Industry</a></li>
-                                                <li class="sub-menu-item"><a href="Investor-pitch-desck-design.php" class="item-link-2">Investor Pitch Desck Design & Development</a></li>
-                                                <!-- <li class="sub-menu-item"><a href="/business-plan-and-executive-summary.php" class="item-link-2">Business Plan and Executive Summary</a></li>
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Financial Model & Visualation Support</a></li>
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Use Of Funds and Cap Table Guidence</a></li> -->
-                                              
-                                                <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Career</a></li> -->
-                                                <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Coming Soon</a></li> -->
+                                                <li class="sub-menu-item"><a href="our-services-1.php" class="item-link-2" > Fund Raising</a></li>
+                                                <li class="sub-menu-item"><a href="tailored-strategies.php" class="item-link-2">Tailored Strategies</a></li>
+                                                <li class="sub-menu-item"><a href="Investor-pitch-desck-design.php" class="item-link-2">Deck Design</a></li>
+                                                <li class="sub-menu-item"><a href="/financial-modelling.php" class="item-link-2">Financial Modelling</a></li>
+                                             
                                                 
                                             </ul>
                                         </li>
-                                       
-                                         <!-- <li class="menu-item position-relative">
-                                            <a href="/about-us.php" class="item-link">Financial Model & Visualation Support</a>
+                                        <!-- <li class="sub-menu-item"><a href="/our-teams-industry.php" class="item-link-2"></a></li> -->
+                                         <li class="menu-item position-relative">
+                                            <a style="color:var(--on-suface-container) !important" href="/our-expert.php" class="item-link">Our Expert</a>
                                           
                                         </li>
-                                          <li class="menu-item position-relative">
+                                        <li class="menu-item position-relative">
+                                            <a style="color:var(--on-suface-container) !important" href="/our-teams-industry.php" class="item-link">Our Team</a>
+                                          
+                                        </li>
+                                          <!-- <li class="menu-item position-relative">
                                             <a href="/about-us.php" class="item-link">Use Of Funds and Cap Table Guidence</a>
                                           
                                         </li> -->
@@ -57,7 +57,7 @@
                                        
                                     
                                         <li class="menu-item">
-                                            <a href="/contact-us.php" class="item-link">Contact</a>
+                                            <a href="/contact-us.php" class="item-link" style="color:var(--on-suface-container) !important">Contact</a>
                                         </li>
                                     </ul>
                                 </nav>

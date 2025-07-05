@@ -446,7 +446,7 @@
                                 <a href="#" class="tag label text-btn-uppercase">Our Teams</a>
                             </div>
                             <h3 class=" title-section text-anime-wave-1 mb-12" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50%; transform: translate(0px, 0px); opacity: 1;">
-                                Meet Our Expert Consultants
+                            Meet Our Expert Consultants
                             </h3>
                             <div class="sub-title body-2 color-on-suface-container text-anime-wave-1" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50%; transform: translate(0px, 0px); opacity: 1;">
                                 Experienced professionals committed to driving your business success.
@@ -457,7 +457,7 @@
             </div>
             <div class="tf-container">
                 <div class="row rg-30">
-                    <div class="col-lg-3 col-sm-6">
+                    <!-- <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
                                 <img src="image/team-item/team-item-1.jpg" data-src="image/team-item/team-item-1.jpg" alt="" class=" ls-is-cached lazyloaded">
@@ -480,8 +480,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
+                    </div> -->
+                    <!-- <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
                                 <img src="image/team-item/team-item-2.jpg" data-src="image/team-item/team-item-2.jpg" alt="" class=" ls-is-cached lazyloaded">
@@ -504,8 +504,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
+                    </div> -->
+                    <!-- <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
                                 <img src="image/team-item/team-item-12.jpg" data-src="image/team-item/team-item-12.jpg" alt="" class=" ls-is-cached lazyloaded">
@@ -529,11 +529,11 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-4.jpg" data-src="image/team-item/team-item-4.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-4.jpg" data-src="image/team-item/team-item-4.jpg" style="height:290px;transform: scale(2)" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -557,7 +557,7 @@
 
                     <!-- row-2 -->
 
-                    <div class="col-lg-3 col-sm-6">
+                    <!-- <div class="col-lg-3 col-sm-6">
                         <div class="team-item team-item1  hover-img">
                             <div class="image">
                                 <img src="image/team-item/team-item-8.jpg" style="height:60%" data-src="image/team-item/team-item-8.jpg" alt="" class=" ls-is-cached lazyloaded">
@@ -580,8 +580,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
+                    </div> -->
+                    <!-- <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
                                 <img src="image/team-item/team-item-9.jpg" style="height:60%" data-src="image/team-item/team-item-9.jpg" alt="" class=" ls-is-cached lazyloaded">
@@ -598,14 +598,14 @@
                             </div>
                             <div class="team-content">
                                 <h5 class="name-team">
-                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Gaurav Verma</a>
+                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Gaurav Verma</a>
                                 </h5>
                                 <div class="position caption-1">
                                     Operations Strategy Expert
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
@@ -627,6 +627,31 @@
                                 </h5>
                                 <div class="position caption-1">
                                     Finance Expert
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="team-item hover-img">
+                            <div class="image">
+                                <img src="image/team-item/tream-item-13.png" style="height:60%" data-src="image/team-item/tream-item-13.pn" alt="" class=" ls-is-cached lazyloaded">
+                                <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
+                                <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
+                                    <p>
+                                        Mr. Gaurav Verma brings a sharp focus on operational excellence to Impact Nest. With deep
+                                        expertise in operations strategy, he helps businesses streamline processes, optimize resource
+                                        allocation, and build scalable systems. His practical, results-driven approach ensures that startups
+                                        and growing companies achieve efficiency, agility, and sustainable growth through smart
+                                        operational planning.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="team-content">
+                                <h5 class="name-team">
+                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Ms. Yashika Hans</a>
+                                </h5>
+                                <div class="position caption-1">
+                                Design ExpertMeet our Expert Consulatants
                                 </div>
                             </div>
                         </div>
@@ -654,12 +679,12 @@
                                     <div class="wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                                         <a href="#" class="tag label text-btn-uppercase bg-white">Join Our TEam</a>
                                     </div>
-                                    <h3 class="wow fadeInUp mb-12 animated" style="visibility: visible; animation-name: fadeInUp;">Shape the Future with Us </h3>
+                                    <h3 class="wow fadeInUp mb-12 animated" style="visibility: visible; animation-name: fadeInUp;">Grow with Us. Lead the Future. </h3>
                                     <div class="sub-title body-2 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                        We're looking for passionate individuals to join our dynamic team of
-                                        <br>experts. Together, we'll drive innovation, solve complex challenges, and
-                                        <br>create cutting-edge data solutions. If you're ready to make an impact
-                                        <br>and grow with us, apply today!
+                                    At Impact Nest, we believe growth isn’t just about numbers <br> — it’s about building businesses that
+shape the future. We <br> believe in  empowering bold entrepreneurs to grow with clarity <br> and
+confidence — and lead tomorrow’s change.
+                                    
                                     </div>
                                 </div>
                                 <div class="wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">

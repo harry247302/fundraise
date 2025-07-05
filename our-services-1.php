@@ -182,179 +182,256 @@
 
 
                 
-                        <section style=" padding: 100px 50px; font-family: Arial, sans-serif;">
+                        <section style=" padding: 10px  50px 100px 50px; font-family: Arial, sans-serif;">
   <div style=" margin: 0 auto;">
   
 
 
+                <div class="row">
+                    
+                    <div class="col-12">
+                        <div style="border:0px solid green" class="blog-contnt blog-details-2-content blog-details-ontent">
+                        
+                            <div class="image-blog">
+                                
+                            </div>
+                            <div class="desc-blog">
+                                        <div class="counter text-center">
+                                                                
+                                                <!-- <h5 class="text fw-bold">What We Offer</h5> -->
+                                                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                            Empowering Visionaries. Accelerating Growth.
+                                                    </h3>
+                                            
 
+                                                                                    </div>
+                                                                                                <p class="body-2" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.6; text-align: justify;">
+                                                                At <strong>Impact Nest</strong> , we partner with startups and growth-stage companies to unlock their true potential
+                                            through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch
+                                            design. Our mission is to provide founders with the clarity, tools, and connections needed to scale with
+                                            confidence and purpose. <br>
+                                            With deep industry expertise and a founder-first approach, we don't just consult — we co-create. Every
+                                            business is unique, and so is our approach. We combine sharp analytical thinking with creative execution
+                                            to ensure your business is investor-ready and growth-aligned. <br>
+                                            Whether you're raising your first round or expanding into new markets, we’re here to guide you through
+                                            every step of the journey — with insight, precision, and commitment.</p>
 
-  <div class="row" >
-  <h2 style="text-align: center; font-size: 46px; color: #222; margin-bottom: 60px;  font-weight: 700;">
-      What We Offer
-    </h2>
-
-                        <div class="col-12">
-                            <div class="sw-case-studies swiper sw-layout swiper-backface-hidden swiper-initialized swiper-horizontal" data-preview="3" data-tablet="2" data-mobile-sm="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="10">
-                                <div class="swiper-wrapper" id="swiper-wrapper-2cbe938ba032a61c" aria-live="polite">
-                                    <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 410px; margin-right: 30px;">
-                                        <div class="testimonial-item">
-                                            <div class="testimonial-top">
-                                                <div class="counter-item">
-                                                    <div class="counter">
-                                                        <!-- <div class="number-counter">
-                                                            <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
-                                                            <h4 class="plus color-primary">
-                                                                %
-                                                            </h4>
-                                                        </div> -->
-                                                        <h5 class="text">
-                                                        Fundraising Strategy
-                                                        </h5>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="item-content">
-                                                <div class="text">
-                                                Every successful round starts with the right strategy. We work with you to develop a capital raise roadmap — how much to raise, at what valuation, from whom, and for what purpose.                                                </div>
-                                                <div class="info-user">
-                                                <ul style="font-size: 14px; color: #555; list-style-type: disc; padding-left: 40px;">
-  <li>
-  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-  Capital planning and fund utilization strategy</li>
-  <li>
-  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-  Ideal investor profiling</li>
-  <li>
-  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-  Timeline and milestone mapping</li>
-</ul>
-                                                    <!-- <div class="image">
-                                                        <img src="image/avatar/avt-4.jpg" data-src="image/avatar/avt-4.jpg" alt="" class=" ls-is-cached lazyloaded">
-                                                    </div>
-                                                    <div class="info-content">
-                                                        <a href="#" class="name text-btn">
-                                                            Alex Johnson
-                                                        </a>
-                                                        <div class="position-user caption-2">
-                                                            CEO of Innovate Inc
-                                                        </div>
-                                                    </div> -->
-                                                </div>
-                                            </div>
+                                                                        
                                         </div>
-                                    </div>
-                                    <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 410px; margin-right: 30px;">
-                                        <div class="testimonial-item" >
-                                            <div class="testimonial-top" >
-                                                <div class="counter-item">
-                                                    <div class="counter">
-                                                        <!-- <div class="number-counter">
-                                                            <h4 class="number color-primary odometer odometer-auto-theme" data-to="20" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span></div></h4>
-                                                            <h4 class="plus color-primary">
-                                                                %
-                                                            </h4>
-                                                        </div> -->
-                                                        <h5 class="text">
-                                                        Investor-Ready Materials
-
-                                                        </h5>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="item-content">
-                                                <div class="text">
-We prepare everything you need to impress investors — from pitch decks to financial models — helping you lead confident, results-driven conversations that accelerate growth.                                            </div>
-                                                <div class="info-user">
-                                                <ul style="padding-left: 20px; font-size: 14px; color: #555;">
-          <!-- <li>
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          Investor pitch deck design & development</li>
-          <li> -->
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          Business plan and executive summary</li>
-          <li>
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          CFinancial model & valuation support</li>
-          <li>
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          Use of funds and cap table guidance</li>
-        </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide" role="group" aria-label="3 / 3" style="width: 410px; margin-right: 30px;">
-                                        <div class="testimonial-item">
-                                            <div class="testimonial-top">
-                                                <div class="counter-item">
-                                                    <div class="counter">
-                                                        <!-- <div class="number-counter">
-                                                            <h4 class="number color-primary odometer odometer-auto-theme" data-to="30" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">3</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span></div></h4>
-                                                            <h4 class="plus color-primary">
-                                                                %
-                                                            </h4>
-                                                        </div> -->
-                                                        <h5 class="text">
-                                                        Investor Outreach & Introductions
-                                                        </h5>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="item-content">
-                                                <div class="text">
-                                                Access our curated network of angel investors, venture capital firms, family offices, and strategic funds.
-                                                We facilitate warm introductions, investor shortlists, and pitch coordination.                                                </div>
-                                                <div class="info-user">
-                                                <ul style="padding-left: 20px; font-size: 14px; color: #555;">
-          <li>
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          Curated investor database</li>
-          <li>
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          PInvestor targeting strategy</li>
-          <li>
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  
-          Pitch scheduling & feedback support</li>
-        </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                            </div>
                         </div>
-                    </div>
-
- 
-
-
-
-                        </div>
-                    </div>
+                    </div><!-- /.main-content -->
                 </div>
-            </section><!-- /.section-services -->
+
+
+                <!-- *************************************** -->
+                <section style="background-color: #f9f9f9; padding: 60px 20px; font-family: Arial, sans-serif;">
+                <div style="max-width: 1200px; margin: 0 auto;">
+
+                    <!-- Section Heading -->
+                    <h2 style="color:var(--on-suface-container) !important;text-align: center; font-size: 36px;  margin-bottom: 50px;">
+                    What We Offer
+                    </h2>
+
+
+                    <div class="tf-container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="sw-case-studies swiper sw-layout swiper-backface-hidden swiper-initialized swiper-horizontal" data-preview="3" data-tablet="2" data-mobile-sm="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="10">
+                                    <div class="swiper-wrapper" id="swiper-wrapper-7d152a67e593c26a" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px); transition-delay: 0ms;">
+                                        <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 462px; margin-right: 30px;">
+                                            <div class="testimonial-item">
+                                                <div class="testimonial-top">
+                                                    <div class="counter-item">
+                                                        <div class="counter">
+                                                            <!-- <div class="number-counter">
+                                                                <h4 class="color-primary">₹</h4>
+                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
+                                                                <h4 class="plus color-primary">
+                                                                    Cr
+                                                                </h4>
+                                                            </div> -->
+                                                            <h6 class="text">
+                                                            Fundraising Strategy & Planning
+                                                            </h6>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="ite-content">
+                                                    <div class="text">
+                                                    Every successful round starts with the right strategy. We work with you to develop a capital raise roadmap — how much to raise, at what valuation, from whom, and for what purpose.                                                </div>
+                                                    <ul style="font-size: 14px; color: #555; list-style-type: disc; ">
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Capital planning and fund utilization strategy</li>
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Ideal investor profiling</li>
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Timeline and milestone mapping</li>
+                                                            </ul>
+                                                </div>
+                                            
+                                            </div>
+                                            
+                                        </div>
+
+
+                                        <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 462px; margin-right: 30px;">
+                                            <div class="testimonial-item">
+                                                <div class="testimonial-top">
+                                                    <div class="counter-item">
+                                                        <div class="counter">
+                                                            <!-- <div class="number-counter">
+                                                                <h4 class="color-primary">₹</h4>
+                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
+                                                                <h4 class="plus color-primary">
+                                                                    Cr
+                                                                </h4>
+                                                            </div> -->
+                                                            <h6 class="text">
+                                                            Investor-Ready Materials
+                                                            </h6>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="ite-content">
+                                                    <div class="text">
+                                                    We provide everything you need to confidently impress investors, showcase that  your vision complete, and spark meaningful that conversations that drive real opportunities.                                          </div>
+                                                    <ul style="font-size: 14px; color: #555; list-style-type: disc; ">
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Investor pitch deck design & development</li>
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Business plan and executive summary</li>
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Financial model & valuation support</li>
+                                                            <!-- <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Use of funds and cap table guidance</li> -->
+                                                            </ul>
+                                                </div>
+                                            
+                                            </div>
+                                            
+                                        </div>
+
+
+                                        <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 462px; margin-right: 30px;">
+                                            <div class="testimonial-item">
+                                                <div class="testimonial-top">
+                                                    <div class="counter-item">
+                                                        <div class="counter">
+                                                            <!-- <div class="number-counter">
+                                                                <h4 class="color-primary">₹</h4>
+                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
+                                                                <h4 class="plus color-primary">
+                                                                    Cr
+                                                                </h4>
+                                                            </div> -->
+                                                            <h6 class="text">
+                                                            Investor Outreach & Introductions
+                                                            </h6>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="ite-content">
+                                                    <div class="text">
+                                                    Access our curated network of angel investors, venture capital firms, family offices, and strategic funds.
+                                                    We facilitate warm introductions, investor shortlists, and pitch coordination.                  </div>
+                                                    <ul style="font-size: 14px; color: #555; list-style-type: disc; ">
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Curated investor database</li>
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Investor targeting strategy</li>
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Pitch scheduling & feedback support</li>
+                                                            </ul>
+                                                </div>
+                                            
+                                            </div>
+                                            
+                                        </div>
+
+
+                                        <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 462px; margin-right: 30px;">
+                                            <div class="testimonial-item">
+                                                <div class="testimonial-top">
+                                                    <div class="counter-item">
+                                                        <div class="counter">
+                                                            <!-- <div class="number-counter">
+                                                                <h4 class="color-primary">₹</h4>
+                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
+                                                                <h4 class="plus color-primary">
+                                                                    Cr
+                                                                </h4>
+                                                            </div> -->
+                                                            <h6 class="text">
+                                                            Deal Structuring & Negotiation Support
+                                                            </h6>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="ite-content">
+                                                    <div class="text">
+                                                    From term sheets to closing conversations, we provide expert advisory throughout the deal cycle to
+                                                    protect your equity and ensure founder-friendly terms.                                                    <ul style="font-size: 14px; color: #555; list-style-type: disc; ">
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Term sheet analysis</li>
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Equity and convertible instrument advisory</li>
+                                                            <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                                            <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+                                                            </svg>  
+                                                            Negotiation prep and investor communication</li>
+                                                            </ul>
+                                                </div>
+                                            
+                                            </div>
+                                            
+                                        </div>
+
+                                      
+
+
+
+                </div>
+            </section>
+
+  
 
 
 
@@ -450,164 +527,7 @@ We prepare everything you need to impress investors — from pitch decks to fina
             
 
 <!-- ******************************************************** -->
-
-<div style="margin:50px 200px" class="tf-contaier  position-relative">
-  <div class="row rg-30">
-  <h2 style="text-align: center; font-size: 36px; margin-bottom: 20px; font-weight: 700;">
-Our Strategic Focus Areas
-</h2>
-
-      <div class="col-md-3 " >
-          
-          <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
-              <div class="process-top">
-                  <div class="icon">
-                     <img src="../image/icon/strategy-development_4129547.png"  alt="">
-                  </div>
-                  <span class="label text-btn-uppercase">Marketing Strategy</span>
-              </div>
-              <div class="process-content">
-                  <h5>
-                      <a href="#" class="name-process">We help you reach the right audience with the right message at the right time.</a>
-                  </h5>
-                  <div class="desc">
-                  Our services include:
-                  </div>
-                  <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
-      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Go-to-market (GTM) planning</li>
-      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Brand positioning &amp; messaging frameworks</li>
-      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Digital &amp; content marketing strategy</li>
-      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Target audience profiling &amp; channel selection</li>
-      <li>  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg>  Lead generation and funnel design</li>
-    </ul>
-              </div>
-          </div>
-      </div>
-      <div class="col-md-3">
-          <div class="process-item bg-1 step-hover active" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; padding-bottom:54px">
-              <div class="process-top">
-                  <div class="icon">
-                     <img src="../image/icon/investment_2300422.png" alt="">
-                  </div>
-                  <span class="label text-btn-uppercase">Financing Strategy</span>
-              </div>
-              <div class="process-content">
-                  <h5>
-                      <a href="#" class="name-process">We prepare you for capital efficiency and investor readiness.</a>
-                  </h5>
-                  <div class="desc">
-                  Our services include:
-                  </div>
-                  <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Fundraising roadmaps and capital planning</li>
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Valuation support and cap table advisory</li>
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Financial structuring (equity, debt)</li>
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Financial modelling aligned with funding milestones</li>
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-</svg> Scenario planning and runway analysis</li>
-    </ul>
-              </div>
-          </div>
-      </div>
-      <div class="col-md-3">
-          <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;padding-bottom:54px">
-              <div class="process-top">
-                  <div class="icon">
-                      <img src="../image/icon/growth.png" alt="">
-                  </div>
-                  <span class="label text-btn-uppercase">Business Development Strategy</span>
-              </div>
-              <div class="process-content">
-                  <h5>
-                      <a href="#" class="name-process">We help unlock new revenue streams and partnerships.</a>
-                  </h5>
-                  <div class="desc">
-                  Our services include:
-
-                  </div>
-                          <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
-                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Sales strategy and market entry plans</li>
-                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Strategic partnerships and channel development</li>
-                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Product-market fit refinement</li>
-                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Pricing and revenue model optimization</li>
-                                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Client onboarding and retention planning</li>
-                              </ul>
-              </div>
-              
-          </div>
-      </div>
-      
-      <div class="col-md-3">
-          <div class="process-item bg-1 step-hover" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;padding-bottom:54px;">
-              <div class="process-top">
-                  <div class="icon">
-                   <img src="../image/icon/financial_4221500.png" alt="">
-                  </div>
-                  <span class="label text-btn-uppercase">Business Documentation Strategy</span>
-              </div>
-              <div class="process-content">
-                  <h5>
-                      <a href="#" class="name-process">    We create the critical documents needed to build trust and close deals.
-                      </a>
-                  </h5>
-                  <div class="desc">
-              
-                  Our services include:
-                  </div>
-                  <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Pitch decks and investor presentations</li>
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Business plans and executive summaries</li>
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Financial projections and use-of-funds documentation</li>
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Company profiles and service brochures</li>
-      <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
-                          </svg> Internal SOPs and operational playbooks</li>
-    </ul>
-              </div>
-              
-          </div>
-      </div>
-  </div>
-</div>
-
-
+=
             <!-- Section-process -->
             
 <section style="font-family: Arial, sans-serif; padding: 60px 20px; width: 100%; box-sizing: border-box;margin:auto">

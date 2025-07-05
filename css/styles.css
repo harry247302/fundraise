@@ -19,7 +19,7 @@
 /*--------- Abstracts variable ---------- */
 @import url("https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&amp;family=Geologica:wght@100..900&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Kumbh+Sans:wght@100..900&amp;family=Nunito:ital,wght@0,200..1000;1,200..1000&amp;family=Oxygen:wght@300;400;700&amp;family=Rethink+Sans:ital,wght@0,400..800;1,400..800&amp;family=SUSE:wght@100..800&amp;display=swap");
 :root {
-  --primary: #317C6F;
+  --primary: var(--on-suface-container) !important;
   --white: #ffffff;
   --black: #000000;
   --error: #C72929;
@@ -1196,8 +1196,8 @@ a:hover, a:focus {
   gap: 20px;
 }
 .header.style-1 {
-  background: var(--bg-1);
-  backdrop-filter: blur(20px);
+  background: darkgray;
+  /* backdrop-filter: blur(20px); */
 }
 .header.style-absolute {
   margin-bottom: -104px;
@@ -9666,9 +9666,9 @@ a.mapboxgl-ctrl-logo {
 }
 .preload-container .middle {
   top: 50%;
-  left: 50%;
+  left: 45%;
   position: absolute;
-  width: 100px;
+  width: 240px;
   height: 100px;
   z-index: 100;
   margin: -50px 0 0 -50px;

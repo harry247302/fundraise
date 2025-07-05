@@ -752,10 +752,10 @@
                                 </div>
                                 <div class="process-content">
                                     <h5 class="wow fadeInUp">
-                                        <a href="#" class="name-process">Assessment</a>
+                                        <a href="#" class="name-process">Discover</a>
                                     </h5>
                                     <div class="desc wow fadeInUp">
-                                        Gather client's financial information, goals, and needs.
+                                    We assess your business model, market potential, and funding readiness.
                                     </div>
                                 </div>
                             </div>
@@ -784,10 +784,10 @@
                                 </div>
                                 <div class="process-content">
                                     <h5 class="wow fadeInUp" data-wow-delay=".1s">
-                                        <a href="#" class="name-process">Goal Setting</a>
+                                        <a href="#" class="name-process"> Define</a>
                                     </h5>
                                     <div class="desc wow fadeInUp" data-wow-delay=".1s">
-                                        Define short-term and long-term financial objectives.
+                                    We align on clear growth goals and investor-focused objectives.
                                     </div>
                                 </div>
                             </div>
@@ -813,10 +813,10 @@
                                 </div>
                                 <div class="process-content">
                                     <h5 class="wow fadeInUp" data-wow-delay=".2s">
-                                        <a href="#" class="name-process">Plan Development</a>
+                                        <a href="#" class="name-process">Design </a>
                                     </h5>
                                     <div class="desc wow fadeInUp" data-wow-delay=".2s">
-                                        Create a customized financial strategy based on analysis.
+                                    We build tailored strategies, financial models, and compelling pitch assets.
                                     </div>
                                 </div>
                             </div>
@@ -841,10 +841,10 @@
                                 </div>
                                 <div class="process-content">
                                     <h5 class="wow fadeInUp" data-wow-delay=".3s">
-                                        <a href="#" class="name-process">Ongoing Review</a>
+                                        <a href="#" class="name-process">Drive </a>
                                     </h5>
                                     <div class="desc wow fadeInUp" data-wow-delay=".3s">
-                                        Implement the plan and regularly review progress for adjustments.
+                                    We support execution, track progress, and optimize for sustainable success.
                                     </div>
                                 </div>
                             </div>

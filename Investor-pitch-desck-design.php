@@ -515,51 +515,8 @@ We combine strategic messaging, compelling design, and market-aligned content to
                         </div>
                           
                         <div class="detalis-content mb-34">
-                                <h4 style="color:var(--primary); letter-spacing:2px;" class="title-content mb-16">
-                                    Results Achieved
-                                </h4>
-                                <div class="benefit-lists">
-                                    <div class="benefit-items">
-                                        <div class="icon">
-                                            <i class="icon-checkbox"></i>
-                                        </div>
-                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
-                                            Increased production efficiency by 30%, leading to faster turnaround times.
-                                        </div>
-                                    </div>
-                                    <div class="benefit-items">
-                                        <div class="icon">
-                                            <i class="icon-checkbox"></i>
-                                        </div>
-                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
-                                            Reduced operational costs by 20% through streamlined processes.
-                                        </div>
-                                    </div>
-                                    <div class="benefit-items">
-                                        <div class="icon">
-                                            <i class="icon-checkbox"></i>
-                                        </div>
-                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
-                                            Minimized downtime, enhancing product quality and consistency.
-                                        </div>
-                                    </div>
-                                    <div class="benefit-items">
-                                        <div class="icon">
-                                            <i class="icon-checkbox"></i>
-                                        </div>
-                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
-                                            Improved resource allocation, ensuring optimal use of materials and labor.
-                                        </div>
-                                    </div>
-                                    <div class="benefit-items">
-                                        <div class="icon">
-                                            <i class="icon-checkbox"></i>
-                                        </div>
-                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
-                                            Established a sustainable framework for ongoing operational improvements.
-                                        </div>
-                                    </div>
-                                </div>
+                             
+                              
                             </div>
                     </div>
                     <div class="col-lg-4">
@@ -902,74 +859,7 @@ We combine strategic messaging, compelling design, and market-aligned content to
 
 </section>
 
-
-
-<section style="
-  /* background: #121212; */
-  margin-top:50px;
-  /* padding: 80px 20px; */
-  /* font-family: 'Segoe UI', sans-serif; */
-  /* color: #fff; */
-">
-  <div style="max-width: 1300px; margin: auto;">
-
-    <!-- Heading -->
-    <div style="text-align: left; margin-bottom: 60px;">
-      <h2 style="font-size: 36px; font-weight: 500; margin-bottom: 20px;color:var(--primary); letter-spacing:2px;">Financial Modelling & Deck Design</h2>
-      <p style="font-size: 17px; color: black; line-height: 1.8; max-width: 800px; letter-spacing:2px;">
-        At Impact Nest, we build powerful, investor-ready financial models that bring structure to your growth story. Our models are strategic tools to project performance and validate value for investors.
-      </p>
-    </div>
-
-    <!-- Content Grid -->
-    <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
-      
-      <!-- What We Offer -->
-      <div style="
-        /* flex: 1 1 500px; */
-        /* background: rgba(255,255,255,0.05); */
-        /* border: 1px solid rgba(255,255,255,0.12); */
-        backdrop-filter: blur(14px);
-        border-radius: 12px;
-        /* padding: 30px; */
-        /* box-shadow: 0 8px 24px rgba(0,0,0,0.25); */
-      ">
-        <h3 style="font-size: 24px; font-weight: 500; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px; letter-spacing:2px;">What We Offer</h3>
-        <ul style="font-size: 15px; color: black; line-height: 1.7; padding-left: 18px;">
-          <li style="line-height:1.8;"><strong>Custom Financial Models</strong> – Tailored to your business model and goals.</li>
-          <li style="line-height:1.8;" ><strong>Forecasting</strong> – Dynamic cost and revenue projections.</li>
-          <li style="line-height:1.8;" ><strong>Scenario Analysis</strong> – Plan for best, base, and worst-case outcomes.</li>
-          <li style="line-height:1.8;" ><strong>Valuation Support</strong> – Estimate based on DCF, multiples, and industry data.</li>
-          <li style="line-height:1.8;" ><strong>Investor-Ready Outputs</strong> – Clean P&L, Balance Sheet, Cap Table, and more.</li>
-          <li style="line-height:1.8;" ><strong>Ongoing Iterations</strong> – Stay current with pitch updates and investor feedback.</li>
-        </ul>
-      </div>
-
-      <!-- Why It Matters -->
-      <div style="
-        flex: 1 1 500px;
-        background: rgba(255,255,255,0.05);
-        /* border: 1px solid rgba(255,255,255,0.12); */
-        /* backdrop-filter: blur(14px); */
-        /* border-radius: 12/px; */
-        /* padding: 30px; */
-        /* box-shadow: 0 8px 24px rgba(0,0,0,0.25); */
-      ">
-        <h3 style="font-size: 24px; font-weight: 500; border-left: 4px solid #fff; padding-left: 12px; margin-bottom: 20px; letter-spacing:2px;">Why Financial Modelling Matters</h3>
-        <ul style="font-size: 15px; color: black; line-height: 1.7; padding-left: 18px;">
-          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Informed Decisions</strong> – Rely on data, not gut feelings.</li>
-          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Investor Confidence</strong> – Build trust with clear, strong numbers.</li>
-          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Strategic Planning</strong> – Align operations with financial targets.</li>
-          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Risk Management</strong> – Spot weaknesses before they grow.</li>
-          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Goal Tracking</strong> – Stay aligned with your KPIs and pitch feedback.</li>
-          <li style="letter-spacing:0.5px; letter: height 1.8px;"><strong>Resilience Planning</strong> – Adapt fast with sensitivity models.</li>
-        </ul>
-      </div>
-
-    </div>
-  </div>
-</section>
-
+<!-- 
 
 
                         </div>
