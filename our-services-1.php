@@ -476,10 +476,10 @@
                                 </div>
                                 <div class="process-content">
                                     <h5>
-                                        <a href="#" class="name-process">Discovery & Analysis</a>
+                                        <a href="#" class="name-process">Discover</a>
                                     </h5>
                                     <div class="desc">
-                                        We assess your business and industry to identify challenges and opportunities.
+                                    We assess your business model, market potential, and funding readiness.
                                     </div>
                                 </div>
                             </div>
@@ -494,10 +494,10 @@
                                 </div>
                                 <div class="process-content">
                                     <h5>
-                                        <a href="#" class="name-process">Strategic Planning</a>
+                                        <a href="#" class="name-process">Define</a>
                                     </h5>
                                     <div class="desc">
-                                        We create a tailored strategy with actionable steps and clear objectives.
+                                    We align on clear growth goals and investor-focused objectives.
                                     </div>
                                 </div>
                             </div>
@@ -512,10 +512,28 @@
                                 </div>
                                 <div class="process-content">
                                     <h5>
-                                        <a href="#" class="name-process">Execution & Monitoring</a>
+                                        <a href="#" class="name-process">Design</a>
                                     </h5>
                                     <div class="desc">
-                                        We implement the plan, track progress, and adjust as needed to achieve your goals.
+                                    We build tailored strategies, financial models, and compelling pitch assets.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="process-item bg-1 step-hover">
+                                <div class="process-top">
+                                    <div class="icon">
+                                        <i class="icon-Briefcase"></i>
+                                    </div>
+                                    <span class="label text-btn-uppercase">Step 4</span>
+                                </div>
+                                <div class="process-content">
+                                    <h5>
+                                        <a href="#" class="name-process">Drive</a>
+                                    </h5>
+                                    <div class="desc">
+                                    We support execution, track progress, and optimize for sustainable success.
                                     </div>
                                 </div>
                             </div>
