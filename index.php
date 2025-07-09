@@ -374,7 +374,7 @@
                         </div>
                         <a href="#" class="title-box">Fundraising</a>
                         <div class="sub-title">
-                            <p>Empowering businesses to grow through strategic investments, innovative fundraising solutions, and sustainable financial planning </p>
+                            <p>Empowering businesses to grow through strategic investments, innovative fundraising solutions, and sustainable financial planning. </p>
                         </div>
 
                     </div>
@@ -630,7 +630,7 @@
                                                                 </svg>
                                                             </div>
                                                             <div class="title">
-                                                                EUse insights to guide budgeting, pricing, and growth strategies.
+                                                                Use insights to guide budgeting, pricing, and growth strategies.
                                                             </div>
                                                         </div>
                                                     </div>
@@ -659,7 +659,7 @@
                                                             At Impact Nest, we design powerful and visually compelling pitch decks that
                                                             effectively communicate your business story, value proposition, and growth potential. Our decks are
                                                             crafted to capture investor attention and drive engagement.
-                                                            investors.
+                                                
                                                         </div>
                                                     </div>
                                                     <div class="benefit-lists">
@@ -1095,8 +1095,8 @@
                                                                     <img
                                                                         src="/image/icon/mufin_green_infra_logo.jpeg"
                                                                         alt="Bluetrans"
-                                                                        style="border: 0px solid red; width: 40px; height: auto;" />
-                                                                    <h5 class="text" style="margin-top:15px">Mufin Green Infra</h5>
+                                                                        style="border: 0px solid red; width: 30px; margin-top:10px; height: auto;" />
+                                                                    <h5 class="text" style="margin-top:15px; margin-bottom: 0px;">Mufin Green Infra</h5>
 
                                                                     <!-- Number + % -->
                                                                     <!-- <h4 style="">Rs  </h4> -->
@@ -1157,9 +1157,9 @@
                                                                     <img
                                                                         src="/image/icon/bluetrans.png"
                                                                         alt="Bluetrans"
-                                                                        style="border: 0px solid red; width: 100px; height: 45px;" />
+                                                                        style="border: 0px solid red; width: 100px; height: 45px; margin-bottom: 8px;" />
 
-                                                                    <h5 class="text" style="margin-top: 25px;">&nbsp;&nbsp;Bluetrans</h5>
+                                                                    <h5 class="text" style="margin-top: 15px; margin-bottom: 0px;">&nbsp;&nbsp;Bluetrans</h5>
                                                                     <!-- Number + % -->
                                                                     <div style="display: flex; align-items: center;">
                                                                         <h4
@@ -1218,9 +1218,9 @@
                                                                     <img
                                                                         src="/image/icon/swap.png"
                                                                         alt="Bluetrans"
-                                                                        style="border: 0px solid red; width: 50px; height: auto;" />
+                                                                        style="border: 0px solid red; width: 30px; height: auto;" />
 
-                                                                    <h5 class="text" style="margin-top: 10px;">&nbsp;&nbsp;Swap India</h5>
+                                                                    <h5 class="text" style="margin-top: 15px; margin-bottom: 0px;">&nbsp;&nbsp;Swap India</h5>
                                                                     <!-- Number + % -->
                                                                     <div style="display: flex; align-items: center;">
                                                                         <h4
@@ -1350,7 +1350,7 @@
                                             <h5><a href="#according-5" data-bs-toggle="collapse" class="title-according collapsed">Do I need a strategy document or just a pitch deck?<span></span></a></h5>
                                             <div id="according-5" class="collapse" data-bs-parent="#According">
                                                 <div class="according-content">
-                                                    <p>IA pitch deck tells your story, but a tailored strategy ensures long-term growth. We help you with
+                                                    <p>A pitch deck tells your story, but a tailored strategy ensures long-term growth. We help you with
                                                         both to align vision and execution.</p>
                                                 </div>
                                             </div>

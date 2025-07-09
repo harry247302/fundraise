@@ -125,12 +125,12 @@
                         <div class="image-blog">
 
                         </div>
-                        <div class="desc-blog ">
+                        <!-- <div class="desc-blog ">
 
 
                             <div class="d-block counter text-center">
 
-                                <!-- <h5 class="text fw-bold">What We Offer</h5> -->
+                               
                                 <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
                                     Empowering Visionaries. Accelerating Growth.
                                 </h3>
@@ -142,7 +142,7 @@
                             </p>
 
 
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div><!-- /.main-content -->
@@ -218,7 +218,7 @@
                             <div class="item-content mt-2">
                                 <div class="text">
 
-                                    At the heart of Impact Nest are our core values: <strong>Commitment</strong> to every client’s journey, <strong>Innovation</strong> in every solution we offer, and <strong>Expertise</strong> that drives informed decisions. integrity, collaboration, and a results-driven mindset. These values shape our work, our relationships,
+                                    At the heart of Impact Nest are our core values: <strong>Commitment</strong> to every client’s journey, <strong>Innovation</strong> in every solution we offer, and <strong>Expertise</strong> that drives informed decisions. We believe in integrity, collaboration, and a results-driven mindset. These values shape our work, our relationships,
                                     and the success we help create for each business we support.
                                 </div>
                             </div>
@@ -312,7 +312,7 @@
                 <!-- Right Content -->
                 <div style="flex: 1 1 500px; padding: 10px;">
                     <h4 style="font-size: 30px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;" class="flex">
-                        Empowering Visionaries Accelerating Growth.
+                        Empowering Visionaries. Accelerating Growth.
                     </h4>
                     <p class="text-secondary" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: justify;">
                         At Impact Nest, we partner with startups and growth-stage companies to unlock their true potential
