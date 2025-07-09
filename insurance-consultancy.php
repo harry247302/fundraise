@@ -1055,7 +1055,7 @@
                             </div>
                             <h3 class="title-section wow fadeInUp mb-12">Meet Our Experts</h3>
                             <div class="sub-title body-2 wow fadeInUp">
-                                Our expert team is here to drive your success with
+                                Our Experts team is here to drive your success with
                                 <br>tailored, innovative solutions.
                             </div>
                         </div>

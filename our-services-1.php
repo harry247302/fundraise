@@ -661,149 +661,52 @@
                     </button>
                 </div>
                 <nav class="mobile-main-nav">
-                    <ul id="menu-mobile" class="menu">
-                        <li class="menu-item menu-item-has-children-mobile">
-                            <a href="#dropdown-menu-1" data-bs-toggle="collapse" class="collapsed">Home
-                            </a>
-                            <div id="dropdown-menu-1" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item"><a href="index-2.php">Financial Planning</a></li>
-                                    <li class="menu-item"><a href="consulting-agency.php">Consulting Agency</a></li>
-                                    <li class="menu-item"><a href="strategy-consulting.php">Strategy Consulting</a></li>
-                                    <li class="menu-item"><a href="digital-transformation.php">Digital Transformation</a></li>
-                                    <li class="menu-item"><a href="marketing-consulting.php">Marketing Consulting</a></li>
-                                    <li class="menu-item"><a href="insurance-consultancy.php">Insurance Consultancy</a></li>
-                                    <li class="menu-item"><a href="tax-advisory.php">Tax Advisory</a></li>
-                                    <li class="menu-item"><a href="it-consulting.php">It Consulting</a></li>
-                                    <li class="menu-item"><a href="home-LTR.php">Home LTR</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile current-menu-mobile-item">
-                            <a href="#dropdown-menu-2" data-bs-toggle="collapse" class="collapsed">Services
-                            </a>
-                            <div id="dropdown-menu-2" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item current-menu-mobile-item"><a href="our-services-1.php">Our Services 1</a></li>
-                                    <li class="menu-item"><a href="our-services-2.php">Our Services 2</a></li>
-                                    <li class="menu-item"><a href="services-details-1.php">Services Details 1</a>
-                                    </li>
-                                    <li class="menu-item"><a href="services-details-2.php">Services Details 2</a>
-                                    </li>
-                                    <li class="menu-item"><a href="services-details-3.php">Services Details 3</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile">
-                            <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Case</a>
-                            <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item"><a href="case-studies-1.php">Case Studies 1</a></li>
-                                    <li class="menu-item"><a href="case-studies-2.php">Case Studies 2</a></li>
-                                    <li class="menu-item"><a href="case-studies-details.php">Case Studies
-                                            Details</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile">
-                            <a href="#dropdown-menu-4" data-bs-toggle="collapse" class="collapsed">Pages</a>
-                            <div id="dropdown-menu-4" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item"><a href="about-us.php">About Us</a></li>
-                                    <li class="menu-item"><a href="our-teams.php">Our Teams</a></li>
-                                    <li class="menu-item"><a href="industries.php">Industries</a></li>
-                                    <li class="menu-item"><a href="pricing.php">Pricing</a></li>
-                                    <li class="menu-item"><a href="testimonials.php">Testimonials</a></li>
-                                    <li class="menu-item"><a href="gallery.php">Gallery</a></li>
-                                    <li class="menu-item"><a href="faq.php">Faq</a></li>
-                                    <li class="menu-item"><a href="career.php">Career</a></li>
-                                    <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li>
-                                    <li class="menu-item"><a href="404.php">404 Error</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile">
-                            <a href="#sub-product-5" data-bs-toggle="collapse" class="collapsed">Our Store</a>
-                            <div id="sub-product-5" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item"><a href="products.php">Products</a></li>
-                                    <li class="menu-item"><a href="products-details.php">Product Details</a></li>
-                                    <li class="menu-item"><a href="shopping-cart.php">Shopping Cart</a></li>
-                                    <li class="menu-item"><a href="check-out.php">Check Out</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile current-menu-item">
-                            <a href="#dropdown-menu-6" data-bs-toggle="collapse" class="collapsed">Blog</a>
-                            <div id="dropdown-menu-6" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item current-item"><a href="blog-right-sidebar.php">Blog Right
-                                            Sidebar</a></li>
-                                    <li class="menu-item"><a href="blog-left-sidebar.php">Blog Left Sidebar</a>
-                                    </li>
-                                    <li class="menu-item"><a href="blog-no-sidebar.php">Blog No Sidebarr</a></li>
-                                    <li class="menu-item"><a href="blog-details-1.php">Blog Details 1</a></li>
-                                    <li class="menu-item"><a href="blog-details-2.php">Blog Details 2</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item">
-                            <a href="contact-us.php">Contact Us</a>
-                        </li>
-                    </ul>
-                    <div class="contact-mobile">
-                        <h6 class="title-contact-mobile">Contact Info</h6>
-                        <div class="content-contact-moblile">
-                            <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
-                        </div>
-                        <div class="content-contact-moblile">
-                            <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
-                        </div>
-                        <div class="content-contact-moblile">
-                            <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
-                        </div>
-                        <div class="content-contact-moblile">
-                            <ul class="tf-social style-border radius-50 g-8 style-2 color-on-suface-container">
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-messenger"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-x"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-ig1"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-skype"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-telegram"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </nav>
+             <ul id="menu-mobile" class="menu">
+                 <li>
+                     <a href="/">Home
+                     </a>
+
+                 </li>
+                 <li>
+                     <a href="/about-us.php">About
+                     </a>
+                 </li>
+                 <li class="menu-item menu-item-has-children-mobile">
+                     <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
+                     <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                         <ul class="sub-menu-mobile">
+                             <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
+                             <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
+                             <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
+                             <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
+                         </ul>
+                     </div>
+                 </li>
+                 <li>
+                     <a href="/our-teams-industry.php">Team</a>
+
+                 </li>
+                 <li>
+                     <a href="/our-expert.php">Our Experts</a>
+                 </li>
+                 <li>
+                     <a href="/contact-us.php">Contact</a>
+                 </li>
+             </ul>
+             <div class="contact-mobile">
+                 <h6 class="title-contact-mobile">Contact Info</h6>
+                 <div class="content-contact-moblile">
+                     <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
+                 </div>
+                 <div class="content-contact-moblile">
+                     <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
+                 </div>
+                 <div class="content-contact-moblile">
+                     <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
+                 </div>
+
+             </div>
+         </nav>
             </div>
         </div><!-- /.mobile-nav-wrap -->
 
