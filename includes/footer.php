@@ -10,33 +10,7 @@
                                  <img style="width: 200px; " src="image/logo/logo-footer.png" alt="">
                              </a>
                          </div>
-                         <!-- <div class="text caption-1">
-                                    Welcome to your trusted financial partner! Explore
-                                    <br>personalized strategies and expert guidance to secure
-                                    <br>your financial future and achieve success.
-                                </div> -->
-                         <!-- <div class="contact-footer">
-                                    <div class="address contact-top contact-footer-content">
-                                        <p class="caption-2">
-                                            Our address
-                                        </p>
-                                        <a href="#">101 E 129th St, East Chicago, IN 46312, US</a>
-                                    </div>
-                                    <div class="contact-bottom">
-                                        <div class="contact-footer-content">
-                                            <p class="caption-2">
-                                                Support 24/7
-                                            </p>
-                                            <a href="#">+91-9971645151</a>
-                                        </div>
-                                        <div class="contact-footer-content">
-                                            <p class="caption-2">
-                                                Email Address
-                                            </p>
-                                            <a href="#">contact@panapadvisors.com</a>
-                                        </div>
-                                    </div>
-                                </div> -->
+
                      </div>
                      <div class="footer-center">
                          <div class="footer-content our-services footer-col-block">
@@ -65,33 +39,10 @@
 
                                              Services
 
-                                             <!-- Fund Raising
-Tailored Strategies
-Financial Modelling
-Deck Design -->
+
                                          </a>
                                      </li>
-                                     <!-- <li class="support-item-footer caption-1">
-                                        <a style="font-weight:600;color:black" href="about-us.php">
 
-                                        Tailored Strategies
-
-                                         </a></li>
-                                         </a></li>
-                                         <li class="support-item-footer caption-1">
-                                        <a style="font-weight:600;color:black" href="about-us.php">
-
-                                        Financial Modelling
-
-                                         </a></li>
-                                         <li class="support-item-footer caption-1">
-                                        <a style="font-weight:600;color:black" href="about-us.php">
-                                        Deck Design
-
-                                         </a></li> -->
-
-                                     <!-- <li class="support-item-footer caption-1"><a href="our-teams.php">Our Team</a></li> -->
-                                     <!-- <li class="support-item-footer caption-1" style="color:black"><a href="#">Team Teams & Our Experts</a></li> -->
                                      <li class="support-item-footer caption-1" style="color:black"><a style="font-weight:600;color:black" href="our-teams-industry.php">
                                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people-fill" viewBox="0 0 16 16">
                                                  <path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5.784 6A2.24 2.24 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.3 6.3 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1zM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5" />
@@ -132,14 +83,11 @@ Deck Design -->
                          <div class="footer-content our-services footer-col-block">
                              <div class=" text-btn-uppercase">
                                  <p style="font-weight:600;color:black">Contact</p>
-                                 <!-- <i class="icon-arrow-51"></i> -->
+
                              </div>
                              <div class="contact-footer">
                                  <div class="address contact-top contact-footer-content">
-                                     <!-- <p style="font-weight:600; color:black">
 
-                                         Our address
-                                     </p> -->
 
                                      <a style="color:black" href="#" class="mt-5">
                                          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt" viewBox="0 0 16 16">
@@ -150,12 +98,7 @@ Deck Design -->
                                  </div>
                                  <div class="contact-bottom mt-4">
                                      <div class="contact-footer-content">
-                                         <!-- <p style="font-weight:600;color:black">
-                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-gear" viewBox="0 0 16 16">
-                                                 <path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-9 8c0 1 1 1 1 1h5.256A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1 1.544-3.393Q8.844 9.002 8 9c-5 0-6 3-6 4m9.886-3.54c.18-.613 1.048-.613 1.229 0l.043.148a.64.64 0 0 0 .921.382l.136-.074c.561-.306 1.175.308.87.869l-.075.136a.64.64 0 0 0 .382.92l.149.045c.612.18.612 1.048 0 1.229l-.15.043a.64.64 0 0 0-.38.921l.074.136c.305.561-.309 1.175-.87.87l-.136-.075a.64.64 0 0 0-.92.382l-.045.149c-.18.612-1.048.612-1.229 0l-.043-.15a.64.64 0 0 0-.921-.38l-.136.074c-.561.305-1.175-.309-.87-.87l.075-.136a.64.64 0 0 0-.382-.92l-.148-.045c-.613-.18-.613-1.048 0-1.229l.148-.043a.64.64 0 0 0 .382-.921l-.074-.136c-.306-.561.308-1.175.869-.87l.136.075a.64.64 0 0 0 .92-.382zM14 12.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0" />
-                                             </svg>
-                                             Support 24/7
-                                         </p> -->
+
                                          <a style="color:black" href="#">
                                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
                                                  <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z" />
@@ -165,13 +108,7 @@ Deck Design -->
                                              +91-9971645151</a>
                                      </div>
                                      <div class="contact-footer-content mt-4">
-                                         <!-- <p style="font-weight:600;color:black">
-                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-at" viewBox="0 0 16 16">
-                                                 <path d="M2 2a2 2 0 0 0-2 2v8.01A2 2 0 0 0 2 14h5.5a.5.5 0 0 0 0-1H2a1 1 0 0 1-.966-.741l5.64-3.471L8 9.583l7-4.2V8.5a.5.5 0 0 0 1 0V4a2 2 0 0 0-2-2zm3.708 6.208L1 11.105V5.383zM1 4.217V4a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v.217l-7 4.2z" />
-                                                 <path d="M14.247 14.269c1.01 0 1.587-.857 1.587-2.025v-.21C15.834 10.43 14.64 9 12.52 9h-.035C10.42 9 9 10.36 9 12.432v.214C9 14.82 10.438 16 12.358 16h.044c.594 0 1.018-.074 1.237-.175v-.73c-.245.11-.673.18-1.18.18h-.044c-1.334 0-2.571-.788-2.571-2.655v-.157c0-1.657 1.058-2.724 2.64-2.724h.04c1.535 0 2.484 1.05 2.484 2.326v.118c0 .975-.324 1.39-.639 1.39-.232 0-.41-.148-.41-.42v-2.19h-.906v.569h-.03c-.084-.298-.368-.63-.954-.63-.778 0-1.259.555-1.259 1.4v.528c0 .892.49 1.434 1.26 1.434.471 0 .896-.227 1.014-.643h.043c.118.42.617.648 1.12.648m-2.453-1.588v-.227c0-.546.227-.791.573-.791.297 0 .572.192.572.708v.367c0 .573-.253.744-.564.744-.354 0-.581-.215-.581-.8Z" />
-                                             </svg>
-                                             Email Address
-                                         </p> -->
+
                                          <a style="color:black" href="#">
                                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-at" viewBox="0 0 16 16">
                                                  <path d="M2 2a2 2 0 0 0-2 2v8.01A2 2 0 0 0 2 14h5.5a.5.5 0 0 0 0-1H2a1 1 0 0 1-.966-.741l5.64-3.471L8 9.583l7-4.2V8.5a.5.5 0 0 0 1 0V4a2 2 0 0 0-2-2zm3.708 6.208L1 11.105V5.383zM1 4.217V4a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v.217l-7 4.2z" />
@@ -180,13 +117,7 @@ Deck Design -->
                                              contact@panapadvisors.com</a>
                                      </div>
                                      <div class="contact-footer-content mt-4">
-                                         <!-- <p style="font-weight:600;color:black">
-                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-at" viewBox="0 0 16 16">
-                                                 <path d="M2 2a2 2 0 0 0-2 2v8.01A2 2 0 0 0 2 14h5.5a.5.5 0 0 0 0-1H2a1 1 0 0 1-.966-.741l5.64-3.471L8 9.583l7-4.2V8.5a.5.5 0 0 0 1 0V4a2 2 0 0 0-2-2zm3.708 6.208L1 11.105V5.383zM1 4.217V4a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v.217l-7 4.2z" />
-                                                 <path d="M14.247 14.269c1.01 0 1.587-.857 1.587-2.025v-.21C15.834 10.43 14.64 9 12.52 9h-.035C10.42 9 9 10.36 9 12.432v.214C9 14.82 10.438 16 12.358 16h.044c.594 0 1.018-.074 1.237-.175v-.73c-.245.11-.673.18-1.18.18h-.044c-1.334 0-2.571-.788-2.571-2.655v-.157c0-1.657 1.058-2.724 2.64-2.724h.04c1.535 0 2.484 1.05 2.484 2.326v.118c0 .975-.324 1.39-.639 1.39-.232 0-.41-.148-.41-.42v-2.19h-.906v.569h-.03c-.084-.298-.368-.63-.954-.63-.778 0-1.259.555-1.259 1.4v.528c0 .892.49 1.434 1.26 1.434.471 0 .896-.227 1.014-.643h.043c.118.42.617.648 1.12.648m-2.453-1.588v-.227c0-.546.227-.791.573-.791.297 0 .572.192.572.708v.367c0 .573-.253.744-.564.744-.354 0-.581-.215-.581-.8Z" />
-                                             </svg>
-                                             Email Address
-                                         </p> -->
+
                                          <a style="color:black" href="">
                                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
                                                  <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
@@ -196,61 +127,7 @@ Deck Design -->
                                  </div>
                              </div>
                          </div>
-                         <!-- <div class="footer-subscribe">
-                                    <div class="label text-btn-uppercase">
-                                        Subscribe for all the top news!
-                                    </div>
-                                    <fieldset>
-                                        <input type="text" placeholder="Enter your email address">
-                                        <a href="#" class="tf-btn-newsletter"><i class="icon-PaperPlaneTilt"></i></a>
-                                    </fieldset>
-                                    <div class="text caption-2">
-                                        Sign up for updates on our latest news and events. No spam, just valuable
-                                        insights!
-                                    </div>
-                                </div>
-                                <div class="footer-social">
-                                    <div class="title-footer">
-                                        Follow Us:
-                                    </div>
-                                    <ul class="tf-social style-border radius-50 g-8 style-2">
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-messenger"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-x"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-ig1"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-skype"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-telegram"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div> -->
+
                      </div>
                  </div>
              </div>
@@ -292,94 +169,35 @@ Deck Design -->
          </div>
          <nav class="mobile-main-nav">
              <ul id="menu-mobile" class="menu">
-                 <li class="menu-item menu-item-has-children-mobile current-menu-mobile-item">
-                     <a href="#dropdown-menu-1" data-bs-toggle="collapse" class="collapsed">Home
+                 <li>
+                     <a href="/">Home
                      </a>
-                     <div id="dropdown-menu-1" class="collapse" data-bs-parent="#menu-mobile">
-                         <ul class="sub-menu-mobile">
-                             <li class="menu-item current-menu-mobile-item"><a href="index-2.php">Financial Planning</a></li>
-                             <li class="menu-item"><a href="consulting-agency.php">Consulting Agency</a></li>
-                             <li class="menu-item"><a href="strategy-consulting.php">Strategy Consulting</a></li>
-                             <li class="menu-item"><a href="digital-transformation.php">Digital Transformation</a></li>
-                             <li class="menu-item"><a href="marketing-consulting.php">Marketing Consulting</a></li>
-                             <li class="menu-item"><a href="insurance-consultancy.php">Insurance Consultancy</a></li>
-                             <li class="menu-item"><a href="tax-advisory.php">Tax Advisory</a></li>
-                             <li class="menu-item"><a href="it-consulting.php">It Consulting</a></li>
-                             <li class="menu-item"><a href="home-LTR.php">Home LTR</a></li>
-                         </ul>
-                     </div>
+
+                 </li>
+                 <li>
+                     <a href="/about-us.php">About
+                     </a>
                  </li>
                  <li class="menu-item menu-item-has-children-mobile">
-                     <a href="#dropdown-menu-2" data-bs-toggle="collapse" class="collapsed">Services
-                     </a>
-                     <div id="dropdown-menu-2" class="collapse" data-bs-parent="#menu-mobile">
-                         <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="our-services-1.php">Our Services 1</a></li>
-                             <li class="menu-item"><a href="our-services-2.php">Our Services 2</a></li>
-                             <li class="menu-item"><a href="services-details-1.php">Services Details 1</a>
-                             </li>
-                             <li class="menu-item"><a href="services-details-2.php">Services Details 2</a>
-                             </li>
-                             <li class="menu-item"><a href="services-details-3.php">Services Details 3</a>
-                             </li>
-                         </ul>
-                     </div>
-                 </li>
-                 <li class="menu-item menu-item-has-children-mobile">
-                     <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Case</a>
+                     <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
                      <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
                          <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="case-studies-1.php">Case Studies 1</a></li>
-                             <li class="menu-item"><a href="case-studies-2.php">Case Studies 2</a></li>
-                             <li class="menu-item"><a href="case-studies-details.php">Case Studies
-                                     Details</a></li>
+                             <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
+                             <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
+                             <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
+                             <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
                          </ul>
                      </div>
                  </li>
-                 <li class="menu-item menu-item-has-children-mobile">
-                     <a href="#dropdown-menu-4" data-bs-toggle="collapse" class="collapsed">Pages</a>
-                     <div id="dropdown-menu-4" class="collapse" data-bs-parent="#menu-mobile">
-                         <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="about-us.php">About Us</a></li>
-                             <li class="menu-item"><a href="our-teams.php">Our Teams Industries & Industries </a></li>
-                             <!-- <li class="menu-item"><a href="industries.php">Industries</a></li> -->
-                             <!-- <li class="menu-item"><a href="pricing.php">Pricing</a></li> -->
-                             <!-- <li class="menu-item"><a href="testimonials.php">Testimonials</a></li> -->
-                             <!-- <li class="menu-item"><a href="gallery.php">Gallery</a></li> -->
-                             <li class="menu-item"><a href="faq.php">Faq</a></li>
-                             <!-- <li class="menu-item"><a href="career.php">Career</a></li> -->
-                             <!-- <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li> -->
-                             <!-- <li class="menu-item"><a href="404.php">404 Error</a></li> -->
-                         </ul>
-                     </div>
+                 <li>
+                     <a href="/our-teams-industry.php">Team</a>
+
                  </li>
-                 <li class="menu-item menu-item-has-children-mobile">
-                     <a href="#sub-product-5" data-bs-toggle="collapse" class="collapsed">Our Store</a>
-                     <div id="sub-product-5" class="collapse" data-bs-parent="#menu-mobile">
-                         <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="products.php">Products</a></li>
-                             <li class="menu-item"><a href="products-details.php">Product Details</a></li>
-                             <li class="menu-item"><a href="shopping-cart.php">Shopping Cart</a></li>
-                             <li class="menu-item"><a href="check-out.php">Check Out</a></li>
-                         </ul>
-                     </div>
+                 <li>
+                     <a href="/our-expert.php">Our Experts</a>
                  </li>
-                 <li class="menu-item menu-item-has-children-mobile current-menu-item">
-                     <a href="#dropdown-menu-6" data-bs-toggle="collapse" class="collapsed">Blog</a>
-                     <div id="dropdown-menu-6" class="collapse" data-bs-parent="#menu-mobile">
-                         <ul class="sub-menu-mobile">
-                             <li class="menu-item current-item"><a href="blog-right-sidebar.php">Blog Right
-                                     Sidebar</a></li>
-                             <li class="menu-item"><a href="blog-left-sidebar.php">Blog Left Sidebar</a>
-                             </li>
-                             <li class="menu-item"><a href="blog-no-sidebar.php">Blog No Sidebarr</a></li>
-                             <li class="menu-item"><a href="blog-details-1.php">Blog Details 1</a></li>
-                             <li class="menu-item"><a href="blog-details-2.php">Blog Details 2</a></li>
-                         </ul>
-                     </div>
-                 </li>
-                 <li class="menu-item">
-                     <a href="contact-us.php">Contact Us</a>
+                 <li>
+                     <a href="/contact-us.php">Contact</a>
                  </li>
              </ul>
              <div class="contact-mobile">
@@ -388,50 +206,12 @@ Deck Design -->
                      <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
                  </div>
                  <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-Envelope"></i>contact@panapadvisors.com</a>
+                     <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
                  </div>
                  <div class="content-contact-moblile">
                      <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
                  </div>
-                 <div class="content-contact-moblile">
-                     <ul class="tf-social style-border radius-50 g-8 style-2 color-on-suface-container">
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-messenger"></i>
-                                 </div>
-                             </a>
-                         </li>
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-x"></i>
-                                 </div>
-                             </a>
-                         </li>
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-ig1"></i>
-                                 </div>
-                             </a>
-                         </li>
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-skype"></i>
-                                 </div>
-                             </a>
-                         </li>
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-telegram"></i>
-                                 </div>
-                             </a>
-                         </li>
-                     </ul>
-                 </div>
+
              </div>
          </nav>
      </div>

@@ -9669,20 +9669,23 @@ a.mapboxgl-ctrl-logo {
   top: 0px;
   left: 0px;
   z-index: 999999999999999;
-  height: 100%;
-  width: 100%;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: var(--white);
 }
 .preload-container .middle {
-  top: 50%;
-  left: 45%;
-  position: absolute;
+  /* top: 50%;
+  left: 50%;
+  position: absolute; */
   width: 240px;
   height: 100px;
   z-index: 100;
-  margin: -50px 0 0 -50px;
+  /* margin: -50px 0 0 -50px; */
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center;
   background-size: contain;
   content: url(../image/logo/preload.png);
   animation: tf-preload 1.2s linear infinite alternate;
@@ -12488,19 +12491,19 @@ a.mapboxgl-ctrl-logo {
     padding-bottom: 60px;
   }
   h1 {
-    font-size: 50px !important;
+    font-size: 50px ;
     line-height: 55px !important;
   }
   h2 {
-    font-size: 45px !important;
+    font-size: 45px ;
     line-height: 50px !important;
   }
   h3 {
-    font-size: 40px !important;
+    font-size: 40px;
     line-height: 45px !important;
   }
   h4 {
-    font-size: 30px !important;
+    font-size: 30px ;
     line-height: 35px !important;
   }
   .section-awards.h-4 {
@@ -12787,7 +12790,7 @@ a.mapboxgl-ctrl-logo {
     display: none;
   }
   .blog-details-2-content {
-    padding: 60px 0 60px;
+    /* padding: 60px 0 60px; */
     margin-top: 0;
   }
   .layout-grid-3 {
@@ -14820,6 +14823,10 @@ span.space {
     bottom: 0;
     z-index: 9999999;
     overflow: hidden;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
 }
 
 .loading-container {
