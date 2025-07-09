@@ -6,17 +6,17 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:53:41 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:53:41 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        FinWice - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting - HTML Template
     </title>
-    <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
-    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
+    <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
+    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
 
     <!-- Mobile Specific Metas -->
@@ -101,60 +101,62 @@
         <div class="main-content">
 
 
-        <div class="contact-section" style="background: rgba(250,250,250,0.95); padding: 80px 0 60px 0;">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0">
-                    <div class="contact-info animate fadeInLeft wow animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInLeft;">
-                        <div class="heading-box mb-4">
-                            <span class="sub-title animate fadeInUp wow animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">Contact</span>
-                            <h2 class="heading-title animate fadeInUp wow animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">Let's Connect</h2>
-                            <p class="text-muted">Get a free business consultation today or simply send us your query.</p>
+            <div class="contact-section" style="background: rgba(250,250,250,0.95); padding: 80px 0 60px 0;">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0">
+                            <div class="contact-info animate fadeInLeft wow animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInLeft;">
+                                <div class="heading-box mb-4">
+                                    <span class="sub-title animate fadeInUp wow animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">Contact</span>
+                                    <h2 class="heading-title animate fadeInUp wow animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">Let's Connect</h2>
+                                    <p class="text-muted">Get a free business consultation today or simply send us your query.</p>
+                                </div>
+                                <ul class="list-unstyled">
+                                    <li class="d-flex align-items-start mb-4">
+                                        <img src="./image/icon/location.png" alt="icon" class="me-3" style="width: 32px;">
+                                        <div>
+                                            <h6 class="mb-1">Address</h6>
+                                            <p class="mb-0">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex align-items-start mb-4">
+                                        <img src="./image/icon/envelope.png" alt="icon" class="me-3" style="width: 32px;">
+                                        <div>
+                                            <h6 class="mb-1">Mail address</h6>
+                                            <a href="mailto:contact@panapadvisors.com">contact@panapadvisors.com</a>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex align-items-start mb-4">
+                                        <img src="./image/icon/phone-contact.png" style="width: 32px;">
+                                        <div>
+                                            <h6 class="mb-1">Phone</h6>
+                                            <a href="tel:+919971645151">+91-9971645151</a>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex align-items-start mb-4">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+                                            <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
+                                        </svg>
+                                        <div>
+                                            <h6 class="mb-1">LinkedIn</h6>
+                                            <a href="https://www.linkedin.com/company/leasegrid/">Leasegrid</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                        <ul class="list-unstyled">
-                            <li class="d-flex align-items-start mb-4">
-                                <img src="./image/icon/location.png" alt="icon" class="me-3" style="width: 32px;">
-                                <div>
-                                    <h6 class="mb-1">Address</h6>
-                                    <p class="mb-0">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
+                        <div class="col-xl-7 col-lg-6">
+                            <div class="contact-form animate fadeInRight wow p-4 p-md-5 shadow-lg rounded-4 bg-white animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="border: 1px solid rgb(234, 234, 234); box-shadow: rgba(0, 0, 0, 0.08) 0px 10px 40px !important; visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInRight;">
+                                <div class="section-title mb-4">
+                                    <h3 class="text-dark" style="font-weight: 600;">Get in Touch</h3>
+                                    <p class="text-muted mb-0">Fill out the form below and we'll get back to you shortly.</p>
                                 </div>
-                            </li>
-                            <li class="d-flex align-items-start mb-4">
-                                <img src="./image/icon/envelope.png" alt="icon" class="me-3" style="width: 32px;">
-                                <div>
-                                    <h6 class="mb-1">Mail address</h6>
-                                    <a href="mailto:contact@panapadvisors.com">contact@panapadvisors.com</a>
-                                </div>
-                            </li>
-                            <li class="d-flex align-items-start mb-4">
-                                <img src="./image/icon/phone-contact.png"  style="width: 32px;">
-                                <div>
-                                    <h6 class="mb-1">Phone</h6>
-                                    <a href="tel:+919971645151">+91-9971645151</a>
-                                </div>
-                            </li>
-                            <li class="d-flex align-items-start mb-4">
-                               <img src="./image/icon/linkedIn.png" style="width:30px" alt="">
-                                <div>
-                                    <h6 class="mb-1">LinkedIn</h6>
-                                    <a href="https://www.linkedin.com/company/leasegrid/">Leasegrid</a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-7 col-lg-6">
-                    <div class="contact-form animate fadeInRight wow p-4 p-md-5 shadow-lg rounded-4 bg-white animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="border: 1px solid rgb(234, 234, 234); box-shadow: rgba(0, 0, 0, 0.08) 0px 10px 40px !important; visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInRight;">
-                        <div class="section-title mb-4">
-                            <h3 class="text-dark" style="font-weight: 600;">Get in Touch</h3>
-                            <p class="text-muted mb-0">Fill out the form below and we'll get back to you shortly.</p>
-                        </div>
-                        <form id="contactForm" class="contact-form-wrapper">
-                            <div id="formMessages"></div>
-                            <div class="row gy-4">
-                                <div class="col-md-6">
-                                    <div class="form-floating">
-                                        <input type="text" id="name" name="name" class="form-control" placeholder="Your Name" style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                <form id="contactForm" class="contact-form-wrapper">
+                                    <div id="formMessages"></div>
+                                    <div class="row gy-4">
+                                        <div class="col-md-6">
+                                            <div class="form-floating">
+                                                <input type="text" id="name" name="name" class="form-control" placeholder="Your Name" style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
                                             box-shadow: 0 2px 5px rgba(0,0,0,0.02);" required="">
                                                 <label for="name" style="padding-left: 16px;">Your Name *</label>
                                             </div>
@@ -177,52 +179,54 @@
                                             <div class="form-floating">
                                                 <select class="form-select" id="need" name="need" style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
                                             box-shadow: 0 2px 5px rgba(0,0,0,0.02);" required="">
-                                            <option value="" selected="" disabled="">Select a service</option>
-                                            <option value="IT Hardware"> Fund Raising
+                                                    <option value="" selected="" disabled="">Select a service</option>
+                                                    <option value="IT Hardware"> Fund Raising
 
-</option>
-                                            <option value="Plant and Machinery">Tailored Strategies</option>
-                                            <option value="Retail Store Assets">Financial Modelling</option>
-                                            <option value="Medical Equipment">Deck Design</option>
-                                            <!-- <option value="Security Assets">Security Assets</option>
+                                                    </option>
+                                                    <option value="Plant and Machinery">Tailored Strategies</option>
+                                                    <option value="Retail Store Assets">Financial Modelling</option>
+                                                    <option value="Medical Equipment">Deck Design</option>
+                                                    <!-- <option value="Security Assets">Security Assets</option>
                                             <option value="Construction Assets">Construction Assets</option>
                                             <option value="Transportation Assets">Transportation Assets</option>
                                             <option value="Other">Other</option> -->
-                                        </select>
-                                        <label for="need" style="padding-left: 16px;">Service Required *</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-floating">
-                                        <textarea id="message" name="message" class="form-control" placeholder="Your Message" style="height: 120px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                                </select>
+                                                <label for="need" style="padding-left: 16px;">Service Required *</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <div class="form-floating">
+                                                <textarea id="message" name="message" class="form-control" placeholder="Your Message" style="height: 120px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
                                             box-shadow: 0 2px 5px rgba(0,0,0,0.02);" required=""></textarea>
-                                        <label for="message" style="padding-left: 16px;">Your Message *</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <button type="submit"  id="submitBtn"  class="btn btn-primary btn-theme" style="width: 100%; padding: 12px; border-radius: 8px; font-weight: 500; font-size: 16px; 
+                                                <label for="message" style="padding-left: 16px;">Your Message *</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <button type="submit" id="submitBtn" class="btn btn-primary btn-theme" style="width: 100%; padding: 12px; border-radius: 8px; font-weight: 500; font-size: 16px; 
                                         text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
-                                        transition: all 0.3s ease;"><span >
-</span><span class="space"></span><span>S</span><span>e</span><span>n</span><span>d</span><span class="space"></span><span>M</span><span>e</span><span>s</span><span>s</span><span>a</span><span>g</span><span>e</span><span>
-</span><span class="space"></span></button>
-                                </div>
+                                        transition: all 0.3s ease;"><span>
+                                                </span><span class="space"></span><span>S</span><span>e</span><span>n</span><span>d</span><span class="space"></span><span>M</span><span>e</span><span>s</span><span>s</span><span>a</span><span>g</span><span>e</span><span>
+                                                </span><span class="space"></span></button>
+                                        </div>
+                                    </div>
+                                </form>
+                                <style>
+                                    .form-control:focus,
+                                    .form-select:focus {
+                                        border-color: #0d6efd !important;
+                                        box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, .15) !important;
+                                    }
+
+                                    .btn-primary:hover {
+                                        transform: translateY(-2px);
+                                        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15) !important;
+                                    }
+                                </style>
                             </div>
-                        </form>
-                        <style>
-                            .form-control:focus, .form-select:focus {
-                                border-color: #0d6efd !important;
-                                box-shadow: 0 0 0 0.2rem rgba(13,110,253,.15) !important;
-                            }
-                            .btn-primary:hover {
-                                transform: translateY(-2px);
-                                box-shadow: 0 6px 20px rgba(0,0,0,0.15) !important;
-                            }
-                        </style>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
 
             <!-- <section class="section-contact-home page-contact tf-spacing-2">
                 <div class="tf-container position-relative">
@@ -342,7 +346,7 @@
                             </div>
                         </div>
                         <div class="col-lg-5">
-                            <form id="contactform" class="form-contact-us" method="post" action="https://themesflat.co/html/finwice/contact/contact-process.php">
+                            <form id="contactform" class="form-contact-us" method="post" action="https://themesflat.co/html/Impact Nest/contact/contact-process.php">
                                 <div class="cols">
                                     <fieldset class="item">
                                         <input type="text" name="name" id="name" placeholder="Your Name*">
@@ -518,6 +522,6 @@
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/finwice/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:53:48 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:53:48 GMT -->
 
 </html>

@@ -5,7 +5,7 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:50:37 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:50:37 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
@@ -1076,7 +1076,7 @@
 
                     <!-- Section Heading -->
                     <h2 style="color:var(--on-suface-container) !important;text-align: center; font-size: 36px;  margin-bottom: 50px;">
-                    Real Stories. Real Impact.
+                        Real Stories. Real Impact.
                     </h2>
 
 
@@ -1085,10 +1085,10 @@
                             <div class="col-12">
                                 <div class="sw-case-studies swiper sw-layout swiper-backface-hidden swiper-initialized swiper-horizontal" data-preview="3" data-tablet="2" data-mobile-sm="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="10">
                                     <div class="swiper-wrapper" id="swiper-wrapper-7d152a67e593c26a" aria-live="polite">
-                                    <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 568px; margin-right: 30px;">
+                                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 568px; margin-right: 30px;">
                                             <div class="testimonial-item" style="height:478px">
-                                                <div class="testimonial-top" >
-                                                    <div class="counter-item"  >
+                                                <div class="testimonial-top">
+                                                    <div class="counter-item">
                                                         <div class="counter" style="border:0px solid black;text-align: center; width: 100%; max-width: 400px; margin: auto;">
                                                             <div class="number-counter">
                                                                 <div style="display: flex; align-items: center; border: 0px solid black; flex-wrap: wrap;border: 0px solid red">
@@ -1096,20 +1096,21 @@
                                                                     <img
                                                                         src="/image/icon/mufin_green_infra_logo.jpeg"
                                                                         alt="Bluetrans"
-                                                                        style=";border: 0px solid red; width: 40px; height: auto;" />
+                                                                        style="border: 0px solid red; width: 40px; height: auto;" />
+                                                                    <h5 class="text" style="margin-top:15px">Mufin Green Infra</h5>
 
                                                                     <!-- Number + % -->
                                                                     <!-- <h4 style="">Rs  </h4> -->
                                                                     <div style="display: flex; align-items: center;">
                                                                         <h4
-                                                                        class="number color-primary odometer odometer-auto-theme"
-                                                                        data-to="25"
-                                                                        data-inviewport="yes"
-                                                                        style="margin: 0; font-size: 24px;">
-                                                                        <div class="odometer-inside">
-                                                                                
-                                                                                <span clater-digit-spacer">8</span>
-                                                                                    <span class="odometer-digit-ss="odometer-digit">
+                                                                            class="number color-primary odometer odometer-auto-theme"
+                                                                            data-to="25"
+                                                                            data-inviewport="yes"
+                                                                            style="margin: 0; font-size: 24px;">
+                                                                            <div class="odometer-inside">
+
+                                                                                <span clater-digit-spacer>8</span>
+                                                                                <span class="odometer-digit-ss" odometer-digit>
                                                                                     <span class="odomeinner">
                                                                                         <span class="odometer-ribbon">
                                                                                             <span class="odometer-ribbon-inner">
@@ -1130,29 +1131,26 @@
                                                                                 </span>
                                                                             </div>
                                                                         </h4>
-                                                                        <h4 class="plus color-primary" style="margin: 0 0 0 0px; font-size: 24px;"> Cr Business over a year</h4>
+                                                                        <h4 class="plus color-primary" style="margin: 0 0 0 0px; font-size: 24px;">&nbsp;Cr Business over a year</h4>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <h5 class="text" style="margin-top:15px""">Mufin Green Infra</h5>
                                                         </div>
 
                                                     </div>
                                                 </div>
                                                 <div class="item-content">
                                                     <div class="text">
-                                                    Partnering with Impact Nest was a game-changer for Mufin Green Infra. Their strategic support and
-fundraising expertise helped us unlock ₹25 Cr in business over the past year. Their team’s
-commitment, precision, and deep market understanding made all the difference in our growth
-journey. </div>
+                                                        Partnering with Impact Nest transformed Mufin Green Infra. Their strategic guidance and fundraising expertise helped us secure ₹25 Cr in business. Their team's dedication, precision, and market insight played a crucial role in accelerating our growth over the past year.
+                                                    </div>
 
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 568px; margin-right: 30px;">
                                             <div class="testimonial-item" style="height:478px">
-                                                <div class="testimonial-top" >
-                                                    <div class="counter-item" >
+                                                <div class="testimonial-top">
+                                                    <div class="counter-item">
                                                         <div class="counter" style="text-align: center; width: 100%; max-width: 400px; margin: auto;">
                                                             <div class="number-counter">
                                                                 <div style="display: flex; align-items: center; border: 0px solid black; flex-wrap: wrap;">
@@ -1160,8 +1158,9 @@ journey. </div>
                                                                     <img
                                                                         src="/image/icon/bluetrans.png"
                                                                         alt="Bluetrans"
-                                                                        style=";border: 0px solid red; width: 100px; height: auto;" />
+                                                                        style="border: 0px solid red; width: 100px; height: 45px;" />
 
+                                                                    <h5 class="text" style="margin-top: 25px;">&nbsp;&nbsp;Bluetrans</h5>
                                                                     <!-- Number + % -->
                                                                     <div style="display: flex; align-items: center;">
                                                                         <h4
@@ -1170,9 +1169,9 @@ journey. </div>
                                                                             data-inviewport="yes"
                                                                             style="margin: 0; font-size: 24px;">
                                                                             <div class="odometer-inside">
-                                                                                
-                                                                                <span clater-digit-spacer">8</span>
-                                                                                    <span class="odometer-digit-ss="odometer-digit">
+
+                                                                                <span clater-digit-spacer>8</span>
+                                                                                <span class="odometer-digit-ss" odometer-digit>
                                                                                     <span class="odomeinner">
                                                                                         <span class="odometer-ribbon">
                                                                                             <span class="odometer-ribbon-inner">
@@ -1193,26 +1192,26 @@ journey. </div>
                                                                                 </span>
                                                                             </div>
                                                                         </h4>
-                                                                        <h4 class="plus color-primary" style="margin: 0 0 0 5px; font-size: 24px;">% boost in Profit</h4>
+                                                                        <h4 class="plus color-primary" style="margin: 0 0 0 5px; font-size: 24px;">&nbsp;% boost in Profit</h4>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <h5 class="text" style="margin-top: 25px;">Bluetrans</h5>
                                                         </div>
 
                                                     </div>
                                                 </div>
                                                 <div class="item-content">
                                                     <div class="text">
-                                                        Thanks to Impact Nest’s tailored strategy and financial guidance, On EV saw a 30% boost in profit. <br /> Their expertise and hands-on approach unlocked real business value. </div>
+                                                        Thanks to Impact Nest’s tailored strategy and expert financial guidance, On EV achieved a 30% profit boost. Their hands-on approach and deep expertise delivered real business value, driving measurable growth and making a lasting impact on our operations and success.
+                                                    </div>
 
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 568px; margin-right: 30px;">
                                             <div class="testimonial-item" style="height:478px">
-                                                <div class="testimonial-top" >
-                                                    <div class="counter-item" >
+                                                <div class="testimonial-top">
+                                                    <div class="counter-item">
                                                         <div class="counter" style="text-align: center; width: 100%; max-width: 400px; margin: auto;">
                                                             <div class="number-counter">
                                                                 <div style="display: flex; align-items: center; border: 0px solid black; flex-wrap: wrap;">
@@ -1220,19 +1219,20 @@ journey. </div>
                                                                     <img
                                                                         src="/image/icon/swap.png"
                                                                         alt="Bluetrans"
-                                                                        style=";border: 0px solid red; width: 50px; height: auto;" />
+                                                                        style="border: 0px solid red; width: 50px; height: auto;" />
 
+                                                                    <h5 class="text" style="margin-top: 10px;">&nbsp;&nbsp;Swap India</h5>
                                                                     <!-- Number + % -->
                                                                     <div style="display: flex; align-items: center;">
                                                                         <h4
                                                                             class="number color-primary odometer odometer-auto-theme"
-                                                                            data-to="100"
+                                                                            data-to="5"
                                                                             data-inviewport="yes"
                                                                             style="margin: 0; font-size: 24px;">
                                                                             <div class="odometer-inside">
-                                                                                
+
                                                                                 <span clater-digit-spacer">8</span>
-                                                                                    <span class="odometer-digit-ss="odometer-digit">
+                                                                                <span class="odometer-digit-ss=" odometer-digit">
                                                                                     <span class="odomeinner">
                                                                                         <span class="odometer-ribbon">
                                                                                             <span class="odometer-ribbon-inner">
@@ -1253,82 +1253,32 @@ journey. </div>
                                                                                 </span>
                                                                             </div>
                                                                         </h4>
-                                                                        <h4 class="plus color-primary" style="margin: 0 0 0 0; font-size: 24px;">% Raised in funding</h4>
+                                                                        <h4 class="plus color-primary" style="margin: 0 0 0 0; font-size: 24px;">&nbsp;Cr Raised in funding</h4>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <h5 class="text" style="margin-top: 10px;">Swap India</h5>
                                                         </div>
 
                                                     </div>
                                                 </div>
                                                 <div class="item-content">
                                                     <div class="text">
-                                                    Impact Nest played a pivotal role in our fundraising journey. With their deep investor network and
-strategic guidance, we successfully raised over ₹100 Cr+ in funding. Their commitment and expertise
-made a significant impact on our growth.
-Will share Logo files for Image
+                                                        Impact Nest was instrumental in our fundraising journey. Their strong investor network and strategic guidance helped us raise over ₹5 Cr. Their commitment, insight, and expertise significantly accelerated our growth and positioned us for long-term success in the market.
 
-<ul>
-    <li>Will share Logo files for Images</li>
-    <li>Just mention the copany name- Personal names to be removed.</li>
-    <li>Read all testimonials to be removed</li>
-</ul>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <!-- <div class="swiper-slide" role="group" aria-label="3 / 3" style="width: 568px; margin-right: 30px;">
-                                            <div class="testimonial-item">
-                                                <div class="testimonial-top">
-                                                    <div class="counter-item">
-                                                        <div class="counter">
-                                                            <div class="number-counter">
-                                                                <h4 class="color-primary">₹</h4>
-                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="100" data-inviewport="yes">
-                                                                    <div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">4</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span></div>
-                                                                </h4>
-                                                                <h4 class="plus color-primary">
-                                                                    Cr+ Raised in funding
-                                                                </h4>
-                                                            </div>
-                                                            <h5 class="text">
-                                                                Swap India
-                                                            </h5>
-                                                        </div>
                                                     </div>
                                                 </div>
-                                                <div class="item-content">
-                                                    <div class="text">
-                                                    Impact Nest played a pivotal role in our fundraising journey. With their deep investor network and
-strategic guidance, we successfully raised over ₹100 Cr+ in funding. Their commitment and expertise
-made a significant impact on our growth.
-<ul style="list-style:disc">
-    <li>
-    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>    
-    Will share Logo files for Images</li>
-    <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Just mention the copany name- Personal names to be removed.</li>
-    <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Read all testimonials to be removed</li>
-</ul>
-                                                </div>
                                             </div>
+
+
+                                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                                         </div>
-                                    </div> -->
-                                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                                    </div>
                                 </div>
                             </div>
+
+                            <!-- Testimonials Grid -->
+
                         </div>
-                    </div>
-
-                    <!-- Testimonials Grid -->
-
-                </div>
             </section>
 
 
@@ -1458,7 +1408,7 @@ made a significant impact on our growth.
 
                                                     <p style="margin: 0 0 10px;"><strong>Email:</strong> <a href="mailto:contact@panapadvisors.com" style="color:rgb(255, 255, 255); text-decoration: none;">contact@panapadvisors.com</a></p>
                                                     <p style="margin: 0 0 10px;"><strong>Phone:</strong> <a href="tel:15556788888" style="color:rgb(255, 255, 255); text-decoration: none;">+91-9971645151</a></p>
-                                                    <p style="margin: 0;"><strong>Address:</strong> CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010 Road, New York, NY 10001</p>
+                                                    <p style="margin: 0;"><strong>Address:</strong> CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
                                                 </div>
                                             </div>
                                         </section>
@@ -1667,6 +1617,6 @@ made a significant impact on our growth.
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/finwice/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:51:27 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:51:27 GMT -->
 
 </html>

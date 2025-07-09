@@ -6,17 +6,17 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        FinWice - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting - HTML Template
     </title>
-    <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
-    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
+    <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
+    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
 
     <!-- Mobile Specific Metas -->
@@ -424,7 +424,7 @@
                         <span class="caption-1 page-breadkcum">Our Services</span>
                     </div>
                     <h2 class="title-page-title">
-                        Our Services
+                        Financial Modeling
                     </h2>
                     <div class="sub-title body-2">
                         Discover a diverse array of services designed to help businesses excel through our
@@ -449,16 +449,16 @@
 
         <div class="tf-container tf-spacin-2">
             <div class="row rg-60" style="border:0px solid black">
-                <div class="col-lg-8">
+                <div class="col-lg-12">
                     <div class="case-studies-details">
                         <!-- <div class="image-details image mb-40" style="margin-top: 60px;">
                                 <img src="image/page-title/iamge-create.jpg" data-src="image/section/img-details-case.jpg" alt="" class=" ls-is-cached lazyloaded">
                             </div> -->
                         <div class="detalis-content mb-40" style="margin-top:60px">
-                            <h4 style="color:var(--primary); letter-spacing:2px;" class="title-content mb-16">
+                            <h3 style="color:var(--primary); letter-spacing:2px; text-align:center; " class="title-content mb-16 fw-bold">
                                 Financial Modeling
-                            </h4>
-                            <div class="desc mb-16 body-2" style="line-height:1.8;">
+                            </h3>
+                            <div class="desc mb-16 body-2" style="line-height:1.8; text-align: center; padding:  0 100px 0 100px;">
                                 At Impact Nest, we build powerful, reliable, and investor-ready financial models that bring
                                 structure to your growth story. Whether you’re preparing for fundraising, planning market
                                 expansion, or optimizing operations, our financial modelling service delivers the insights,
@@ -468,13 +468,11 @@
                                 and investors.
                             </div>
                         </div>
-                        <div class="detalis-content mb-40">
+                        <!-- <div class="detalis-content mb-40">
                             <h4 style="color:var(--primary); letter-spacing:2px;" class="title-content mb-16">
                                 What We Offer
                             </h4>
-                            <!-- <div class="desc mb-20 body-2">
-                                    We conducted an in-depth operational audit to identify key areas for improvement, analyzing workflow patterns and resource usage. Our team introduced a combination of process automation, employee retraining programs, and data-driven workflow management tools. Additionally, we implemented real-time tracking systems to monitor productivity and adjust operations dynamically.
-                                </div> -->
+                            
 
                             <div class="mb-20">
                                 <h6 class="m-8 fw-bold" style="letter-spacing:2px; margin-bottom:8px;">
@@ -537,7 +535,74 @@
                             </div>
 
 
+                        </div> -->
+                        <!-- what we offer section in financial modeling -->
+
+                        <div class="container py-5">
+                            <h3 class="fw-bold text-center mb-5">What We Offer</h3>
+                            <div class="row justify-content-center g-4 text-center">
+                                <!-- 1. Custom Financial Models -->
+                                <div class="col-12 col-sm-6 col-lg-4">
+                                    <div class="p-4 border rounded-3 h-100">
+                                        <h5 class="mb-2">Custom Financial Models</h5>
+                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                            Tailored models that reflect your unique business model, revenue streams, and cost structures. We go beyond templates to build fully customized tools.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- 2. Revenue & Cost Forecasting -->
+                                <div class="col-12 col-sm-6 col-lg-4">
+                                    <div class="p-4 border rounded-3 h-100">
+                                        <h5 class="mb-2">Revenue & Cost Forecasting</h5>
+                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                            Accurate and dynamic forecasts that account for market conditions, pricing strategies, scaling operations, and product growth.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- 3. Scenario & Sensitivity Analysis -->
+                                <div class="col-12 col-sm-6 col-lg-4">
+                                    <div class="p-4 border rounded-3 h-100">
+                                        <h5 class="mb-2">Scenario & Sensitivity Analysis</h5>
+                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                            We stress-test your assumptions with best-, base-, and worst-case outcomes — helping you prepare for every possibility.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- 4. Valuation Support -->
+                                <div class="col-12 col-sm-6 col-lg-4">
+                                    <div class="p-4 border rounded-3 h-100">
+                                        <h5 class="mb-2">Valuation Support</h5>
+                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                            Estimate fair valuation ranges based on DCF, multiples, or benchmarks — crucial for your investor discussions.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- 5. Investor-Ready Financials -->
+                                <div class="col-12 col-sm-6 col-lg-4">
+                                    <div class="p-4 border rounded-3 h-100">
+                                        <h5 class="mb-2">Investor-Ready Financials</h5>
+                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                            Clean, investor-friendly outputs — including P&L, Balance Sheet, Cash Flow, Cap Table, and Unit Economics.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!-- 6. Model Iteration & Review -->
+                                <div class="col-12 col-sm-6 col-lg-4">
+                                    <div class="p-4 border rounded-3 h-100">
+                                        <h5 class="mb-2">Model Iteration & Review</h5>
+                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                            We support you through revisions, investor feedback, and fundraising rounds — evolving your model with your business.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+
 
 
                     </div>
@@ -590,9 +655,9 @@
                                 </div>
                             </div> -->
                 </div>
-                <div class="col-lg-4">
+                <!-- <div class="col-lg-4">
                     <div class="tf-sidebar sidebar-details ml-50">
-                        <!-- <div class="sideber-details">
+                        <div class="sideber-details">
                                 <div class="case-details-box mb-40" style="margin-top: 60px;">
                                     <h5 class="color-on-suface-container">Case Details</h5>
                                     <div class="box-item client flex justify-content-between align-items-center">
@@ -612,7 +677,7 @@
                                         <span class="text-btn color-on-suface-container number-month">1 Month</span>
                                     </div>
                                 </div>
-                            </div> -->
+                            </div> 
                         <div class="sidebar-contact sidebar-details" style="margin-top:60px">
                             <div class="section-content position-relative">
                                 <div class="heading-section style-color-white">
@@ -635,7 +700,7 @@
                                                 Address Business
                                             </div>
                                             <a href="#" class="caption-1 text">
-                                            CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010
+                                                CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010
                                             </a>
                                             <a href="#" class="label text-btn-uppercase">Get direction</a>
                                         </div>
@@ -651,7 +716,7 @@
                                             </div>
                                             <a href="#" class="caption-1 text">
                                                 +91-9971645151
-                                                <!-- <br>1-333-123-6666 -->
+                                            
                                             </a>
                                         </div>
                                     </div>
@@ -690,7 +755,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>   -->
             </div>
         </div>
 
@@ -771,13 +836,13 @@
 
 
 
-    <div class="tf-container" style="margin-top:50px">
+    <div class="tf-container" style="margin-top:50px; margin-bottom: 80px;">
         <div class="row">
-            <div class="col-14">
-                <div class="heading-section style-2 mb-40">
+            <div class="col-14" style="display: flex; align-items: center; justify-content: center;">
+                <div class="heading-section style-2 mb-40" style="text-align: center;">
                     <div class="left">
 
-                        <h3 style="color:var(--primary); letter-spacing:2px;" class="title-section text-anime-wave" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1;">
+                        <h3 style="color:var(--primary); letter-spacing:2px;" class="title-section text-anime-wave fw-bold" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1; text-align:center">
                             Why Financial Modelling Matters
                         </h3>
                     </div>
@@ -880,8 +945,8 @@
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="process-item step-hover">
-                    <div class="process-top wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                <div class="process-item step-hover active">
+                    <div class="process-top wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                         <div class="icon wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                             <!-- <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <g clip-path="url(#clip0_9360_10078)">
@@ -910,7 +975,49 @@
         </div>
     </div>
 
+<section class="section-cta h-1 tf-spacing-3">
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="cta-inner">
 
+                                <div class="cta-contet">
+                                    <div class="headin-section style-color-white mb-0">
+
+                                        <section style="color:rgb(255, 255, 255); padding: 60px 20px;">
+                                            <div style="max-width: 1100px; margin: 0 auto; display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
+
+                                                <!-- Left Side: Text Content -->
+                                                <div style="flex: 1 1 50%; min-width: 280px;">
+                                                    <h2 style="font-size: 32px; font-weight: 700; margin-bottom: 20px;color:white">Let’s Talk Business</h2>
+                                                    <p style="font-size: 16px; line-height: 1.6; margin-bottom: 30px;">
+                                                        We’re here to help you bring your vision to life. Whether you’re looking to start a new project, ask questions, or simply connect — we’re just a message away.
+                                                    </p>
+                                                    <div class="text-anime-wave" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1;">
+                                                        <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                                            <span>Contact Support</span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                                <!-- Right Side: Info Box -->
+                                                <div style="flex: 1 1 40%; min-width: 280px; padding: 30px; border-radius: 8px">
+                                                    <h4 style="margin-top: 0; font-size: 22px;color:white; margin-bottom: 20px;">Contact Information</h4>
+
+                                                    <p style="margin: 0 0 10px;"><strong>Email:</strong> <a href="mailto:contact@panapadvisors.com" style="color:rgb(255, 255, 255); text-decoration: none;">contact@panapadvisors.com</a></p>
+                                                    <p style="margin: 0 0 10px;"><strong>Phone:</strong> <a href="tel:15556788888" style="color:rgb(255, 255, 255); text-decoration: none;">+91-9971645151</a></p>
+                                                    <p style="margin: 0;"><strong>Address:</strong> CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
+                                                </div>
+                                            </div>
+                                        </section>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
     </div>
 
 
@@ -1281,7 +1388,7 @@
         </div>
         <div class="meag-menu-item">
             <h4 class="title-content fw-7">
-                Finwice Construction
+                Impact Nest Construction
             </h4>
             <p>
                 Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -1465,6 +1572,13 @@
 
                                                 contact@panapadvisors.com</a>
                                         </div>
+                                        <div class="contact-footer-content mt-4">
+                                            <a style="color:black" href="">
+                                                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+                                                 <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
+                                             </svg> -->
+                                                Linkedin</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -1534,7 +1648,7 @@
                     <div class="col-12">
                         <div class="footer-bottom-inner" style="display: flex; justify-content: center; align-items: center; padding: 20px 0;">
                             <div class="text-center caption-1" style="font-size: 14px; color: black;">
-                                ©2025 FinWice. All Rights Reserved.
+                                ©2025 Impact Nest. All Rights Reserved.
                             </div>
                         </div>
                     </div>
@@ -1891,7 +2005,7 @@
         </div>
         <div class="meag-menu-item">
             <h4 class="title-content fw-7">
-                Finwice Construction
+                Impact Nest Construction
             </h4>
             <p>
                 Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -2003,7 +2117,7 @@
 
             </div>
         </div>
-    </div><!-- /.login -->
+    </div>
 
     <!-- Go-top -->
     <div class="progress-wrap">
@@ -2042,6 +2156,6 @@
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/finwice/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 </html>
