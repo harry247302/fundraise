@@ -662,7 +662,7 @@ Deck Design -->
  </div><!-- /.offcanvasMegamenu -->
 
  <!-- Login -->
- <div class="modal fade modalCenter auto-popup" id="modallogin">
+ <!-- <div class="modal fade modalCenter auto-popup" id="modallogin">
      <div class="modal-dialog modal-dialog-centered" role="document">
          <div class="modal-content modal-xl">
              <div class="wg-new-letter">
@@ -731,7 +731,7 @@ Deck Design -->
 
          </div>
      </div>
- </div><!-- /.login -->
+ </div>/.login -->
 
  <!-- Go-top -->
  <div class="progress-wrap">
