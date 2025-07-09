@@ -2051,7 +2051,7 @@ a:hover, a:focus {
 
 /*------------ footer ---------------- */
 .footer {
-  background-color: rgb(218, 218, 218);
+  background-color: darkgray;
 }
 .footer .footer-top {
   display: -webkit-box;
@@ -2063,7 +2063,7 @@ a:hover, a:focus {
 }
 .footer .footer-left {
   padding-right: 30px;
-  border-right: 1px solid var(--bg-1);
+  /* border-right: 1px solid var(--bg-1); */
   padding-top: 80px;
   padding-bottom: 80px;
   max-width: 421px;
@@ -2087,7 +2087,7 @@ a:hover, a:focus {
   padding-bottom: 80px;
   width: 100%;
   padding-left: 30px;
-  border-left: 1px solid var(--bg-1);
+  /* border-left: 1px solid var(--bg-1); */
 }
 .footer.style-2 {
   position: relative;
@@ -2374,7 +2374,7 @@ a:hover, a:focus {
 }
 
 .footer-bottom {
-  border-top: 1px solid var(--bg-1);
+  /* border-top: 1px solid var(--bg-1); */
 }
 .footer-bottom .footer-bottom-inner {
   display: -webkit-box;
