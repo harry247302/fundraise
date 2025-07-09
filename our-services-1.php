@@ -6,17 +6,17 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        FinWice - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting - HTML Template
     </title>
-    <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
-    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
+    <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
+    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
 
     <!-- Mobile Specific Metas -->
@@ -162,7 +162,7 @@
                         <span class="caption-1 page-breadkcum">Our Services</span>
                     </div>
                     <h2 class="title-page-title">
-                        Our Services
+                        Fund Raising
                     </h2>
                     <div class="sub-title body-2">
                         Discover a diverse array of services designed to help businesses excel through our
@@ -216,7 +216,7 @@
 
 
                 <!-- *************************************** -->
-                <section style="background-color: #f9f9f9; padding: 60px 20px; font-family: Arial, sans-serif;">
+                <section style="background-color: #f9f9f9; padding: 0px 20px; font-family: Arial, sans-serif;">
                     <div style="max-width: 1200px; margin: 0 auto;">
 
                         <div class="tf-containr">
@@ -240,9 +240,9 @@
                                                 beyond, we support you through every step of the fundraising journey with a structured,
                                                 investor-ready approach. <br>
                                                 We understand what investors look for and how to position your business to stand out.
-From refining your business model and building powerful pitch decks to connecting you
-with our curated network of angels, VCs, and institutions — we bring clarity, confidence,
-and momentum to your fundraising efforts.
+                                                From refining your business model and building powerful pitch decks to connecting you
+                                                with our curated network of angels, VCs, and institutions — we bring clarity, confidence,
+                                                and momentum to your fundraising efforts.
                                             </p>
 
 
@@ -582,6 +582,50 @@ and momentum to your fundraising efforts.
                                                 </div>
 
                                             </div>
+                </section>
+                
+                <section class="section-cta h-1 tf-spacing" style="margin-top: 50px;">
+                    <div class="tf-container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="cta-inner">
+
+                                    <div class="cta-contet">
+                                        <div class="headin-section style-color-white mb-0">
+
+                                            <section style="color:rgb(255, 255, 255); padding: 60px 20px;">
+                                                <div style="max-width: 1100px; margin: 0 auto; display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
+
+                                                    <!-- Left Side: Text Content -->
+                                                    <div style="flex: 1 1 50%; min-width: 280px;">
+                                                        <h2 style="font-size: 32px; font-weight: 700; margin-bottom: 20px;color:white">Let’s Talk Business</h2>
+                                                        <p style="font-size: 16px; line-height: 1.6; margin-bottom: 30px;">
+                                                            We’re here to help you bring your vision to life. Whether you’re looking to start a new project, ask questions, or simply connect — we’re just a message away.
+                                                        </p>
+                                                        <div class="text-anime-wave">
+                                                            <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                                                <span>Contact Support</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+
+                                                    <!-- Right Side: Info Box -->
+                                                    <div style="flex: 1 1 40%; min-width: 280px; padding: 30px; border-radius: 8px">
+                                                        <h4 style="margin-top: 0; font-size: 22px;color:white; margin-bottom: 20px;">Contact Information</h4>
+
+                                                        <p style="margin: 0 0 10px;"><strong>Email:</strong> <a href="mailto:contact@panapadvisors.com" style="color:rgb(255, 255, 255); text-decoration: none;">contact@panapadvisors.com</a></p>
+                                                        <p style="margin: 0 0 10px;"><strong>Phone:</strong> <a href="tel:15556788888" style="color:rgb(255, 255, 255); text-decoration: none;">+91-9971645151</a></p>
+                                                        <p style="margin: 0;"><strong>Address:</strong> CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
+                                                    </div>
+                                                </div>
+                                            </section>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </section>
 
 
@@ -945,7 +989,7 @@ and momentum to your fundraising efforts.
             </div>
             <div class="meag-menu-item">
                 <h4 class="title-content fw-7">
-                    Finwice Construction
+                    Impact Nest Construction
                 </h4>
                 <p>
                     Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -1129,6 +1173,13 @@ and momentum to your fundraising efforts.
 
                                                     contact@panapadvisors.com</a>
                                             </div>
+                                            <div class="contact-footer-content mt-4">
+                                                <a style="color:black" href="">
+                                                    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+                                                 <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
+                                             </svg> -->
+                                                    Linkedin</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -1198,7 +1249,7 @@ and momentum to your fundraising efforts.
                         <div class="col-12">
                             <div class="footer-bottom-inner" style="display: flex; justify-content: center; align-items: center; padding: 20px 0;">
                                 <div class="text-center caption-1" style="font-size: 14px; color: black;">
-                                    ©2025 FinWice. All Rights Reserved.
+                                    ©2025 Impact Nest. All Rights Reserved.
                                 </div>
                             </div>
                         </div>
@@ -1555,7 +1606,7 @@ and momentum to your fundraising efforts.
             </div>
             <div class="meag-menu-item">
                 <h4 class="title-content fw-7">
-                    Finwice Construction
+                    Impact Nest Construction
                 </h4>
                 <p>
                     Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -1706,6 +1757,6 @@ and momentum to your fundraising efforts.
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/finwice/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 </html>

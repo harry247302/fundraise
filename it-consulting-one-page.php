@@ -6,15 +6,15 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/it-consulting-one-page.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/it-consulting-one-page.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
-    <title>FinWice - Business & Finance Consulting - HTML Template</title>
-    <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
-    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
+    <title>Impact Nest - Business & Finance Consulting - HTML Template</title>
+    <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
+    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
 
     <!-- Mobile Specific Metas -->
@@ -347,10 +347,10 @@
                         <div class="heading-section style-2">
                             <div class="left">
                                 <div class="text-anime-wave">
-                                    <a class="tag text-btn-uppercase label bg-white mb-28">WE ARE FinWice</a>
+                                    <a class="tag text-btn-uppercase label bg-white mb-28">WE ARE Impact Nest</a>
                                 </div>
                                 <h3 class="title-heading text-anime-wave">
-                                    At FinWice, we offer expert
+                                    At Impact Nest, we offer expert
                                     <br>financial planning to help you
                                     <br>reach your goals.
                                 </h3>
@@ -1037,7 +1037,7 @@
                                     </div>
                                     <h4 class="mb-16 wow fadeInUp"> Simplified Tax Solutions</h4>
                                     <div class="text color-on-suface-variant-1 body-2 wow fadeInUp">
-                                        With FinWice support and strategy, we achieved 25% sales growth and streamlined processes. Their adaptive approach ensured we met our goals efficiently.
+                                        With Impact Nest support and strategy, we achieved 25% sales growth and streamlined processes. Their adaptive approach ensured we met our goals efficiently.
                                     </div>
                                 </div>
                                 <div class="swiper-testimonials-h8">
@@ -2160,6 +2160,6 @@
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/finwice/it-consulting-one-page.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/it-consulting-one-page.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 </html>

@@ -6,17 +6,17 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        FinWice - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting - HTML Template
     </title>
-    <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
-    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
+    <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
+    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
 
     <!-- Mobile Specific Metas -->
@@ -633,139 +633,146 @@
 
     <!-- shadab -->
     <div class="container-fluid  py-5" style="width:90%;border:0px solid black">
-  <h3 class="fw-bold text-center mb-4" style="font-size: clamp(26px, 4vw, 35px); color: #2c3e50;">
-    Tailored Strategies
-  </h3>
+        <h3 class="fw-bold text-center mb-4" style="font-size: clamp(26px, 4vw, 35px); color: #2c3e50;">
+            Tailored Strategies
+        </h3>
 
-  <p class="text-secondary mx-auto mb-5" style="max-width: 900px; font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: justify;">
-    At Impact Nest, we believe that no two businesses are alike — and neither should their growth plans be.
-    That’s why we create Tailored Strategies — personalized, data-driven plans that align with your unique
-    vision, industry landscape, and growth stage. Whether you’re launching a new venture, entering a new
-    market, or preparing to raise capital, we help you move forward with clarity, confidence, and direction.
-    <br><br>
-    Our approach combines market intelligence, operational insight, and strategic thinking to design
-    actionable plans that fuel measurable outcomes. We don't just advise — we become your thinking partner.
-  </p>
+        <p class="text-secondary mx-auto mb-5" style="max-width: 900px; font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: justify;">
+            At Impact Nest, we believe that no two businesses are alike — and neither should their growth plans be.
+            That’s why we create Tailored Strategies — personalized, data-driven plans that align with your unique
+            vision, industry landscape, and growth stage. Whether you’re launching a new venture, entering a new
+            market, or preparing to raise capital, we help you move forward with clarity, confidence, and direction.
+            <br><br>
+            Our approach combines market intelligence, operational insight, and strategic thinking to design
+            actionable plans that fuel measurable outcomes. We don't just advise — we become your thinking partner.
+        </p>
 
-  <div class="row gy-4 " >
-    <!-- Strategy Card Template -->
-    <!-- 1. Marketing Strategy -->
-    <div class="col-12 col-md-12  border  col-lg-3 ">
-      <div class="h-100 p-3 rounded-3" >
-        <div class="d-flex  align-items-center mb-3 gap-2 flex-wrap text-center">
-          <img src="../image/icon/strategy-development_4129547.png" alt="Marketing Strategy" style="width: 40px; height: auto;">
-          <span class="text-uppercase fw-semibold" style="font-size:12px">Marketing Strategy</span>
+        <div class="container py-4">
+            <div class="row g-4">
+                <!-- Left View (Column 1) -->
+                <div class="col-12 col-sm-6">
+                    <div class="d-flex flex-column gap-4 h-100">
+                        <!-- Card 1: Marketing Strategy -->
+                        <div class="border rounded-3 p-3 h-100 d-flex flex-column">
+                            <div class="d-flex align-items-center mb-3 gap-2 text-center">
+                                <img src="../image/icon/strategy-development_4129547.png" alt="Marketing Strategy" style="width: 40px;">
+                                <span class="text-uppercase fw-semibold" style="font-size:12px">Marketing Strategy</span>
+                            </div>
+                            <h6 class="fw-medium mb-2">We help you reach the right audience with the right message at the right time.</h6>
+                            <div class="desc fw-bold mb-2">Our services include:</div>
+                            <ul class="ps-3" style="color: #555; font-size: 14px; line-height: 1.6;">
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Go-to-market (GTM) planning</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Brand positioning & messaging frameworks</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Digital & content marketing strategy</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Target audience profiling & channel selection</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Lead generation and funnel design</li>
+                            </ul>
+                        </div>
+
+                        <!-- Card 2: Financing Strategy -->
+                        <div class="border rounded-3 p-3 h-100 d-flex flex-column">
+                            <div class="d-flex align-items-center mb-3 gap-2 text-center">
+                                <img src="../image/icon/investment_2300422.png" alt="Financing Strategy" style="width: 40px;">
+                                <span class="text-uppercase fw-semibold" style="font-size:12px">Financing Strategy</span>
+                            </div>
+                            <h6 class="fw-medium mb-2">We prepare you for capital efficiency and investor readiness.</h6>
+                            <div class="desc fw-bold mb-2">Our services include:</div>
+                            <ul class="ps-3" style="color: #555; font-size: 14px; line-height: 1.6;">
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Fundraising roadmaps and capital planning</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Valuation support and cap table advisory</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Financial structuring (equity, debt)</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Financials aligned with funding milestones</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Scenario planning and runway analysis</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right View (Column 2) -->
+                <div class="col-12 col-sm-6">
+                    <div class="d-flex flex-column gap-4 h-100">
+                        <!-- Card 3: Business Development Strategy -->
+                        <div class="border rounded-3 p-3 h-100 d-flex flex-column">
+                            <div class="d-flex align-items-center mb-3 gap-2 text-center">
+                                <img src="../image/icon/growth.png" alt="Business Development" style="width: 40px;">
+                                <span class="text-uppercase fw-semibold" style="font-size:12px">Business Development</span>
+                            </div>
+                            <h6 class="fw-medium mb-2">We help unlock new revenue streams and partnerships.</h6>
+                            <div class="desc fw-bold mb-2">Our services include:</div>
+                            <ul class="ps-3" style="color: #555; font-size: 14px; line-height: 1.6;">
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Sales strategy and market entry plans</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Strategic partnerships, channel development</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Product-market fit refinement</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Pricing and revenue model optimization</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Client onboarding and retention planning</li>
+                            </ul>
+                        </div>
+
+                        <!-- Card 4: Risk Analysis -->
+                        <div class="border rounded-3 p-3 h-100 d-flex flex-column">
+                            <div class="d-flex align-items-center mb-3 gap-2 text-center">
+                                <img src="../image/icon/financial_4221500.png" alt="Risk Analysis" style="width: 40px;">
+                                <span class="text-uppercase fw-semibold" style="font-size:12px">Risk Analysis</span>
+                            </div>
+                            <h6 class="fw-medium mb-2">We help businesses identify, assess, and mitigate risks for smarter decisions.</h6>
+                            <div class="desc fw-bold mb-2">Our services include:</div>
+                            <ul class="ps-3" style="color: #555; font-size: 14px; line-height: 1.6;">
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Identify cash flow and funding risks</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Evaluate burn rate and cost structure</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Assess process and compliance gaps</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Conduct scenario and stress testing</li>
+                                <li><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+                                        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
+                                    </svg>Recommend mitigation and control measures</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <h6 class="fw-medium mb-2">We help you reach the right audience with the right message at the right time.</h6>
-        <div class="desc fw-bold mb-2">Our services include:</div>
-        <ul class="list-unstyled" style="color: #555; font-size: 14px; line-height: 1.4;">
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Go-to-market (GTM) planning</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Brand positioning & messaging frameworks</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Digital & content marketing strategy</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Target audience profiling & channel selection</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Lead generation and funnel design</li>
-        </ul>
-      </div>
+
     </div>
 
-    <!-- 2. Financing Strategy -->
-    <div class="col-12 col-md-12 col-lg-3">
-      <div class="h-100 p-3 border rounded-3">
-        <div class="d-flex align-items-center mb-3 gap-2 flex-wrap text-center">
-          <img src="../image/icon/investment_2300422.png" alt="Financing Strategy" style="width: 40px; height: auto;">
-          <span class="text-uppercase fw-semibold"  style="font-size:12px">Financing Strategy</span>
-        </div>
-        <h6 class="fw-medium mb-2">We prepare you for capital efficiency and investor readiness.</h6>
-        <div class="desc fw-bold mb-2">Our services include:</div>
-        <ul class="list-unstyled" style="color: #555; font-size: 14px; line-height: 1.4;">
-          <li>   <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Fundraising roadmaps and capital planning</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Valuation support and cap table advisory</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Financial structuring (equity, debt)</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Financials aligned with funding milestones</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Scenario planning and runway analysis</li>
-        </ul>
-      </div>
-    </div>
 
-    <!-- 3. Business Development Strategy -->
-    <div class="col-12 col-md-12 col-lg-3">
-      <div class="h-100 p-3 border rounded-3">
-        <div class="d-flex  align-items-center mb-3 gap-2 flex-wrap text-center">
-          <img src="../image/icon/growth.png" alt="Business Development Strategy" style="width: 40px; height: auto;">
-          <span class="text-uppercase fw-semibold" style="font-size:12px">Business Development Strategy</span>
-        </div>
-        <h6 class="fw-medium mb-2">We help unlock new revenue streams and partnerships.</h6>
-        <div class="desc fw-bold mb-2">Our services include:</div>
-        <ul class="list-unstyled" style="color: #555; font-size: 14px; line-height: 1.4;">
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Sales strategy and market entry plans</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Strategic partnerships, channel development</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Product-market fit refinement</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Pricing and revenue model optimization</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Client onboarding and retention planning</li>
-        </ul>
-      </div>
     </div>
-
-    <!-- 4. Business Documentation Strategy -->
-    <div class="col-12 col-md-12 col-lg-3">
-      <div class="h-100 p-3 border rounded-3">
-        <div class="d-flex align-items-center mb-3 gap-2 flex-wrap text-center">
-          <img src="../image/icon/financial_4221500.png" alt="Documentation Strategy" style="width: 40px; height: auto;">
-          <span class="text-uppercase fw-semibold"  style="font-size:12px">Risk Analysis</span>
-        </div>
-        <h6 class="fw-medium mb-2">We help businesses identify, assess, and mitigate financial and operational risks, enabling smarter decisions and sustainable growth.</h6>
-        <div class="desc fw-bold mb-2">Our services include:</div>
-        <ul class="list-unstyled" style="color: #555; font-size: 14px; line-height: 1.4;">
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Identify cash flow and funding risks</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Evaluate burn rate and cost structure</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Assess process and compliance gaps</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Conduct scenario and stress testing</li>
-          <li>  <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>Recommend mitigation and control measures</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
 
 
     <!-- Right Column: Image -->
@@ -785,19 +792,62 @@
 
     </section>
 
+    <section class="section-cta h-1 tf-spacing-3">
+        <div class="tf-container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cta-inner">
+
+                        <div class="cta-contet">
+                            <div class="headin-section style-color-white mb-0">
+
+                                <section style="color:rgb(255, 255, 255); padding: 60px 20px;">
+                                    <div style="max-width: 1100px; margin: 0 auto; display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
+
+                                        <!-- Left Side: Text Content -->
+                                        <div style="flex: 1 1 50%; min-width: 280px;">
+                                            <h2 style="font-size: 32px; font-weight: 700; margin-bottom: 20px;color:white">Let’s Talk Business</h2>
+                                            <p style="font-size: 16px; line-height: 1.6; margin-bottom: 30px;">
+                                                We’re here to help you bring your vision to life. Whether you’re looking to start a new project, ask questions, or simply connect — we’re just a message away.
+                                            </p>
+                                            <div class="text-anime-wave">
+                                                <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                                    <span>Contact Support</span>
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <!-- Right Side: Info Box -->
+                                        <div style="flex: 1 1 40%; min-width: 280px; padding: 30px; border-radius: 8px">
+                                            <h4 style="margin-top: 0; font-size: 22px;color:white; margin-bottom: 20px;">Contact Information</h4>
+
+                                            <p style="margin: 0 0 10px;"><strong>Email:</strong> <a href="mailto:contact@panapadvisors.com" style="color:rgb(255, 255, 255); text-decoration: none;">contact@panapadvisors.com</a></p>
+                                            <p style="margin: 0 0 10px;"><strong>Phone:</strong> <a href="tel:15556788888" style="color:rgb(255, 255, 255); text-decoration: none;">+91-9971645151</a></p>
+                                            <p style="margin: 0;"><strong>Address:</strong> CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
+                                        </div>
+                                    </div>
+                                </section>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- 
 
 
                         </div>
                     </div>
                 </div>
-            </section><!-- /.section-services -->
+            </section> /.section-services -->
 
     <!-- Section-process -->
 
 
 
-  
+
     </div>
     <!-- /.main-content -->
 
@@ -1150,7 +1200,7 @@
         </div>
         <div class="meag-menu-item">
             <h4 class="title-content fw-7">
-                Finwice Construction
+                Impact Nest Construction
             </h4>
             <p>
                 Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -1241,103 +1291,104 @@
                                 </div> -->
                         </div>
                         <div class="footer-center">
-                                <div class="footer-content our-services footer-col-block">
-                                    <div class="title-mobile label text-btn-uppercase">
-                                        <p style="font-weight:600;color:black">Pages</p>
-                                        <i class="icon-arrow-51"></i>
-                                    </div>
-                                    <div class="tf-collapse-content">
-                                        <ul>
-                                            <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="about-us.php">
+                            <div class="footer-content our-services footer-col-block">
+                                <div class="title-mobile label text-btn-uppercase">
+                                    <p style="font-weight:600;color:black">Pages</p>
+                                    <i class="icon-arrow-51"></i>
+                                </div>
+                                <div class="tf-collapse-content">
+                                    <ul>
+                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="about-us.php">
 
-                                                    About Us
+                                                About Us
 
-                                                </a></li>
-                                            <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-services-1.php">
+                                            </a></li>
+                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-services-1.php">
 
-                                                    Services
+                                                Services
 
-                                                </a></li>
-                                            <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-teams-industry.php">
+                                            </a></li>
+                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-teams-industry.php">
 
-                                                    Team
+                                                Team
 
-                                                </a></li>
-                                            <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-expert.php">
+                                            </a></li>
+                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-expert.php">
 
-                                                    Our Experts
+                                                Our Experts
 
-                                                </a></li>
-                                            <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="faq.php">
+                                            </a></li>
+                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="faq.php">
 
-                                                    FAQ
+                                                FAQ
 
-                                                </a></li>
-                                            <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="contact-us.php">
+                                            </a></li>
+                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="contact-us.php">
 
-                                                    Contact
+                                                Contact
 
-                                                </a></li>
+                                            </a></li>
 
 
-                                            <!-- <li class="support-item-footer caption-1"><a href="our-teams.php">Our Team</a></li> -->
-                                            <!-- <li class="support-item-footer caption-1"><a href="#">My Account</a></li> -->
+                                        <!-- <li class="support-item-footer caption-1"><a href="our-teams.php">Our Team</a></li> -->
+                                        <!-- <li class="support-item-footer caption-1"><a href="#">My Account</a></li> -->
 
-                                            <!-- <li class="support-item-footer caption-1">
+                                        <!-- <li class="support-item-footer caption-1">
                                                 <a href="#" style="font-weight:600">
 
                                                     <p style="color:black">Services</p>
                                                 </a>
                                             </li> -->
-                                            <!-- <li class="support-item-footer caption-1"><a href="case-studies-1.php">Case studies</a></li> -->
-                                            <!-- <li class="support-item-footer caption-1" style="color:black"><a style="font-weight:600;color:black" href="contact-us.php">
+                                        <!-- <li class="support-item-footer caption-1"><a href="case-studies-1.php">Case studies</a></li> -->
+                                        <!-- <li class="support-item-footer caption-1" style="color:black"><a style="font-weight:600;color:black" href="contact-us.php">
                                                     
                                                     Team</a></li> -->
-                                        </ul>
-                                    </div>
+                                    </ul>
                                 </div>
-
-
                             </div>
-                            <div class="footer-right">
-                                <div class="footer-content our-services footer-col-block">
-                                    <div class="title-mobile  label text-btn-uppercase">
-                                        <p style="font-weight:600;color:black">Contact</p>
-                                        <i class="icon-arrow-51"></i>
-                                    </div>
-                                    <div class="contact-footer">
-                                        <div class="address contact-top contact-footer-content">
-                                            <!-- <p style="font-weight:600; color:black"> -->
-                                            <!-- 
+
+
+                        </div>
+                        <div class="footer-right">
+                            <div class="footer-content our-services footer-col-block">
+                                <div class="title-mobile  label text-btn-uppercase">
+                                    <p style="font-weight:600;color:black">Contact</p>
+                                    <i class="icon-arrow-51"></i>
+                                </div>
+                                <div class="contact-footer">
+                                    <div class="address contact-top contact-footer-content">
+                                        <!-- <p style="font-weight:600; color:black"> -->
+                                        <!-- 
                                                 Our address
                                             </p> -->
-                                            <a style="color:black" href="#">
-                                                CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
-                                        </div>
-                                        <div class="contact-bottom mt-4">
-                                            <div class="contact-footer-content">
-                                                <!-- <p style="font-weight:600;color:black">
+                                        <a style="color:black" href="#">
+                                            CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
+                                    </div>
+                                    <div class="contact-bottom mt-4">
+                                        <div class="contact-footer-content">
+                                            <!-- <p style="font-weight:600;color:black">
                                                     Support 24/7
                                                 </p> -->
-                                                <a style="color:black" href="#">
+                                            <a style="color:black" href="#">
 
-                                                    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
+                                                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
                                                         <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5" />
                                                     </svg> -->
-                                                    +91-9971645151</a>
-                                            </div>
-                                            <div class="contact-footer-content mt-4">
-                                                <!-- <p style="font-weight:600;color:black">
+                                                +91-9971645151</a>
+                                        </div>
+                                        <div class="contact-footer-content mt-4">
+                                            <!-- <p style="font-weight:600;color:black">
                                                     Email Address
                                                 </p> -->
-                                                <a style="color:black" href="#">
+                                            <a style="color:black" href="#">
 
-                                                    contact@panapadvisors.com</a>
-                                            </div>
+                                                contact@panapadvisors.com</a>
                                         </div>
+
                                     </div>
                                 </div>
-                                <!-- <div class="footer-subscribe">
+                            </div>
+                            <!-- <div class="footer-subscribe">
                                     <div class="label text-btn-uppercase">
                                         Subscribe for all the top news!
                                     </div>
@@ -1392,7 +1443,7 @@
                                         </li>
                                     </ul>
                                 </div> -->
-                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1403,7 +1454,7 @@
                     <div class="col-12">
                         <div class="footer-bottom-inner" style="display: flex; justify-content: center; align-items: center; padding: 20px 0;">
                             <div class="text-center caption-1" style="font-size: 14px; color: black;">
-                                ©2025 FinWice. All Rights Reserved.
+                                ©2025 Impact Nest. All Rights Reserved.
                             </div>
                         </div>
                     </div>
@@ -1760,7 +1811,7 @@
         </div>
         <div class="meag-menu-item">
             <h4 class="title-content fw-7">
-                Finwice Construction
+                Impact Nest Construction
             </h4>
             <p>
                 Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -1911,6 +1962,6 @@
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/finwice/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 </html>

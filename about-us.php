@@ -5,7 +5,7 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/about-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:59 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/about-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:59 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
@@ -14,8 +14,8 @@
     <title>
         Impact Nest - Business & Finance Consulting - HTML Template
     </title>
-    <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
-    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
+    <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
+    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
 
     <!-- Mobile Specific Metas -->
@@ -147,7 +147,7 @@
                 </div>
             </div><!-- /.main-content -->
         </div>
-       
+
 
 
         <!-- ************************** -->
@@ -197,10 +197,10 @@
                             </div>
                             <div class="item-content mt-2">
                                 <div class="text">
-                                Our mission is to empower founders with the right tools, insights, and capital to grow
-their businesses with confidence. We offer customized solutions in fundraising, strategy, financial
-modelling, and pitch design—bridging the gap between business vision and investor expectations.
-Through every stage, we remain focused on delivering real value and measurable outcomes.                                </div>
+                                    Our mission is to empower founders with the right tools, insights, and capital to grow
+                                    their businesses with confidence. We offer customized solutions in fundraising, strategy, financial
+                                    modelling, and pitch design—bridging the gap between business vision and investor expectations.
+                                    Through every stage, we remain focused on delivering real value and measurable outcomes. </div>
                             </div>
                         </div>
                     </div>
@@ -312,7 +312,7 @@ Through every stage, we remain focused on delivering real value and measurable o
                 <!-- Right Content -->
                 <div style="flex: 1 1 500px; padding: 10px;">
                     <h4 style="font-size: 30px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;" class="flex">
-                        Empowering Visionaries   Accelerating Growth.
+                        Empowering Visionaries Accelerating Growth.
                     </h4>
                     <p class="text-secondary" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: justify;">
                         At Impact Nest, we partner with startups and growth-stage companies to unlock their true potential
@@ -347,7 +347,7 @@ Through every stage, we remain focused on delivering real value and measurable o
                                     <div class="about-content">
                                         <div class="heading-section">
                                             <!-- <div class="text-anime-wave">
-                                                    <a href="#" class="tag label text-btn-uppercase">WE ARE FinWice</a>
+                                                    <a href="#" class="tag label text-btn-uppercase">WE ARE Impact Nest</a>
                                                 </div> -->
                                             <h3 class="title-section mb-28 text-anime-wave">
                                                 Empowering Your Business
@@ -504,7 +504,7 @@ Through every stage, we remain focused on delivering real value and measurable o
         <div class="main-content">
 
             <!-- Section-benefit -->
-           
+
 
             <!-- Section-about -->
 
@@ -514,7 +514,7 @@ Through every stage, we remain focused on delivering real value and measurable o
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
-                            <div class="heading-section text-center style-color-white mb-60 " style >
+                            <div class="heading-section text-center style-color-white mb-60 " style>
                                 <!-- <div class="text-anime-wave-1">
                                     <a href="#" class="tag label text-btn-uppercase color-white">Our History</a>
                                 </div> -->
@@ -856,7 +856,7 @@ Through every stage, we remain focused on delivering real value and measurable o
             </section>/.section-testimonials -->
 
             <!-- Section-cta -->
-           
+
 
             <!-- Section-awards -->
             <!-- <section class="section-awards h-1 tf-spacing-2">
