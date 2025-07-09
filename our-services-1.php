@@ -471,81 +471,55 @@
 
                                             </div>
 
-                                            <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 462px; margin-right: 30px;">
-                                                <div class="testimonial-item" style="height: 400px;">
-                                                    <div class="testimonial-top">
-                                                        <div class="counter-item">
-                                                            <div class="counter">
-                                                                <!-- <div class="number-counter">
-                                                                <h4 class="color-primary">₹</h4>
-                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
-                                                                <h4 class="plus color-primary">
-                                                                    Cr
-                                                                </h4>
-                                                            </div> -->
-                                                                <h6 class="text">
-                                                                    End-to-End Fundraising Support </h6>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="ite-content">
-                                                        <div class="text">
-                                                            Fundraising is a process, not a one-time event. We stay with you from preparation to closure, helping you
-                                                            refine your approach at every stage.</div>
-                                                        <!-- <ul style="font-size: 14px; color: #555; list-style-type: disc; ">
-                                                            <li>
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>
-                                                                Investor pitch deck design & development
-                                                            </li>
-                                                            <li>
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>
-                                                                Business plan and executive summary
-                                                            </li>
-                                                            <li>
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>
-                                                                Financial model & valuation support
-                                                            </li>
-                                                            <li>
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>
-                                                                Use of funds and cap table guidance
-                                                            </li>
-                                                        </ul> -->
-                                                    </div>
+                                            
 
-                                                </div>
+                                            
+                </section>
 
+                <div class="tf-containr">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="blog-contnt blog-details-2-content blog-details-ontent">
+
+                                        <!-- div class="image-blog">
+
+                                        </div>       < -->
+                                        <div class="desc-blog" style="background-color:rgb(255, 255, 255);">
+                                            <div class="counter text-center">
+
+                                                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                                     End-to-End Fundraising Support
+                                                </h3>
                                             </div>
+                                            <p class="tex-secondary list-grou" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: center;">
+                                                Fundraising is a process, not a one-time event. We stay with you from preparation to closure, helping you
+                                                            refine your approach at every stage.
+                                            </p>
 
-                                            <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 462px; margin-right: 30px;">
-                                                <div class="testimonial-item" style="height: 400px;">
-                                                    <div class="testimonial-top">
-                                                        <div class="counter-item">
-                                                            <div class="counter">
-                                                                <!-- <div class="number-counter">
-                                                                <h4 class="color-primary">₹</h4>
-                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
-                                                                <h4 class="plus color-primary">
-                                                                    Cr
-                                                                </h4>
-                                                            </div> -->
-                                                                <h6 class="text">
-                                                                    Why Choose Impact Nest for Fundraising?
-                                                                </h6>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="ite-content">
-                                                        <!-- <div class="text">
-                                                            We provide everything you need to confidently impress investors, showcase that your vision complete, and spark meaningful that conversations that drive real opportunities. </div> -->
-                                                        <ul style="font-size: 14px; color: #555; list-style-type: disc; ">
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tf-containr">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="blog-contnt blog-details-2-content blog-details-ontent">
+
+                                        <!-- div class="image-blog">
+
+                                        </div>       < -->
+                                        <div class="desc-blog" style="background-color:rgb(255, 255, 255);">
+                                            <div class="counter text-center">
+
+                                                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                                      Why Choose Impact Nest for Fundraising?
+                                                </h3>
+                                            </div>
+                                            
+                                                <ul style="font-size: 14px; color: #555; list-style-type: disc; margin: 0 auto; width: fit-content;">
                                                             <li>
                                                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
                                                                     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
@@ -577,12 +551,15 @@
                                                                 Proven results across multiple successful fundraises
                                                             </li>
                                                         </ul>
-                                                    </div>
+                                            
 
-                                                </div>
 
-                                            </div>
-                </section>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                 
                 <section class="section-cta h-1 tf-spacing" style="margin-top: 50px;">
                     <div class="tf-container">

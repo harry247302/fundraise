@@ -529,7 +529,7 @@
                                     <a href="#canvnasTeamsDetails" style="text-align:center" data-bs-toggle="offcanvas"> Gaurav Verma </a>
                                 </h4>
                                 <div class="position caption-1" style="text-align:center">
-                                    Operations Strategy Expert
+                                    Operation Strategy Expert
                                 </div>
                             </div>
                         </div>
