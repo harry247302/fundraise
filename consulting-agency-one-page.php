@@ -6,15 +6,15 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/consulting-agency-one-page.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:51:52 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/consulting-agency-one-page.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:51:52 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
-    <title>FinWice - Business & Finance Consulting - HTML Template</title>
-    <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
-    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
+    <title>Impact Nest - Business & Finance Consulting - HTML Template</title>
+    <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
+    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
 
     <!-- Mobile Specific Metas -->
@@ -518,14 +518,14 @@
                                         <div class="about-content">
                                             <div class="heading-section">
                                                 <div class="text-anime-wave">
-                                                    <a href="#" class="tag label text-btn-uppercase">WE ARE FinWice</a>
+                                                    <a href="#" class="tag label text-btn-uppercase">WE ARE Impact Nest</a>
                                                 </div>
                                                 <h3 class="title-section mb-28 text-anime-wave">
                                                     Empowering Your Business
                                                     <br>Success
                                                 </h3>
                                                 <div class="sub-title mb-32 text-anime-wave">
-                                                    At FinWice, we empower businesses with tailored strategies, innovative solutions, and
+                                                    At Impact Nest, we empower businesses with tailored strategies, innovative solutions, and
                                                     <br>expert consulting. Our industry professionals drive growth and guide you through
                                                     <br>challenges to achieve success.
                                                 </div>
@@ -1114,7 +1114,7 @@
                                             </div>
                                             <div class="item-content">
                                                 <div class="text">
-                                                    With FinWice support and strategy, we achieved 25% sales growth and streamlined processes. Their adaptive approach ensured we met our goals efficiently.
+                                                    With Impact Nest support and strategy, we achieved 25% sales growth and streamlined processes. Their adaptive approach ensured we met our goals efficiently.
                                                 </div>
                                                 <div class="info-user">
                                                     <div class="image">
@@ -1149,7 +1149,7 @@
                                             </div>
                                             <div class="item-content">
                                                 <div class="text">
-                                                    FinWice provided innovative solutions and a clear strategy that increased our market share by 20%. Their expertise and professionalism led to exceptional results.
+                                                    Impact Nest provided innovative solutions and a clear strategy that increased our market share by 20%. Their expertise and professionalism led to exceptional results.
                                                 </div>
                                                 <div class="info-user">
                                                     <div class="image">
@@ -1184,7 +1184,7 @@
                                             </div>
                                             <div class="item-content">
                                                 <div class="text">
-                                                    Partnering with FinWice boosted our profitability by 30%, transforming operations with clear, measurable improvements in efficiency and revenue.
+                                                    Partnering with Impact Nest boosted our profitability by 30%, transforming operations with clear, measurable improvements in efficiency and revenue.
                                                 </div>
                                                 <div class="info-user">
                                                     <div class="image">
@@ -1846,7 +1846,7 @@
             </div>
             <div class="meag-menu-item">
                 <h4 class="title-content fw-7">
-                    Finwice Construction
+                    Impact Nest Construction
                 </h4>
                 <p>
                     Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -1922,6 +1922,6 @@
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/finwice/consulting-agency-one-page.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:51:52 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/consulting-agency-one-page.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:51:52 GMT -->
 
 </html>

@@ -6,17 +6,17 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        FinWice - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting - HTML Template
     </title>
-    <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
-    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
+    <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
+    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
 
     <!-- Mobile Specific Metas -->
@@ -421,7 +421,7 @@
                                 </defs>
                             </svg>
                         </span>
-                        <span class="caption-1 page-breadkcum">Our Services</span>
+                        <span class="caption-1 page-breadkcum">Team</span>
                     </div>
                     <h2 class="title-page-title">
                         Team
@@ -466,7 +466,7 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Mr. Kamlesh Kaushik leads technical strategy at Impact Nest, bringing deep expertise in aligning
+                                         Kamlesh Kaushik leads technical strategy at Impact Nest, bringing deep expertise in aligning
                                         technology with business goals. With a strong background in tech-led innovation and scalable
                                         systems, he supports startups in building robust, future-ready solutions. His guidance ensures that
                                         every tech decision is strategic, efficient, and built for long-term growth.
@@ -475,7 +475,7 @@
                             </div>
                             <div class="team-content">
                                 <h5 class="name-team">
-                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Kamlesh Kaushik</a>
+                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas"> Kamlesh Kaushik</a>
                                 </h5>
                                 <div class="position caption-1">
                                     Technical Strategy Expert
@@ -490,7 +490,7 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Mr. Ashish S Desai brings strong financial expertise to Impact Nest, supporting startups and
+                                         Ashish S Desai brings strong financial expertise to Impact Nest, supporting startups and
                                         businesses in building sound financial models and strategies. With a deep understanding of capital
                                         structuring, budgeting, and financial planning, he helps clients make data-driven decisions. His
                                         guidance ensures financial clarity, sustainability, and readiness for growth and investment.
@@ -499,7 +499,7 @@
                             </div>
                             <div class="team-content">
                                 <h5 class="name-team">
-                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Ashish S Desai</a>
+                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas"> Ashish S Desai</a>
                                 </h5>
                                 <div class="position caption-1">
                                     Finance Expert
@@ -514,7 +514,7 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Mr. Rahul Sharma specializes in risk analysis at Impact Nest, helping businesses identify, assess, and
+                                         Rahul Sharma specializes in risk analysis at Impact Nest, helping businesses identify, assess, and
                                         mitigate potential financial and operational risks. With a keen eye for detail and a strategic
                                         mindset, he ensures that startups and growth-stage companies make informed decisions. His
                                         insights enable founders to navigate uncertainty with confidence and build resilient business
@@ -524,7 +524,7 @@
                             </div>
                             <div class="team-content">
                                 <h5 class="name-team">
-                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Rahul Sharma</a>
+                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas"> Rahul Sharma</a>
                                 </h5>
                                 <div class="position caption-1">
                                     Risk Analysis Expert
@@ -539,7 +539,7 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Mr. Subhash Kumar is a finance expert with over 15 years of experience and a certified Chartered
+                                        Subhash Kumar is a finance expert with over 15 years of experience and a certified Chartered
                                         Accountant from Institute of Chartered Accountants of India (ICAI). As Director at Impact Nest, he
                                         brings strategic financial insight to startups and growth-stage companies, guiding them in
                                         structuring, compliance, and planning. His expertise ensures businesses build on strong, scalable
@@ -548,9 +548,9 @@
                                 </div>
                             </div>
                             <div class="team-contet">
-                                <h5 class="name-team" style="text-align:center">
-                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Subhash Kumar </a>
-                                </h5>
+                                <h4 class="name-team" style="text-align:center; margin-bottom: 0px;">
+                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Subhash Kumar </a>
+                                </h4>
                                 <div class="position caption-1" style="text-align:center">
                                     Finance Expert
                                 </div>
@@ -564,7 +564,7 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Mr. Mukul Chauhan brings a strong command of finance and fundraising to Impact Nest, guiding
+                                        Mukul Chauhan brings a strong command of finance and fundraising to Impact Nest, guiding
                                         startups through investor readiness, capital strategy, and financial planning. His expertise lies in
                                         structuring deals, building investor confidence, and aligning financial models with growth goals.
                                         Mukul plays a key role in helping founders secure the right funding to scale successfully.
@@ -572,11 +572,11 @@
                                 </div>
                             </div>
                             <div class="team-content">
-                                <h5 class="name-tea" style="text-align:center">
-                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Mukul Chauhan </a>
-                                </h5>
+                                <h4 class="name-tea" style="text-align:center; margin-bottom:0px;">
+                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas"> Mukul Chauhan </a>
+                                </h4>
                                 <div class="position caption-1" style="text-align:center">
-                                Finance & Fundraising Expert
+                                    Finance & Fundraising Expert
                                 </div>
                             </div>
                         </div>
@@ -591,7 +591,7 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Mr. Sagar Verma brings hands-on expertise in operations to Impact Nest, focusing on enhancing
+                                         Sagar Verma brings hands-on expertise in operations to Impact Nest, focusing on enhancing
                                         efficiency and building scalable business processes. With a deep understanding of workflow
                                         optimization and execution strategy, he helps startups streamline their day-to-day functions. His
                                         approach ensures operational stability, agility, and long-term effectiveness for growing ventures.
@@ -600,7 +600,7 @@
                             </div>
                             <div class="team-content">
                                 <h5 class="name-team">
-                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Sagar Verma</a>
+                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas"> Sagar Verma</a>
                                 </h5>
                                 <div class="position caption-1">
                                     Operations Expert
@@ -615,7 +615,7 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Mr. Gaurav Verma brings a sharp focus on operational excellence to Impact Nest. With deep
+                                         Gaurav Verma brings a sharp focus on operational excellence to Impact Nest. With deep
                                         expertise in operations strategy, he helps businesses streamline processes, optimize resource
                                         allocation, and build scalable systems. His practical, results-driven approach ensures that startups
                                         and growing companies achieve efficiency, agility, and sustainable growth through smart
@@ -625,7 +625,7 @@
                             </div>
                             <div class="team-content">
                                 <h5 class="name-team">
-                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Mr. Gaurav Verma</a>
+                                    <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas"> Gaurav Verma</a>
                                 </h5>
                                 <div class="position caption-1">
                                     Operations Strategy Expert
@@ -641,7 +641,7 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Ms. Yashika Hans brings a creative and detail-oriented approach to design at Impact Nest. With a
+                                        Yashika Hans brings a creative and detail-oriented approach to design at Impact Nest. With a
                                         strong foundation in fashion and visual storytelling, she specializes in developing impactful pitch
                                         decks, brand visuals, and marketing materials. Her work ensures that every design communicates the
                                         client’s vision clearly, professionally, and with a distinctive edge that resonates with investors and
@@ -650,11 +650,11 @@
                                 </div>
                             </div>
                             <div class="team-content">
-                                <h5 class="nameteam" style="text-align:center">
-                                    <a href="#canvnaseamsDetails" data-bs-toggle="offcnvas">Ms. Yashika Hans </a>
-                                </h5>
+                                <h4 class="nameteam" style="text-align:center; margin-bottom: 0px;">
+                                    <a href="#canvnaseamsDetails" data-bs-toggle="offcnvas"> Yashika Hans </a>
+                                </h4>
                                 <div class="position caption-1" style="text-align:center">
-                                Senior Executive- Design
+                                    Senior Executive- Design
                                 </div>
                             </div>
                         </div>
@@ -668,7 +668,7 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                    Mr. Ashish S Desai brings strong financial expertise to Impact Nest, supporting startups and
+                                        Ashish S Desai brings strong financial expertise to Impact Nest, supporting startups and
                                         businesses in building sound financial models and strategies. With a deep understanding of capital
                                         structuring, budgeting, and financial planning, he helps clients make data-driven decisions. His
                                         guidance ensures financial clarity, sustainability, and readiness for growth and investment.
@@ -676,11 +676,11 @@
                                 </div>
                             </div>
                             <div class="team-content">
-                                <h5 class="nameteam" style="text-align:center">
-                                    <a href="#canvnaseamsDetails" data-bs-toggle="offcnvas">Mr. Ashish S Desai</a>
+                                <h5 class="nameteam" style="text-align:center; margin-bottom: 0px;">
+                                    <a href="#canvnaseamsDetails" data-bs-toggle="offcnvas"> Ashish S Desai</a>
                                 </h5>
                                 <div class="position caption-1" style="text-align:center">
-                                Director
+                                    Director
                                 </div>
                             </div>
                         </div>
@@ -1053,7 +1053,7 @@
         </div>
         <div class="meag-menu-item">
             <h4 class="title-content fw-7">
-                Finwice Construction
+                Impact Nest Construction
             </h4>
             <p>
                 Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -1236,6 +1236,13 @@
 
                                                 contact@panapadvisors.com</a>
                                         </div>
+                                        <div class="contact-footer-content mt-4">
+                                            <a style="color:black" href="">
+                                                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+                                                 <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
+                                             </svg> -->
+                                                Linkedin</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -1305,7 +1312,7 @@
                     <div class="col-12">
                         <div class="footer-bottom-inner" style="display: flex; justify-content: center; align-items: center; padding: 20px 0;">
                             <div class="text-center caption-1" style="font-size: 14px; color: black;">
-                                ©2025 FinWice. All Rights Reserved.
+                                ©2025 Impact Nest. All Rights Reserved.
                             </div>
                         </div>
                     </div>
@@ -1664,7 +1671,7 @@
         </div>
         <div class="meag-menu-item">
             <h4 class="title-content fw-7">
-                Finwice Construction
+                Impact Nest Construction
             </h4>
             <p>
                 Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -1815,6 +1822,6 @@
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/finwice/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/our-services-1.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:52:44 GMT -->
 
 </html>

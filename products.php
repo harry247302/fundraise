@@ -6,17 +6,17 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/finwice/products.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:53:09 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/products.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:53:09 GMT -->
 
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        FinWice - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting - HTML Template
     </title>
-    <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
-    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
+    <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
+    <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
 
     <!-- Mobile Specific Metas -->
@@ -966,7 +966,7 @@
                             <div class="footer-bottom-inner">
                                 <div class="left">
                                     <div class="text caption-1">
-                                        ©2025 FinWice. All Rights Reserved.
+                                        ©2025 Impact Nest. All Rights Reserved.
                                     </div>
                                 </div>
                                 <div class="right">
@@ -1335,7 +1335,7 @@
             </div>
             <div class="meag-menu-item">
                 <h4 class="title-content fw-7">
-                    Finwice Construction
+                    Impact Nest Construction
                 </h4>
                 <p>
                     Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
@@ -1410,6 +1410,6 @@
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/finwice/products.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:53:12 GMT -->
+<!-- Mirrored from themesflat.co/html/Impact Nest/products.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 12:53:12 GMT -->
 
 </html>
