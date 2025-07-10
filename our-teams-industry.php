@@ -441,7 +441,7 @@
         <style>
             @media only screen and (max-width: 600px) {
                 #image-size {
-                    border: 10px solid black;
+                    /* border: 10px solid black; */
                     height: 85% !important;
                     /* object-fit: cover !important; */
                 }
