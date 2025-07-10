@@ -82,7 +82,7 @@
                                 </defs>
                             </svg>
                         </span>
-                        <span class="caption-1 page-breadkcum">Case Studies</span>
+                        <span class="caption-1 page-breadkcum">Contact Us</span>
                     </div>
                     <h2 class="title-page-title">
                         Contact Us
@@ -99,6 +99,17 @@
         <!-- Main-content -->
         <div class="main-content">
 
+            <style>
+                @media only screen and (max-width: 600px) {
+                    .container {
+                        /* background-color: lightblue !important; */
+                        padding: 0px 35px !important;
+                    }
+                    .contact-form{
+                        margin-left: 0px   !important;
+                    }
+                }
+            </style>
 
             <div class="contact-section" style="background: rgba(250,250,250,0.95); padding: 80px 0 60px 0;">
                 <div class="container">

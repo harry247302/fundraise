@@ -437,6 +437,17 @@
 
 
         <!-- /////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+        <style>
+            @media only screen and (max-width: 600px) {
+                #image-size {
+                    border: 10px solid black;
+                    height: 85% !important;
+                    /* object-fit: cover !important; */
+                }
+            }
+        </style>
+
         <div class="section-team page-team" style="margin-top:50px"> <!-- tf-spacing-3-->
             <div class="tf-container">
                 <div class="row">
@@ -458,7 +469,7 @@
                 </div>
             </div>
             <div class="tf-container">
-                <div class="row rg-30 text-center" style="height: 700px;">
+                <div class="row rg-30 text-center">
                     <!-- <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
@@ -535,7 +546,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-10.jpg" style="height:60%" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img id="image-size" src="image/team-item/team-item-10.jpg" style="height:60%" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -560,7 +571,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-4.jpg" style="height:60%" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img id="image-size" src="image/team-item/team-item-4.jpg" style="height:60%" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -637,7 +648,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-13.jpg" style="height:60%" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img id="image-size" src="image/team-item/team-item-13.jpg" style="height:60%" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -664,7 +675,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-2.jpg" style="height:60%" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img id="image-size" src="image/team-item/team-item-2.jpg" style="height:60%" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -1047,7 +1058,7 @@
                         </div>
                         <div class="footer-center">
                             <div class="footer-content our-services footer-col-block">
-                                <div class="text-btn-uppercase">
+                                <div class="title-mobile label text-btn-uppercase">
                                     <p style="font-weight:600;color:black">Pages</p>
                                     <i class="icon-arrow-51"></i>
                                 </div>

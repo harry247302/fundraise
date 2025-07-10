@@ -183,7 +183,7 @@
 
 
 
-            <section style=" padding: 10px  50px 100px 50px; font-family: Arial, sans-serif;">
+            <section style=" padding: 20px ; font-family: Arial, sans-serif;">
                 <div style=" margin: 0 auto;">
 
 
@@ -961,7 +961,7 @@
                             </div>
                             <div class="footer-center">
                                 <div class="footer-content our-services footer-col-block">
-                                    <div class=" text-btn-uppercase">
+                                    <div class="title-mobile label text-btn-uppercase">
                                         <p style="font-weight:600;color:black">Pages</p>
                                         <i class="icon-arrow-51"></i>
                                     </div>
