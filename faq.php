@@ -513,7 +513,7 @@
                                         <h5><a href="#according-5" data-bs-toggle="collapse" class="title-according collapsed">Do I need a strategy document or just a pitch deck?<span></span></a></h5>
                                         <div id="according-5" class="collapse" data-bs-parent="#According">
                                             <div class="according-content">
-                                                <p>IA pitch deck tells your story, but a tailored strategy ensures long-term growth. We help you with
+                                                <p>A pitch deck tells your story, but a tailored strategy ensures long-term growth. We help you with
                                                     both to align vision and execution.</p>
                                             </div>
                                         </div>

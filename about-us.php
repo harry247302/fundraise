@@ -60,7 +60,7 @@
             <div class="tf-container">
                 <div class="page-title-content">
                     <div class="breadkcum">
-                        <a href="index-2.php" class="caption-1 home">Homepage</a>
+                        <a href="index.php" class="caption-1 home">Homepage</a>
                         <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
                                 <g clip-path="url(#clip0_9360_28061)">
                                     <path d="M3.125 10H16.875" stroke="#A2A3AB" stroke-linecap="round" stroke-linejoin="round" />
@@ -128,7 +128,7 @@
 
                             <div class="d-block counter text-center">
 
-                               
+
                                 <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
                                     Empowering Visionaries. Accelerating Growth.
                                 </h3>
@@ -140,7 +140,7 @@
                             </p>
 
 
-                        </div> 
+                        </div>
                     </div>
                 </div>
             </div><!-- /.main-content -->
