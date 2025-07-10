@@ -616,7 +616,7 @@
                                     <a href="#canvnasTeamsDetails" style="text-align:center" data-bs-toggle="offcanvas"> Sagar Verma </a>
                                 </h4>
                                 <div class="position caption-1" style="text-align:center">
-                                    Operations Expert
+                                    Operation Expert
                                 </div>
                             </div>
                         </div>
@@ -723,7 +723,7 @@
                                     <h3 class="wow fadeInUp mb-12 animated" style="visibility: visible; animation-name: fadeInUp;">Grow with Us. Lead the Future. </h3>
                                     <div class="sub-title body-2 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                                         At Impact Nest, we believe growth isn’t just about numbers <br> — it’s about building businesses that
-                                        <strong>Grow with Us. Lead the Future.</strong>. We <br> believe in empowering bold entrepreneurs to grow with clarity <br> and
+                                        <strong>Grow with Us. Lead the Future</strong>. We <br> believe in empowering bold entrepreneurs to grow with clarity <br> and
                                         confidence — and lead tomorrow’s change.
 
                                     </div>
