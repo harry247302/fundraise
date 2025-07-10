@@ -437,6 +437,17 @@
 
 
         <!-- /////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- 
+         <style>
+            @media only screen and (max-width: 600px) {
+                # {
+                    /* border: 10px solid black; */
+                    height: 85% !important;
+                    /* object-fit: cover !important; */
+                }
+            }
+        </style> -->
+
         <div class="section-team page-team tf-spacing-3 mt-5">
             <div class="tf-container">
                 <div class="row">
@@ -457,13 +468,13 @@
                     </div>
                 </div>
             </div>
-            <div class="tf-container" style="height: fit-content ;">
-                <div class="row rg-30" style="height: fit-content;">
+            <div class="tf-container height: fit-content;">
+                <div class="row rg-30">
 
                     <div class="col-lg-3 col-sm-6" style="max-width: none; margin-bottom: 0px;">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-10.jpg" data-src="image/team-item/team-item-1.jpg" style="height:60%;width:100%" alt="" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-10.jpg" data-src="image/team-item/team-item-1.jpg" style="height:60%" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
