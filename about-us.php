@@ -98,7 +98,7 @@
                         <div class="image-blog">
 
                         </div>
-                        <div class="desc-blog">
+                        <div class="desc-blog" style="padding-left:12px; padding-right:12px;">
                             <div class="counter text-center">
                                 <!-- <h5 class="text fw-bold">What We Offer</h5> -->
                                 <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
@@ -125,7 +125,7 @@
                         <div class="image-blog">
 
                         </div>
-                        <!-- <div class="desc-blog ">
+                        <div class="desc-blog ">
 
 
                             <div class="d-block counter text-center">
