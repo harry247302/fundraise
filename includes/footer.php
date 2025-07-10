@@ -265,11 +265,6 @@ Deck Design -->
                              ©2025 Impact Nest. All Rights Reserved.
                          </div>
                      </div>
-                     <div class="footer-bottom-inner" style="display: flex; justify-content: center; align-items: center; padding: 20px 0;">
-                         <div class="text-center caption-1" style="font-size: 14px; color: black;">
-                             devloped by nmpi
-                         </div>
-                     </div>
                  </div>
 
              </div>
