@@ -67,7 +67,7 @@
                         <div class="header-content">
                             <div class="header-left gap-66">
                                 <div class="logo">
-                                    <a href="index-2.php">
+                                    <a href="index.php">
                                         <img src="image/logo/logo-3.svg" alt="">
                                     </a>
                                 </div>
@@ -80,12 +80,12 @@
                                                     <li class="item">
                                                         <div>
                                                             <div class="image">
-                                                                <a class="img-home" href="index-2.php">
+                                                                <a class="img-home" href="index.php">
                                                                     <img src="image/sub-menu-home/sub-menu-h1.jpg" data-src="image/sub-menu-home/sub-menu-h1.jpg" class="lazyload" alt="">
                                                                 </a>
                                                                 <div class="list-btn">
                                                                     <a class="page-btn" href="index-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="index-2.php">Multi page</a>
+                                                                    <a class="page-btn" href="index.php">Multi page</a>
                                                                 </div>
                                                             </div>
                                                             <h6 class="name-home">Financial Planning</h6>
@@ -1537,7 +1537,7 @@
             <div class="inner-mobile-nav">
                 <div class="top-header-mobi">
                     <div class="logo-mobile">
-                        <a href="index-2.php">
+                        <a href="index.php">
                             <img src="image/logo/logo-2.svg" alt="">
                         </a>
                     </div>
@@ -1557,7 +1557,7 @@
                             </a>
                             <div id="dropdown-menu-1" class="collapse" data-bs-parent="#menu-mobile">
                                 <ul class="sub-menu-mobile">
-                                    <li class="menu-item"><a href="index-2.php">Financial Planning</a></li>
+                                    <li class="menu-item"><a href="index.php">Financial Planning</a></li>
                                     <li class="menu-item"><a href="consulting-agency.php">Consulting Agency</a></li>
                                     <li class="menu-item"><a href="strategy-consulting.php">Strategy Consulting</a></li>
                                     <li class="menu-item"><a href="digital-transformation.php">Digital Transformation</a></li>
@@ -1705,7 +1705,7 @@
                         <div class="col-12">
                             <div class="top-content">
                                 <div class="logo-search">
-                                    <a href="index-2.php">
+                                    <a href="index.php">
                                         <img src="image/logo/logo.svg" alt="">
                                     </a>
                                 </div>

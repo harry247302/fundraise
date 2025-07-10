@@ -150,7 +150,7 @@
                         <div class="header-content">
                             <div class="header-left">
                                 <div class="logo">
-                                    <a href="index-2.php">
+                                    <a href="index.php">
                                         <img src="image/logo/logo.svg" alt="">
                                     </a>
                                 </div>
@@ -163,12 +163,12 @@
                                                     <li class="item">
                                                         <div>
                                                             <div class="image">
-                                                                <a class="img-home" href="index-2.php">
+                                                                <a class="img-home" href="index.php">
                                                                     <img src="image/sub-menu-home/sub-menu-h1.jpg" data-src="image/sub-menu-home/sub-menu-h1.jpg" class="lazyload" alt="">
                                                                 </a>
                                                                 <div class="list-btn">
                                                                     <a class="page-btn" href="index-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="index-2.php">Multi page</a>
+                                                                    <a class="page-btn" href="index.php">Multi page</a>
                                                                 </div>
                                                             </div>
                                                             <h6 class="name-home">Financial Planning</h6>
@@ -408,7 +408,7 @@
             <div class="tf-container">
                 <div class="page-title-content">
                     <div class="breadkcum">
-                        <a href="index-2.php" class="caption-1 home">Homepage</a>
+                        <a href="index.php" class="caption-1 home">Homepage</a>
                         <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
                                 <g clip-path="url(#clip0_9360_28061)">
                                     <path d="M3.125 10H16.875" stroke="#A2A3AB" stroke-linecap="round" stroke-linejoin="round" />
@@ -711,7 +711,7 @@
         <div class="inner-mobile-nav">
             <div class="top-header-mobi">
                 <div class="logo-mobile">
-                    <a href="index-2.php">
+                    <a href="index.php">
                         <!-- <img src="image/logo/logo-2.svg" alt=""> -->
                     </a>
                 </div>
@@ -725,52 +725,52 @@
                 </button>
             </div>
             <nav class="mobile-main-nav">
-             <ul id="menu-mobile" class="menu">
-                 <li>
-                     <a href="/">Home
-                     </a>
+                <ul id="menu-mobile" class="menu">
+                    <li>
+                        <a href="/">Home
+                        </a>
 
-                 </li>
-                 <li>
-                     <a href="/about-us.php">About
-                     </a>
-                 </li>
-                 <li class="menu-item menu-item-has-children-mobile">
-                     <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
-                     <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
-                         <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
-                             <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
-                             <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
-                             <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
-                         </ul>
-                     </div>
-                 </li>
-                 <li>
-                     <a href="/our-teams-industry.php">Team</a>
+                    </li>
+                    <li>
+                        <a href="/about-us.php">About
+                        </a>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
+                        <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
+                                <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
+                                <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
+                                <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/our-teams-industry.php">Team</a>
 
-                 </li>
-                 <li>
-                     <a href="/our-expert.php">Our Experts</a>
-                 </li>
-                 <li>
-                     <a href="/contact-us.php">Contact</a>
-                 </li>
-             </ul>
-             <div class="contact-mobile">
-                 <h6 class="title-contact-mobile">Contact Info</h6>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
-                 </div>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
-                 </div>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
-                 </div>
+                    </li>
+                    <li>
+                        <a href="/our-expert.php">Our Experts</a>
+                    </li>
+                    <li>
+                        <a href="/contact-us.php">Contact</a>
+                    </li>
+                </ul>
+                <div class="contact-mobile">
+                    <h6 class="title-contact-mobile">Contact Info</h6>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
+                    </div>
 
-             </div>
-         </nav>
+                </div>
+            </nav>
         </div>
     </div><!-- /.mobile-nav-wrap -->
 
@@ -782,7 +782,7 @@
                     <div class="col-12">
                         <div class="top-content">
                             <div class="logo-search">
-                                <a href="index-2.php">
+                                <a href="index.php">
                                     <img src="image/logo/logo.svg" alt="">
                                 </a>
                             </div>
@@ -1047,7 +1047,7 @@
                         </div>
                         <div class="footer-center">
                             <div class="footer-content our-services footer-col-block">
-                                <div class="title-mobile label text-btn-uppercase">
+                                <div class="text-btn-uppercase">
                                     <p style="font-weight:600;color:black">Pages</p>
                                     <i class="icon-arrow-51"></i>
                                 </div>
@@ -1232,7 +1232,7 @@
         <div class="inner-mobile-nav">
             <div class="top-header-mobi">
                 <div class="logo-mobile">
-                    <a href="index-2.php">
+                    <a href="index.php">
                         <img src="image/logo/logo-2.svg" alt="">
                     </a>
                 </div>
@@ -1246,52 +1246,52 @@
                 </button>
             </div>
             <nav class="mobile-main-nav">
-             <ul id="menu-mobile" class="menu">
-                 <li>
-                     <a href="/">Home
-                     </a>
+                <ul id="menu-mobile" class="menu">
+                    <li>
+                        <a href="/">Home
+                        </a>
 
-                 </li>
-                 <li>
-                     <a href="/about-us.php">About
-                     </a>
-                 </li>
-                 <li class="menu-item menu-item-has-children-mobile">
-                     <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
-                     <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
-                         <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
-                             <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
-                             <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
-                             <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
-                         </ul>
-                     </div>
-                 </li>
-                 <li>
-                     <a href="/our-teams-industry.php">Team</a>
+                    </li>
+                    <li>
+                        <a href="/about-us.php">About
+                        </a>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
+                        <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
+                                <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
+                                <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
+                                <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/our-teams-industry.php">Team</a>
 
-                 </li>
-                 <li>
-                     <a href="/our-expert.php">Our Experts</a>
-                 </li>
-                 <li>
-                     <a href="/contact-us.php">Contact</a>
-                 </li>
-             </ul>
-             <div class="contact-mobile">
-                 <h6 class="title-contact-mobile">Contact Info</h6>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
-                 </div>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
-                 </div>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
-                 </div>
+                    </li>
+                    <li>
+                        <a href="/our-expert.php">Our Experts</a>
+                    </li>
+                    <li>
+                        <a href="/contact-us.php">Contact</a>
+                    </li>
+                </ul>
+                <div class="contact-mobile">
+                    <h6 class="title-contact-mobile">Contact Info</h6>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
+                    </div>
 
-             </div>
-         </nav>
+                </div>
+            </nav>
         </div>
     </div><!-- /.mobile-nav-wrap -->
 
@@ -1303,7 +1303,7 @@
                     <div class="col-12">
                         <div class="top-content">
                             <div class="logo-search">
-                                <a href="index-2.php">
+                                <a href="index.php">
                                     <img src="image/logo/logo.svg" alt="">
                                 </a>
                             </div>

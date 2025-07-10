@@ -14,7 +14,7 @@
                      </div>
                      <div class="footer-center">
                          <div class="footer-content our-services footer-col-block">
-                             <div class="title-mobile label text-btn-uppercase">
+                             <div class="text-btn-uppercase">
                                  <p style="font-weight:600;color:black">Pages</p>
                                  <i class="icon-arrow-51"></i>
                              </div>
@@ -154,7 +154,7 @@
      <div class="inner-mobile-nav">
          <div class="top-header-mobi">
              <div class="logo-mobile">
-                 <a href="index-2.php">
+                 <a href="index.php">
                      <img src="image/logo/logo-2.svg" alt="">
                  </a>
              </div>
@@ -225,7 +225,7 @@
                  <div class="col-12">
                      <div class="top-content">
                          <div class="logo-search">
-                             <a href="index-2.php">
+                             <a href="index.php">
                                  <img src="image/logo/logo.svg" alt="">
                              </a>
                          </div>
