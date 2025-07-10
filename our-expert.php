@@ -457,8 +457,8 @@
                     </div>
                 </div>
             </div>
-            <div class="tf-container">
-                <div class="row rg-30" style="height: 1000px;">
+            <div class="tf-container" style="height: fit-content ;">
+                <div class="row rg-30" style="height: fit-content;">
 
                     <div class="col-lg-3 col-sm-6" style="max-width: none; margin-bottom: 0px;">
                         <div class="team-item hover-img">
