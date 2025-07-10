@@ -183,7 +183,7 @@
 
 
 
-            <section style=" padding: 10px  50px 100px 50px; font-family: Arial, sans-serif;">
+            <section style=" padding: 20px ; font-family: Arial, sans-serif;">
                 <div style=" margin: 0 auto;">
 
 
