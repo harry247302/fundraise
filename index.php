@@ -10,6 +10,7 @@
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
+    <!-- meta tags -->
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>Fundraiseing - Empower Change Together</title>
     <meta name="description" content="Fundraiseing - Join us to make a difference. Support causes, empower communities, and help those in need with our fundraising platform.">
