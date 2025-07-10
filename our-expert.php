@@ -463,7 +463,7 @@
                     <div class="col-lg-3 col-sm-6" style="max-width: none; margin-bottom: 0px;">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-10.jpg" data-src="image/team-item/team-item-1.jpg" style="height:60%" alt="" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-10.jpg" data-src="image/team-item/team-item-1.jpg" style="height:60%;width:100%" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
