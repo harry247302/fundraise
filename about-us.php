@@ -124,7 +124,7 @@
                         <div class="image-blog">
 
                         </div>
-                        <div class="desc-blog ">
+                        <div class="desc-blog" style="padding-left: 12px; padding-right: 12px;">
 
                             <div class="d-block counter text-center">
 
@@ -140,7 +140,7 @@
                             </p>
 
 
-                        </div> -->
+                        </div> 
                     </div>
                 </div>
             </div><!-- /.main-content -->
