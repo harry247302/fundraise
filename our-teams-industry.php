@@ -150,7 +150,7 @@
                         <div class="header-content">
                             <div class="header-left">
                                 <div class="logo">
-                                    <a href="index.php">
+                                    <a href="index-2.php">
                                         <img src="image/logo/logo.svg" alt="">
                                     </a>
                                 </div>
@@ -163,12 +163,12 @@
                                                     <li class="item">
                                                         <div>
                                                             <div class="image">
-                                                                <a class="img-home" href="index.php">
+                                                                <a class="img-home" href="index-2.php">
                                                                     <img src="image/sub-menu-home/sub-menu-h1.jpg" data-src="image/sub-menu-home/sub-menu-h1.jpg" class="lazyload" alt="">
                                                                 </a>
                                                                 <div class="list-btn">
                                                                     <a class="page-btn" href="index-one-page.php">One Page</a>
-                                                                    <a class="page-btn" href="index.php">Multi page</a>
+                                                                    <a class="page-btn" href="index-2.php">Multi page</a>
                                                                 </div>
                                                             </div>
                                                             <h6 class="name-home">Financial Planning</h6>
@@ -408,7 +408,7 @@
             <div class="tf-container">
                 <div class="page-title-content">
                     <div class="breadkcum">
-                        <a href="index.php" class="caption-1 home">Homepage</a>
+                        <a href="index-2.php" class="caption-1 home">Homepage</a>
                         <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
                                 <g clip-path="url(#clip0_9360_28061)">
                                     <path d="M3.125 10H16.875" stroke="#A2A3AB" stroke-linecap="round" stroke-linejoin="round" />
@@ -437,17 +437,6 @@
 
 
         <!-- /////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-        <style>
-            @media only screen and (max-width: 600px) {
-                #image-size {
-                    border: 10px solid black;
-                    height: 85% !important;
-                    /* object-fit: cover !important; */
-                }
-            }
-        </style>
-
         <div class="section-team page-team" style="margin-top:50px"> <!-- tf-spacing-3-->
             <div class="tf-container">
                 <div class="row">
@@ -457,7 +446,7 @@
                                 <!-- <a href="#" class="tag label text-btn-uppercase">Our Teams</a> -->
                             </div>
                             <!-- <h3 class=" title-section text-anime-wave-1 mb-12" style="text-align:center;translate: none; rotate: none; scale: none; transform-origin: 50% 50%; transform: translate(0px, 0px); opacity: 1;">
-                                Meet Our Experts Consultants
+                                Meet Our Expert Consultants
                             </h3> -->
                             <!-- <div class="sub-title body-2 color-on-suface-container text-anime-wave-1" style="text-align:center;translate: none; rotate: none; scale: none; transform-origin: 50% 50%; transform: translate(0px, 0px); opacity: 1;">
                                 At Impact Nest, we believe growth isn’t just about numbers — it’s about building businesses that
@@ -469,7 +458,7 @@
                 </div>
             </div>
             <div class="tf-container">
-                <div class="row rg-30 text-center">
+                <div class="row rg-30 text-center" style="height: 700px;">
                     <!-- <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
@@ -546,7 +535,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img id="image-size" src="image/team-item/team-item-10.jpg" style="height:60%" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-10.jpg" style="height:60%" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -571,7 +560,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img id="image-size" src="image/team-item/team-item-4.jpg" style="height:60%" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-4.jpg" style="height:60%" data-src="image/team-item/team-item-10.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -648,7 +637,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img id="image-size" src="image/team-item/team-item-13.jpg" style="height:60%" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-13.jpg" style="height:60%" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -675,7 +664,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img id="image-size" src="image/team-item/team-item-2.jpg" style="height:60%" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-2.jpg" style="height:60%" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -722,8 +711,8 @@
         <div class="inner-mobile-nav">
             <div class="top-header-mobi">
                 <div class="logo-mobile">
-                    <a href="index.php">
-                        <!-- <img src="image/logo/logo-2.svg" alt=""> -->
+                    <a href="index-2.php">
+                        <img src="image/logo/logo-2.svg" alt="">
                     </a>
                 </div>
                 <button class="mobile-nav-close" data-bs-dismiss="offcanvas" aria-label="Close">
@@ -737,35 +726,94 @@
             </div>
             <nav class="mobile-main-nav">
                 <ul id="menu-mobile" class="menu">
-                    <li>
-                        <a href="/">Home
-                        </a>
-
-                    </li>
-                    <li>
-                        <a href="/about-us.php">About
-                        </a>
-                    </li>
                     <li class="menu-item menu-item-has-children-mobile">
-                        <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
-                        <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                        <a href="#dropdown-menu-1" data-bs-toggle="collapse" class="collapsed">Home
+                        </a>
+                        <div id="dropdown-menu-1" class="collapse" data-bs-parent="#menu-mobile">
                             <ul class="sub-menu-mobile">
-                                <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
-                                <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
-                                <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
-                                <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
+                                <li class="menu-item"><a href="index-2.php">Financial Planning</a></li>
+                                <li class="menu-item"><a href="consulting-agency.php">Consulting Agency</a></li>
+                                <li class="menu-item"><a href="strategy-consulting.php">Strategy Consulting</a></li>
+                                <li class="menu-item"><a href="digital-transformation.php">Digital Transformation</a></li>
+                                <li class="menu-item"><a href="marketing-consulting.php">Marketing Consulting</a></li>
+                                <li class="menu-item"><a href="insurance-consultancy.php">Insurance Consultancy</a></li>
+                                <li class="menu-item"><a href="tax-advisory.php">Tax Advisory</a></li>
+                                <li class="menu-item"><a href="it-consulting.php">It Consulting</a></li>
+                                <li class="menu-item"><a href="home-LTR.php">Home LTR</a></li>
                             </ul>
                         </div>
                     </li>
-                    <li>
-                        <a href="/our-teams-industry.php">Team</a>
-
+                    <li class="menu-item menu-item-has-children-mobile current-menu-mobile-item">
+                        <a href="#dropdown-menu-2" data-bs-toggle="collapse" class="collapsed">Services
+                        </a>
+                        <div id="dropdown-menu-2" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item current-menu-mobile-item"><a href="our-services-1.php">Our Services 1</a></li>
+                                <li class="menu-item"><a href="our-services-2.php">Our Services 2</a></li>
+                                <li class="menu-item"><a href="services-details-1.php">Services Details 1</a>
+                                </li>
+                                <li class="menu-item"><a href="services-details-2.php">Services Details 2</a>
+                                </li>
+                                <li class="menu-item"><a href="services-details-3.php">Services Details 3</a>
+                                </li>
+                            </ul>
+                        </div>
                     </li>
-                    <li>
-                        <a href="/our-expert.php">Our Experts</a>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Case</a>
+                        <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="case-studies-1.php">Case Studies 1</a></li>
+                                <li class="menu-item"><a href="case-studies-2.php">Case Studies 2</a></li>
+                                <li class="menu-item"><a href="case-studies-details.php">Case Studies
+                                        Details</a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li>
-                        <a href="/contact-us.php">Contact</a>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-4" data-bs-toggle="collapse" class="collapsed">Pages</a>
+                        <div id="dropdown-menu-4" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="about-us.php">About Us</a></li>
+                                <li class="menu-item"><a href="our-teams.php">Our Teams</a></li>
+                                <li class="menu-item"><a href="industries.php">Industries</a></li>
+                                <li class="menu-item"><a href="pricing.php">Pricing</a></li>
+                                <li class="menu-item"><a href="testimonials.php">Testimonials</a></li>
+                                <li class="menu-item"><a href="gallery.php">Gallery</a></li>
+                                <li class="menu-item"><a href="faq.php">Faq</a></li>
+                                <li class="menu-item"><a href="career.php">Career</a></li>
+                                <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li>
+                                <li class="menu-item"><a href="404.php">404 Error</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#sub-product-5" data-bs-toggle="collapse" class="collapsed">Our Store</a>
+                        <div id="sub-product-5" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="products.php">Products</a></li>
+                                <li class="menu-item"><a href="products-details.php">Product Details</a></li>
+                                <li class="menu-item"><a href="shopping-cart.php">Shopping Cart</a></li>
+                                <li class="menu-item"><a href="check-out.php">Check Out</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile current-menu-item">
+                        <a href="#dropdown-menu-6" data-bs-toggle="collapse" class="collapsed">Blog</a>
+                        <div id="dropdown-menu-6" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item current-item"><a href="blog-right-sidebar.php">Blog Right
+                                        Sidebar</a></li>
+                                <li class="menu-item"><a href="blog-left-sidebar.php">Blog Left Sidebar</a>
+                                </li>
+                                <li class="menu-item"><a href="blog-no-sidebar.php">Blog No Sidebarr</a></li>
+                                <li class="menu-item"><a href="blog-details-1.php">Blog Details 1</a></li>
+                                <li class="menu-item"><a href="blog-details-2.php">Blog Details 2</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item">
+                        <a href="contact-us.php">Contact Us</a>
                     </li>
                 </ul>
                 <div class="contact-mobile">
@@ -774,12 +822,50 @@
                         <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
                     </div>
                     <div class="content-contact-moblile">
-                        <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
+                        <a href="#"><i class="icon-Envelope"></i>contact@panapadvisors.com</a>
                     </div>
                     <div class="content-contact-moblile">
                         <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
                     </div>
-
+                    <div class="content-contact-moblile">
+                        <ul class="tf-social style-border radius-50 g-8 style-2 color-on-suface-container">
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-messenger"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-x"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-ig1"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-skype"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-telegram"></i>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </nav>
         </div>
@@ -793,7 +879,7 @@
                     <div class="col-12">
                         <div class="top-content">
                             <div class="logo-search">
-                                <a href="index.php">
+                                <a href="index-2.php">
                                     <img src="image/logo/logo.svg" alt="">
                                 </a>
                             </div>
@@ -1243,7 +1329,7 @@
         <div class="inner-mobile-nav">
             <div class="top-header-mobi">
                 <div class="logo-mobile">
-                    <a href="index.php">
+                    <a href="index-2.php">
                         <img src="image/logo/logo-2.svg" alt="">
                     </a>
                 </div>
@@ -1258,35 +1344,94 @@
             </div>
             <nav class="mobile-main-nav">
                 <ul id="menu-mobile" class="menu">
-                    <li>
-                        <a href="/">Home
+                    <li class="menu-item menu-item-has-children-mobile current-menu-mobile-item">
+                        <a href="#dropdown-menu-1" data-bs-toggle="collapse" class="collapsed">Home
                         </a>
-
-                    </li>
-                    <li>
-                        <a href="/about-us.php">About
-                        </a>
-                    </li>
-                    <li class="menu-item menu-item-has-children-mobile">
-                        <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
-                        <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                        <div id="dropdown-menu-1" class="collapse" data-bs-parent="#menu-mobile">
                             <ul class="sub-menu-mobile">
-                                <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
-                                <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
-                                <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
-                                <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
+                                <li class="menu-item current-menu-mobile-item"><a href="index-2.php">Financial Planning</a></li>
+                                <li class="menu-item"><a href="consulting-agency.php">Consulting Agency</a></li>
+                                <li class="menu-item"><a href="strategy-consulting.php">Strategy Consulting</a></li>
+                                <li class="menu-item"><a href="digital-transformation.php">Digital Transformation</a></li>
+                                <li class="menu-item"><a href="marketing-consulting.php">Marketing Consulting</a></li>
+                                <li class="menu-item"><a href="insurance-consultancy.php">Insurance Consultancy</a></li>
+                                <li class="menu-item"><a href="tax-advisory.php">Tax Advisory</a></li>
+                                <li class="menu-item"><a href="it-consulting.php">It Consulting</a></li>
+                                <li class="menu-item"><a href="home-LTR.php">Home LTR</a></li>
                             </ul>
                         </div>
                     </li>
-                    <li>
-                        <a href="/our-teams-industry.php">Team</a>
-
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-2" data-bs-toggle="collapse" class="collapsed">Services
+                        </a>
+                        <div id="dropdown-menu-2" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="our-services-1.php">Our Services 1</a></li>
+                                <li class="menu-item"><a href="our-services-2.php">Our Services 2</a></li>
+                                <li class="menu-item"><a href="services-details-1.php">Services Details 1</a>
+                                </li>
+                                <li class="menu-item"><a href="services-details-2.php">Services Details 2</a>
+                                </li>
+                                <li class="menu-item"><a href="services-details-3.php">Services Details 3</a>
+                                </li>
+                            </ul>
+                        </div>
                     </li>
-                    <li>
-                        <a href="/our-expert.php">Our Experts</a>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Case</a>
+                        <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="case-studies-1.php">Case Studies 1</a></li>
+                                <li class="menu-item"><a href="case-studies-2.php">Case Studies 2</a></li>
+                                <li class="menu-item"><a href="case-studies-details.php">Case Studies
+                                        Details</a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li>
-                        <a href="/contact-us.php">Contact</a>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-4" data-bs-toggle="collapse" class="collapsed">Pages</a>
+                        <div id="dropdown-menu-4" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="about-us.php">About Us</a></li>
+                                <li class="menu-item"><a href="our-teams.php">Our Teams Industries & Industries </a></li>
+                                <!-- <li class="menu-item"><a href="industries.php">Industries</a></li> -->
+                                <!-- <li class="menu-item"><a href="pricing.php">Pricing</a></li> -->
+                                <!-- <li class="menu-item"><a href="testimonials.php">Testimonials</a></li> -->
+                                <!-- <li class="menu-item"><a href="gallery.php">Gallery</a></li> -->
+                                <li class="menu-item"><a href="faq.php">Faq</a></li>
+                                <!-- <li class="menu-item"><a href="career.php">Career</a></li> -->
+                                <!-- <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li> -->
+                                <!-- <li class="menu-item"><a href="404.php">404 Error</a></li> -->
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#sub-product-5" data-bs-toggle="collapse" class="collapsed">Our Store</a>
+                        <div id="sub-product-5" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="products.php">Products</a></li>
+                                <li class="menu-item"><a href="products-details.php">Product Details</a></li>
+                                <li class="menu-item"><a href="shopping-cart.php">Shopping Cart</a></li>
+                                <li class="menu-item"><a href="check-out.php">Check Out</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile current-menu-item">
+                        <a href="#dropdown-menu-6" data-bs-toggle="collapse" class="collapsed">Blog</a>
+                        <div id="dropdown-menu-6" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item current-item"><a href="blog-right-sidebar.php">Blog Right
+                                        Sidebar</a></li>
+                                <li class="menu-item"><a href="blog-left-sidebar.php">Blog Left Sidebar</a>
+                                </li>
+                                <li class="menu-item"><a href="blog-no-sidebar.php">Blog No Sidebarr</a></li>
+                                <li class="menu-item"><a href="blog-details-1.php">Blog Details 1</a></li>
+                                <li class="menu-item"><a href="blog-details-2.php">Blog Details 2</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item">
+                        <a href="contact-us.php">Contact Us</a>
                     </li>
                 </ul>
                 <div class="contact-mobile">
@@ -1295,12 +1440,50 @@
                         <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
                     </div>
                     <div class="content-contact-moblile">
-                        <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
+                        <a href="#"><i class="icon-Envelope"></i>contact@panapadvisors.com</a>
                     </div>
                     <div class="content-contact-moblile">
                         <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
                     </div>
-
+                    <div class="content-contact-moblile">
+                        <ul class="tf-social style-border radius-50 g-8 style-2 color-on-suface-container">
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-messenger"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-x"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-ig1"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-skype"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-telegram"></i>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </nav>
         </div>
@@ -1314,7 +1497,7 @@
                     <div class="col-12">
                         <div class="top-content">
                             <div class="logo-search">
-                                <a href="index.php">
+                                <a href="index-2.php">
                                     <img src="image/logo/logo.svg" alt="">
                                 </a>
                             </div>
