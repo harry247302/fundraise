@@ -13,7 +13,7 @@
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        Impact Nest - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting
     </title>
     <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
     <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
@@ -458,7 +458,7 @@
                             <h3 style="color:var(--primary); letter-spacing:2px; text-align:center; " class="title-content mb-16 fw-bold">
                                 Financial Modeling
                             </h3>
-                            <div class="desc mb-16 body-2" style="line-height:1.8; text-align: center; padding:  0 100px 0 100px;">
+                            <div class="desc mb-16 body-2" style="line-height:1.8; text-align: left; padding:  20px;">
                                 At Impact Nest, we build powerful, reliable, and investor-ready financial models that bring
                                 structure to your growth story. Whether you’re preparing for fundraising, planning market
                                 expansion, or optimizing operations, our financial modelling service delivers the insights,
