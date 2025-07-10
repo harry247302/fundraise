@@ -12,8 +12,7 @@
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        Impact Nest - Business & Finance Consulting - HTML Template
-    </title>
+        Impact Nest - Business & Finance Consulting</title>
     <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
     <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
     <meta name="author" content="themesflat.com" />
@@ -98,7 +97,7 @@
                         <div class="image-blog">
 
                         </div>
-                        <div class="desc-blog">
+                        <div class="desc-blog" style="padding-left:12px; padding-right:12px;">
                             <div class="counter text-center">
                                 <!-- <h5 class="text fw-bold">What We Offer</h5> -->
                                 <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
@@ -125,8 +124,7 @@
                         <div class="image-blog">
 
                         </div>
-                        <!-- <div class="desc-blog ">
-
+                        <div class="desc-blog" style="padding-left: 12px; padding-right: 12px;">
 
                             <div class="d-block counter text-center">
 
@@ -142,7 +140,7 @@
                             </p>
 
 
-                        </div> -->
+                        </div> 
                     </div>
                 </div>
             </div><!-- /.main-content -->
