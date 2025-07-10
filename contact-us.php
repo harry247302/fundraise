@@ -137,7 +137,7 @@
                                         <img src="./image/icon/Linkedin.png" style="width: 32px;">
                                         <div>
                                             <h6 class="mb-1">Linkedin</h6>
-                                            <a href="tel:+919971645151">+91-9971645151</a>
+                                            <!-- <a href="tel:+919971645151">+91-9971645151</a> -->
                                         </div>
                                     </li>
                                     
