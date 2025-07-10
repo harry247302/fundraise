@@ -147,7 +147,7 @@
                                         <img src="./image/icon/Linkedin.png" style="width: 32px;">
                                         <div>
 
-                                            <h6 class="mb-1"><a href="https://www.linkedin.com/company/leasegrid/">LinkedIn</a></h6>
+                                            <h6 class="mb-1"><a href="https://www.linkedin.com/company/impact-nest">LinkedIn</a></h6>
 
                                         </div>
                                     </li>

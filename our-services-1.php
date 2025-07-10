@@ -492,8 +492,7 @@
                                         </h3>
                                     </div>
                                     <p class="tex-secondary list-grou" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: center;">
-                                        Fundraising is a process, not a one-time event. We stay with you from preparation to closure, helping you
-                                        refine your approach at every stage.
+                                    Impact Nest offers 360° fundraising support to help startups raise capital with clarity and confidence. We craft compelling narratives, build robust financial models, design investor-ready decks, and facilitate warm investor introductions. From strategy to closure, we guide you through every stage of the funding journey-ensuring you're not just ready to pitch, but ready to win. Our expert team ensures every detail aligns with investor expectations, maximizing your chances of a successful raise.
                                     </p>
 
 
@@ -504,22 +503,30 @@
                     </div>
                 </div>
 
-                <div class="section-services-item style-border" style="margin-top:40px;">
-                    <div class="image tf-animate-1 active-animate">
-                        <a href="services-details-1.html" class="link"></a>
-                        <img src="image/section-services-item/section-services-item-1.jpg" data-src="image/section-services-item/section-services-item-1.jpg" alt="" class=" ls-is-cached lazyloaded">
-                    </div>
-                    <div class="services-content">
-                        <div class="heading">
-                            <h3 class="wow fadeInUp animated fw-bold " style="visibility: visible; animation-name: fadeInUp; text-align:start;"><a href="#" class="name-services">Why Choose Impact Nest for Fundraising?</a>
-                            </h3>
-                            <div class="sub-name body-2 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                <!-- Develop and implement long-term plans to achieve business goals. This
-                                            <br>includes market analysis, internal assessments, and strategic
-                                            <br>development. -->
-                            </div>
-                        </div>
-                        <div class="benefit-lists">
+
+
+<!-- ******************** -->
+<section style="padding: 60px 20px; background-color: #f8f9fa; font-family: 'Segoe UI', sans-serif;">
+            <div style="
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 40px;
+  ">
+
+                <!-- Left Image -->
+                <div style="flex: 1 1 300px; text-align: center;">
+                    <img src="image/section/wg-video-small.jpg" alt="Empowering Visionaries" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+                </div>
+
+                <!-- Right Content -->
+                <div style="flex: 1 1 500px; padding: 10px;">
+                    <h4 style="font-size: 30px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;" class="flex">
+                    Why Choose Impact Nest for Fundraising?
+                    </h4>
+                  <div class="benefit-lists">
                             <div class="benefit-items">
                                 <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                                     <i class="icon-checkbox"></i>
@@ -561,15 +568,17 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                        <a href="#" class="tf-btn style-1 bg-on-suface-container">
-                                            <span>
-                                                View Services
-                                            </span>
-                                        </a>
-                                    </div> -->
-                    </div>
                 </div>
+            </div>
+        </section>
+<!-- ******************************************************* -->
+
+
+
+
+
+
+           
 
                 <section class="section-cta h-1 tf-spacing" style="margin-top: 50px;">
                     <div class="tf-container">
