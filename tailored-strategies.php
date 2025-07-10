@@ -1195,7 +1195,7 @@
                         </div>
                         <div class="footer-center">
                             <div class="footer-content our-services footer-col-block">
-                                <div class="text-btn-uppercase">
+                                <div class="title-mobile label text-btn-uppercase">
                                     <p style="font-weight:600;color:black">Pages</p>
                                     <i class="icon-arrow-51"></i>
                                 </div>
