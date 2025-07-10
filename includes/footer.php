@@ -441,77 +441,8 @@
      </div>
  </div><!-- /.offcanvasMegamenu -->
 
- <!-- Login -->
- <!-- <div class="modal fade modalCenter auto-popup" id="modallogin">
-     <div class="modal-dialog modal-dialog-centered" role="document">
-         <div class="modal-content modal-xl">
-             <div class="wg-new-letter">
-                 <div class="image">
-                     <img src="image/section/img-new-letter.jpg" data-src="image/section/img-new-letter.jpg" alt="" class="lazyload">
-                 </div>
-                 <div class="new-letter-content text-center">
-                     <div class="heading">
-                         <div class="label text-btn-uppercase color-primary mb-8">
-                             Subscribe To Our Newletter!
-                         </div>
-                         <h5 class="color-on-suface-container ">
-                             Sign Up For Updates On Our Latest
-                             <br>News And Events.
-                         </h5>
-                     </div>
-                     <fieldset>
-                         <input type="text" placeholder="Enter your email address">
-                     </fieldset>
-                     <a href="#" class="tf-btn style-2 bg-on-suface-container">
-                         <span>Subscribe</span>
-                     </a>
-                     <ul class="tf-social radius-50 g-8 color-on-suface-container">
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-messenger"></i>
-                                 </div>
-                             </a>
-                         </li>
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-x"></i>
-                                 </div>
-                             </a>
-                         </li>
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-ig1"></i>
-                                 </div>
-                             </a>
-                         </li>
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-skype"></i>
-                                 </div>
-                             </a>
-                         </li>
-                         <li class="item">
-                             <a href="#">
-                                 <div class="icon">
-                                     <i class="icon-telegram"></i>
-                                 </div>
-                             </a>
-                         </li>
-                     </ul>
-                 </div>
-                 <a href="#" data-bs-dismiss="modal" class="icon-new-letter btn-hide-popup">
-                     <i class="icon-close1">
-                     </i>
-                 </a>
-             </div>
+ 
 
-         </div>
-     </div>
- </div>/.login -->
 
  <!-- Go-top -->
  <div class="progress-wrap">
