@@ -8163,7 +8163,7 @@ a.mapboxgl-ctrl-logo {
 .team-item .image img {
   width: 100%;
   height: 80%;
-  object-fit: cover;
+  /* object-fit: cover; */
 }
 .team-item .image .team-social {
   position: absolute;

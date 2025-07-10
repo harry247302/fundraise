@@ -471,96 +471,106 @@
 
                                             </div>
 
-                                            
 
-                                            
+
+
                 </section>
 
-                <div class="tf-containr">
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="blog-contnt blog-details-2-content blog-details-ontent">
+                <div class="tf-containr" style="margin-top: 20px; margin-bottom:40px;">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="blog-contnt blog-details-2-content blog-details-ontent">
 
-                                        <!-- div class="image-blog">
+                                <!-- div class="image-blog">
 
                                         </div>       < -->
-                                        <div class="desc-blog" style="background-color:rgb(255, 255, 255);">
-                                            <div class="counter text-center">
+                                <div class="desc-blog" style="background-color:rgb(255, 255, 255);">
+                                    <div class="counter text-center">
 
-                                                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
-                                                     End-to-End Fundraising Support
-                                                </h3>
-                                            </div>
-                                            <p class="tex-secondary list-grou" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: center;">
-                                                Fundraising is a process, not a one-time event. We stay with you from preparation to closure, helping you
-                                                            refine your approach at every stage.
-                                            </p>
-
-
-
-                                        </div>
+                                        <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                            End-to-End Fundraising Support
+                                        </h3>
                                     </div>
+                                   
+                                    <p class="tex-secondary list-grou" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: center;">
+                                        Impact Nest offers 360° fundraising support to help startups raise capital with clarity and confidence. We craft compelling narratives, build robust financial models, design investor-ready decks, and facilitate warm investor introductions. From strategy to closure, we guide you through every stage of the funding journey-ensuring you're not just ready to pitch, but ready to win. Our expert team ensures every detail aligns with investor expectations, maximizing your chances of a successful raise.
+                                    </p>
+
+
+
                                 </div>
                             </div>
                         </div>
-                        <div class="tf-containr">
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="blog-contnt blog-details-2-content blog-details-ontent">
+                    </div>
+                </div>
 
-                                        <!-- div class="image-blog">
-
-                                        </div>       < -->
-                                        <div class="desc-blog" style="background-color:rgb(255, 255, 255);">
-                                            <div class="counter text-center">
-
-                                                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
-                                                      Why Choose Impact Nest for Fundraising?
-                                                </h3>
-                                            </div>
-                                            
-                                                <ul style="font-size: 14px; color: #555; list-style-type: disc; margin: 0 auto; width: fit-content;">
-                                                            <li>
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>
-                                                                Deep experience across startup and growth stages
-                                                            </li>
-                                                            <li>
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>
-                                                                Strong investor network across sectors
-                                                            </li>
-                                                            <li>
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>
-                                                                Founder-first approach with hands-on support
-                                                            </li>
-                                                            <li>
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>
-                                                                Transparent, insight-driven processes
-                                                            </li>
-                                                            <li>
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
-                                                                    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" />
-                                                                </svg>
-                                                                Proven results across multiple successful fundraises
-                                                            </li>
-                                                        </ul>
-                                            
-
-
-
-                                        </div>
-                                    </div>
+                <div class="section-services-item style-border" style="margin-top:40px;">
+                    <div class="image tf-animate-1 active-animate">
+                        <a href="services-details-1.html" class="link"></a>
+                        <img src="image/section-services-item/section-services-item-1.jpg" data-src="image/section-services-item/section-services-item-1.jpg" alt="" class=" ls-is-cached lazyloaded">
+                    </div>
+                    <div class="services-content">
+                        <div class="heading">
+                            <h3 class="wow fadeInUp animated fw-bold " style="visibility: visible; animation-name: fadeInUp; text-align:start;"><a href="#" class="name-services">Why Choose Impact Nest for Fundraising?</a>
+                            </h3>
+                            <div class="sub-name body-2 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                <!-- Develop and implement long-term plans to achieve business goals. This
+                                            <br>includes market analysis, internal assessments, and strategic
+                                            <br>development. -->
+                            </div>
+                        </div>
+                        <div class="benefit-lists">
+                            <div class="benefit-items">
+                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                    <i class="icon-checkbox"></i>
+                                </div>
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                    Deep experience across startup and growth stages
+                                </div>
+                            </div>
+                            <div class="benefit-items">
+                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                    <i class="icon-checkbox"></i>
+                                </div>
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                    Strong investor network across sectors
+                                </div>
+                            </div>
+                            <div class="benefit-items">
+                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                    <i class="icon-checkbox"></i>
+                                </div>
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                    Founder-first approach with hands-on support
+                                </div>
+                            </div>
+                            <div class="benefit-items">
+                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                    <i class="icon-checkbox"></i>
+                                </div>
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                    Transparent, insight-driven processes
+                                </div>
+                            </div>
+                            <div class="benefit-items">
+                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                    <i class="icon-checkbox"></i>
+                                </div>
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                    Proven results across multiple successful fundraises
                                 </div>
                             </div>
                         </div>
-                
+                        <!-- <div class="wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                        <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                            <span>
+                                                View Services
+                                            </span>
+                                        </a>
+                                    </div> -->
+                    </div>
+                </div>
+
                 <section class="section-cta h-1 tf-spacing" style="margin-top: 50px;">
                     <div class="tf-container">
                         <div class="row">

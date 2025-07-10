@@ -1096,8 +1096,8 @@
                                                                     <img
                                                                         src="/image/icon/mufin_green_infra_logo.jpeg"
                                                                         alt="Bluetrans"
-                                                                        style="border: 0px solid red; width: 30px; margin-top:10px; height: auto;" />
-                                                                    <h5 class="text" style="margin-top:15px; margin-bottom: 0px;">Mufin Green Infra</h5>
+                                                                        style="border: 0px solid red; width: 30px; height: auto;" />
+                                                                    <h5 class="text" style=" margin-bottom: 0px;">Mufin Green Infra</h5>
 
                                                                     <!-- Number + % -->
                                                                     <!-- <h4 style="">Rs  </h4> -->
@@ -1158,9 +1158,9 @@
                                                                     <img
                                                                         src="/image/icon/bluetrans.png"
                                                                         alt="Bluetrans"
-                                                                        style="border: 0px solid red; width: 100px; height: 45px; margin-bottom: 8px;" />
+                                                                        style="border: 0px solid red; width: 100px; height: auto; margin-bottom: 0px;     align-self: baseline;" />
 
-                                                                    <h5 class="text" style="margin-top: 15px; margin-bottom: 0px;">&nbsp;&nbsp;Bluetrans</h5>
+                                                                    <h5 class="text" style="margin-bottom: 0px;">&nbsp;&nbsp;Bluetrans</h5>
                                                                     <!-- Number + % -->
                                                                     <div style="display: flex; align-items: center;">
                                                                         <h4
@@ -1208,54 +1208,29 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        
                                         <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 568px; margin-right: 30px;">
                                             <div class="testimonial-item" style="height:478px">
                                                 <div class="testimonial-top">
                                                     <div class="counter-item">
                                                         <div class="counter" style="text-align: center; width: 100%; max-width: 400px; margin: auto;">
                                                             <div class="number-counter">
-                                                                <div style="display: flex; align-items: center; border: 0px solid black; flex-wrap: wrap;">
-                                                                    <!-- Image -->
-                                                                    <img
-                                                                        src="/image/icon/swap.png"
-                                                                        alt="Bluetrans"
-                                                                        style="border: 0px solid red; width: 30px; height: auto;" />
+                                                             <div class="d-flex align-items-center flex-wrap " style="height: auto; min-height: 0px;border:0px solid black">
+    <!-- Image and Title -->
+    <div class="d-flex align-items-center ">
+        <img src="/image/icon/swap.png" alt="Bluetrans" style="width: 30px; height: auto;" />
+        <h5 class="mb-0 ms-2">Swap India</h5>
+    </div>
 
-                                                                    <h5 class="text" style="margin-top: 15px; margin-bottom: 0px;">&nbsp;&nbsp;Swap India</h5>
-                                                                    <!-- Number + % -->
-                                                                    <div style="display: flex; align-items: center;">
-                                                                        <h4
-                                                                            class="number color-primary odometer odometer-auto-theme"
-                                                                            data-to="5"
-                                                                            data-inviewport="yes"
-                                                                            style="margin: 0; font-size: 24px;">
-                                                                            <div class="odometer-inside">
+    <!-- Number + Text -->
+    <div class="d-flex align-items-center">
+        <h4 class="mb-0 me-2 text-primary odometer" data-to="5" data-inviewport="yes" style="font-size: 24px; color: black !important;">
+            15
+        </h4>
+        <h4 class="mb-0 text-primary" style="font-size: 24px; color: black !important;">Cr Raised in funding</h4>
+    </div>
+</div>
 
-                                                                                <span clater-digit-spacer">8</span>
-                                                                                <span class="odometer-digit-ss=" odometer-digit">
-                                                                                    <span class="odomeinner">
-                                                                                        <span class="odometer-ribbon">
-                                                                                            <span class="odometer-ribbon-inner">
-                                                                                                <span class="odometer-value">1</span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                                <span class="odometer-digit">
-                                                                                    <span class="odometer-digit-spacer">8</span>
-                                                                                    <span class="odometer-digit-inner">
-                                                                                        <span class="odometer-ribbon">
-                                                                                            <span class="odometer-ribbon-inner">
-                                                                                                <span class="odometer-value">5</span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                            </div>
-                                                                        </h4>
-                                                                        <h4 class="plus color-primary" style="margin: 0 0 0 0; font-size: 24px;">&nbsp;Cr Raised in funding</h4>
-                                                                    </div>
-                                                                </div>
                                                             </div>
                                                         </div>
 
