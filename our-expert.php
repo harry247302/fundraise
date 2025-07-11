@@ -427,8 +427,8 @@
                         Our Experts
                     </h2>
                     <div class="sub-title body-2">
-                        Discover a diverse array of services designed to help businesses excel through our
-                        <br>customized strategies and expert guidance.
+                      Gain access to top-tier experts offering customized insights and strategic
+                      </br> guidance to help your business thrive in a competitive landscape.
                     </div>
                 </div>
             </div>
@@ -437,6 +437,17 @@
 
 
         <!-- /////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- 
+         <style>
+            @media only screen and (max-width: 600px) {
+                # {
+                    /* border: 10px solid black; */
+                    height: 85% !important;
+                    /* object-fit: cover !important; */
+                }
+            }
+        </style> -->
+
         <div class="section-team page-team tf-spacing-3 mt-5">
             <div class="tf-container">
                 <div class="row">
@@ -457,13 +468,13 @@
                     </div>
                 </div>
             </div>
-            <div class="tf-container">
-                <div class="row rg-30" style="height: 1000px;">
+            <div class="tf-container height: fit-content;">
+                <div class="row rg-30">
 
                     <div class="col-lg-3 col-sm-6" style="max-width: none; margin-bottom: 0px;">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-10.jpg" data-src="image/team-item/team-item-1.jpg" style="height:60%;width:100%" alt="" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-10.jpg" data-src="image/team-item/team-item-1.jpg" style="height:80%"  alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -488,7 +499,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-1.jpg" data-src="image/team-item/team-item-2.jpg" alt="" style="height:60%" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-1.jpg" data-src="image/team-item/team-item-2.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -512,7 +523,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-9.jpg" data-src="image/team-item/team-item-12.jpg" alt="" style="height:60%" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-9.jpg" data-src="image/team-item/team-item-12.jpg" alt=""  class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -520,7 +531,7 @@
                                         expertise in operations strategy, he helps businesses streamline processes, optimize resource
                                         allocation, and build scalable syste His practical, results-driven approach ensures that startups
                                         and growing companies achieve efficiency, agility, and sustainable growth through smart
-                                        operational planning.s.
+                                        operational planning.
                                     </p>
                                 </div>
                             </div>
@@ -537,7 +548,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-12.jpg" data-src="image/team-item/team-item-4.jpg" alt="" style="height:60%" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-12.jpg" data-src="image/team-item/team-item-4.jpg" alt=""  class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -562,10 +573,10 @@
 
                     <!-- row-2 -->
 
-                    <div class="col-lg-3 col-sm-6" style="margin-top: -180px;">
+                    <div class="col-lg-3 col-sm-6" >
                         <div class="team-item team-item1 hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-2.jpg" style="height:60%" data-src="image/team-item/team-item-8.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-2.jpg" data-src="image/team-item/team-item-8.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -586,10 +597,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6" style="margin-top: -180px;">
+                    <div class="col-lg-3 col-sm-6" >
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-8.jpg" style="height:60%" data-src="image/team-item/team-item-9.jpg" alt="" style="height:60%" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-8.jpg"  data-src="image/team-item/team-item-9.jpg" alt="" class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -605,16 +616,16 @@
                                     <a href="#canvnasTeamsDetails" style="text-align:center" data-bs-toggle="offcanvas"> Sagar Verma </a>
                                 </h4>
                                 <div class="position caption-1" style="text-align:center">
-                                    Operations Expert
+                                    Operation Expert
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6" style="margin-top: -180px;">
+                    <div class="col-lg-3 col-sm-6" >
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-4.jpg" style="height:60%" data-src="image/team-item/tream-item-13.pn" alt="" style="height:60%" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-4.jpg" style="transform:scale(1.5)" data-src="image/team-item/tream-item-13.pn" alt=""  class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -636,10 +647,10 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6" style="margin-top: -180px;">
+                    <div class="col-lg-3 col-sm-6" >
                         <div class="team-item hover-img">
                             <div class="image">
-                                <img src="image/team-item/team-item-13.jpg" style="height:60%" data-src="image/team-item/tream-item-13.pn" alt="" style="height:60%" class=" ls-is-cached lazyloaded">
+                                <img src="image/team-item/team-item-13.jpg" data-src="image/team-item/tream-item-13.pn" alt=""  class=" ls-is-cached lazyloaded">
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
@@ -711,10 +722,10 @@
                                     </div> -->
                                     <h3 class="wow fadeInUp mb-12 animated" style="visibility: visible; animation-name: fadeInUp;">Grow with Us. Lead the Future. </h3>
                                     <div class="sub-title body-2 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                        At Impact Nest, we believe growth isn’t just about numbers <br> — it’s about building businesses that
-                                        <strong>Grow with Us. Lead the Future.</strong>. We <br> believe in empowering bold entrepreneurs to grow with clarity <br> and
-                                        confidence — and lead tomorrow’s change.
-
+                                        
+At Impact Nest, we believe growth isn’t just about numbers — it’s about </br> building businesses that
+shape the future. We believe in empowering bold </br> entrepreneurs to grow with clarity and
+confidence — and lead tomorrow’s change.
                                     </div>
                                 </div>
                                 <div style="margin-top:30px" class="wow fadeInUp animated mt-5" style="visibility: visible; animation-name: fadeInUp;">
@@ -1265,234 +1276,11 @@
         </svg>
     </div><!-- /.go-top -->
     <!-- Footer -->
-    <footer class="footer" id="footer">
-        <div class="tf-container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="footer-top">
-                        <div class="footer-left">
-                            <div class="logo-footer" style="height:100%;border:0px solid black;display:flex;justify-content:center;align-items:center">
-                                <a href="/" class="logo">
-                                    <img style="width: 200px; " src="image/logo/logo-footer.png" alt="">
-                                </a>
-                            </div>
-                            <!-- <div class="text caption-1">
-                                    Welcome to your trusted financial partner! Explore
-                                    <br>personalized strategies and expert guidance to secure
-                                    <br>your financial future and achieve success.
-                                </div> -->
-                            <!-- <div class="contact-footer">
-                                    <div class="address contact-top contact-footer-content">
-                                        <p class="caption-2">
-                                            Our address
-                                        </p>
-                                        <a href="#">101 E 129th St, East Chicago, IN 46312, US</a>
-                                    </div>
-                                    <div class="contact-bottom">
-                                        <div class="contact-footer-content">
-                                            <p class="caption-2">
-                                                Support 24/7
-                                            </p>
-                                            <a href="#">+91-9971645151</a>
-                                        </div>
-                                        <div class="contact-footer-content">
-                                            <p class="caption-2">
-                                                Email Address
-                                            </p>
-                                            <a href="#">contact@panapadvisors.com</a>
-                                        </div>
-                                    </div>
-                                </div> -->
-                        </div>
-                        <div class="footer-center">
-                            <div class="footer-content our-services footer-col-block">
-                                <div class="title-mobile label text-btn-uppercase">
-                                    <p style="font-weight:600;color:black">Pages</p>
-                                    <i class="icon-arrow-51"></i>
-                                </div>
-                                <div class="tf-collapse-content">
-                                    <ul>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="about-us.php">
-
-                                                About Us
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-services-1.php">
-
-                                                Services
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-teams-industry.php">
-
-                                                Team
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-expert.php">
-
-                                                Our Experts
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="faq.php">
-
-                                                FAQ
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="contact-us.php">
-
-                                                Contact
-
-                                            </a></li>
-
-
-                                        <!-- <li class="support-item-footer caption-1"><a href="our-teaphp">Our Team</a></li> -->
-                                        <!-- <li class="support-item-footer caption-1"><a href="#">My Account</a></li> -->
-
-                                        <!-- <li class="support-item-footer caption-1">
-                                                <a href="#" style="font-weight:600">
-
-                                                    <p style="color:black">Services</p>
-                                                </a>
-                                            </li> -->
-                                        <!-- <li class="support-item-footer caption-1"><a href="case-studies-1.php">Case studies</a></li> -->
-                                        <!-- <li class="support-item-footer caption-1" style="color:black"><a style="font-weight:600;color:black" href="contact-us.php">
-                                                    
-                                                    Team</a></li> -->
-                                    </ul>
-                                </div>
-                            </div>
-
-
-                        </div>
-                        <div class="footer-right">
-                            <div class="footer-content our-services footer-col-block">
-                                <div class="title-mobile  label text-btn-uppercase">
-                                    <p style="font-weight:600;color:black">Contact</p>
-                                    <i class="icon-arrow-51"></i>
-                                </div>
-                                <div class="contact-footer">
-                                    <div class="address contact-top contact-footer-content">
-                                        <!-- <p style="font-weight:600; color:black"> -->
-                                        <!-- 
-                                                Our address
-                                            </p> -->
-                                        <a style="color:black" href="#">
-                                            CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
-                                    </div>
-                                    <div class="contact-bottom mt-4">
-                                        <div class="contact-footer-content">
-                                            <!-- <p style="font-weight:600;color:black">
-                                                    Support 24/7
-                                                </p> -->
-                                            <a style="color:black" href="#">
-
-                                                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
-                                                        <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5" />
-                                                    </svg> -->
-                                                +91-9971645151</a>
-                                        </div>
-                                        <div class="contact-footer-content mt-4">
-                                            <!-- <p style="font-weight:600;color:black">
-                                                    Email Address
-                                                </p> -->
-                                            <a style="color:black" href="#">
-
-                                                contact@panapadvisors.com</a>
-                                        </div>
-                                        <div class="contact-footer-content mt-4">
-                                            <!-- <p style="font-weight:600;color:black">
-                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-at" viewBox="0 0 16 16">
-                                                 <path d="M2 2a2 2 0 0 0-2 2v8.01A2 2 0 0 0 2 14h5.5a.5.5 0 0 0 0-1H2a1 1 0 0 1-.966-.741l5.64-3.471L8 9.583l7-4.2V8.5a.5.5 0 0 0 1 0V4a2 2 0 0 0-2-2zm3.708 6.208L1 11.105V5.383zM1 4.217V4a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v.217l-7 4.2z" />
-                                                 <path d="M14.247 14.269c1.01 0 1.587-.857 1.587-2.025v-.21C15.834 10.43 14.64 9 12.52 9h-.035C10.42 9 9 10.36 9 12.432v.214C9 14.82 10.438 16 12.358 16h.044c.594 0 1.018-.074 1.237-.175v-.73c-.245.11-.673.18-1.18.18h-.044c-1.334 0-2.571-.788-2.571-2.655v-.157c0-1.657 1.058-2.724 2.64-2.724h.04c1.535 0 2.484 1.05 2.484 2.326v.118c0 .975-.324 1.39-.639 1.39-.232 0-.41-.148-.41-.42v-2.19h-.906v.569h-.03c-.084-.298-.368-.63-.954-.63-.778 0-1.259.555-1.259 1.4v.528c0 .892.49 1.434 1.26 1.434.471 0 .896-.227 1.014-.643h.043c.118.42.617.648 1.12.648m-2.453-1.588v-.227c0-.546.227-.791.573-.791.297 0 .572.192.572.708v.367c0 .573-.253.744-.564.744-.354 0-.581-.215-.581-.8Z" />
-                                             </svg>
-                                             Email Address
-                                         </p> -->
-                                            <a style="color:black" href="">
-                                                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
-                                                 <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
-                                             </svg> -->
-                                                Linkedin</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- <div class="footer-subscribe">
-                                    <div class="label text-btn-uppercase">
-                                        Subscribe for all the top news!
-                                    </div>
-                                    <fieldset>
-                                        <input type="text" placeholder="Enter your email address">
-                                        <a href="#" class="tf-btn-newsletter"><i class="icon-PaperPlaneTilt"></i></a>
-                                    </fieldset>
-                                    <div class="text caption-2">
-                                        Sign up for updates on our latest news and events. No spam, just valuable
-                                        insights!
-                                    </div>
-                                </div>
-                                <div class="footer-social">
-                                    <div class="title-footer">
-                                        Follow Us:
-                                    </div>
-                                    <ul class="tf-social style-border radius-50 g-8 style-2">
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-messenger"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-x"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-ig1"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-skype"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-telegram"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <div class="tf-container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="footer-bottom-inner" style="display: flex; justify-content: center; align-items: center; padding: 20px 0;">
-                            <div class="text-center caption-1" style="font-size: 14px; color: black;">
-                                ©2025 Impact Nest. All Rights Reserved.
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-
-    </footer><!-- /.footer -->
-
+    </div><!-- /.main-content -->
+        <?php include 'includes/footer.php'; ?>
+    </div>
+    
+    
     <!-- Mobile-nav-wrap -->
     <div class="offcanvas offcanvas-start mobile-nav-wrap" id="canvasMobile">
         <div class="inner-mobile-nav">

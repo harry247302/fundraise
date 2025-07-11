@@ -115,7 +115,7 @@
                 </div>
             </div><!-- /.main-content -->
         </div>
-        <div class="tf-containr">
+        <!-- <div class="tf-containr">
             <div class="row">
 
                 <div class="col-12">
@@ -143,8 +143,8 @@
                         </div>
                     </div>
                 </div>
-            </div><!-- /.main-content -->
-        </div>
+            </div>
+        </div> -->
 
 
 

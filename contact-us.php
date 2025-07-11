@@ -146,8 +146,9 @@
                                     <li class="d-flex align-items-start mb-4">
                                         <img src="./image/icon/Linkedin.png" style="width: 32px;">
                                         <div>
-                                            <h6 class="mb-1">Linkedin</h6>
-                                            <a href="tel:+919971645151">+91-9971645151</a>
+
+                                            <h6 class="mb-1"><a href="https://www.linkedin.com/company/impact-nest">LinkedIn</a></h6>
+
                                         </div>
                                     </li>
                                     

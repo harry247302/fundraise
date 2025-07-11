@@ -10,6 +10,7 @@
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
+    <!-- meta tags -->
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>Fundraiseing - Empower Change Together</title>
     <meta name="description" content="Fundraiseing - Join us to make a difference. Support causes, empower communities, and help those in need with our fundraising platform.">
@@ -1224,7 +1225,7 @@
     <!-- Number + Text -->
     <div class="d-flex align-items-center">
         <h4 class="mb-0 me-2 text-primary odometer" data-to="5" data-inviewport="yes" style="font-size: 24px; color: black !important;">
-            15
+            5
         </h4>
         <h4 class="mb-0 text-primary" style="font-size: 24px; color: black !important;">Cr Raised in funding</h4>
     </div>
