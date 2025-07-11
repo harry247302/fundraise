@@ -1225,7 +1225,7 @@
     <!-- Number + Text -->
     <div class="d-flex align-items-center">
         <h4 class="mb-0 me-2 text-primary odometer" data-to="5" data-inviewport="yes" style="font-size: 24px; color: black !important;">
-            15
+            5
         </h4>
         <h4 class="mb-0 text-primary" style="font-size: 24px; color: black !important;">Cr Raised in funding</h4>
     </div>

@@ -427,8 +427,9 @@
                         Team
                     </h2>
                     <div class="sub-title body-2">
-                        Discover a diverse array of services designed to help businesses excel through our
-                        <br>customized strategies and expert guidance.
+                       Meet our passionate team, united by a shared mission to drive business 
+                       <br>success through collaboration, innovation, and tailored strategies.
+                        
                     </div>
                 </div>
             </div>
@@ -550,11 +551,10 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Subhash Kumar is a finance expert with over 15 years of experience and a certified Chartered
-                                        Accountant from Institute of Chartered Accountants of India (ICAI). As Director at Impact Nest, he
-                                        brings strategic financial insight to startups and growth-stage companies, guiding them in
-                                        structuring, compliance, and planning. His expertise ensures businesses build on strong, scalable
-                                        financial foundations.
+                                      Mr. Subhash Kumar is a Director at Impact Nest, bringing over 15 years of experience in business
+development and Finance. He plays a key role in guiding startups through strategic growth planning,
+investor engagement, and capital structuring. With a strong financial foundation and deep industry
+insight, he helps ventures secure funding and scale with clarity, confidence, and long-term vision.
                                     </p>
                                 </div>
                             </div>
@@ -563,7 +563,31 @@
                                     <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas">Subhash Kumar </a>
                                 </h4>
                                 <div class="position caption-1" style="text-align:center">
-                                    Finance Expert
+                                    Director
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="team-item hover-img">
+                            <div class="image">
+                                <img id="image-size" src="image/team-item/team-item-2.jpg" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
+                                <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
+                                <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
+                                    <p>
+                                      Mr. Ashish S. Desai, Director at Impact Nest, brings over 25 years of experience across finance, leasing,
+and startup advisory. He plays a pivotal role in shaping strategic direction, fundraising strategy, and
+financial planning for early-stage ventures. His deep industry knowledge helps startups scale efficiently,
+access capital, and build strong foundations for long-term success.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="team-content">
+                                <h5 class="nameteam" style="text-align:center; margin-bottom: 0px;">
+                                    <a href="#canvnaseamsDetails" data-bs-toggle="offcnvas"> Ashish S Desai</a>
+                                </h5>
+                                <div class="position caption-1" style="text-align:center">
+                                    Director
                                 </div>
                             </div>
                         </div>
@@ -575,10 +599,11 @@
                                 <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
                                 <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
                                     <p>
-                                        Mukul Chauhan brings a strong command of finance and fundraising to Impact Nest, guiding
-                                        startups through investor readiness, capital strategy, and financial planning. His expertise lies in
-                                        structuring deals, building investor confidence, and aligning financial models with growth goals.
-                                        Mukul plays a key role in helping founders secure the right funding to scale successfully.
+                                       Mr. Mukul Chauhan serves as the Assistant Vice President of Business Development at Impact Nest,
+where he leads strategic growth and fundraising initiatives. He works closely with startups to
+develop investor-ready business models, identify funding opportunities, and build strong investor
+relations. With a deep understanding of market dynamics and startup needs, Mukul ensures that
+each venture is equipped to scale effectively and attract the right capital.
                                     </p>
                                 </div>
                             </div>
@@ -587,7 +612,7 @@
                                     <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas"> Mukul Chauhan </a>
                                 </h4>
                                 <div class="position caption-1" style="text-align:center">
-                                    Finance & Fundraising Expert
+                                    Assistant Vice President, Business Development
                                 </div>
                             </div>
                         </div>
@@ -672,30 +697,7 @@
                     </div>
 
 
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="team-item hover-img">
-                            <div class="image">
-                                <img id="image-size" src="image/team-item/team-item-2.jpg" data-src="image/team-item/team-item-13.jpg" alt="" class=" ls-is-cached lazyloaded">
-                                <a href="#canvnasTeamsDetails" data-bs-toggle="offcanvas" class="link"></a>
-                                <div class="team-social p-3 color-white" style="backdrop-filter: blur(10px);">
-                                    <p>
-                                        Ashish S Desai brings strong financial expertise to Impact Nest, supporting startups and
-                                        businesses in building sound financial models and strategies. With a deep understanding of capital
-                                        structuring, budgeting, and financial planning, he helps clients make data-driven decisions. His
-                                        guidance ensures financial clarity, sustainability, and readiness for growth and investment.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <h5 class="nameteam" style="text-align:center; margin-bottom: 0px;">
-                                    <a href="#canvnaseamsDetails" data-bs-toggle="offcnvas"> Ashish S Desai</a>
-                                </h5>
-                                <div class="position caption-1" style="text-align:center">
-                                    Director
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                  
 
                 </div>
             </div>
@@ -1017,226 +1019,9 @@
         </svg>
     </div><!-- /.go-top -->
     <!-- Footer -->
-    <footer class="footer" id="footer" >
-        <div class="tf-container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="footer-top">
-                        <div class="footer-left">
-                            <div class="logo-footer" style="height:100%;border:0px solid black;display:flex;justify-content:center;align-items:center">
-                                <a href="/" class="logo">
-                                    <img style="width: 200px; " src="image/logo/logo-footer.png" alt="">
-                                </a>
-                            </div>
-                            <!-- <div class="text caption-1">
-                                    Welcome to your trusted financial partner! Explore
-                                    <br>personalized strategies and expert guidance to secure
-                                    <br>your financial future and achieve success.
-                                </div> -->
-                            <!-- <div class="contact-footer">
-                                    <div class="address contact-top contact-footer-content">
-                                        <p class="caption-2">
-                                            Our address
-                                        </p>
-                                        <a href="#">101 E 129th St, East Chicago, IN 46312, US</a>
-                                    </div>
-                                    <div class="contact-bottom">
-                                        <div class="contact-footer-content">
-                                            <p class="caption-2">
-                                                Support 24/7
-                                            </p>
-                                            <a href="#">+91-9971645151</a>
-                                        </div>
-                                        <div class="contact-footer-content">
-                                            <p class="caption-2">
-                                                Email Address
-                                            </p>
-                                            <a href="#">contact@panapadvisors.com</a>
-                                        </div>
-                                    </div>
-                                </div> -->
-                        </div>
-                        <div class="footer-center">
-                            <div class="footer-content our-services footer-col-block">
-                                <div class="title-mobile label text-btn-uppercase">
-                                    <p style="font-weight:600;color:black">Pages</p>
-                                    <i class="icon-arrow-51"></i>
-                                </div>
-                                <div class="tf-collapse-content">
-                                    <ul>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="about-us.php">
-
-                                                About Us
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-services-1.php">
-
-                                                Services
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-teams-industry.php">
-
-                                                Team
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="our-expert.php">
-
-                                                Our Experts
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="faq.php">
-
-                                                FAQ
-
-                                            </a></li>
-                                        <li class="support-item-footer caption-1"><a style="font-weight:600;color:black" href="contact-us.php">
-
-                                                Contact
-
-                                            </a></li>
-
-
-                                        <!-- <li class="support-item-footer caption-1"><a href="our-teams.php">Our Team</a></li> -->
-                                        <!-- <li class="support-item-footer caption-1"><a href="#">My Account</a></li> -->
-
-                                        <!-- <li class="support-item-footer caption-1">
-                                                <a href="#" style="font-weight:600">
-
-                                                    <p style="color:black">Services</p>
-                                                </a>
-                                            </li> -->
-                                        <!-- <li class="support-item-footer caption-1"><a href="case-studies-1.php">Case studies</a></li> -->
-                                        <!-- <li class="support-item-footer caption-1" style="color:black"><a style="font-weight:600;color:black" href="contact-us.php">
-                                                    
-                                                    Team</a></li> -->
-                                    </ul>
-                                </div>
-                            </div>
-
-
-                        </div>
-                        <div class="footer-right">
-                            <div class="footer-content our-services footer-col-block">
-                                <div class="title-mobile  label text-btn-uppercase">
-                                    <p style="font-weight:600;color:black">Contact</p>
-                                    <i class="icon-arrow-51"></i>
-                                </div>
-                                <div class="contact-footer">
-                                    <div class="address contact-top contact-footer-content">
-                                        <!-- <p style="font-weight:600; color:black"> -->
-                                        <!-- 
-                                                Our address
-                                            </p> -->
-                                        <a style="color:black" href="#">
-                                            CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
-                                    </div>
-                                    <div class="contact-bottom mt-4">
-                                        <div class="contact-footer-content">
-                                            <!-- <p style="font-weight:600;color:black">
-                                                    Support 24/7
-                                                </p> -->
-                                            <a style="color:black" href="#">
-
-                                                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
-                                                        <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5" />
-                                                    </svg> -->
-                                                +91-9971645151</a>
-                                        </div>
-                                        <div class="contact-footer-content mt-4">
-                                            <!-- <p style="font-weight:600;color:black">
-                                                    Email Address
-                                                </p> -->
-                                            <a style="color:black" href="#">
-
-                                                contact@panapadvisors.com</a>
-                                        </div>
-                                        <div class="contact-footer-content mt-4">
-                                            <a style="color:black" href="">
-                                                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
-                                                 <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
-                                             </svg> -->
-                                                Linkedin</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- <div class="footer-subscribe">
-                                    <div class="label text-btn-uppercase">
-                                        Subscribe for all the top news!
-                                    </div>
-                                    <fieldset>
-                                        <input type="text" placeholder="Enter your email address">
-                                        <a href="#" class="tf-btn-newsletter"><i class="icon-PaperPlaneTilt"></i></a>
-                                    </fieldset>
-                                    <div class="text caption-2">
-                                        Sign up for updates on our latest news and events. No spam, just valuable
-                                        insights!
-                                    </div>
-                                </div>
-                                <div class="footer-social">
-                                    <div class="title-footer">
-                                        Follow Us:
-                                    </div>
-                                    <ul class="tf-social style-border radius-50 g-8 style-2">
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-messenger"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-x"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-ig1"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-skype"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-telegram"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <div class="tf-container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="footer-bottom-inner" style="display: flex; justify-content: center; align-items: center; padding: 20px 0;">
-                            <div class="text-center caption-1" style="font-size: 14px; color: black;">
-                                ©2025 Impact Nest. All Rights Reserved.
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-
-    </footer><!-- /.footer -->
+   </div><!-- /.main-content -->
+        <?php include 'includes/footer.php'; ?>
+    </div>
 
     <!-- Mobile-nav-wrap -->
     <div class="offcanvas offcanvas-start mobile-nav-wrap" id="canvasMobile">
