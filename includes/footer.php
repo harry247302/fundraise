@@ -17,20 +17,20 @@
                         </div>
                         <div class="contact-footer">
                             <div class="address contact-top contact-footer-content">
-                                <p class="caption-2 text-body">
+                                <p class="caption-2 text-body" style="font-size:14px">
                                     Our address
                                 </p>
                                 <a href="#" class="text-body" style="font-weight: bolder;">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
                             </div>
                             <div class="contact-bottom">
                                 <div class="contact-footer-content">
-                                    <p class="caption-2 text-body">
+                                    <p class="caption-2 text-body" style="font-size:14px">
                                         Support 24/7
                                     </p>
                                     <a href="#" class="text-body" style="font-weight: bolder;">+91-9971645151</a>
                                 </div>
                                 <div class="contact-footer-content">
-                                    <p class="caption-2 text-body">
+                                    <p class="caption-2 text-body" style="font-size:14px">
                                         Email Address
                                     </p>
                                     <a href="#" class="text-body" style="font-weight: bolder;">contact@panapadvisors.com</a>
