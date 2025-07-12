@@ -64,79 +64,7 @@
             <div class="tf-container w-1870">
                 <div class="row">
                     <div class="col-12">
-                        <div class="top-bar-inner">
-                            <div class="tf-tb-left">
-                                <div class="top-bar-content">
-                                    <i class="icon-MapPin"></i>
-                                    <p class="caption-1">101 E 129th St, East Chicago, IN 46312, US</p>
-                                </div>
-                                <div class="top-bar-content">
-                                    <i class="icon-Envelope"></i>
-                                    <a href="#" class="caption-1 color-white">contact@panapadvisors.com</a>
-                                </div>
-                                <div class="tf-dropdown-sort tf-language" data-bs-toggle="dropdown">
-                                    <div class="btn-select">
-                                        <span class="text-sort-value label">EN</span>
-                                        <i class="icon-Arrow-Down"></i>
-                                    </div>
-                                    <div class="dropdown-menu">
-                                        <div class="select-item" data-sort-value="EN">
-                                            <span class="text-value-item">EN</span>
-                                        </div>
-                                        <div class="select-item" data-sort-value="VN">
-                                            <span class="text-value-item">VN</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tf-tb-right">
-                                <div class="top-bar-content tf-phone-topbar">
-                                    <div class="icon">
-                                        <i class="icon-PhoneCall"></i>
-                                    </div>
-                                    <p class="text-btn">+91-9971645151</p>
-                                </div>
-                                <div class="tf-tb-social">
-                                    <ul class="tf-social">
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-messenger"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-x"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-ig1"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-skype"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-telegram"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -736,7 +664,7 @@
                 </div>
             </div>
         </div>
-        <div class="row rg-50" style="letter-spacing:0.9px; letter: height 1.8px;">
+        <div class="row rg-50" style="letter-spacing:0.9px;">
             <div class="col-lg-3 col-sm-6">
                 <div class="process-item step-hover active">
                     <div class="process-top wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
@@ -753,7 +681,7 @@
                                             </defs>
                                         </svg> -->
                         </div>
-                        <span class="label text-btn-uppercase wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">First Impressions Count
+                        <span class="label text-btn-uppercase wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp; font-size: 14px !important; font-weight: bold !important;margin-top:15px !important ;">First Impressions Count
                         </span>
                     </div>
                     <div class="process-content">
@@ -761,7 +689,7 @@
                                         <a href="#" class="name-process">First Impressions Count
                                         </a>
                                     </h5> -->
-                        <div class="desc wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="desc wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp; margin-bottom: 20px !important;">
                             Investors often make decisions based on the first 5 slides.
                         </div>
                     </div>
@@ -787,13 +715,13 @@
                                             </defs>
                                         </svg> -->
                         </div>
-                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">Tells Your Story Effectively</span>
+                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-name: fadeInUp; font-size: 14px !important; font-weight: bold !important;margin-top:15px !important ;">Tells Your Story Effectively</span>
                     </div>
                     <div class="process-content">
                         <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                         <a href="#" class="name-process">Tells Your Story Effectively</a>
                                     </h5> -->
-                        <div class="desc wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                        <div class="desc wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-name: fadeInUp; margin-bottom: 20px !important;">
                             A great deck simplifies and elevates your message.
                         </div>
                     </div>
@@ -816,13 +744,13 @@
                                             </defs>
                                         </svg> -->
                         </div>
-                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Builds Investor Confidence</span>
+                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-name: fadeInUp; font-size: 14px !important; font-weight: bold !important;margin-top:15px !important ;">Builds Investor Confidence</span>
                     </div>
                     <div class="process-content">
                         <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                         <a href="#" class="name-process">Builds Investor Confidence</a>
                                     </h5> -->
-                        <div class="desc wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <div class="desc wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-name: fadeInUp; margin-bottom: 20px !important;">
                             Professionally presented data and visuals create credibility.
                         </div>
                     </div>
@@ -844,13 +772,13 @@
                                             </defs>
                                         </svg> -->
                         </div>
-                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">Drives Action</span>
+                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-name: fadeInUp; font-size: 14px !important; font-weight: bold !important;margin-top:15px !important ;">Drives Action</span>
                     </div>
                     <div class="process-content">
                         <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                                         <a href="#" class="name-process">Drives Action</a>
                                     </h5> -->
-                        <div class="desc wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                        <div class="desc wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-name: fadeInUp; margin-bottom: 20px !important;">
                             A well-structured deck leads to more meetings, better conversations, and faster funding.
                         </div>
                     </div>

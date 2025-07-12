@@ -512,10 +512,7 @@
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
-                            <div class="heading-section text-center style-color-white mb-60 " style>
-                                <!-- <div class="text-anime-wave-1">
-                                    <a href="#" class="tag label text-btn-uppercase color-white">Our History</a>
-                                </div> -->
+                            <div class="heading-section text-center style-color-white mb-60">
                                 <h3 style="text-align:center" class="title-section mb-12 text-anime-wave-1">
                                     Our Journey So Far
                                 </h3>
@@ -523,122 +520,116 @@
                                     Explore the milestones that have shaped our growth and commitment to excellence.
                                 </div>
                             </div>
+
                             <div class="wg-time-line">
+
+                                <!-- ✅ Swiper Block -->
                                 <div class="sw-layout-1 swiper-time-line" data-preview="4" data-tablet="3" data-mobile="1" data-mobile-sm="2" data-space-lg="0" data-space-md="0" data-space="0">
-                                    <div class="tf-btn-arrow style-3 arrow-left nav-prev-layout-1">
-                                        <i class="icon-arrow-left"></i>
-                                    </div>
                                     <div dir="ltr" class="swiper sw-layout1">
                                         <div class="swiper-wrapper">
+
                                             <div class="swiper-slide">
-                                                <div class="time-line-item step-hover ">
+                                                <div class="time-line-item">
                                                     <div class="time-line-content">
                                                         <div class="heading">
-                                                            <div class="label" style="text-align:center">
-                                                                2018
-                                                            </div>
-                                                            <h5 class="title-content" style="text-align:center">
-                                                                Founded
-                                                            </h5>
+                                                            <div class="label" style="text-align:center">2018</div>
+                                                            <h5 class="title-content" style="text-align:center">Founded</h5>
                                                         </div>
-                                                        <div class="desc">
-                                                            Established with a mission to provide innovative financial
-                                                            and
-                                                            business
-                                                            consulting services.
-                                                        </div>
+                                                        <div class="desc">Established with a mission to provide innovative financial and business consulting services.</div>
                                                     </div>
                                                 </div>
                                             </div>
+
                                             <div class="swiper-slide">
-                                                <div class="time-line-item step-hover ">
+                                                <div class="time-line-item">
                                                     <div class="time-line-content">
                                                         <div class="heading">
-                                                            <div class="label" style="text-align:center">
-                                                                2020
-                                                            </div>
-                                                            <h5 class="title-content" style="text-align:center">
-                                                                Industry Recognition
-                                                            </h5>
+                                                            <div class="label" style="text-align:center">2020</div>
+                                                            <h5 class="title-content" style="text-align:center">Industry Recognition</h5>
                                                         </div>
-                                                        <div class="desc">
-                                                            Received our first major award, marking a reputation for
-                                                            excellence
-                                                            in
-                                                            tailored business solutions.
-                                                        </div>
+                                                        <div class="desc">Received our first major award, marking a reputation for excellence in tailored business solutions.</div>
                                                     </div>
                                                 </div>
                                             </div>
+
                                             <div class="swiper-slide">
-                                                <div class="time-line-item step-hover ">
+                                                <div class="time-line-item">
                                                     <div class="time-line-content">
                                                         <div class="heading">
-                                                            <div class="label" style="text-align:center">
-                                                                2022
-                                                            </div>
-                                                            <h5 class="title-content" style="text-align:center">
-                                                                Major Milestone
-                                                            </h5>
+                                                            <div class="label" style="text-align:center">2022</div>
+                                                            <h5 class="title-content" style="text-align:center">Major Milestone</h5>
                                                         </div>
-                                                        <div class="desc">
-                                                            Achieved a significant milestone, reaching over 100
-                                                            clients
-                                                            across
-                                                            multiple industries.
-                                                        </div>
+                                                        <div class="desc">Achieved a significant milestone, reaching over 100 clients across multiple industries.</div>
                                                     </div>
                                                 </div>
                                             </div>
+
                                             <div class="swiper-slide">
-                                                <div class="time-line-item step-hover ">
+                                                <div class="time-line-item">
                                                     <div class="time-line-content">
                                                         <div class="heading">
-                                                            <div class="label" style="text-align:center">
-                                                                2024
-                                                            </div>
-                                                            <h5 class="title-content" style="text-align:center">
-                                                                Global Reach
-                                                            </h5>
+                                                            <div class="label" style="text-align:center">2024</div>
+                                                            <h5 class="title-content" style="text-align:center">Global Reach</h5>
                                                         </div>
-                                                        <div class="desc">
-                                                            Successfully expanded our services internationally, now
-                                                            serving
-                                                            clients in over 3+ countries.
-                                                        </div>
+                                                        <div class="desc">Successfully expanded our services internationally, now serving clients in over 3+ countries.</div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- <div class="swiper-slide">
-                                                <div class="time-line-item step-hover ">
-                                                    <div class="time-line-content">
-                                                        <div class="heading">
-                                                            <div class="label">
-                                                                2025
-                                                            </div>
-                                                            <h5 class="title-content">
-                                                                Global Reach
-                                                            </h5>
-                                                        </div>
-                                                        <div class="desc">
-                                                            Successfully expanded our services internationally, now
-                                                            serving
-                                                            clients in over 15 countries.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div> -->
+
                                         </div>
                                     </div>
-                                    <div class="tf-btn-arrow style-3 arrow-right nav-next-layout-1">
-                                        <i class="icon-arrow-right1"></i>
-                                    </div>
                                 </div>
+
+                                <!-- ✅ Navigation Arrows (Mobile Only) -->
+                                <div class="d-flex flex-row justify-content-center mt-4 gap-5 margin-top-12" >
+
+                                    <!-- Left Arrow -->
+                                    <div class="tf-btn-arrow style-3 arrow-left nav-prev-layout-1 d-block d-md-none"
+                                        style="width: 48px; height: 48px; border-radius: 50%; background-color: white; color: white; display: flex; align-items: center; justify-content: center; cursor: pointer; pointer-events: auto;">
+                                        <i class="icon-arrow-left text-black"
+                                            style="font-size: 20px; display: block; line-height: 0; margin: 0; padding: 0;">
+                                        </i>
+                                    </div>
+
+                                    <!-- Right Arrow -->
+                                    <div class="tf-btn-arrow style-3 arrow-right nav-next-layout-1 d-block d-md-none"
+                                        style="width: 48px; height: 48px; border-radius: 50%; background-color: white; color: white; display: flex; align-items: center; justify-content: center; cursor: pointer; pointer-events: auto;">
+                                        <i class="icon-arrow-right1 text-black"
+                                            style="font-size: 20px; display: block; line-height: 0; margin: 0; padding: 0;"></i>
+                                    </div>
+
+                                </div>
+
                             </div>
                         </div>
                     </div>
                 </div>
-            </section><!-- /.section-history -->
+            </section>
+
+            <!-- <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+            <script>
+                document.addEventListener("DOMContentLoaded", function() {
+                    new Swiper(".sw-layout1", {
+                        navigation: {
+                            nextEl: ".nav-next-layout-1",
+                            prevEl: ".nav-prev-layout-1",
+                        },
+                        slidesPerView: 1,
+                        spaceBetween: 16,
+                        loop: false,
+                        breakpoints: {
+                            768: {
+                                slidesPerView: 3
+                            },
+                            992: {
+                                slidesPerView: 4
+                            }
+                        }
+                    });
+                });
+            </script> -->
+            <!-- /.section-history -->
 
             <!-- Section-why-choose -->
             <section class="section-why-choose h-2 page-about">
@@ -898,6 +889,9 @@
 
         <?php include 'includes/footer.php'; ?>
     </div>
+
+
+
 
     <!-- Javascript -->
     <script src="js/bootstrap.min.js"></script>

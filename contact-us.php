@@ -105,8 +105,9 @@
                         /* background-color: lightblue !important; */
                         padding: 0px 35px !important;
                     }
-                    .contact-form{
-                        margin-left: 0px   !important;
+
+                    .contact-form {
+                        margin-left: 0px !important;
                     }
                 }
             </style>
@@ -121,39 +122,45 @@
                                     <h2 class="heading-title animate fadeInUp wow animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">Let's Connect</h2>
                                     <p class="text-muted">Get a free business consultation today or simply send us your query.</p>
                                 </div>
-                                <ul class="list-unstyled">
-                                    <li class="d-flex align-items-start mb-4">
-                                        <img src="./image/icon/location.png" alt="icon" class="me-3" style="width: 32px;">
+                                <ul class="list-unstyled" style="padding-left: 0; margin: 0;">
+                                    <!-- Address -->
+                                    <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+                                        <img src="./image/icon/location.png" alt="icon" style="width: 28px; height: 28px; margin-right: 16px; margin-top: 2px;" />
                                         <div>
-                                            <h6 class="mb-1">Address</h6>
-                                            <p class="mb-0">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
+                                            <h6 style="margin: 0 0 6px; font-size: 16px; font-weight: 600;">Address</h6>
+                                            <p style="margin: 0; color: #555;">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
                                         </div>
                                     </li>
-                                    <li class="d-flex align-items-start mb-4">
-                                        <img src="./image/icon/envelope.png" alt="icon" class="me-3" style="width: 32px;">
-                                        <div>
-                                            <h6 class="mb-1">Mail address</h6>
-                                            <a href="mailto:contact@panapadvisors.com">contact@panapadvisors.com</a>
-                                        </div>
-                                    </li>
-                                    <li class="d-flex align-items-start mb-4">
-                                        <img src="./image/icon/phone-contact.png" style="width: 32px;">
-                                        <div>
-                                            <h6 class="mb-1">Phone</h6>
-                                            <a href="tel:+919971645151">+91-9971645151</a>
-                                        </div>
-                                    </li>
-                                    <li class="d-flex align-items-start mb-4">
-                                        <img src="./image/icon/Linkedin.png" style="width: 32px;">
-                                        <div>
 
-                                            <h6 class="mb-1"><a href="https://www.linkedin.com/company/impact-nest">LinkedIn</a></h6>
-
+                                    <!-- Email -->
+                                    <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+                                        <img src="./image/icon/envelope.png" alt="icon" style="width: 28px; height: 28px; margin-right: 16px; margin-top: 2px;" />
+                                        <div>
+                                            <h6 style="margin: 0 0 6px; font-size: 16px; font-weight: 600;">Mail address</h6>
+                                            <a href="mailto:contact@panapadvisors.com" style="color: #333; text-decoration: none;">contact@panapadvisors.com</a>
                                         </div>
                                     </li>
-                                    
-                                    
+
+                                    <!-- Phone -->
+                                    <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+                                        <img src="./image/icon/phone-contact.png" alt="icon" style="width: 28px; height: 28px; margin-right: 16px; margin-top: 2px;" />
+                                        <div>
+                                            <h6 style="margin: 0 0 6px; font-size: 16px; font-weight: 600;">Phone</h6>
+                                            <a href="tel:+919971645151" style="color: #333; text-decoration: none;">+91-9971645151</a>
+                                        </div>
+                                    </li>
+
+                                    <!-- LinkedIn -->
+                                    <li style="display: flex; align-items: flex-start; margin-bottom: 0;">
+                                        <img src="./image/icon/Linkedin.png" alt="icon" style="width: 28px; height: 28px; margin-right: 16px; margin-top: 2px;" />
+                                        <div>
+                                            <h6 style="margin: 0; font-size: 16px; font-weight: 600;">
+                                                <a href="https://www.linkedin.com/company/impact-nest" target="_blank" style="color: #333; text-decoration: none;">LinkedIn</a>
+                                            </h6>
+                                        </div>
+                                    </li>
                                 </ul>
+
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-6">

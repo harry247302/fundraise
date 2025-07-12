@@ -186,7 +186,7 @@ body::-webkit-scrollbar {
 
 ol,
 ul {
-  list-style: none;
+  list-style: disc;
 }
 
 table {
@@ -8819,7 +8819,7 @@ a.mapboxgl-ctrl-logo {
   background-color: var(--bg-1);
   text-align: center;
   padding: 30px;
-  min-height: 234px;
+  min-height: 250px;
   margin: 0 15px;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -8832,7 +8832,8 @@ a.mapboxgl-ctrl-logo {
 }
 .time-line-content .heading .label {
   margin-bottom: 8px;
-  color: var(--primary);
+  /* color: var(--primary); */
+  color: rgb(202, 199, 199);
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -14386,7 +14387,7 @@ h4 {
 
 h5 {
     font-size: 25px;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 1.3;
     margin-bottom: 16px;
 }

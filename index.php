@@ -279,15 +279,15 @@
                                     <div class="wg-tab style-small">
                                         <ul class="tab-product min-w-366" role="tablist">
                                             <li class="nav-tab-item" role="presentation">
-                                                <h6><a href="#impact" data-bs-toggle="tab" role="tab"
+                                                <h6><a href="" data-bs-toggle="tab" role="tab"
                                                         class="active">Expertise</a></h6>
                                             </li>
                                             <li class="nav-tab-item" role="presentation">
-                                                <h6><a href="#community" data-bs-toggle="tab" role="tab">Innovation</a>
+                                                <h6><a href="" data-bs-toggle="tab" role="tab">Innovation</a>
                                                 </h6>
                                             </li>
                                             <li class="nav-tab-item" role="presentation">
-                                                <h6><a href="#transparency" data-bs-toggle="tab"
+                                                <h6><a href="" data-bs-toggle="tab"
                                                         role="tab">Commitment</a></h6>
                                             </li>
                                         </ul>
@@ -407,7 +407,7 @@
                         <div class="icon">
                             <img src="../image/icon/investment_2300422.png" alt="Investment">
                         </div>
-                        <a href="#" class="title-box">Fundraising</a>
+                        <div class="title-box" style="font-size: 24px !important;">Fundraising</div>
                         <div class="sub-title">
                             <p>Empowering businesses to grow through strategic investments, innovative fundraising
                                 solutions, and sustainable financial planning. </p>
@@ -420,7 +420,7 @@
                         <div class="icon">
                             <img src="../image/icon/strategy-development_4129547.png">
                         </div>
-                        <a href="#" class="title-box">Tailored Strategies</a>
+                        <div class="title-box"  style="font-size: 24px !important;">Tailored Strategies</div>
                         <div class="sub-title">
                             <p> Customized business plans designed to meet your unique goals and business situation.</p>
                         </div>
@@ -431,7 +431,7 @@
                         <div class="icon">
                             <img src="../image/icon/financial_4221500.png" alt="Financial Modelling">
                         </div>
-                        <a href="#" class="title-box">Financial Modelling</a>
+                        <div class="title-box" style="font-size: 24px !important;">Financial Modelling</div>
                         <div class="sub-title">
                             <p>We build robust financial models that drive clarity, confidence, and investor trust.</p>
                         </div>
@@ -442,7 +442,7 @@
                         <div class="icon">
                             <img src="../image/icon/desk_6881229.png" alt="Deck Design">
                         </div>
-                        <a href="#" class="title-box">Deck Design</a>
+                        <div class="title-box" style="font-size: 24px !important;">Deck Design</div>
                         <div class="sub-title">
                             <p>We craft compelling pitch decks that tell your story, showcase your value, and attract
                                 investors.</p>
@@ -461,7 +461,7 @@
                             <div class="heading-section style-2">
                                 <div class="left">
                                     <div class="text-anime-wave">
-                                        <a href="#" class="tag label text-btn-uppercase bg-white">Our Services</a>
+                                        <a href="" class="tag label text-btn-uppercase bg-white">Our Services</a>
                                     </div>
                                     <h3 style="color:var(--on-suface-container) !important"
                                         class="title-section text-anime-wave">
@@ -510,7 +510,7 @@
                                         <div class="tab-pane active show" id="retirement-planning" role="tabpanel">
                                             <div class="section-services-item">
                                                 <div class="image tf-animate-1">
-                                                    <a href="services-details-1.php" class="link"></a>
+                                                    <a href="" class="link"></a>
                                                     <img src="image/section/section-services-1.jpg"
                                                         data-src="image/section/section-services-1.jpg" alt=""
                                                         class="lazyload">
@@ -519,7 +519,7 @@
                                                     <div class="heading">
                                                         <h3>
                                                             <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR38nkl0Du_r32efbKi2Avu-3GX-xrFKZe4Q&s" style="width:40px" alt=""> -->
-                                                            <a href="services-details-1.php"
+                                                            <div 
                                                                 class="name-services wow fadeInUp">Fundraising</a>
                                                         </h3>
                                                         <div class="sub-name body-2 wow fadeInUp">
@@ -573,7 +573,6 @@
                                         <div class="tab-pane" id="investment-advisory" role="tabpanel">
                                             <div class="section-services-item">
                                                 <div class="image">
-                                                    <a href="services-details-1.php" class="link"></a>
                                                     <img src="image/section/section-services-2.jpg"
                                                         data-src="image/section/section-services-2.jpg" alt=""
                                                         class="lazyload">
@@ -583,9 +582,9 @@
                                                         <h3>
                                                             <!-- <img src="https://static.vecteezy.com/system/resources/thumbnails/000/350/846/small/Business__2814_29.jpg" style="width:40px" alt=""> -->
 
-                                                            <a href="services-details-1.php"
+                                                            <div
                                                                 class="name-services wow fadeInUp">Tailored Strategies
-                                                            </a>
+                                                            </div>
                                                         </h3>
                                                         <div class="sub-name body-2">
                                                             At Impact Nest, we craft customized business strategies
@@ -638,7 +637,6 @@
                                         <div class="tab-pane" id="estate-planning" role="tabpanel">
                                             <div class="section-services-item">
                                                 <div class="image">
-                                                    <a href="services-details-1.php" class="link"></a>
                                                     <img src="image/section/section-services-3.jpg"
                                                         data-src="image/section/section-services-3.jpg" alt=""
                                                         class="lazyload">
@@ -648,8 +646,8 @@
                                                         <h3>
                                                             <!-- <img src="https://www.svgrepo.com/show/69316/investment-model.svg" style="width:40px" alt=""> -->
 
-                                                            <a href="services-details-1.php"
-                                                                class="name-services">Financial Modelling</a>
+                                                            <div
+                                                                class="name-services">Financial Modelling</div>
                                                         </h3>
                                                         <div class="sub-name body-2">
                                                             At Impact Nest, we build robust and investor-ready financial
@@ -703,7 +701,6 @@
                                         <div class="tab-pane" id="tax-optimization" role="tabpanel">
                                             <div class="section-services-item">
                                                 <div class="image">
-                                                    <a href="services-details-1.php" class="link"></a>
                                                     <img src="image/section/section-services-4.jpg"
                                                         data-src="image/section/section-services-4.jpg" alt=""
                                                         class="lazyload">
@@ -711,10 +708,8 @@
                                                 <div class="services-content">
                                                     <div class="heading">
                                                         <h3>
-                                                            <!-- <img src="data:image/png;base64,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" style="width:40px" alt=""> -->
-
-                                                            <a href="services-details-1.php" class="name-services">Deck
-                                                                Design</a>
+                                                            <div class="name-services">Deck
+                                                                Design</div>
                                                         </h3>
                                                         <div class="sub-name body-2">
                                                             At Impact Nest, we design powerful and visually compelling
@@ -820,7 +815,7 @@
                                 </div>
                                 <div class="process-content">
                                     <h5 class="wow fadeInUp">
-                                        <a href="#" class="name-process">Discover</a>
+                                    Discover
                                     </h5>
                                     <div class="desc wow fadeInUp">
                                         We assess your business model, market potential, and funding readiness.
@@ -864,7 +859,7 @@
                                 </div>
                                 <div class="process-content">
                                     <h5 class="wow fadeInUp" data-wow-delay=".1s">
-                                        <a href="#" class="name-process"> Define</a>
+                                        Define
                                     </h5>
                                     <div class="desc wow fadeInUp" data-wow-delay=".1s">
                                         We align on clear growth goals and investor-focused objectives.
@@ -898,7 +893,7 @@
                                 </div>
                                 <div class="process-content">
                                     <h5 class="wow fadeInUp" data-wow-delay=".2s">
-                                        <a href="#" class="name-process">Design </a>
+                                       Design
                                     </h5>
                                     <div class="desc wow fadeInUp" data-wow-delay=".2s">
                                         We build tailored strategies, financial models, and compelling pitch assets.
@@ -932,7 +927,7 @@
                                 </div>
                                 <div class="process-content">
                                     <h5 class="wow fadeInUp" data-wow-delay=".3s">
-                                        <a href="#" class="name-process">Drive </a>
+                                        Drive 
                                     </h5>
                                     <div class="desc wow fadeInUp" data-wow-delay=".3s">
                                         We support execution, track progress, and optimize for sustainable success.
@@ -1434,7 +1429,7 @@
                                         </div>
 
                                         <div class="text-anime-wave">
-                                            <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                            <a href="/contact-us.php" class="tf-btn style-1 bg-on-suface-container">
                                                 <span>Contact Support</span>
                                             </a>
                                         </div>
@@ -1553,7 +1548,7 @@
                                                         — we’re just a message away.
                                                     </p>
                                                     <div class="text-anime-wave">
-                                                        <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                                        <a href="/contact-us.php" class="tf-btn style-1 bg-on-suface-container">
                                                             <span>Contact Support</span>
                                                         </a>
                                                     </div>

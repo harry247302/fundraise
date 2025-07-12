@@ -64,79 +64,7 @@
             <div class="tf-container w-1870">
                 <div class="row">
                     <div class="col-12">
-                        <div class="top-bar-inner">
-                            <div class="tf-tb-left">
-                                <div class="top-bar-content">
-                                    <i class="icon-MapPin"></i>
-                                    <p class="caption-1">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
-                                </div>
-                                <div class="top-bar-content">
-                                    <i class="icon-Envelope"></i>
-                                    <a href="#" class="caption-1 color-white">contact@panapadvisors.com</a>
-                                </div>
-                                <div class="tf-dropdown-sort tf-language" data-bs-toggle="dropdown">
-                                    <div class="btn-select">
-                                        <span class="text-sort-value label">EN</span>
-                                        <i class="icon-Arrow-Down"></i>
-                                    </div>
-                                    <div class="dropdown-menu">
-                                        <div class="select-item" data-sort-value="EN">
-                                            <span class="text-value-item">EN</span>
-                                        </div>
-                                        <div class="select-item" data-sort-value="VN">
-                                            <span class="text-value-item">VN</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tf-tb-right">
-                                <div class="top-bar-content tf-phone-topbar">
-                                    <div class="icon">
-                                        <i class="icon-PhoneCall"></i>
-                                    </div>
-                                    <p class="text-btn">+91-9971645151</p>
-                                </div>
-                                <div class="tf-tb-social">
-                                    <ul class="tf-social">
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-messenger"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-x"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-ig1"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-skype"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-telegram"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -599,7 +527,7 @@
                                                             We’re here to help you bring your vision to life. Whether you’re looking to start a new project, ask questions, or simply connect — we’re just a message away.
                                                         </p>
                                                         <div class="text-anime-wave">
-                                                            <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                                            <a href="/contact-us.php" class="tf-btn style-1 bg-on-suface-container">
                                                                 <span>Contact Support</span>
                                                             </a>
                                                         </div>

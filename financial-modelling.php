@@ -64,79 +64,7 @@
             <div class="tf-container w-1870">
                 <div class="row">
                     <div class="col-12">
-                        <div class="top-bar-inner">
-                            <div class="tf-tb-left">
-                                <div class="top-bar-content">
-                                    <i class="icon-MapPin"></i>
-                                    <p class="caption-1">101 E 129th St, East Chicago, IN 46312, US</p>
-                                </div>
-                                <div class="top-bar-content">
-                                    <i class="icon-Envelope"></i>
-                                    <a href="#" class="caption-1 color-white">contact@panapadvisors.com</a>
-                                </div>
-                                <div class="tf-dropdown-sort tf-language" data-bs-toggle="dropdown">
-                                    <div class="btn-select">
-                                        <span class="text-sort-value label">EN</span>
-                                        <i class="icon-Arrow-Down"></i>
-                                    </div>
-                                    <div class="dropdown-menu">
-                                        <div class="select-item" data-sort-value="EN">
-                                            <span class="text-value-item">EN</span>
-                                        </div>
-                                        <div class="select-item" data-sort-value="VN">
-                                            <span class="text-value-item">VN</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tf-tb-right">
-                                <div class="top-bar-content tf-phone-topbar">
-                                    <div class="icon">
-                                        <i class="icon-PhoneCall"></i>
-                                    </div>
-                                    <p class="text-btn">+91-9971645151</p>
-                                </div>
-                                <div class="tf-tb-social">
-                                    <ul class="tf-social">
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-messenger"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-x"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-ig1"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-skype"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="#">
-                                                <div class="icon">
-                                                    <i class="icon-telegram"></i>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -461,7 +389,7 @@
                             <div class="desc mb-16 body-2" style="line-height:1.8; text-align: left; padding:  20px;">
                                 At Impact Nest, we build powerful, reliable, and investor-ready financial models that bring
                                 structure to your growth story. Whether you’re preparing for fundraising, planning market
-                                expansion, or optimizing operations, our financial modelling service delivers the insights,
+                                expansion, or optimizing operations, our financial modeling service delivers the insights,
                                 projections, and validation you need to make bold, confident business decisions.
                                 Our models are not just spreadsheets - they’re strategic tools designed to reflect your
                                 business realities, project future performance, and communicate value to stakeholders
@@ -843,14 +771,14 @@
                     <div class="left">
 
                         <h3 style="color:var(--primary); letter-spacing:2px;" class="title-section text-anime-wave fw-bold" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1; text-align:center">
-                            Why Financial Modelling Matters
+                            Why Financial modeling Matters
                         </h3>
                     </div>
 
                 </div>
             </div>
         </div>
-        <div class="row rg-50" style="letter-spacing:0.9px; letter: height 1.8px;">
+        <div class="row rg-50" style="letter-spacing:0.9px;">
             <div class="col-lg-3 col-sm-6">
                 <div class="process-item step-hover active">
                     <div class="process-top wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
@@ -867,7 +795,7 @@
                                             </defs>
                                         </svg> -->
                         </div>
-                        <span class="label text-btn-uppercase wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">Informed Decision-Making
+                        <span class="label text-btn-uppercase wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp; font-size: 16px !important; font-weight: bold !important;margin-top:15px !important ;">Informed Decision-Making
                         </span>
                     </div>
                     <div class="process-content">
@@ -875,7 +803,7 @@
                                         <a href="#" class="name-process">First Impressions Count
                                         </a>
                                     </h5> -->
-                        <div class="desc wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="desc wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp; margin-bottom: 20px !important;">
                             Make smarter business and fundraising decisions based on real data and
                             sound projections.
                         </div>
@@ -902,13 +830,13 @@
                                             </defs>
                                         </svg> -->
                         </div>
-                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">Investor Confidence</span>
+                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-size: 16px !important; font-weight: bold !important; margin-top:15px !important">Investor Confidence</span>
                     </div>
                     <div class="process-content">
                         <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                         <a href="#" class="name-process">Tells Your Story Effectively</a>
                                     </h5> -->
-                        <div class="desc wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                        <div class="desc wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;margin-bottom: 20px !important;">
                             Well-structured models build credibility and trust in your numbers.
                         </div>
                     </div>
@@ -931,13 +859,13 @@
                                             </defs>
                                         </svg> -->
                         </div>
-                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Strategic Planning</span>
+                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; font-size: 16px !important; font-weight: bold !important;margin-top:15px !important">Strategic Planning</span>
                     </div>
                     <div class="process-content">
                         <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                         <a href="#" class="name-process">Builds Investor Confidence</a>
                                     </h5> -->
-                        <div class="desc wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <div class="desc wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; margin-bottom: 20px !important;">
                             Align team goals, funding needs, and operational execution to a financial
                             roadmap.
                         </div>
@@ -960,7 +888,7 @@
                                             </defs>
                                         </svg> -->
                         </div>
-                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">Risk Management</span>
+                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; font-size: 16px !important; font-weight: bold !important;margin-top:15px !important" >Risk Management</span>
                     </div>
                     <div class="process-content">
                         <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -1076,7 +1004,7 @@
                          <ul class="sub-menu-mobile">
                              <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
                              <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
-                             <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
+                             <li class="menu-item"><a href="/financial-modeling.php">Financial modeling</a></li>
                              <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
                          </ul>
                      </div>
@@ -1379,7 +1307,7 @@
                          <ul class="sub-menu-mobile">
                              <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
                              <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
-                             <li class="menu-item"><a href="/financial-modelling.php">Financial Modelling</a></li>
+                             <li class="menu-item"><a href="/financial-modeling.php">Financial modeling</a></li>
                              <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
                          </ul>
                      </div>
