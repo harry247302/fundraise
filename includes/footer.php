@@ -66,7 +66,7 @@
                             </div>
                             <div class="tf-collapse-content" style="display: unset;">
                                 <ul>
-                                    <li class="support-item-footer caption-1"><a href="about-us.html"
+                                    <li class="support-item-footer caption-1"><a href="about-us.php"
                                             class="text-body"><svg xmlns="http://www.w3.org/2000/svg" width="16"
                                                 height="16" fill="currentColor" class="bi bi-person"
                                                 viewBox="0 0 16 16">
