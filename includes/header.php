@@ -1,5 +1,5 @@
 <!-- Header -->
-<header class="header style-1 style-absolute " id="header">
+<header class="header sticky-top style-1  " id="header">
     <div class="tf-container w-1870">
         <div class="row">
             <div class="col-12">

@@ -1158,13 +1158,24 @@ a:hover, a:focus {
   position: -webkit-sticky;
   left: 0;
   right: 0;
-  z-index: 999;
+  /* z-index: 1030; */
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
+   top: 0;                         /* Required for sticky to work */
+  z-index: 1030;                  /* Make sure it stays on top */
+  /* background: white;              So it's not transparent */
+  transition: all 0.3s ease;      /* Smooth effect on scroll */
+  /* box-shadow: 0 2px 5px rgba(0,0,0,0.05); Optional shadow */
 }
+
+/* When scrolling down, make it absolute
+.header.absolute-scroll {
+  position: absolute !important;
+} */
+
 .header .header-content {
   display: -webkit-box;
   display: -moz-box;
@@ -5256,11 +5267,12 @@ body.no-scroll {
 
 /*------------ accordion ---------------- */
 .according-item {
-  padding: 22px 0 17px;
+  /* padding: 22px 0 17px; */
   border-bottom: 1px solid var(--outline);
 }
 .according-item .title-according {
   display: inline-block;
+  font-size: 24px;
   color: var(--on-suface-container);
   position: relative;
   width: 100%;
