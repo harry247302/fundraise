@@ -473,7 +473,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Custom Financial Models</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             Tailored models that reflect your unique business model, revenue streams, and cost structures. We go beyond templates to build fully customized tools.
                                         </p>
                                     </div>
@@ -483,7 +483,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Revenue & Cost Forecasting</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             Accurate and dynamic forecasts that account for market conditions, pricing strategies, scaling operations, and product growth.
                                         </p>
                                     </div>
@@ -493,7 +493,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Scenario & Sensitivity Analysis</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             We stress-test your assumptions with best-, base-, and worst-case outcomes — helping you prepare for every possibility.
                                         </p>
                                     </div>
@@ -503,7 +503,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Valuation Support</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             Estimate fair valuation ranges based on DCF, multiples, or benchmarks — crucial for your investor discussions.
                                         </p>
                                     </div>
@@ -513,7 +513,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Investor-Ready Financials</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             Clean, investor-friendly outputs — including P&L, Balance Sheet, Cash Flow, Cap Table, and Unit Economics.
                                         </p>
                                     </div>
@@ -523,7 +523,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Model Iteration & Review</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             We support you through revisions, investor feedback, and fundraising rounds — evolving your model with your business.
                                         </p>
                                     </div>
@@ -560,12 +560,7 @@
                                         <div class="icon">
                                             <i class="icon-checkbox"></i>
                                         </div>
-                                        <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
-                                            Minimized downtime, enhancing product quality and consistency.
-                                        </div>
-                                    </div>
-                                    <div class="benefit-items">
-                                        <div class="icon">
+                                        <div class="titlstyle="font-size: 14px;"">
                                             <i class="icon-checkbox"></i>
                                         </div>
                                         <div class="title" style="letter-spacing:0.5px; letter: height 1.8px;">
