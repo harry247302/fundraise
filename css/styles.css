@@ -2094,7 +2094,7 @@ a:hover, a:focus {
   width: 100%;
 }
 .footer .footer-right {
-  padding-top: 70px;
+  padding-top: 80px;
   padding-bottom: 80px;
   width: 100%;
   padding-left: 30px;
@@ -2314,7 +2314,7 @@ a:hover, a:focus {
 }
 .footer-subscribe fieldset input[type=text] {
   width: 100%;
-  border: 1px solid var(--bg-1);
+  border: 1px solid black;
   border-radius: 4px;
   padding: 14px 16px;
   font-size: 14px;
@@ -24347,3 +24347,8 @@ ul.job-location li p {
     image-rendering: -webkit-optimize-contrast !important;
     image-rendering: crisp-edges !important;
 }
+
+.placeholder-black::placeholder {
+    color: black !important;
+    opacity: 1; /* Optional: ensures full visibility */
+  }

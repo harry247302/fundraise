@@ -511,7 +511,7 @@ access capital, and build strong foundations for long-term success.
                                 </div>
                             </div>
                             <div class="team-content">
-                                <h5 class="nameteam" style="text-align:center; margin-bottom: 0px;">
+                                <h5 class="nameteam" style="text-align:center; margin-bottom: 0px; font-weight: 400 !important;">
                                     <a href="#canvnaseamsDetails" data-bs-toggle="offcnvas"> Ashish S Desai</a>
                                 </h5>
                                 <div class="position caption-1" style="text-align:center">

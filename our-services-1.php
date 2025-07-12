@@ -207,7 +207,7 @@
                                                                     Cr
                                                                 </h4>
                                                             </div> -->
-                                                                <h6 class="text" style="font-size:19px">
+                                                                <h6 class="text-center" style="font-size:22px">
                                                                     Fundraising Strategy & Planning
                                                                 </h6>
                                                             </div>
@@ -255,7 +255,7 @@
                                                                     Cr
                                                                 </h4>
                                                             </div> -->
-                                                                <h6 class="text" style="font-size:19px">
+                                                                <h6 class="text-center" style="font-size:22px">
                                                                     Investor-Ready Materials
                                                                 </h6>
                                                             </div>
@@ -309,7 +309,7 @@
                                                                     Cr
                                                                 </h4>
                                                             </div> -->
-                                                                <h6 class="text" style="font-size:19px">
+                                                                <h6 class="text-center" style="font-size:22px">
                                                                     Investor Outreach & Introductions
                                                                 </h6>
                                                             </div>

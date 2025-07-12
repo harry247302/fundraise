@@ -351,7 +351,7 @@
                                                 Empowering Your Business
                                                 <br>Success
                                             </h3>
-                                            <div class="sub-title mb-32 text-anime-wave">
+                                            <div class="sub-title mb-32 text-anime-wave" style="font-size: 18px !important;">
                                                 At Impact Nest, we empower businesses with tailored strategies, innovative solutions, and
                                                 <br>expert consulting. Our industry professionals drive growth and guide you through
                                                 <br>challenges to achieve success.

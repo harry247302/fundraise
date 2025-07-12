@@ -25,6 +25,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
 .icon-applePay:before {
   content: "\e93f";
 }

@@ -5,12 +5,12 @@
                 <div class="footer-top">
                     <div class="footer-left">
                         <div class="logo-footer">
-                            <a href="index.html" class="logo">
+                            <a href="/" class="logo">
                                 <img src="image/logo/logo.png" class="rounded d-block img-fluid" style="width: 30%;"
                                     alt="">
                             </a>
                         </div>
-                        <div class="text caption-1 text-body" style="font-weight: normal !important;">
+                        <div class="text caption-1 text-body" style="font-weight: normal !important; font-size: 16px !important;">
                             Welcome to your trusted financial partner! Explore
                             <br>personalized strategies and expert guidance to secure
                             <br>your financial future and achieve success.
@@ -20,22 +20,20 @@
                                 <p class="caption-2 text-body">
                                     Our address
                                 </p>
-                                <a href="#" class="text-body" style="font-weight: bolder;">101 E 129th St, East
-                                    Chicago, IN
-                                    46312, US</a>
+                                <a href="#" class="text-body" style="font-weight: bolder;">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
                             </div>
                             <div class="contact-bottom">
                                 <div class="contact-footer-content">
                                     <p class="caption-2 text-body">
                                         Support 24/7
                                     </p>
-                                    <a href="#" class="text-body" style="font-weight: bolder;">1-555-678-8888</a>
+                                    <a href="#" class="text-body" style="font-weight: bolder;">+91-9971645151</a>
                                 </div>
                                 <div class="contact-footer-content">
                                     <p class="caption-2 text-body">
                                         Email Address
                                     </p>
-                                    <a href="#" class="text-body" style="font-weight: bolder;">example@gmail.com</a>
+                                    <a href="#" class="text-body" style="font-weight: bolder;">contact@panapadvisors.com</a>
                                 </div>
                             </div>
                         </div>
@@ -53,9 +51,9 @@
                                     <li class="support-item-footer caption-1"><a href="tailored-strategies.php"
                                             class="text-body">Tailored Strategies
                                         </a></li>
-                                    <li class="support-item-footer caption-1"><a href="services-details-1.html"
+                                    <li class="support-item-footer caption-1"><a href="/financial-modelling.php"
                                             class="text-body">Financial Modelling </a></li>
-                                    <li class="support-item-footer caption-1"><a href="services-details-2.html"
+                                    <li class="support-item-footer caption-1"><a href="/Investor-pitch-desck-design.php"
                                             class="text-body">Deck Design</a></li>
 
                                 </ul>
@@ -139,7 +137,7 @@
                                 Subscribe for all the top news!
                             </div>
                             <fieldset>
-                                <input type="text" placeholder="Enter your email address">
+                                <input type="text" placeholder="Enter your email address" class="placeholder-black">
                                 <a href="#" class="tf-btn-newsletter text-body"><i class="icon-PaperPlaneTilt"></i></a>
                             </fieldset>
                             <div class="text caption-2 text-body">
@@ -151,15 +149,16 @@
                             <div class="title-footer text-body">
                                 Follow Us:
                             </div>
-                            <ul class="tf-social style-border radius-50 g-8 style-2">
+                            <ul class=" ">
                                 <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-messenger"></i>
+                                    <a href="https://www.linkedin.com/company/impact-nest">
+                                        <div class="" style="width: 30px !important;">
+                                            <!-- <i class="icon-linkedin"></i> -->
+                                             <img src="image/icon/Linkedin-Black.png" alt="linkedin">
                                         </div>
                                     </a>
                                 </li>
-                                <li class="item">
+                                <!-- <li class="item">
                                     <a href="#">
                                         <div class="icon">
                                             <i class="icon-x"></i>
@@ -186,7 +185,7 @@
                                             <i class="icon-telegram"></i>
                                         </div>
                                     </a>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                     </div>
