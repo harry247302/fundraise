@@ -714,7 +714,7 @@ a:hover, a:focus {
 }
 
 .caption-1 {
-  font-weight: 400 !important;
+  font-weight: bolder !important;
   font-size: 14px !important;
   line-height: 22px !important;
 }

@@ -404,10 +404,12 @@
                 <div class="box-icon-list">
                     <!-- Investment -->
                     <div class="box-icon">
-                        <div class="icon">
-                            <img src="../image/icon/investment_2300422.png" alt="Investment">
+                        <div style="justify-items: center;     text-align: center;">
+                            <div class="icon">
+                                <img src="../image/icon/investment_2300422.png" alt="Investment">
+                            </div>
+                            <a href="#" class="title-box">Fundraising</a>
                         </div>
-                        <div class="title-box" style="font-size: 24px !important;">Fundraising</div>
                         <div class="sub-title">
                             <p>Empowering businesses to grow through strategic investments, innovative fundraising
                                 solutions, and sustainable financial planning. </p>
@@ -417,10 +419,12 @@
 
                     <!-- Tailored Strategies -->
                     <div class="box-icon" style="padding-bottom:55px;">
-                        <div class="icon">
-                            <img src="../image/icon/strategy-development_4129547.png">
+                        <div style="justify-items: center;     text-align: center;">
+                            <div class="icon">
+                                <img src="../image/icon/strategy-development_4129547.png">
+                            </div>
+                            <a href="#" class="title-box">Tailored Strategies</a>
                         </div>
-                        <div class="title-box"  style="font-size: 24px !important;">Tailored Strategies</div>
                         <div class="sub-title">
                             <p> Customized business plans designed to meet your unique goals and business situation.</p>
                         </div>
@@ -428,10 +432,12 @@
 
                     <!-- Financial Modelling -->
                     <div class="box-icon" style="padding-bottom:55px;">
-                        <div class="icon">
-                            <img src="../image/icon/financial_4221500.png" alt="Financial Modelling">
+                        <div style="justify-items: center;     text-align: center;">
+                            <div class="icon">
+                                <img src="../image/icon/financial_4221500.png" alt="Financial Modelling">
+                            </div>
+                            <a href="#" class="title-box">Financial Modelling</a>
                         </div>
-                        <div class="title-box" style="font-size: 24px !important;">Financial Modelling</div>
                         <div class="sub-title">
                             <p>We build robust financial models that drive clarity, confidence, and investor trust.</p>
                         </div>
@@ -439,10 +445,12 @@
 
                     <!-- Deck Design -->
                     <div class="box-icon" style="padding-bottom:55px;">
-                        <div class="icon">
-                            <img src="../image/icon/desk_6881229.png" alt="Deck Design">
+                        <div style="justify-items: center;     text-align: center;">
+                            <div class="icon">
+                                <img src="../image/icon/desk_6881229.png" alt="Deck Design">
+                            </div>
+                            <a href="#" class="title-box">Deck Design</a>
                         </div>
-                        <div class="title-box" style="font-size: 24px !important;">Deck Design</div>
                         <div class="sub-title">
                             <p>We craft compelling pitch decks that tell your story, showcase your value, and attract
                                 investors.</p>
