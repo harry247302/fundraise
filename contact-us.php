@@ -128,7 +128,7 @@
                                 <ul class="list-unstyled" style="padding-left: 0; margin: 0;">
                                     <!-- Address -->
                                     <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-                                        <img src="./image/icon/location.png" alt="icon" style="width: 28px; height: 28px; margin-right: 16px; margin-top: 2px;" />
+                                        <img src="./image/icon/location.png" alt="icon" style="width: 28px; height: 28px" />
                                         <div>
                                             <h6 style="margin: 0 0 6px; font-size: 16px; font-weight: 600;">Address</h6>
                                             <p style="margin: 0; color: #555;">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
@@ -137,7 +137,7 @@
 
                                     <!-- Email -->
                                     <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-                                        <img src="./image/icon/envelope.png" alt="icon" style="width: 28px; height: 28px; margin-right: 16px; margin-top: 2px;" />
+                                        <img src="./image/icon/envelope.png" alt="icon" style="width: 28px; height: 28px; " />
                                         <div>
                                             <h6 style="margin: 0 0 6px; font-size: 16px; font-weight: 600;">Mail address</h6>
                                             <a href="mailto:contact@panapadvisors.com" style="color: #333; text-decoration: none;">contact@panapadvisors.com</a>
@@ -146,7 +146,7 @@
 
                                     <!-- Phone -->
                                     <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-                                        <img src="./image/icon/phone-contact.png" alt="icon" style="width: 28px; height: 28px; margin-right: 16px; margin-top: 2px;" />
+                                        <img src="./image/icon/phone-contact.png" alt="icon" style="width: 28px; height: 28px; " />
                                         <div>
                                             <h6 style="margin: 0 0 6px; font-size: 16px; font-weight: 600;">Phone</h6>
                                             <a href="tel:+919971645151" style="color: #333; text-decoration: none;">+91-9971645151</a>
@@ -155,11 +155,10 @@
 
                                     <!-- LinkedIn -->
                                     <li style="display: flex; align-items: flex-start; margin-bottom: 0;">
-                                        <img src="./image/icon/Linkedin.png" alt="icon" style="width: 28px; height: 28px; margin-right: 16px; margin-top: 2px;" />
-                                        <div>
-                                            <h6 style="margin: 0; font-size: 16px; font-weight: 600;">
-                                                <a href="https://www.linkedin.com/company/impact-nest" target="_blank" style="color: #333; text-decoration: none;">LinkedIn</a>
-                                            </h6>
+                                        <img src="./image/icon/Linkedin.png" alt="icon" style="width: 28px; height: auto; " />
+                                       <div>
+                                            <h6 style="margin: 0 0 6px; font-size: 16px; font-weight: 600;">LinkedIn</h6>
+                                            <!-- <a href="tel:+919971645151" style="color: #333; text-decoration: none;">+91-9971645151</a> -->
                                         </div>
                                     </li>
                                 </ul>
