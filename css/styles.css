@@ -2075,9 +2075,9 @@ a:hover, a:focus {
 .footer .footer-left {
   padding-right: 30px;
   /* border-right: 1px solid var(--bg-1); */
-  padding-top: 80px;
+  padding-top: 30px;
   padding-bottom: 80px;
-  max-width: 421px;
+  max-width: 315px;
   width: 100%;
 }
 .footer .footer-center {
@@ -2086,15 +2086,15 @@ a:hover, a:focus {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  gap: 0 47px;
-  padding-top: 80px;
+  gap: 0 65px;
+  padding-top: 102px;
   padding-bottom: 80px;
   padding-left: 19px;
   max-width: 368px;
   width: 100%;
 }
 .footer .footer-right {
-  padding-top: 80px;
+  padding-top: 102px;
   padding-bottom: 80px;
   width: 100%;
   padding-left: 30px;
@@ -13588,7 +13588,7 @@ a.mapboxgl-ctrl-logo {
   padding-left: 30px;
   border-left: 1px solid var(--bg-1);
   border-right: 0;
-  max-width: 421px;
+  max-width: 315px;
   padding-right: 0;
 }
 .rtl .footer .contact-bottom,
