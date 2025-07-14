@@ -119,7 +119,10 @@
                             <div class="contact-info animate fadeInLeft wow animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInLeft;">
                                 <div class="heading-box mb-4">
                                     <span class="sub-title animate fadeInUp wow animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">Contact</span>
-                                    <h2 class="heading-title animate fadeInUp wow animated" data-wow-duration="1500ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">Let's Connect</h2>
+                                    <h3 style="color:var(--on-suface-container) !important"
+                                        class="title-section text-anime-wave">
+                                        Let's Connect
+                                    </h3>
                                     <p class="text-muted">Get a free business consultation today or simply send us your query.</p>
                                 </div>
                                 <ul class="list-unstyled" style="padding-left: 0; margin: 0;">

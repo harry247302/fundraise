@@ -3,18 +3,18 @@
         <div class="row">
             <div class="col-12">
                 <div class="footer-top">
-                    <div class="footer-left">
+                    <div class="footer-left" >
                         <div class="logo-footer">
-                            <a href="/" class="logo" style="display: flex; align-items: center; justify-content: center;">
+                            <a href="/" class="logo" style="">
                                 <img src="image/logo/logo.png" class="rounded d-block img-fluid" style="width: 40%;"
                                     alt="">
                             </a>
                         </div>
-                        <div class="text caption-1 text-body" style="font-weight: normal !important; font-size: 16px !important;">
+                        <!-- <div class="text caption-1 text-body" style="font-weight: normal !important; font-size: 16px !important;">
                             Welcome to your trusted financial partner! Explore
                             <br>personalized strategies and expert guidance to secure
                             <br>your financial future and achieve success.
-                        </div>
+                        </div> -->
                         <div class="contact-footer">
                             <div class="address contact-top contact-footer-content">
                                 <p class="caption-2 text-body" style="font-size:18px; font-weight: bold;">
@@ -54,6 +54,7 @@
                             </div>
                         </div>
                     </div>
+                    <!-- <div style="border-left:0.5px solid #c6c6c6; height:300px; margin-top:80px"></div> -->
                     <div class="footer-center">
                         <div class="footer-content our-services footer-col-block">
                             <div class="title-mobile label text-btn-uppercase text-body" style="font-size: 18px !important; font-weight: bold !important;">
@@ -68,23 +69,24 @@
                                             Fund Raising</a></li>
                                     <li class="support-item-footer caption-1"><a href="tailored-strategies.php"
                                             class="text-body" style="font-size: 16px !important; font-weight: normal !important;">
-                                            <img style="width: 30px; height: 30px; color:black" src="../image/icon/logo/03.png" alt="tailored strategies">
+                                            <img style="width: 25px; height: auto; color:black" src="../image/icon/logo/03.png" alt="tailored strategies">
                                             Tailored Strategies
                                         </a></li>
                                     <li class="support-item-footer caption-1"><a href="/financial-modelling.php"
                                             class="text-body" style="font-size: 16px !important; font-weight: normal !important;">
-                                            <img style="width: 30px; height: 30px; color:black" src="../image/icon/logo/02.png" alt="financial modelling">
+                                            <img style="width: 25px; height:auto; color:black" src="../image/icon/logo/02.png" alt="financial modelling">
                                             Financial Modelling
                                         </a></li>
                                     <li class="support-item-footer caption-1"><a href="/Investor-pitch-desck-design.php"
                                             class="text-body" style="font-size: 16px !important; font-weight: normal !important;">
-                                            <img style="width: 30px; height: 30px; color:black" src="../image/icon/logo/01.png" alt="deck design">
+                                            <img style="width: 25px; height:auto; color:black" src="../image/icon/logo/01.png" alt="deck design">
                                             Deck Design
                                         </a></li>
 
                                 </ul>
                             </div>
                         </div>
+                        <!-- <div style="border-left:0.5px solid #c6c6c6; height:300px; "></div> -->
                         <div class="footer-content our-services footer-col-block">
                             <div class="title-mobile label text-btn-uppercase text-body" style="font-size: 16px !important; font-weight: bold !important;">
                                 Quick Links
@@ -157,6 +159,7 @@
                             </div>
                         </div>
                     </div>
+                    <!-- <div style="border-left:0.5px solid #c6c6c6; height:300px; margin-top:80px"></div> -->
                     <div class="footer-right">
                         <div class="footer-subscribe">
                             <div class="label text-btn-uppercase text-body" style="font-size: 16px !important; font-weight: bold !important;">
@@ -166,7 +169,7 @@
                                 <input type="text" placeholder="Enter your email address" class="placeholder-black">
                                 <a href="#" class="tf-btn-newsletter text-body"><i class="icon-PaperPlaneTilt"></i></a>
                             </fieldset>
-                            <div class="text caption-2 text-body">
+                            <div class="text caption-2 text-body" style="font-size:15px">
                                 Sign up for updates on our latest news and events. No spam, just valuable
                                 insights!
                             </div>
@@ -219,7 +222,7 @@
             </div>
         </div>
     </div>
-    <div class="footer-bottom">
+    <div class="footer-bottom" style="border-top:1px solid #c6c6c6">
         <div class="tf-container">
             <div class="row">
                 <div class="col-12">
@@ -229,6 +232,7 @@
                                 ©2025 Impact Nest. All Rights Reserved.
                             </div>
                         </div>
+                        <div style="border-left:0.5px solid #c6c6c6; height:30px"></div>
                         <div class="right">
                             <ul>
                                 <li>

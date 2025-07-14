@@ -270,7 +270,7 @@
                                         </div>
                                         <p class="text text-btn-uppercase label"
                                             style="margin-left: 10px; font-size: 14px !important; font-weight:800 !important;">
-                                            Years of Business Planning expertise
+                                            Years of Business Planning <br> expertise
                                         </p>
                                     </div>
                                 </div>
