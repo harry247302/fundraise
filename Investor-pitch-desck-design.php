@@ -401,7 +401,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Narrative Development</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             We help define your story—who you are, the problem you're solving, and why now is the right time. We turn complex ideas into a clear, engaging narrative.
                                         </p>
                                     </div>
@@ -411,7 +411,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class=" mb-2">Visual Design & Branding</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             Clean, modern design that reflects your brand and grabs investor attention. Every slide is structured visually for clarity and flow.
                                         </p>
                                     </div>
@@ -421,7 +421,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Investor-Focused Content</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             We highlight what matters most to investors — market size, traction, business model, financials, and use of funds — in a format they trust.
                                         </p>
                                     </div>
@@ -431,7 +431,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class=" mb-2">Content Strategy & Structuring</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             We organize your deck into a compelling flow: Intro → Problem → Solution → Market → Model → Traction → Team → Financials → Ask.
                                         </p>
                                     </div>
@@ -441,7 +441,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Iterative Support & Revisions</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             We collaborate closely, incorporating feedback and aligning the deck with investor inputs through multiple pitch rounds.
                                         </p>
                                     </div>
@@ -451,7 +451,7 @@
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
                                         <h5 class="mb-2">Multiple Formats & Versions</h5>
-                                        <p class="text-muted mb-0" style="font-size: 14px;">
+                                        <p class="text-muted mb-0" >
                                             Pitch decks for presentations, email decks for outreach, and one-pagers — tailored for every fundraising scenario.
                                         </p>
                                     </div>
