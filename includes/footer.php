@@ -210,7 +210,7 @@
             </div>
         </div>
     </div>
-    <div class="footer-bottom" style="border-top:1px rgba(146, 146, 146, 0.36) solid;">
+    <div class="footer-bottom" style="border-top:1px solid rgba(198, 198, 198, 0.096);">
         <div class="tf-container">
             <div class="row">
                 <div class="col-12">
