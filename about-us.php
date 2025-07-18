@@ -100,7 +100,11 @@
                         <div class="desc-blog" style="padding-left:12px; padding-right:12px;">
                             <div class="counter text-center">
                                 <!-- <h5 class="text fw-bold">What We Offer</h5> -->
-                                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                <!-- <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                    What Sets Impact Nest Apart?
+                                </h3> -->
+
+                                <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-top: 40px; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
                                     What Sets Impact Nest Apart?
                                 </h3>
                             </div>
@@ -156,13 +160,17 @@
 
 
         <div>
-            <h3 class="mb-4 fw-bold wow fadeInUp"
+            <!-- <h3 class="mb-4 fw-bold wow fadeInUp"
                 style="text-align:center; font-size: clamp(20px, 5vw, 35px); color: #2c3e50;">
+                Expertise. Innovation. Commitment.
+            </h3> -->
+
+            <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-bottom:20px !important; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
                 Expertise. Innovation. Commitment.
             </h3>
 
             <div class="container py-4">
-                <div class="row justify-content-center" style="row-gap: 100px; column-gap: 100px;">
+                <div class="row justify-content-center" style="row-gap: 100px; column-gap: 50px;">
 
 
                     <!-- Vision -->
@@ -171,7 +179,9 @@
                             <div class="testimonial-top">
                                 <div class="counter-item">
                                     <div class="counter text-center">
-                                        <h5 class="text fw-bold " style="text-align:center">Vision</h5>
+                                        <h4 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-bottom:20px !important; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                            Vision
+                                        </h4>
                                     </div>
                                 </div>
                             </div>
@@ -189,7 +199,9 @@
                             <div class="testimonial-top">
                                 <div class="counter-item">
                                     <div class="counter text-center">
-                                        <h5 class="text fw-bold" style="text-align:center">Mission</h5>
+                                        <h4 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-bottom:20px !important; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                            Mission
+                                        </h4>
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +221,9 @@
                             <div class="testimonial-top">
                                 <div class="counter-item">
                                     <div class="counter text-center">
-                                        <h5 class="text fw-bold" style="text-align:center"> Values</h5>
+                                        <h4 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-bottom:20px !important; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                            Values
+                                        </h4>
                                     </div>
                                 </div>
                             </div>
@@ -292,7 +306,7 @@
     </section> -->
 
 
-        <section style="padding: 60px 20px; background-color: #f8f9fa; font-family: 'Segoe UI', sans-serif;">
+        <section style="padding: 60px 20px; background-color: #f8f9fa; font-family: 'Rethink Sans', sans-serif;">
             <div style="
     max-width: 1200px;
     margin: 0 auto;
@@ -309,9 +323,13 @@
 
                 <!-- Right Content -->
                 <div style="flex: 1 1 500px; padding: 10px;">
-                    <h4 style="font-size: 30px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;" class="flex">
+                    <!-- <h4 style="font-size: 30px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;" class="flex">
                         Empowering Visionaries. Accelerating Growth.
-                    </h4>
+                    </h4> -->
+
+                    <h3 class="title-section text-anime-wave-1 mb-12 text-left" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                        Empowering Visionaries. Accelerating Growth.
+                    </h3>
                     <p class="text-secondary" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: justify;">
                         At Impact Nest, we partner with startups and growth-stage companies to unlock their true potential
                         through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch
@@ -508,6 +526,11 @@
 
 
             <!-- Section-history -->
+            <style>
+
+                
+            </style>
+
             <section class="section-history section-about bg-on-suface-container tf-spacing-2 hover-active-step">
                 <div class="tf-container">
                     <div class="row">
@@ -523,19 +546,19 @@
 
                             <div class="wg-time-line">
 
-                                <!-- ✅ Swiper Block -->
+                                <!-- Swiper Block -->
                                 <div class="sw-layout-1 swiper-time-line" data-preview="4" data-tablet="3" data-mobile="1" data-mobile-sm="2" data-space-lg="0" data-space-md="0" data-space="0">
                                     <div dir="ltr" class="swiper sw-layout1">
                                         <div class="swiper-wrapper">
 
-                                            <div class="swiper-slide">
-                                                <div class="time-line-item">
+                                            <div class="swiper-slide" > 
+                                                <div class="time-line-item" >
                                                     <div class="time-line-content">
                                                         <div class="heading">
                                                             <div class="label" style="text-align:center">2018</div>
                                                             <h5 class="title-content" style="text-align:center">Founded</h5>
                                                         </div>
-                                                        <div class="desc">Established with a mission to provide innovative financial and business consulting services.</div>
+                                                        <div class="desc text-left">Established with a mission to provide innovative financial and business consulting services.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -580,8 +603,8 @@
                                     </div>
                                 </div>
 
-                                <!-- ✅ Navigation Arrows (Mobile Only) -->
-                                <div class="d-flex flex-row justify-content-center mt-4 gap-5 margin-top-12" >
+                                <!-- Navigation Arrows (Mobile Only) -->
+                                <div class="d-flex flex-row justify-content-center mt-4 gap-5 margin-top-12">
 
                                     <!-- Left Arrow -->
                                     <div class="tf-btn-arrow style-3 arrow-left nav-prev-layout-1 d-block d-md-none"

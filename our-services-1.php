@@ -144,7 +144,7 @@
 
 
                 <!-- *************************************** -->
-                <section style="background-color: #f9f9f9; padding: 0px 20px; font-family: Arial, sans-serif;">
+                <section style="background-color: #f9f9f9; padding: 20px 20px; font-family: Arial, sans-serif;">
                     <div style="max-width: 1200px; margin: 0 auto;">
 
                         <div class="tf-containr">
@@ -158,9 +158,12 @@
                                         <div class="desc-blog" style="background-color: #f9f9f9;">
                                             <div class="counter text-center">
 
-                                                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                                <!-- <h3 class="mb-4 fw-bold wow fadeInUp" style="text-align:center;font-size: 35px; color: #2c3e50; margin: 20px;">
                                                     Fund Raising
-                                                </h3>
+                                                </h3> -->
+                                                <h3 class="title-section text-anime-wave-1 mb-12" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                    Fund Raising
+                                </h3>
                                             </div>
                                             <p class="tex-secondary list-grou" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: justify;">
                                                 At <span style="font-weight:bold">Impact Nest</span>, we help founders raise the right capital from the right investors —
@@ -185,11 +188,13 @@
                         <!-- <h2 style="color:var(--on-suface-container) !important;text-align: center; font-size: 36px;  margin-bottom: 50px;">
                             What We Offer
                         </h2> -->
-                        <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                        <!-- <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
                             What We Offer
-                        </h3>
+                        </h3> -->
 
-
+<h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                    What We Offer
+                                </h3>
                         <div class="tf-container">
                             <div class="row">
                                 <div class="col-12">
@@ -358,7 +363,7 @@
                                                                     Cr
                                                                 </h4>
                                                             </div> -->
-                                                                <h6 class="text" style="font-size:18px">
+                                                                <h6 class="text-center" style="font-size:22px">
                                                                     Deal Structuring & Negotiation Support
                                                                 </h6>
                                                             </div>
@@ -415,9 +420,13 @@
                                 <div class="desc-blog" style="background-color:rgb(255, 255, 255);">
                                     <div class="counter text-center">
 
-                                        <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                                        <!-- <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
                                             End-to-End Fundraising Support
-                                        </h3>
+                                        </h3> -->
+
+                                        <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                    End-to-End Fundraising Support
+                                </h3>
                                     </div>
                                     <p class="tex-secondary list-grou" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: center;">
                                     Impact Nest offers 360° fundraising support to help startups raise capital with clarity and confidence. We craft compelling narratives, build robust financial models, design investor-ready decks, and facilitate warm investor introductions. From strategy to closure, we guide you through every stage of the funding journey-ensuring you're not just ready to pitch, but ready to win. Our expert team ensures every detail aligns with investor expectations, maximizing your chances of a successful raise.
@@ -451,15 +460,21 @@
 
                 <!-- Right Content -->
                 <div style="flex: 1 1 500px; padding: 10px;">
-                    <h4 style="font-size: 30px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;" class="flex">
+                    <!-- <h4 style="font-size: 30px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;" class="flex">
                     Why Choose Impact Nest for Fundraising?
-                    </h4>
+                    </h4> -->
+
+                     <h3 class="title-section text-anime-wave-1 mb-12 text-left" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                    Why Choose Impact Nest for Fundraising?
+                                </h3>
+
+                    
                   <div class="benefit-lists">
                             <div class="benefit-items">
                                 <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                                     <i class="icon-checkbox"></i>
                                 </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
                                     Deep experience across startup and growth stages
                                 </div>
                             </div>
@@ -467,7 +482,7 @@
                                 <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                                     <i class="icon-checkbox"></i>
                                 </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
                                     Strong investor network across sectors
                                 </div>
                             </div>
@@ -475,7 +490,7 @@
                                 <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                                     <i class="icon-checkbox"></i>
                                 </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
                                     Founder-first approach with hands-on support
                                 </div>
                             </div>
@@ -483,7 +498,7 @@
                                 <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                                     <i class="icon-checkbox"></i>
                                 </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
                                     Transparent, insight-driven processes
                                 </div>
                             </div>
@@ -491,7 +506,7 @@
                                 <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
                                     <i class="icon-checkbox"></i>
                                 </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
                                     Proven results across multiple successful fundraises
                                 </div>
                             </div>

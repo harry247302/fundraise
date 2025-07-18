@@ -1,5 +1,29 @@
 <!-- Header -->
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    let lastScrollTop = 0;
+    const header = document.querySelector(".header.style-1");
+
+    window.addEventListener("scroll", function () {
+      const currentScroll = window.scrollY;
+
+      if (currentScroll > lastScrollTop && currentScroll > 100) {
+        // Scrolling down
+        header.style.transform = "translateY(-100%)";
+      } else {
+        // Scrolling up or stopped
+        header.style.transform = "translateY(0)";
+      }
+
+      lastScrollTop = currentScroll;
+    });
+  });
+</script>
+
+
 <header class="header sticky-top style-1  " id="header">
+
     <div class="tf-container w-1870">
         <div class="row">
             <div class="col-12">
@@ -58,11 +82,11 @@
                         </nav>
                     </div>
                     <div class="header-right">
-                        <!-- <div class="nav-btn">
-                                    <a href="#" class="tf-btn bg-white style-1">
-                                        <span>Schedule A Consultation</span>
-                                    </a>
-                                </div> -->
+                        <div class="nav-btn">
+                            <a href="/contact-us.php" class="tf-btn bg-white style-1">
+                                <span>Get in Touch</span>
+                            </a>
+                        </div>
                         <div class="nav-icon">
 
 

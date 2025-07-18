@@ -64,7 +64,7 @@
             <div class="tf-container w-1870">
                 <div class="row">
                     <div class="col-12">
-                        
+
                     </div>
                 </div>
             </div>
@@ -561,7 +561,7 @@
 
     <!-- shadab -->
     <div class="container-fluid  py-5" style="width:90%;border:0px solid black">
-        <h3 class="fw-bold text-center mb-4" style="font-size: clamp(26px, 4vw, 35px); color: #2c3e50;">
+        <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
             Tailored Strategies
         </h3>
 
@@ -575,93 +575,93 @@
             actionable plans that fuel measurable outcomes. We don't just advise — we become your thinking partner.
         </p>
 
-       <section class="py-5">
-    <div class="container">
-        <!-- <div class="row mb-5">
+        <section class="py-5 ">
+            <div class="container">
+                <!-- <div class="row mb-5">
             <div class="col text-center">
                 <h2 class="display-5 fw-bold">Our Services</h2>
                 <p class="text-muted">Explore how we help businesses succeed</p>
             </div>
         </div> -->
-        <div class="row g-4">
-            <!-- Card 1 -->
-            <div class="col-12 col-md-6 col-lg-6">
-                <div class="h-100 border rounded-4 p-4">
-                    <div class="d-flex align-items-center mb-3 gap-3">
-                        <img src="../image/icon/strategy-development_4129547.png" alt="Marketing Strategy" style="width: 50px; font: bold !important;">
-                        <h5 class="mb-0 text-uppercase">Marketing Strategy</h5>
+                <div class="row g-4 ">
+                    <!-- Card 1 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="h-100 border rounded-4 p-4">
+                            <div class="d-flex align-items-center justify-content-center mb-3 gap-3">
+                                <img src="../image/icon/strategy-development_4129547.png" alt="Marketing Strategy" style="width: 50px; font: bold !important;">
+                                <h5 class="mb-0 text-uppercase" style="font-weight: 500;">Marketing Strategy</h5>
+                            </div>
+                            <p>We help you reach the right audience with the right message at the right time.</p>
+                            <strong>Our services include:</strong>
+                            <ul style="padding-left: 20px; padding-top: 8px;">
+                                <li style="list-style: disc !important;">Go-to-market (GTM) planning</li>
+                                <li style="list-style: disc !important;">Brand positioning & messaging frameworks</li>
+                                <li style="list-style: disc !important;">Digital & content marketing strategy</li>
+                                <li style="list-style: disc !important;">Target audience profiling & channel selection</li>
+                                <li style="list-style: disc !important;">Lead generation and funnel design</li>
+                            </ul>
+                        </div>
                     </div>
-                    <p>We help you reach the right audience with the right message at the right time.</p>
-                    <strong>Our services include:</strong>
-                    <ul style="padding-left: 20px; padding-top: 8px;">
-                        <li style="list-style: disc !important;">Go-to-market (GTM) planning</li>
-                        <li style="list-style: disc !important;">Brand positioning & messaging frameworks</li>
-                        <li style="list-style: disc !important;">Digital & content marketing strategy</li>
-                        <li style="list-style: disc !important;">Target audience profiling & channel selection</li>
-                        <li style="list-style: disc !important;">Lead generation and funnel design</li>
-                    </ul>
-                </div>
-            </div>
 
-            <!-- Card 2 -->
-            <div class="col-12 col-md-6 col-lg-6">
-                <div class="h-100 border rounded-4 p-4">
-                    <div class="d-flex align-items-center mb-3 gap-3">
-                        <img src="../image/icon/investment_2300422.png" alt="Financing Strategy" style="width: 50px;">
-                        <h5 class="mb-0 text-uppercase">Financing Strategy</h5>
+                    <!-- Card 2 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="h-100 border rounded-4 p-4">
+                            <div class="d-flex align-items-center justify-content-center mb-3 gap-3">
+                                <img src="../image/icon/investment_2300422.png" alt="Financing Strategy" style="width: 50px;">
+                                <h5 class="mb-0 text-uppercase" style="font-weight: 500;">Financing Strategy</h5>
+                            </div>
+                            <p>We prepare you for capital efficiency and investor readiness.</p>
+                            <strong>Our services include:</strong>
+                            <ul style="padding-left: 20px; padding-top: 8px;  list-style-type: disc !important;">
+                                <li style="list-style: disc !important;">Fundraising roadmaps and capital planning</li>
+                                <li style="list-style: disc !important;">Valuation support and cap table advisory</li>
+                                <li style="list-style: disc !important;">Financial structuring (equity, debt)</li>
+                                <li style="list-style: disc !important;">Financials aligned with funding milestones</li>
+                                <li style="list-style: disc !important;">Scenario planning and runway analysis</li>
+                            </ul>
+                        </div>
                     </div>
-                    <p>We prepare you for capital efficiency and investor readiness.</p>
-                    <strong>Our services include:</strong>
-                    <ul style="padding-left: 20px; padding-top: 8px;  list-style-type: disc !important;">
-                        <li style="list-style: disc !important;">Fundraising roadmaps and capital planning</li>
-                        <li style="list-style: disc !important;">Valuation support and cap table advisory</li>
-                        <li style="list-style: disc !important;">Financial structuring (equity, debt)</li>
-                        <li style="list-style: disc !important;">Financials aligned with funding milestones</li>
-                        <li style="list-style: disc !important;">Scenario planning and runway analysis</li>
-                    </ul>
-                </div>
-            </div>
 
-            <!-- Card 3 -->
-            <div class="col-12 col-md-6 col-lg-6">
-                <div class="h-100 border rounded-4 p-4">
-                    <div class="d-flex align-items-center mb-3 gap-3">
-                        <img src="../image/icon/growth.png" alt="Business Development" style="width: 40px;">
-                        <h5 class="mb-0 text-uppercase">Business Development</h5>
+                    <!-- Card 3 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="h-100 border rounded-4 p-4">
+                            <div class="d-flex align-items-center justify-content-center mb-3 gap-3">
+                                <img src="../image/icon/growth.png" alt="Business Development" style="width: 40px;">
+                                <h5 class="mb-0 text-uppercase" style="font-weight: 500;">Business Development</h5>
+                            </div>
+                            <p>We help unlock new revenue streams and partnerships.</p>
+                            <strong>Our services include:</strong>
+                            <ul style="padding-left: 20px; padding-top: 8px; list-style-type: disc !important;">
+                                <li style="list-style: disc !important;">Sales strategy and market entry plans</li>
+                                <li style="list-style: disc !important;">Strategic partnerships, channel development</li>
+                                <li style="list-style: disc !important;">Product-market fit refinement</li>
+                                <li style="list-style: disc !important;">Pricing and revenue model optimization</li>
+                                <li style="list-style: disc !important;">Client onboarding and retention planning</li>
+                            </ul>
+                        </div>
                     </div>
-                    <p>We help unlock new revenue streams and partnerships.</p>
-                    <strong>Our services include:</strong>
-                    <ul style="padding-left: 20px; padding-top: 8px; list-style-type: disc !important;">
-                        <li style="list-style: disc !important;">Sales strategy and market entry plans</li>
-                        <li style="list-style: disc !important;">Strategic partnerships, channel development</li>
-                        <li style="list-style: disc !important;">Product-market fit refinement</li>
-                        <li style="list-style: disc !important;">Pricing and revenue model optimization</li>
-                        <li style="list-style: disc !important;">Client onboarding and retention planning</li>
-                    </ul>
-                </div>
-            </div>
 
-            <!-- Card 4 -->
-            <div class="col-12 col-md-6 col-lg-6">
-                <div class="h-100 border rounded-4 p-4">
-                    <div class="d-flex align-items-center mb-3 gap-3">
-                        <img src="../image/icon/financial_4221500.png" alt="Risk Analysis" style="width: 50px;">
-                        <h5 class="mb-0 text-uppercase">Risk Analysis</h5>
+                    <!-- Card 4 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="h-100 border rounded-4 p-4">
+                            <div class="d-flex align-items-center justify-content-center mb-3 gap-3">
+                                <img src="../image/icon/financial_4221500.png" alt="Risk Analysis" style="width: 50px;">
+                                <h5 class="mb-0 text-uppercase" style="font-weight: 500;">Risk Analysis</h5>
+                            </div>
+                            <p>We help businesses identify, assess, and mitigate risks for smarter decisions.</p>
+                            <strong>Our services include:</strong>
+                            <ul style="padding-left: 20px; padding-top: 8px;  list-style-type: disc !important;">
+                                <li style="list-style: disc !important;">Identify cash flow and funding risks</li>
+                                <li style="list-style: disc !important;">Evaluate burn rate and cost structure</li>
+                                <li style="list-style: disc !important;">Assess process and compliance gaps</li>
+                                <li style="list-style: disc !important;">Conduct scenario and stress testing</li>
+                                <li style="list-style: disc !important;">Recommend mitigation and control measures</li>
+                            </ul>
+                        </div>
                     </div>
-                    <p>We help businesses identify, assess, and mitigate risks for smarter decisions.</p>
-                    <strong>Our services include:</strong>
-                    <ul style="padding-left: 20px; padding-top: 8px;  list-style-type: disc !important;">
-                        <li style="list-style: disc !important;">Identify cash flow and funding risks</li>
-                        <li style="list-style: disc !important;">Evaluate burn rate and cost structure</li>
-                        <li style="list-style: disc !important;">Assess process and compliance gaps</li>
-                        <li style="list-style: disc !important;">Conduct scenario and stress testing</li>
-                        <li style="list-style: disc !important;">Recommend mitigation and control measures</li>
-                    </ul>
                 </div>
             </div>
-        </div>
-    </div>
-</section>
+        </section>
 
 
     </div>

@@ -448,82 +448,125 @@
 
         <!-- section-faqs -->
         <section class="section-faqs h-1 tf-spacing-2">
-            <div class="tf-container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="section-faqs-inner">
-                            <div class="left">
-                                <div class="heading-section">
-                                    <div class="text-anime-wave">
-                                        <a href="#" class="tag label text-btn-uppercase bg-white">FAQs</a>
-                                    </div>
-                                    <h4 style="color:var(--on-suface-container) !important" class="title-section mb-12 text-anime-wave">
-                                        What Every Founder Should Know
-                                    </h4>
-                                    <div class="sub-title body-2 text-anime-wave mb-40">
-                                        Essential insights for founders navigating fundraising, business strategy, and financial
-                                        planning. Get the clarity you need to move forward with confidence.
-                                    </div>
-                                    <div class="text-anime-wave">
-                                        <a href="#" class="tf-btn style-1 bg-on-suface-container">
-                                            <span>Contact Support</span>
-                                        </a>
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="section-faqs-inner">
+                                <div class="left">
+                                    <div class="heading-section">
+                                        <div class="text-anime-wave">
+                                            <a href="#" class="tag label text-btn-uppercase bg-white">FAQs</a>
+                                        </div>
+                                        <h4 style="color:var(--on-suface-container) !important"
+                                            class="title-section mb-12 text-anime-wave display-4"><strong style="font-weight:400 !important">What Every
+                                                Founder Should Know</strong>
+
+                                        </h4>
+                                        <div>
+                                            <!-- <img src="./image/avatar/faq.jpg" alt=""> -->
+                                        </div>
+                                        <div class="according-content">
+                                            <p> </p>
+                                        </div>
+                                        <ul class="text-coor-change ">
+
+                                            <div class="according-content" style="margin-right:50px;">
+                                                <p style="font-size:20px;line-height: 30px"> If you are a founder, understanding fundraising, business strategy, and
+                                                    financial planning is very important. At Impact Nest, we give you clear
+                                                    and simple guidance to help you make smart choices. We help you
+                                                    understand how to raise money, create strong business plans, and manage
+                                                    your finances. With our support, you can avoid confusion and move your
+                                                    business forward with confidence. Whether you are just starting out or
+                                                    looking to grow, we give you the right tools and advice. Our goal is to
+                                                    make complex things easy, so you can focus on building a strong and
+                                                    successful business.</p>
+                                            </div>
+
+
+                                        </ul>
+
+                                        <div class="text-anime-wave">
+                                            <a href="/contact-us.php" class="tf-btn style-1 bg-on-suface-container">
+                                                <span>Contact Support</span>
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="right">
-                                <div class="wg-according" id="According">
-                                    <div class="according-item">
-                                        <h5><a href="#according-1" data-bs-toggle="collapse" class="title-according collapsed">When is the right time to start fundraising? <span></span></a></h5>
-                                        <div id="according-1" class="collapse" data-bs-parent="#According">
-                                            <div class="according-content">
-                                                <p>Start fundraising when you have a clear business model, validated market need, and strong
-                                                    financial projections. We help you assess readiness and prepare accordingly.</p>
+                                <div class="right">
+                                    <div class="wg-according" id="According" style="margin-top: 50px;">
+                                        <div class="according-item">
+                                            <h5><a href="#according-1" style="font-weight:500 !important" data-bs-toggle="collapse"
+                                                    class="title-according collapsed">When is the right time to start
+                                                    fundraising? <span></span></a></h5>
+                                            <div id="according-1" class="collapse" data-bs-parent="#According">
+                                                <div class="according-content" style="margin-top: -15px;">
+                                                    <p>Start fundraising when you have a clear business model, validated
+                                                        market need, and strong
+                                                        financial projections. We help you assess readiness and prepare
+                                                        accordingly.</p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="according-item">
-                                        <h5><a href="#according-2" data-bs-toggle="collapse" class="title-according">What do investors look for in a startup?<span></span></a></h5>
-                                        <div id="according-2" class="collapse show" data-bs-parent="#According">
-                                            <div class="according-content">
-                                                <p>Investors focus on market opportunity, team strength, business scalability, traction, and clear
-                                                    financials. A strong pitch deck and solid projections are crucial.</p>
+                                        <div class="according-item">
+                                            <h5><a href="#according-2" data-bs-toggle="collapse"
+                                                    class="title-according collapsed" style="font-weight:500 !important">What do investors look for in a
+                                                    startup?<span></span></a></h5>
+                                            <div id="according-2" class="collapse" data-bs-parent="#According">
+                                                <div class="according-content" style="margin-top: -15px;">
+                                                    <p>Investors focus on market opportunity, team strength, business
+                                                        scalability, traction, and clear
+                                                        financials. A strong pitch deck and solid projections are
+                                                        crucial.</p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="according-item">
-                                        <h5><a href="#according-3" data-bs-toggle="collapse" class="title-according collapsed">How can Impact Nest support my fundraising journey?<span></span></a></h5>
-                                        <div id="according-3" class="collapse" data-bs-parent="#According">
-                                            <div class="according-content">
-                                                <p>We offer end-to-end support — from fundraising strategy and investor targeting to pitch deck
-                                                    creation and negotiation support.</p>
+                                        <div class="according-item">
+                                            <h5><a href="#according-3" data-bs-toggle="collapse"
+                                                    class="title-according collapsed" style="font-weight:500 !important">How can Impact Nest support my
+                                                    fundraising journey?<span></span></a></h5>
+                                            <div id="according-3" class="collapse" data-bs-parent="#According">
+                                                <div class="according-content" style="margin-top: -15px;">
+                                                    <p>We offer end-to-end support — from fundraising strategy and
+                                                        investor targeting to pitch deck
+                                                        creation and negotiation support.</p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="according-item">
-                                        <h5><a href="#according-4" data-bs-toggle="collapse" class="title-according collapsed">Why is financial modelling important before raising funds?<span></span></a></h5>
-                                        <div id="according-4" class="collapse" data-bs-parent="#According">
-                                            <div class="according-content">
-                                                <p>It provides a clear view of your financial health, growth potential, and valuation — helping investors
-                                                    trust your numbers and vision.</p>
+                                        <div class="according-item">
+                                            <h5><a href="#according-4" data-bs-toggle="collapse"
+                                                    class="title-according collapsed" style="font-weight:500 !important">Why is financial modelling
+                                                    important before raising funds?<span></span></a></h5>
+                                            <div id="according-4" class="collapse" data-bs-parent="#According">
+                                                <div class="according-content" style="margin-top: -15px;">
+                                                    <p>It provides a clear view of your financial health, growth
+                                                        potential, and valuation — helping investors
+                                                        trust your numbers and vision.</p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="according-item">
-                                        <h5><a href="#according-5" data-bs-toggle="collapse" class="title-according collapsed">Do I need a strategy document or just a pitch deck?<span></span></a></h5>
-                                        <div id="according-5" class="collapse" data-bs-parent="#According">
-                                            <div class="according-content">
-                                                <p>A pitch deck tells your story, but a tailored strategy ensures long-term growth. We help you with
-                                                    both to align vision and execution.</p>
+                                        <div class="according-item">
+                                            <h5><a href="#according-5" data-bs-toggle="collapse"
+                                                    class="title-according collapsed" style="font-weight:500 !important">Do I need a strategy document or
+                                                    just a pitch deck?<span></span></a></h5>
+                                            <div id="according-5" class="collapse" data-bs-parent="#According">
+                                                <div class="according-content" style="margin-top: -15px;">
+                                                    <p>A pitch deck tells your story, but a tailored strategy ensures
+                                                        long-term growth. We help you with
+                                                        both to align vision and execution.</p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="according-item">
-                                        <h5><a href="#according-6" data-bs-toggle="collapse" class="title-according collapsed">What if I’m a first-time founder?<span></span></a></h5>
-                                        <div id="according-6" class="collapse" data-bs-parent="#According">
-                                            <div class="according-content">
-                                                <p>No problem. We guide early-stage founders through the entire process — simplifying complex steps with actionable insights and expert support.</p>
+                                        <div class="according-item">
+                                            <h5><a href="#according-6" data-bs-toggle="collapse"
+                                                    class="title-according collapsed" style="font-weight:500 !important">What if I’m a first-time
+                                                    founder?<span></span></a></h5>
+                                            <div id="according-6" class="collapse" data-bs-parent="#According">
+                                                <div class="according-content" style="margin-top: -15px;">
+                                                    <p>No problem. We guide early-stage founders through the entire
+                                                        process — simplifying complex steps with actionable insights and
+                                                        expert support.</p>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -532,145 +575,175 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </section><!-- /.section-faqs -->
+            </section><!-- /.section-faqs -->
 
         <section class="section-process h-1 tf-spacing-2 hover-active-step">
-            <div class="tf-container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="heading-section style-2 mb-40">
-                            <div class="left">
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="heading-section style-2 mb-40">
+                                <div class="left">
 
-                                <h3 style="color:var(--on-suface-container) !important" class="title-section text-anime-wave">
-                                    Pathway to Success
-                                </h3>
+                                    <h3 style="color:var(--on-suface-container) !important; font-weight:500 !important; font-size: 4.3rem;"
+                                        class="title-section text-anime-wave">
+                                        Pathway to Success
+                                    </h3>
+                                </div>
+
                             </div>
-
+                        </div>
+                    </div>
+                    <div class="row rg-30">
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="process-item step-hover">
+                                <div class="process-top wow fadeInUp">
+                                    <div class="icon wow fadeInUp">
+                                        <svg width="48" height="48" viewBox="0 0 48 48" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <g clip-path="url(#clip0_9360_10043)">
+                                                <path
+                                                    d="M6.30025 27.2812C5.51922 23.0656 6.26859 18.7096 8.41349 14.9972C10.5584 11.2849 13.9579 8.46011 18.0002 7.03125V20.5312L6.30025 27.2812Z"
+                                                    stroke="#24283E" stroke-width="1.5" stroke-linecap="round"
+                                                    stroke-linejoin="round" />
+                                                <path
+                                                    d="M24 24.0787V6C27.1537 6.00047 30.2519 6.82949 32.9843 8.40405C35.7168 9.9786 37.9876 12.2434 39.5694 14.9717C41.1512 17.7 41.9884 20.796 41.9972 23.9496C42.0061 27.1033 41.1862 30.2039 39.6197 32.941C38.0532 35.6781 35.7951 37.9556 33.0715 39.5454C30.3479 41.1352 27.2544 41.9816 24.1008 41.9997C20.9472 42.0178 17.8442 41.2071 15.1025 39.6487C12.3608 38.0903 10.0766 35.8389 8.47876 33.12L24 24.0787Z"
+                                                    stroke="#24283E" stroke-width="1.5" stroke-linecap="round"
+                                                    stroke-linejoin="round" />
+                                            </g>
+                                            <defs>
+                                                <clipPath id="clip0_9360_10043">
+                                                    <rect width="48" height="48" fill="white" />
+                                                </clipPath>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <span class="label text-btn-uppercase wow fadeInUp">Step 1</span>
+                                </div>
+                                <div class="process-content">
+                                    <h5 class="wow fadeInUp" style="font-weight: 500 !important;">
+                                        Discover
+                                    </h5>
+                                    <div class="desc wow fadeInUp">
+                                        We assess your business model, market potential, and funding readiness.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="process-item step-hover">
+                                <div class="process-top wow fadeInUp" data-wow-delay=".1s">
+                                    <div class="icon wow fadeInUp" data-wow-delay=".1s">
+                                        <svg width="48" height="48" viewBox="0 0 48 48" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <g clip-path="url(#clip0_9360_10053)">
+                                                <path d="M24 43.5V37.5" stroke="#24283E" stroke-width="1.5"
+                                                    stroke-linecap="round" stroke-linejoin="round" />
+                                                <path
+                                                    d="M24 40.5C33.1127 40.5 40.5 33.1127 40.5 24C40.5 14.8873 33.1127 7.5 24 7.5C14.8873 7.5 7.5 14.8873 7.5 24C7.5 33.1127 14.8873 40.5 24 40.5Z"
+                                                    stroke="#24283E" stroke-width="1.5" stroke-linecap="round"
+                                                    stroke-linejoin="round" />
+                                                <path d="M24 4.5V10.5" stroke="#24283E" stroke-width="1.5"
+                                                    stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M4.5 24H10.5" stroke="#24283E" stroke-width="1.5"
+                                                    stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M43.5 24H37.5" stroke="#24283E" stroke-width="1.5"
+                                                    stroke-linecap="round" stroke-linejoin="round" />
+                                                <path
+                                                    d="M24 30C27.3137 30 30 27.3137 30 24C30 20.6863 27.3137 18 24 18C20.6863 18 18 20.6863 18 24C18 27.3137 20.6863 30 24 30Z"
+                                                    stroke="#24283E" stroke-width="1.5" stroke-linecap="round"
+                                                    stroke-linejoin="round" />
+                                            </g>
+                                            <defs>
+                                                <clipPath id="clip0_9360_10053">
+                                                    <rect width="48" height="48" fill="white" />
+                                                </clipPath>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <span class="label text-btn-uppercase wow fadeInUp" data-wow-delay=".1s">Step
+                                        2</span>
+                                </div>
+                                <div class="process-content">
+                                    <h5 class="wow fadeInUp" data-wow-delay=".1s" style="font-weight: 500 !important;">
+                                        Define
+                                    </h5>
+                                    <div class="desc wow fadeInUp" data-wow-delay=".1s">
+                                        We align on clear growth goals and investor-focused objectives.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="process-item step-hover">
+                                <div class="process-top wow fadeInUp" data-wow-delay=".2s">
+                                    <div class="icon wow fadeInUp" data-wow-delay=".2s">
+                                        <svg width="48" height="48" viewBox="0 0 48 48" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <g clip-path="url(#clip0_9360_10067)">
+                                                <path d="M42 39H6V9" stroke="#24283E" stroke-width="1.5"
+                                                    stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M37.5 13.5L24 27L18 21L6 33" stroke="#24283E"
+                                                    stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M37.5 21V13.5H30" stroke="#24283E" stroke-width="1.5"
+                                                    stroke-linecap="round" stroke-linejoin="round" />
+                                            </g>
+                                            <defs>
+                                                <clipPath id="clip0_9360_10067">
+                                                    <rect width="48" height="48" fill="white" />
+                                                </clipPath>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <span class="label text-btn-uppercase wow fadeInUp" data-wow-delay=".2s">Step
+                                        3</span>
+                                </div>
+                                <div class="process-content">
+                                    <h5 class="wow fadeInUp" data-wow-delay=".2s" style="font-weight: 500 !important;">
+                                        Design
+                                    </h5>
+                                    <div class="desc wow fadeInUp" data-wow-delay=".2s">
+                                        We build tailored strategies, financial models, and compelling pitch assets.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="process-item step-hover">
+                                <div class="process-top wow fadeInUp" data-wow-delay=".3s">
+                                    <div class="icon wow fadeInUp" data-wow-delay=".3s">
+                                        <svg width="48" height="48" viewBox="0 0 48 48" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <g clip-path="url(#clip0_9360_10078)">
+                                                <path
+                                                    d="M40.5 21V10.5C40.5 10.1022 40.342 9.72064 40.0607 9.43934C39.7794 9.15804 39.3978 9 39 9H9C8.60218 9 8.22064 9.15804 7.93934 9.43934C7.65804 9.72064 7.5 10.1022 7.5 10.5V21C7.5 39 24 43.5 24 43.5C24 43.5 40.5 39 40.5 21Z"
+                                                    stroke="#24283E" stroke-width="1.5" stroke-linecap="round"
+                                                    stroke-linejoin="round" />
+                                                <path d="M16.5 25.5L21 30L31.5 19.5" stroke="#24283E" stroke-width="1.5"
+                                                    stroke-linecap="round" stroke-linejoin="round" />
+                                            </g>
+                                            <defs>
+                                                <clipPath id="clip0_9360_10078">
+                                                    <rect width="48" height="48" fill="white" />
+                                                </clipPath>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <span class="label text-btn-uppercase wow fadeInUp" data-wow-delay=".3s">Step
+                                        4</span>
+                                </div>
+                                <div class="process-content">
+                                    <h5 class="wow fadeInUp" data-wow-delay=".3s" style="font-weight: 500 !important;">
+                                        Drive
+                                    </h5>
+                                    <div class="desc wow fadeInUp" data-wow-delay=".3s">
+                                        We support execution, track progress, and optimize for sustainable success.
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="row rg-30">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="process-item step-hover">
-                            <div class="process-top wow fadeInUp">
-                                <div class="icon wow fadeInUp">
-                                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0_9360_10043)">
-                                            <path d="M6.30025 27.2812C5.51922 23.0656 6.26859 18.7096 8.41349 14.9972C10.5584 11.2849 13.9579 8.46011 18.0002 7.03125V20.5312L6.30025 27.2812Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M24 24.0787V6C27.1537 6.00047 30.2519 6.82949 32.9843 8.40405C35.7168 9.9786 37.9876 12.2434 39.5694 14.9717C41.1512 17.7 41.9884 20.796 41.9972 23.9496C42.0061 27.1033 41.1862 30.2039 39.6197 32.941C38.0532 35.6781 35.7951 37.9556 33.0715 39.5454C30.3479 41.1352 27.2544 41.9816 24.1008 41.9997C20.9472 42.0178 17.8442 41.2071 15.1025 39.6487C12.3608 38.0903 10.0766 35.8389 8.47876 33.12L24 24.0787Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                        </g>
-                                        <defs>
-                                            <clipPath id="clip0_9360_10043">
-                                                <rect width="48" height="48" fill="white" />
-                                            </clipPath>
-                                        </defs>
-                                    </svg>
-                                </div>
-                                <span class="label text-btn-uppercase wow fadeInUp">Step 1</span>
-                            </div>
-                            <div class="process-content">
-                                <h5 class="wow fadeInUp">
-                                    <a href="#" class="name-process">Assessment</a>
-                                </h5>
-                                <div class="desc wow fadeInUp">
-                                    Gather client's financial information, goals, and needs.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="process-item step-hover">
-                            <div class="process-top wow fadeInUp" data-wow-delay=".1s">
-                                <div class="icon wow fadeInUp" data-wow-delay=".1s">
-                                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0_9360_10053)">
-                                            <path d="M24 43.5V37.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M24 40.5C33.1127 40.5 40.5 33.1127 40.5 24C40.5 14.8873 33.1127 7.5 24 7.5C14.8873 7.5 7.5 14.8873 7.5 24C7.5 33.1127 14.8873 40.5 24 40.5Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M24 4.5V10.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M4.5 24H10.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M43.5 24H37.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M24 30C27.3137 30 30 27.3137 30 24C30 20.6863 27.3137 18 24 18C20.6863 18 18 20.6863 18 24C18 27.3137 20.6863 30 24 30Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                        </g>
-                                        <defs>
-                                            <clipPath id="clip0_9360_10053">
-                                                <rect width="48" height="48" fill="white" />
-                                            </clipPath>
-                                        </defs>
-                                    </svg>
-                                </div>
-                                <span class="label text-btn-uppercase wow fadeInUp" data-wow-delay=".1s">Step 2</span>
-                            </div>
-                            <div class="process-content">
-                                <h5 class="wow fadeInUp" data-wow-delay=".1s">
-                                    <a href="#" class="name-process">Goal Setting</a>
-                                </h5>
-                                <div class="desc wow fadeInUp" data-wow-delay=".1s">
-                                    Define short-term and long-term financial objectives.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="process-item step-hover">
-                            <div class="process-top wow fadeInUp" data-wow-delay=".2s">
-                                <div class="icon wow fadeInUp" data-wow-delay=".2s">
-                                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0_9360_10067)">
-                                            <path d="M42 39H6V9" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M37.5 13.5L24 27L18 21L6 33" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M37.5 21V13.5H30" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                        </g>
-                                        <defs>
-                                            <clipPath id="clip0_9360_10067">
-                                                <rect width="48" height="48" fill="white" />
-                                            </clipPath>
-                                        </defs>
-                                    </svg>
-                                </div>
-                                <span class="label text-btn-uppercase wow fadeInUp" data-wow-delay=".2s">Step 3</span>
-                            </div>
-                            <div class="process-content">
-                                <h5 class="wow fadeInUp" data-wow-delay=".2s">
-                                    <a href="#" class="name-process">Plan Development</a>
-                                </h5>
-                                <div class="desc wow fadeInUp" data-wow-delay=".2s">
-                                    Create a customized financial strategy based on analysis.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="process-item step-hover">
-                            <div class="process-top wow fadeInUp" data-wow-delay=".3s">
-                                <div class="icon wow fadeInUp" data-wow-delay=".3s">
-                                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0_9360_10078)">
-                                            <path d="M40.5 21V10.5C40.5 10.1022 40.342 9.72064 40.0607 9.43934C39.7794 9.15804 39.3978 9 39 9H9C8.60218 9 8.22064 9.15804 7.93934 9.43934C7.65804 9.72064 7.5 10.1022 7.5 10.5V21C7.5 39 24 43.5 24 43.5C24 43.5 40.5 39 40.5 21Z" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M16.5 25.5L21 30L31.5 19.5" stroke="#24283E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                        </g>
-                                        <defs>
-                                            <clipPath id="clip0_9360_10078">
-                                                <rect width="48" height="48" fill="white" />
-                                            </clipPath>
-                                        </defs>
-                                    </svg>
-                                </div>
-                                <span class="label text-btn-uppercase wow fadeInUp" data-wow-delay=".3s">Step 4</span>
-                            </div>
-                            <div class="process-content">
-                                <h5 class="wow fadeInUp" data-wow-delay=".3s">
-                                    <a href="#" class="name-process">Ongoing Review</a>
-                                </h5>
-                                <div class="desc wow fadeInUp" data-wow-delay=".3s">
-                                    Implement the plan and regularly review progress for adjustments.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section><!-- /.section-process -->
+            </section><!-- /.section-process -->
 
 
 
@@ -694,7 +767,7 @@
                                                     We’re here to help you bring your vision to life. Whether you’re looking to start a new project, ask questions, or simply connect — we’re just a message away.
                                                 </p>
                                                 <div class="text-anime-wave">
-                                                    <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                                    <a href="/contact-us.php" class="tf-btn style-1 bg-on-suface-container">
                                                         <span>Contact Support</span>
                                                     </a>
                                                 </div>

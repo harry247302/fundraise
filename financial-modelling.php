@@ -64,7 +64,7 @@
             <div class="tf-container w-1870">
                 <div class="row">
                     <div class="col-12">
-                        
+
                     </div>
                 </div>
             </div>
@@ -383,7 +383,11 @@
                                 <img src="image/page-title/iamge-create.jpg" data-src="image/section/img-details-case.jpg" alt="" class=" ls-is-cached lazyloaded">
                             </div> -->
                         <div class="detalis-content mb-40" style="margin-top:60px">
-                            <h3 style="color:var(--primary); letter-spacing:2px; text-align:center; " class="title-content mb-16 fw-bold">
+                            <!-- <h3 style="color:var(--primary); letter-spacing:2px; text-align:center; " class="title-content mb-16 fw-bold">
+                                Financial Modeling
+                            </h3> -->
+
+                            <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
                                 Financial Modeling
                             </h3>
                             <div class="desc mb-16 body-2" style="line-height:1.8; text-align: left; padding:  20px;">
@@ -467,13 +471,15 @@
                         <!-- what we offer section in financial modeling -->
 
                         <div class="container py-5">
-                            <h3 class="fw-bold text-center mb-5">What We Offer</h3>
-                            <div class="row justify-content-center g-4 text-center">
+                            <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                What We Offer
+                            </h3>
+                            <div class="row justify-content-left g-4 text-left">
                                 <!-- 1. Custom Financial Models -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Custom Financial Models</h5>
-                                        <p class="text-muted mb-0" >
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Custom Financial Models</h5>
+                                        <p class="text-muted mb-0">
                                             Tailored models that reflect your unique business model, revenue streams, and cost structures. We go beyond templates to build fully customized tools.
                                         </p>
                                     </div>
@@ -482,8 +488,8 @@
                                 <!-- 2. Revenue & Cost Forecasting -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Revenue & Cost Forecasting</h5>
-                                        <p class="text-muted mb-0" >
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Revenue & Cost Forecasting</h5>
+                                        <p class="text-muted mb-0">
                                             Accurate and dynamic forecasts that account for market conditions, pricing strategies, scaling operations, and product growth.
                                         </p>
                                     </div>
@@ -492,8 +498,8 @@
                                 <!-- 3. Scenario & Sensitivity Analysis -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Scenario & Sensitivity Analysis</h5>
-                                        <p class="text-muted mb-0" >
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Scenario & Sensitivity Analysis</h5>
+                                        <p class="text-muted mb-0">
                                             We stress-test your assumptions with best-, base-, and worst-case outcomes — helping you prepare for every possibility.
                                         </p>
                                     </div>
@@ -502,8 +508,8 @@
                                 <!-- 4. Valuation Support -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Valuation Support</h5>
-                                        <p class="text-muted mb-0" >
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Valuation Support</h5>
+                                        <p class="text-muted mb-0">
                                             Estimate fair valuation ranges based on DCF, multiples, or benchmarks — crucial for your investor discussions.
                                         </p>
                                     </div>
@@ -512,8 +518,8 @@
                                 <!-- 5. Investor-Ready Financials -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Investor-Ready Financials</h5>
-                                        <p class="text-muted mb-0" >
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Investor-Ready Financials</h5>
+                                        <p class="text-muted mb-0">
                                             Clean, investor-friendly outputs — including P&L, Balance Sheet, Cash Flow, Cap Table, and Unit Economics.
                                         </p>
                                     </div>
@@ -522,8 +528,8 @@
                                 <!-- 6. Model Iteration & Review -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Model Iteration & Review</h5>
-                                        <p class="text-muted mb-0" >
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Model Iteration & Review</h5>
+                                        <p class="text-muted mb-0">
                                             We support you through revisions, investor feedback, and fundraising rounds — evolving your model with your business.
                                         </p>
                                     </div>
@@ -765,7 +771,10 @@
                 <div class="heading-section style-2 mb-40" style="text-align: center;">
                     <div class="left">
 
-                        <h3 style="color:var(--primary); letter-spacing:2px;" class="title-section text-anime-wave fw-bold" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1; text-align:center">
+                        <!-- <h3 style="color:var(--primary); letter-spacing:2px;" class="title-section text-anime-wave fw-bold" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1; text-align:center">
+                            Why Financial modeling Matters
+                        </h3> -->
+                        <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
                             Why Financial modeling Matters
                         </h3>
                     </div>
@@ -883,7 +892,7 @@
                                             </defs>
                                         </svg> -->
                         </div>
-                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; font-size: 16px !important; font-weight: bold !important;margin-top:15px !important" >Risk Management</span>
+                        <span class="label text-btn-uppercase wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp; font-size: 16px !important; font-weight: bold !important;margin-top:15px !important">Risk Management</span>
                     </div>
                     <div class="process-content">
                         <!-- <h5 class="wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -898,49 +907,49 @@
         </div>
     </div>
 
-<section class="section-cta h-1 tf-spacing-3">
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="cta-inner">
+    <section class="section-cta h-1 tf-spacing-3">
+        <div class="tf-container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cta-inner">
 
-                                <div class="cta-contet">
-                                    <div class="headin-section style-color-white mb-0">
+                        <div class="cta-contet">
+                            <div class="headin-section style-color-white mb-0">
 
-                                        <section style="color:rgb(255, 255, 255); padding: 60px 20px;">
-                                            <div style="max-width: 1100px; margin: 0 auto; display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
+                                <section style="color:rgb(255, 255, 255); padding: 60px 20px;">
+                                    <div style="max-width: 1100px; margin: 0 auto; display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
 
-                                                <!-- Left Side: Text Content -->
-                                                <div style="flex: 1 1 50%; min-width: 280px;">
-                                                    <h2 style="font-size: 32px; font-weight: 700; margin-bottom: 20px;color:white">Let’s Talk Business</h2>
-                                                    <p style="font-size: 16px; line-height: 1.6; margin-bottom: 30px;">
-                                                        We’re here to help you bring your vision to life. Whether you’re looking to start a new project, ask questions, or simply connect — we’re just a message away.
-                                                    </p>
-                                                    <div class="text-anime-wave" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1;">
-                                                        <a href="#" class="tf-btn style-1 bg-on-suface-container">
-                                                            <span>Contact Support</span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-
-                                                <!-- Right Side: Info Box -->
-                                                <div style="flex: 1 1 40%; min-width: 280px; padding: 30px; border-radius: 8px">
-                                                    <h4 style="margin-top: 0; font-size: 22px;color:white; margin-bottom: 20px;">Contact Information</h4>
-
-                                                    <p style="margin: 0 0 10px;"><strong>Email:</strong> <a href="mailto:contact@panapadvisors.com" style="color:rgb(255, 255, 255); text-decoration: none;">contact@panapadvisors.com</a></p>
-                                                    <p style="margin: 0 0 10px;"><strong>Phone:</strong> <a href="tel:15556788888" style="color:rgb(255, 255, 255); text-decoration: none;">+91-9971645151</a></p>
-                                                    <p style="margin: 0;"><strong>Address:</strong> CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
-                                                </div>
+                                        <!-- Left Side: Text Content -->
+                                        <div style="flex: 1 1 50%; min-width: 280px;">
+                                            <h2 style="font-size: 32px; font-weight: 700; margin-bottom: 20px;color:white">Let’s Talk Business</h2>
+                                            <p style="font-size: 16px; line-height: 1.6; margin-bottom: 30px;">
+                                                We’re here to help you bring your vision to life. Whether you’re looking to start a new project, ask questions, or simply connect — we’re just a message away.
+                                            </p>
+                                            <div class="text-anime-wave" style="translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); opacity: 1;">
+                                                <a href="#" class="tf-btn style-1 bg-on-suface-container">
+                                                    <span>Contact Support</span>
+                                                </a>
                                             </div>
-                                        </section>
+                                        </div>
 
+                                        <!-- Right Side: Info Box -->
+                                        <div style="flex: 1 1 40%; min-width: 280px; padding: 30px; border-radius: 8px">
+                                            <h4 style="margin-top: 0; font-size: 22px;color:white; margin-bottom: 20px;">Contact Information</h4>
+
+                                            <p style="margin: 0 0 10px;"><strong>Email:</strong> <a href="mailto:contact@panapadvisors.com" style="color:rgb(255, 255, 255); text-decoration: none;">contact@panapadvisors.com</a></p>
+                                            <p style="margin: 0 0 10px;"><strong>Phone:</strong> <a href="tel:15556788888" style="color:rgb(255, 255, 255); text-decoration: none;">+91-9971645151</a></p>
+                                            <p style="margin: 0;"><strong>Address:</strong> CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
+                                        </div>
                                     </div>
-                                </div>
+                                </section>
+
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
+        </div>
+    </section>
     </div>
 
 
@@ -983,52 +992,52 @@
                 </button>
             </div>
             <nav class="mobile-main-nav">
-             <ul id="menu-mobile" class="menu">
-                 <li>
-                     <a href="/">Home
-                     </a>
+                <ul id="menu-mobile" class="menu">
+                    <li>
+                        <a href="/">Home
+                        </a>
 
-                 </li>
-                 <li>
-                     <a href="/about-us.php">About
-                     </a>
-                 </li>
-                 <li class="menu-item menu-item-has-children-mobile">
-                     <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
-                     <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
-                         <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
-                             <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
-                             <li class="menu-item"><a href="/financial-modeling.php">Financial modeling</a></li>
-                             <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
-                         </ul>
-                     </div>
-                 </li>
-                 <li>
-                     <a href="/our-teams-industry.php">Team</a>
+                    </li>
+                    <li>
+                        <a href="/about-us.php">About
+                        </a>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
+                        <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
+                                <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
+                                <li class="menu-item"><a href="/financial-modeling.php">Financial modeling</a></li>
+                                <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/our-teams-industry.php">Team</a>
 
-                 </li>
-                 <li>
-                     <a href="/our-expert.php">Our Experts</a>
-                 </li>
-                 <li>
-                     <a href="/contact-us.php">Contact</a>
-                 </li>
-             </ul>
-             <div class="contact-mobile">
-                 <h6 class="title-contact-mobile">Contact Info</h6>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
-                 </div>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
-                 </div>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
-                 </div>
+                    </li>
+                    <li>
+                        <a href="/our-expert.php">Our Experts</a>
+                    </li>
+                    <li>
+                        <a href="/contact-us.php">Contact</a>
+                    </li>
+                </ul>
+                <div class="contact-mobile">
+                    <h6 class="title-contact-mobile">Contact Info</h6>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
+                    </div>
 
-             </div>
-         </nav>
+                </div>
+            </nav>
         </div>
     </div><!-- /.mobile-nav-wrap -->
 
@@ -1265,7 +1274,7 @@
     </div><!-- /.go-top -->
     <!-- Footer -->
     </div><!-- /.main-content -->
-        <?php include 'includes/footer.php'; ?>
+    <?php include 'includes/footer.php'; ?>
     </div>
     <!-- Mobile-nav-wrap -->
     <div class="offcanvas offcanvas-start mobile-nav-wrap" id="canvasMobile">
@@ -1286,52 +1295,52 @@
                 </button>
             </div>
             <nav class="mobile-main-nav">
-             <ul id="menu-mobile" class="menu">
-                 <li>
-                     <a href="/">Home
-                     </a>
+                <ul id="menu-mobile" class="menu">
+                    <li>
+                        <a href="/">Home
+                        </a>
 
-                 </li>
-                 <li>
-                     <a href="/about-us.php">About
-                     </a>
-                 </li>
-                 <li class="menu-item menu-item-has-children-mobile">
-                     <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
-                     <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
-                         <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
-                             <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
-                             <li class="menu-item"><a href="/financial-modeling.php">Financial modeling</a></li>
-                             <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
-                         </ul>
-                     </div>
-                 </li>
-                 <li>
-                     <a href="/our-teams-industry.php">Team</a>
+                    </li>
+                    <li>
+                        <a href="/about-us.php">About
+                        </a>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Services</a>
+                        <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="/our-services-1.php">Fund Raising</a></li>
+                                <li class="menu-item"><a href="/tailored-strategies.php">Tailored Strategies</a></li>
+                                <li class="menu-item"><a href="/financial-modeling.php">Financial modeling</a></li>
+                                <li class="menu-item"><a href="/Investor-pitch-desck-design.php">Desk Design</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/our-teams-industry.php">Team</a>
 
-                 </li>
-                 <li>
-                     <a href="/our-expert.php">Our Experts</a>
-                 </li>
-                 <li>
-                     <a href="/contact-us.php">Contact</a>
-                 </li>
-             </ul>
-             <div class="contact-mobile">
-                 <h6 class="title-contact-mobile">Contact Info</h6>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
-                 </div>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
-                 </div>
-                 <div class="content-contact-moblile">
-                     <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
-                 </div>
+                    </li>
+                    <li>
+                        <a href="/our-expert.php">Our Experts</a>
+                    </li>
+                    <li>
+                        <a href="/contact-us.php">Contact</a>
+                    </li>
+                </ul>
+                <div class="contact-mobile">
+                    <h6 class="title-contact-mobile">Contact Info</h6>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-Envelope"></i> contact@panapadvisors.com</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
+                    </div>
 
-             </div>
-         </nav>
+                </div>
+            </nav>
         </div>
     </div><!-- /.mobile-nav-wrap -->
 

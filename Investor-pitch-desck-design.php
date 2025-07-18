@@ -13,7 +13,7 @@
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        Impact Nest - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting
     </title>
     <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
     <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
@@ -383,7 +383,11 @@
                                 <img src="image/page-title/iamge-create.jpg" data-src="image/section/img-details-case.jpg" alt="" class=" ls-is-cached lazyloaded">
                             </div> -->
                         <div class="detalis-content mb-40 text-center" style="margin-top:60px">
-                            <h3 style="color:var(--primary); letter-spacing:2px; text-align: center;" class="title-content mb-16 fw-bold">
+                            <!-- <h3 style="color:var(--primary); letter-spacing:2px; text-align: center;" class="title-content mb-16 fw-bold">
+                                Deck Design
+                            </h3> -->
+
+                             <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
                                 Deck Design
                             </h3>
                             <div class="desc mb-16 body-2" style="line-height:1.8;">
@@ -394,14 +398,16 @@
                         </div>
 
                         <div class="container py-5">
-                            <h2 class="text-center fw-bold mb-5">What We Offer</h2>
-                            <div class="row justify-content-center g-4 text-center">
+                            <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                What We Offer
+                            </h3>
+                            <div class="row justify-content-left g-4 text-left">
 
                                 <!-- 1. Narrative Development -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Narrative Development</h5>
-                                        <p class="text-muted mb-0" >
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Narrative Development</h5>
+                                        <p class="text-muted mb-0">
                                             We help define your story—who you are, the problem you're solving, and why now is the right time. We turn complex ideas into a clear, engaging narrative.
                                         </p>
                                     </div>
@@ -410,7 +416,7 @@
                                 <!-- 2. Visual Design & Branding -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class=" mb-2">Visual Design & Branding</h5>
+                                        <h5 class=" mb-2"  style="font-size: 18px !important; font-weight: bold !important;">Visual Design & Branding</h5>
                                         <p class="text-muted mb-0" >
                                             Clean, modern design that reflects your brand and grabs investor attention. Every slide is structured visually for clarity and flow.
                                         </p>
@@ -420,7 +426,7 @@
                                 <!-- 3. Investor-Focused Content -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Investor-Focused Content</h5>
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Investor-Focused Content</h5>
                                         <p class="text-muted mb-0" >
                                             We highlight what matters most to investors — market size, traction, business model, financials, and use of funds — in a format they trust.
                                         </p>
@@ -430,7 +436,7 @@
                                 <!-- 4. Content Strategy & Structuring -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class=" mb-2">Content Strategy & Structuring</h5>
+                                        <h5 class=" mb-2" style="font-size: 18px !important; font-weight: bold !important;">Content Strategy & Structuring</h5>
                                         <p class="text-muted mb-0" >
                                             We organize your deck into a compelling flow: Intro → Problem → Solution → Market → Model → Traction → Team → Financials → Ask.
                                         </p>
@@ -440,7 +446,7 @@
                                 <!-- 5. Iterative Support & Revisions -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Iterative Support & Revisions</h5>
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Iterative Support & Revisions</h5>
                                         <p class="text-muted mb-0" >
                                             We collaborate closely, incorporating feedback and aligning the deck with investor inputs through multiple pitch rounds.
                                         </p>
@@ -450,7 +456,7 @@
                                 <!-- 6. Multiple Formats & Versions -->
                                 <div class="col-12 col-sm-6 col-lg-4">
                                     <div class="p-4 border rounded-3 h-100">
-                                        <h5 class="mb-2">Multiple Formats & Versions</h5>
+                                        <h5 class="mb-2" style="font-size: 18px !important; font-weight: bold !important;">Multiple Formats & Versions</h5>
                                         <p class="text-muted mb-0" >
                                             Pitch decks for presentations, email decks for outreach, and one-pagers — tailored for every fundraising scenario.
                                         </p>

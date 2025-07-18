@@ -12,7 +12,7 @@
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        Impact Nest - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting
     </title>
     <meta name="description" content="Impact Nest - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, Impact Nest offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, Impact Nest ensures a seamless experience for your clients">
     <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, Impact Nest, HTML template, web design.">
@@ -155,10 +155,10 @@
 
                                     <!-- LinkedIn -->
                                     <li style="display: flex; align-items: flex-start; margin-bottom: 0;">
-                                        <img src="./image/icon/Linkedin.png" alt="icon" style="width: 28px; height: auto; " />
-                                       <div>
+                                        <img src="./image/icon/linkedin.png" alt="icon" style="width: 28px; height: auto; " />
+                                        <div>
                                             <h6 style="margin: 0 0 6px; font-size: 16px; font-weight: 600;">LinkedIn</h6>
-                                            <!-- <a href="tel:+919971645151" style="color: #333; text-decoration: none;">+91-9971645151</a> -->
+                                            <a href="www.linkedin.com/image/icon/linkedin.png" style="color: #333; text-decoration: none;">Impact Nest</a>
                                         </div>
                                     </li>
                                 </ul>
@@ -215,16 +215,32 @@
                                             </div>
                                         </div>
                                         <div class="col-12">
+
+
                                             <div class="form-floating">
-                                                <textarea id="message" name="message" class="form-control" placeholder="Your Message" style="height: 120px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
-                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);" required=""></textarea>
+                                                <textarea id="message" name="message" class="form-control"
+                                                    placeholder="Your Message"
+                                                    style="height: 120px; padding-top: 2.5rem; padding-left: 1rem;
+           border-radius: 8px; border: 2px solid #e0e0e0;
+           transition: all 0.3s ease;
+           box-shadow: 0 2px 5px rgba(0,0,0,0.02); 
+           font-size: larger !important;" required></textarea>
                                                 <label for="message" style="padding-left: 16px;">Your Message *</label>
                                             </div>
+
                                         </div>
+                                        <style>
+                                            #submitBtn:focus {
+                                                outline: none !important;
+                                                background-color: gray !important;
+                                                border-color: gray !important;
+                                                color: white !important;
+                                            }
+                                        </style>
                                         <div class="col-12">
                                             <button type="submit" id="submitBtn" class="btn btn-primary btn-theme" style="width: 100%; padding: 12px; border-radius: 8px; font-weight: 500; font-size: 16px; 
                                         text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
-                                        transition: all 0.3s ease;"><span>
+                                        transition: all 0.3s ease; "><span>
                                                 </span><span class="space"></span><span>S</span><span>e</span><span>n</span><span>d</span><span class="space"></span><span>M</span><span>e</span><span>s</span><span>s</span><span>a</span><span>g</span><span>e</span><span>
                                                 </span><span class="space"></span></button>
                                         </div>

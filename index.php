@@ -240,21 +240,21 @@
                                 </div>
                                 <ul class="text-coor-change mb-40">
 
-                                <div class="according-content" style="margin-right:50px;">
-                                            <p style="font-size:20px;line-height: 30px"> If you are a founder, understanding fundraising, business strategy, and
-                                                financial planning is very important. At Impact Nest, we give you clear
-                                                and simple guidance to help you make smart choices. We help you
-                                                understand how to raise money, create strong business plans, and manage
-                                                your finances. With our support, you can avoid confusion and move your
-                                                business forward with confidence. Whether you are just starting out or
-                                                looking to grow, we give you the right tools and advice. Our goal is to
-                                                make complex things easy, so you can focus on building a strong and
-                                                successful business.</p>
-                                        </div>
+                                    <div class="according-content" style="margin-right:50px;">
+                                        <p style="font-size:20px;line-height: 30px"> If you are a founder, understanding fundraising, business strategy, and
+                                            financial planning is very important. At Impact Nest, we give you clear
+                                            and simple guidance to help you make smart choices. We help you
+                                            understand how to raise money, create strong business plans, and manage
+                                            your finances. With our support, you can avoid confusion and move your
+                                            business forward with confidence. Whether you are just starting out or
+                                            looking to grow, we give you the right tools and advice. Our goal is to
+                                            make complex things easy, so you can focus on building a strong and
+                                            successful business.</p>
+                                    </div>
 
 
                                 </ul>
-                                <a href="our-services-1.php" class="tf-btn style-1 bg-on-suface-container" >
+                                <a href="our-services-1.php" class="tf-btn style-1 bg-on-suface-container">
                                     <span>Learn More</span>
                                 </a>
                             </div>
@@ -274,7 +274,7 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="flat-animate-tab"
+                                <!-- <div class="flat-animate-tab"
                                     style="margin-top: 0px !important; padding-top:20px !important;">
                                     <div class="wg-tab style-small">
                                         <ul class="tab-product min-w-366" role="tablist">
@@ -321,7 +321,61 @@
                                             </p>
                                         </div>
                                     </div>
+                                </div> -->
+
+                             
+
+                                <div class="flat-animate-tab">
+                                    <div class="wg-tab style-small">
+                                        <ul class="tab-product min-w-366" role="tablist">
+                                            <li class="nav-tab-item" role="presentation">
+                                                <h6>
+                                                    <a href="#expertise" data-bs-toggle="tab" role="tab" class="active" aria-selected="true">Expertise</a>
+                                                </h6>
+                                            </li>
+                                            <li class="nav-tab-item" role="presentation">
+                                                <h6>
+                                                    <a href="#innovation" data-bs-toggle="tab" role="tab" aria-selected="false" class="" tabindex="-1">Innovation</a>
+                                                </h6>
+                                            </li>
+                                            <li class="nav-tab-item" role="presentation">
+                                                <h6>
+                                                    <a href="#commitment" data-bs-toggle="tab" role="tab" aria-selected="false" class="" tabindex="-1">Commitment</a>
+                                                </h6>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="tab-content">
+                                        <div class="tab-pane active show" id="expertise" role="tabpanel">
+                                            <p class="text">
+                                                  At Impact Nest, expertise is at the core of everything we do. We bring
+                                                deep domain knowledge, analytical precision, and years of industry
+                                                experience to every project. Our team is committed to continuous
+                                                learning, sharp execution, and delivering insights that lead to
+                                                strategic advantage and measurable success for our clients.
+                                            </p>
+                                        </div>
+                                        <div class="tab-pane" id="innovation" role="tabpanel">
+                                            <p class="text">
+                                                At Impact Nest, our mission is to drive innovation in business
+                                                consulting by delivering forward-thinking solutions in fundraising,
+                                                strategy, financial modelling, and pitch design. We strive to empower
+                                                startups and growth-stage companies with creative, data-driven
+                                                approaches that break convention and unlock new possibilities.
+                                            </p>
+                                        </div>
+                                        <div class="tab-pane" id="commitment" role="tabpanel">
+                                            <p class="text">
+                                                At Impact Nest, our vision is to redefine business growth through
+                                                unwavering commitment to our clients' success. We aim to be the trusted
+                                                partner who stands by every entrepreneur and enterprise — committed to
+                                                delivering excellence in strategy, fundraising, financial modelling, and
+                                                impactful storytelling that drives real results.
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
+
                             </div>
                         </div>
                     </div>
@@ -329,75 +383,75 @@
             </section><!-- /.section-about -->
 
             <style>
-            .section-benefit {
-                padding: 60px 20px;
-                background-color: #f9f9f9;
-                text-align: center;
-            }
+                .section-benefit {
+                    padding: 60px 20px;
+                    background-color: #f9f9f9;
+                    text-align: center;
+                }
 
-            .box-icon-list {
-                display: flex;
-                flex-wrap: wrap;
-                gap: 30px;
-                justify-content: center;
-                max-width: 1550px;
-                margin: 0 auto;
-            }
+                .box-icon-list {
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 30px;
+                    justify-content: center;
+                    max-width: 1550px;
+                    margin: 0 auto;
+                }
 
-            .box-icon {
-                background: #fff;
-                border-radius: 16px;
-                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
-                padding: 30px 20px;
-                width: 280px;
-                /* fixed width */
-                min-height: 300px;
-                /* equal height */
-                display: flex;
-                flex-direction: column;
-                justify-content: space-between;
-                text-align: left;
-                transition: transform 0.3s ease, box-shadow 0.3s ease;
-            }
+                .box-icon {
+                    background: #fff;
+                    border-radius: 16px;
+                    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+                    padding: 30px 20px;
+                    width: 280px;
+                    /* fixed width */
+                    min-height: 300px;
+                    /* equal height */
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between;
+                    text-align: left;
+                    transition: transform 0.3s ease, box-shadow 0.3s ease;
+                }
 
-            .box-icon:hover {
-                transform: translateY(-8px);
-                box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
-            }
+                .box-icon:hover {
+                    transform: translateY(-8px);
+                    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+                }
 
-            .box-icon .icon img {
-                width: 70px;
-                height: 70px;
-                /* fixed height */
-                margin-bottom: 20px;
-                mix-blend-mode: multiply;
-                transition: transform 0.3s ease;
-            }
+                .box-icon .icon img {
+                    width: 70px;
+                    height: 70px;
+                    /* fixed height */
+                    margin-bottom: 20px;
+                    mix-blend-mode: multiply;
+                    transition: transform 0.3s ease;
+                }
 
-            .box-icon:hover .icon img {
-                transform: scale(1.1);
-            }
+                .box-icon:hover .icon img {
+                    transform: scale(1.1);
+                }
 
-            .title-box {
-                font-size: 18px;
-                font-weight: 600;
-                color: #2c3e50;
-                text-decoration: none;
-                margin-bottom: 12px;
-                display: inline-block;
-            }
+                .title-box {
+                    font-size: 18px;
+                    font-weight: 600;
+                    color: #2c3e50;
+                    text-decoration: none;
+                    margin-bottom: 12px;
+                    display: inline-block;
+                }
 
-            .title-box:hover {
-                color: #007bff;
-            }
+                .title-box:hover {
+                    color: #007bff;
+                }
 
-            .sub-title {
-                font-size: 14px;
-                color: #555;
-                line-height: 1.6;
-                flex-grow: 1;
-                /* grow to fill space if needed */
-            }
+                .sub-title {
+                    font-size: 14px;
+                    color: #555;
+                    line-height: 1.6;
+                    flex-grow: 1;
+                    /* grow to fill space if needed */
+                }
             </style>
 
             <section class="section-benefit">
@@ -471,7 +525,7 @@
                                     <div class="text-anime-wave">
                                         <a href="" class="tag label text-btn-uppercase bg-white">Our Services</a>
                                     </div>
-                                    <h3 style="color:var(--on-suface-container) !important"
+                                    <h3 style="color:var(--on-suface-container) !important; font-weight:500 !important"
                                         class="title-section text-anime-wave">
                                         Custom Strategies for Your Goals
                                     </h3>
@@ -491,24 +545,24 @@
                                             <li class="nav-tab-item" role="presentation">
                                                 <h5>
                                                     <a href="#retirement-planning" data-bs-toggle="tab" role="tab"
-                                                        class="active" style="font-weight:300">Fundraising</a>
+                                                        class="active" style="font-weight:500; font-size: 24px;">Fundraising</a>
                                                 </h5>
                                             </li>
                                             <li class="nav-tab-item" role="presentation">
                                                 <h5>
                                                     <a href="#investment-advisory" data-bs-toggle="tab"
-                                                        role="tab" style="font-weight:300">Tailored Strategies</a>
+                                                        role="tab" style="font-weight:500; font-size: 24px;">Tailored Strategies</a>
                                                 </h5>
                                             </li>
                                             <li class="nav-tab-item" role="presentation">
                                                 <h5>
-                                                    <a href="#estate-planning" data-bs-toggle="tab" role="tab" style="font-weight:300">Financial
+                                                    <a href="#estate-planning" data-bs-toggle="tab" role="tab" style="font-weight:500; font-size: 24px;">Financial
                                                         Modelling</a>
                                                 </h5>
                                             </li>
                                             <li class="nav-tab-item" role="presentation">
                                                 <h5>
-                                                    <a style="font-weight:300" href="#tax-optimization" data-bs-toggle="tab" role="tab">Deck
+                                                    <a style="font-weight:500; font-size: 24px;" href="#tax-optimization" data-bs-toggle="tab" role="tab">Deck
                                                         Design</a>
                                                 </h5>
                                             </li>
@@ -518,17 +572,20 @@
                                         <div class="tab-pane active show" id="retirement-planning" role="tabpanel">
                                             <div class="section-services-item">
                                                 <div class="image tf-animate-1">
-                                                    <a href="" class="link"></a>
+
                                                     <img src="image/section/section-services-1.jpg"
                                                         data-src="image/section/section-services-1.jpg" alt=""
-                                                        class="lazyload">
+                                                        class="lazyload"
+                                                        style="height: 550px;">
                                                 </div>
                                                 <div class="services-content">
                                                     <div class="heading">
                                                         <h3>
                                                             <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR38nkl0Du_r32efbKi2Avu-3GX-xrFKZe4Q&s" style="width:40px" alt=""> -->
-                                                            <div 
-                                                                class="name-services wow fadeInUp">Fundraising</a>
+                                                            <div
+                                                                class="name-services wow fadeInUp"
+                                                                style="font-weight:500; font-size: 3.8rem;">Fundraising</div>
+
                                                         </h3>
                                                         <!-- <div class="sub-name body-2 wow fadeInUp">
                                                             At Impact Nest, we help businesses raise capital with a
@@ -539,16 +596,16 @@
                                                         </div> -->
                                                         <ul class="text-coor-change ">
 
-                                <div class="according-content" style="margin-right:50px;">
-                                            <p style="font-size:20px;line-height: 30px">   At Impact Nest, we help businesses raise capital with a
-                                                            structured and strategic
-                                                            approach. From refining your pitch to connecting with the
-                                                            right investors, we streamline the entire
-                                                            fundraising process for faster, smarter growth.</p>
-                                        </div>
+                                                            <div class="according-content" style="margin-right:50px;">
+                                                                <p style="font-size:20px;line-height:30px"> At Impact Nest, we help businesses raise capital with a
+                                                                    structured and strategic
+                                                                    approach. From refining your pitch to connecting with the
+                                                                    right investors, we streamline the entire
+                                                                    fundraising process for faster, smarter growth.</p>
+                                                            </div>
 
 
-                                </ul>
+                                                        </ul>
                                                     </div>
                                                     <div class="benefit-lists">
                                                         <div class="benefit-items">
@@ -560,9 +617,9 @@
                                                                 Fundraising provides the capital needed to scale your
                                                                 business operations and fuel growth.
                                                             </div> -->
-                                                              <div class="title wow fadeInUp" data-wow-delay=".1s">
-                                                              Fundraising provides the capital needed to scale your
-                                                              business operations and fuel growth.
+                                                            <div class="title wow fadeInUp" data-wow-delay=".1s">
+                                                                Fundraising provides the capital needed to scale your
+                                                                business operations and fuel growth.
                                                             </div>
                                                         </div>
                                                         <div class="benefit-items">
@@ -599,7 +656,8 @@
                                                 <div class="image">
                                                     <img src="image/section/section-services-2.jpg"
                                                         data-src="image/section/section-services-2.jpg" alt=""
-                                                        class="lazyload">
+                                                        class="lazyload"
+                                                        style="height: 550px;">
                                                 </div>
                                                 <div class="services-content">
                                                     <div class="heading">
@@ -607,7 +665,7 @@
                                                             <!-- <img src="https://static.vecteezy.com/system/resources/thumbnails/000/350/846/small/Business__2814_29.jpg" style="width:40px" alt=""> -->
 
                                                             <div
-                                                                class="name-services wow fadeInUp" style="font-weight:500">Tailored Strategies
+                                                                class="name-services wow fadeInUp" style="font-weight:500; font-size: 3.8rem;">Tailored Strategies
                                                             </div>
                                                         </h3>
                                                         <div class="sub-name body-2">
@@ -663,7 +721,8 @@
                                                 <div class="image">
                                                     <img src="image/section/section-services-3.jpg"
                                                         data-src="image/section/section-services-3.jpg" alt=""
-                                                        class="lazyload">
+                                                        class="lazyload"
+                                                        style="height: 550px;">
                                                 </div>
                                                 <div class="services-content">
                                                     <div class="heading">
@@ -671,7 +730,8 @@
                                                             <!-- <img src="https://www.svgrepo.com/show/69316/investment-model.svg" style="width:40px" alt=""> -->
 
                                                             <div
-                                                                class="name-services">Financial Modelling</div>
+                                                                class="name-services"
+                                                                style="font-weight:500; font-size: 3.8rem;">Financial Modelling</div>
                                                         </h3>
                                                         <div class="sub-name body-2">
                                                             At Impact Nest, we build robust and investor-ready financial
@@ -727,12 +787,14 @@
                                                 <div class="image">
                                                     <img src="image/section/section-services-4.jpg"
                                                         data-src="image/section/section-services-4.jpg" alt=""
-                                                        class="lazyload">
+                                                        class="lazyload"
+                                                        style="height: 550px;">
                                                 </div>
                                                 <div class="services-content">
                                                     <div class="heading">
                                                         <h3>
-                                                            <div class="name-services">Deck
+                                                            <div class="name-services"
+                                                                style="font-weight:500; font-size: 3.8rem;">Deck
                                                                 Design</div>
                                                         </h3>
                                                         <div class="sub-name body-2">
@@ -789,7 +851,8 @@
                         </div>
                     </div>
                 </div>
-            </section><!-- /.section-services -->
+            </section>
+            <!-- /.section-services -->
 
 
 
@@ -802,7 +865,7 @@
                             <div class="heading-section style-2 mb-40">
                                 <div class="left">
 
-                                    <h3 style="color:var(--on-suface-container) !important"
+                                    <h3 style="color:var(--on-suface-container) !important; font-weight:500 !important; font-size: 4.3rem;"
                                         class="title-section text-anime-wave">
                                         Pathway to Success
                                     </h3>
@@ -838,8 +901,8 @@
                                     <span class="label text-btn-uppercase wow fadeInUp">Step 1</span>
                                 </div>
                                 <div class="process-content">
-                                    <h5 class="wow fadeInUp" >
-                                    Discover
+                                    <h5 class="wow fadeInUp" style="font-weight: 500 !important;">
+                                        Discover
                                     </h5>
                                     <div class="desc wow fadeInUp">
                                         We assess your business model, market potential, and funding readiness.
@@ -882,7 +945,7 @@
                                         2</span>
                                 </div>
                                 <div class="process-content">
-                                    <h5 class="wow fadeInUp" data-wow-delay=".1s">
+                                    <h5 class="wow fadeInUp" data-wow-delay=".1s" style="font-weight: 500 !important;">
                                         Define
                                     </h5>
                                     <div class="desc wow fadeInUp" data-wow-delay=".1s">
@@ -916,8 +979,8 @@
                                         3</span>
                                 </div>
                                 <div class="process-content">
-                                    <h5 class="wow fadeInUp" data-wow-delay=".2s">
-                                       Design
+                                    <h5 class="wow fadeInUp" data-wow-delay=".2s" style="font-weight: 500 !important;">
+                                        Design
                                     </h5>
                                     <div class="desc wow fadeInUp" data-wow-delay=".2s">
                                         We build tailored strategies, financial models, and compelling pitch assets.
@@ -950,8 +1013,8 @@
                                         4</span>
                                 </div>
                                 <div class="process-content">
-                                    <h5 class="wow fadeInUp" data-wow-delay=".3s">
-                                        Drive 
+                                    <h5 class="wow fadeInUp" data-wow-delay=".3s" style="font-weight: 500 !important;">
+                                        Drive
                                     </h5>
                                     <div class="desc wow fadeInUp" data-wow-delay=".3s">
                                         We support execution, track progress, and optimize for sustainable success.
@@ -1187,7 +1250,7 @@
 
                     <!-- Section Heading -->
                     <h2
-                        style="color:var(--on-suface-container) !important;text-align: center; font-size: 36px;  margin-bottom: 50px;">
+                        style="color:var(--on-suface-container) !important;text-align: center; font-size: 36px;  margin-bottom: 50px; font-weight: 500 !important;">
                         Real Stories. Real Impact.
                     </h2>
 
@@ -1201,7 +1264,7 @@
                                     <div class="swiper-wrapper" id="swiper-wrapper-7d152a67e593c26a" aria-live="polite">
                                         <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3"
                                             style="width: 568px; margin-right: 30px;">
-                                            <div class="testimonial-item" style="height:478px">
+                                            <div class="testimonial-item" style="height: 400px;">
                                                 <div class="testimonial-top">
                                                     <div class="counter-item">
                                                         <div class="counter"
@@ -1211,7 +1274,7 @@
                                                                     style="display: flex; align-items: center; border: 0px solid black; flex-wrap: wrap;border: 0px solid red">
                                                                     <!-- Image -->
                                                                     <div
-                                                                        style="display:flex;border:0px solid black;width:100%;justify-content:center;align-item:center">
+                                                                        style="display:flex;border:0px solid black;width:100%;justify-content:center;align-items:center">
                                                                         <img src="/image/icon/mufin_green_infra_logo.jpeg"
                                                                             alt="Bluetrans"
                                                                             style="border: 0px solid red; width: 30px; height: auto;" />
@@ -1267,24 +1330,19 @@
                                                     </div>
                                                 </div>
                                                 <div class="item-content">
-                                                    <div class="text" >
+                                                    <div class="text">
                                                         Partnering with Impact Nest transformed Mufin Green Infra. Their
                                                         strategic guidance and fundraising expertise helped us secure
                                                         ₹25 Cr in business. Their team's dedication, precision, and
                                                         market insight played a crucial role in accelerating our growth
                                                         over the past year.
                                                     </div>
-
-                                                    
-
-                                                    
-
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3"
                                             style="width: 568px; margin-right: 30px;">
-                                            <div class="testimonial-item" style="height:478px">
+                                            <div class="testimonial-item" style="height:400px">
                                                 <div class="testimonial-top">
                                                     <div class="counter-item">
                                                         <div class="counter"
@@ -1294,7 +1352,7 @@
                                                                     style="display: flex; align-items: center; border: 0px solid black; flex-wrap: wrap;">
                                                                     <!-- Image -->
                                                                     <div
-                                                                     style="display:flex;border:0px solid black;width:100%;justify-content:center;align-item:center">
+                                                                        style="display:flex;border:0px solid black;width:100%;justify-content:center;align-items:center">
                                                                         <img src="/image/icon/bluetrans.png"
                                                                             alt="Bluetrans"
                                                                             style="border: 0px solid red; width: 100px; height: auto; margin-bottom: 0px;     align-self: baseline;" />
@@ -1314,11 +1372,11 @@
                                                                                 <span class="odometer-digit-ss"
                                                                                     odometer-digit>
                                                                                     <span class="odomeinner">
-                                                                                    padding-top:10px                        <span
-                                                                                                    class="odometer-value">1</span>
-                                                                                            </span>
-                                                                                        </span>
+                                                                                        padding-top:10px <span
+                                                                                            class="odometer-value">1</span>
                                                                                     </span>
+                                                                                </span>
+                                                                                </span>
                                                                                 </span>
                                                                                 <span class="odometer-digit">
                                                                                     <span
@@ -1360,7 +1418,7 @@
 
                                         <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 3"
                                             style="width: 568px; margin-right: 30px;">
-                                            <div class="testimonial-item" style="height:478px">
+                                            <div class="testimonial-item" style="height:400px">
                                                 <div class="testimonial-top">
                                                     <div class="counter-item">
                                                         <div class="counter"
@@ -1370,7 +1428,7 @@
                                                                     style="height: auto; min-height: 0px;border:0px solid black">
                                                                     <!-- Image and Title -->
                                                                     <div class="d-flex align-items-center "
-                                                                        style="display:flex;border:0px solid black;width:100%;justify-content:center;align-item:center">
+                                                                        style="display:flex;border:0px solid black;width:100%;justify-content:center;align-items:center">
                                                                         <img src="/image/icon/swap.png" alt="Bluetrans"
                                                                             style="width: 30px; height: auto;" />
                                                                         <h5 class="mb-0 ms-2">Swap India</h5>
@@ -1379,10 +1437,41 @@
                                                                     <!-- Number + Text -->
                                                                     <div class="d-flex align-items-center"
                                                                         style="padding-top:10px;display: flex; align-items: center;border:0px solid black;width:100%;justify-content:center">
-                                                                        <h4 class="mb-0 me-2 text-primary odometer"
-                                                                            data-to="5" data-inviewport="yes"
+                                                                        <!-- <h4 class="mb-0 me-2 text-primary odometer"
+                                                                            data-to="10" data-inviewport="yes"
                                                                             style="font-size: 24px; color: black !important;">
                                                                             5
+                                                                        </h4> -->
+
+                                                                        <h4 class="number color-primary odometer odometer-auto-theme"
+                                                                            data-to="5" data-inviewport="yes"
+                                                                            style="margin: 0; font-size: 24px;">
+                                                                            <div class="odometer-inside">
+
+                                                                                <span clater-digit-spacer>8</span>
+                                                                                <span class="odometer-digit-ss"
+                                                                                    odometer-digit>
+                                                                                    <span class="odomeinner">
+                                                                                        padding-top:10px <span
+                                                                                            class="odometer-value">1</span>
+                                                                                    </span>
+                                                                                </span>
+                                                                                </span>
+                                                                                </span>
+                                                                                <span class="odometer-digit">
+                                                                                    <span
+                                                                                        class="odometer-digit-spacer">8</span>
+                                                                                    <span class="odometer-digit-inner">
+                                                                                        <span class="odometer-ribbon">
+                                                                                            <span
+                                                                                                class="odometer-ribbon-inner">
+                                                                                                <span
+                                                                                                    class="odometer-value">5</span>
+                                                                                            </span>
+                                                                                        </span>
+                                                                                    </span>
+                                                                                </span>
+                                                                            </div>
                                                                         </h4>
                                                                         <h4 class="mb-0 text-primary"
                                                                             style="font-size: 24px; color: black !important;">
@@ -1434,7 +1523,7 @@
                                             <a href="#" class="tag label text-btn-uppercase bg-white">FAQs</a>
                                         </div>
                                         <h4 style="color:var(--on-suface-container) !important"
-                                            class="title-section mb-12 text-anime-wave display-4"><strong style="font-weight:400">What Every
+                                            class="title-section mb-12 text-anime-wave display-4"><strong style="font-weight:400 !important">What Every
                                                 Founder Should Know</strong>
 
                                         </h4>
@@ -1446,20 +1535,20 @@
                                         </div>
                                         <ul class="text-coor-change ">
 
-<div class="according-content" style="margin-right:50px;">
-            <p style="font-size:20px;line-height: 30px">  If you are a founder, understanding fundraising, business strategy, and
-                                                financial planning is very important. At Impact Nest, we give you clear
-                                                and simple guidance to help you make smart choices. We help you
-                                                understand how to raise money, create strong business plans, and manage
-                                                your finances. With our support, you can avoid confusion and move your
-                                                business forward with confidence. Whether you are just starting out or
-                                                looking to grow, we give you the right tools and advice. Our goal is to
-                                                make complex things easy, so you can focus on building a strong and
-                                                successful business.</p>
-        </div>
+                                            <div class="according-content" style="margin-right:50px;">
+                                                <p style="font-size:20px;line-height: 30px"> If you are a founder, understanding fundraising, business strategy, and
+                                                    financial planning is very important. At Impact Nest, we give you clear
+                                                    and simple guidance to help you make smart choices. We help you
+                                                    understand how to raise money, create strong business plans, and manage
+                                                    your finances. With our support, you can avoid confusion and move your
+                                                    business forward with confidence. Whether you are just starting out or
+                                                    looking to grow, we give you the right tools and advice. Our goal is to
+                                                    make complex things easy, so you can focus on building a strong and
+                                                    successful business.</p>
+                                            </div>
 
 
-</ul>
+                                        </ul>
 
                                         <div class="text-anime-wave">
                                             <a href="/contact-us.php" class="tf-btn style-1 bg-on-suface-container">
@@ -1471,11 +1560,11 @@
                                 <div class="right">
                                     <div class="wg-according" id="According" style="margin-top: 50px;">
                                         <div class="according-item">
-                                            <h5><a href="#according-1" style="font-weight:400" data-bs-toggle="collapse"
+                                            <h5><a href="#according-1" style="font-weight:500 !important" data-bs-toggle="collapse"
                                                     class="title-according collapsed">When is the right time to start
                                                     fundraising? <span></span></a></h5>
                                             <div id="according-1" class="collapse" data-bs-parent="#According">
-                                                <div class="according-content">
+                                                <div class="according-content" style="margin-top: -15px;">
                                                     <p>Start fundraising when you have a clear business model, validated
                                                         market need, and strong
                                                         financial projections. We help you assess readiness and prepare
@@ -1485,10 +1574,10 @@
                                         </div>
                                         <div class="according-item">
                                             <h5><a href="#according-2" data-bs-toggle="collapse"
-                                                    class="title-according collapsed" style="font-weight:400">What do investors look for in a
+                                                    class="title-according collapsed" style="font-weight:500 !important">What do investors look for in a
                                                     startup?<span></span></a></h5>
                                             <div id="according-2" class="collapse" data-bs-parent="#According">
-                                                <div class="according-content">
+                                                <div class="according-content" style="margin-top: -15px;">
                                                     <p>Investors focus on market opportunity, team strength, business
                                                         scalability, traction, and clear
                                                         financials. A strong pitch deck and solid projections are
@@ -1498,10 +1587,10 @@
                                         </div>
                                         <div class="according-item">
                                             <h5><a href="#according-3" data-bs-toggle="collapse"
-                                                    class="title-according collapsed" style="font-weight:400">How can Impact Nest support my
+                                                    class="title-according collapsed" style="font-weight:500 !important">How can Impact Nest support my
                                                     fundraising journey?<span></span></a></h5>
                                             <div id="according-3" class="collapse" data-bs-parent="#According">
-                                                <div class="according-content">
+                                                <div class="according-content" style="margin-top: -15px;">
                                                     <p>We offer end-to-end support — from fundraising strategy and
                                                         investor targeting to pitch deck
                                                         creation and negotiation support.</p>
@@ -1510,10 +1599,10 @@
                                         </div>
                                         <div class="according-item">
                                             <h5><a href="#according-4" data-bs-toggle="collapse"
-                                                    class="title-according collapsed" style="font-weight:400">Why is financial modelling
+                                                    class="title-according collapsed" style="font-weight:500 !important">Why is financial modelling
                                                     important before raising funds?<span></span></a></h5>
                                             <div id="according-4" class="collapse" data-bs-parent="#According">
-                                                <div class="according-content">
+                                                <div class="according-content" style="margin-top: -15px;">
                                                     <p>It provides a clear view of your financial health, growth
                                                         potential, and valuation — helping investors
                                                         trust your numbers and vision.</p>
@@ -1522,10 +1611,10 @@
                                         </div>
                                         <div class="according-item">
                                             <h5><a href="#according-5" data-bs-toggle="collapse"
-                                                    class="title-according collapsed" style="font-weight:400">Do I need a strategy document or
+                                                    class="title-according collapsed" style="font-weight:500 !important">Do I need a strategy document or
                                                     just a pitch deck?<span></span></a></h5>
                                             <div id="according-5" class="collapse" data-bs-parent="#According">
-                                                <div class="according-content">
+                                                <div class="according-content" style="margin-top: -15px;">
                                                     <p>A pitch deck tells your story, but a tailored strategy ensures
                                                         long-term growth. We help you with
                                                         both to align vision and execution.</p>
@@ -1535,10 +1624,10 @@
 
                                         <div class="according-item">
                                             <h5><a href="#according-6" data-bs-toggle="collapse"
-                                                    class="title-according collapsed" style="font-weight:400">What if I’m a first-time
+                                                    class="title-according collapsed" style="font-weight:500 !important">What if I’m a first-time
                                                     founder?<span></span></a></h5>
                                             <div id="according-6" class="collapse" data-bs-parent="#According">
-                                                <div class="according-content">
+                                                <div class="according-content" style="margin-top: -15px;">
                                                     <p>No problem. We guide early-stage founders through the entire
                                                         process — simplifying complex steps with actionable insights and
                                                         expert support.</p>
