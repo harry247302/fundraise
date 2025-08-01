@@ -528,7 +528,7 @@
             <!-- Section-history -->
             <style>
 
-                
+
             </style>
 
             <section class="section-history section-about bg-on-suface-container tf-spacing-2 hover-active-step">
@@ -551,8 +551,8 @@
                                     <div dir="ltr" class="swiper sw-layout1">
                                         <div class="swiper-wrapper">
 
-                                            <div class="swiper-slide" > 
-                                                <div class="time-line-item" >
+                                            <div class="swiper-slide">
+                                                <div class="time-line-item">
                                                     <div class="time-line-content">
                                                         <div class="heading">
                                                             <div class="label" style="text-align:center">2018</div>
