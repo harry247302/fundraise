@@ -39,6 +39,12 @@
     <link rel="shortcut icon" href="image/logo/favicon.png" />
     <link rel="apple-touch-icon-precomposed" href="image/logo/favicon.png" />
 
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <!-- Custom CSS -->
+
 
 </head>
 
@@ -92,17 +98,14 @@
         <div class="tf-containr">
             <div class="row">
                 <div class="col-12">
-                    <div style="border:0px solid green" class="blog-contnt blog-details-2-content blog-details-ontent">
+                    <!-- <div style="border:0px solid green" class="blog-contnt blog-details-2-content blog-details-ontent">
 
                         <div class="image-blog">
 
                         </div>
                         <div class="desc-blog" style="padding-left:12px; padding-right:12px;">
                             <div class="counter text-center">
-                                <!-- <h5 class="text fw-bold">What We Offer</h5> -->
-                                <!-- <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
-                                    What Sets Impact Nest Apart?
-                                </h3> -->
+                              
 
                                 <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-top: 40px; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
                                     What Sets Impact Nest Apart?
@@ -115,41 +118,35 @@
 
 
                         </div>
+                    </div> -->
+                    <div class="container py-5">
+                        <div class="row align-items-center">
+                            <!-- Left Image -->
+                            <div class="col-md-5 mb-4 mb-md-0">
+                                <img
+                                    src="/image/about/team-meeting.jpg"
+                                    alt="Team Discussion"
+                                    class="img-fluid"
+                                    style="border-radius: 20px; width: 400px;" />
+
+                            </div>
+
+                            <!-- Right Content -->
+                            <div class="col-md-6">
+                                <h3 class="mb-4 text-dark" style="color: #0d2c52 !important; font-size: 38px;">
+                                    What Sets Impact Nest Apart?
+                                </h3>
+                                <p class="text-secondary" style="font-size: 18px; text-align: justify; color: black !important;">
+                                    Impact Nest is your one-stop destination for business growth. We offer a seamless blend of strategy, fundraising, financial modelling, and pitch design — all under one roof. What sets us apart is our ability to deliver end-to-end solutions tailored to your stage, sector, and vision. With a founder-first approach and a commitment to measurable outcomes, we simplify your growth journey and help you scale with confidence.
+                                </p>
+                            </div>
+                        </div>
                     </div>
+
                 </div>
             </div><!-- /.main-content -->
         </div>
-        <!-- <div class="tf-containr">
-            <div class="row">
-
-                <div class="col-12">
-                    <div style="border:0px solid green" class="blog-contnt blog-details-2-content blog-details-ontent">
-
-                        <div class="image-blog">
-
-                        </div>
-                        <div class="desc-blog" style="padding-left: 12px; padding-right: 12px;">
-
-                            <div class="d-block counter text-center">
-
-
-                                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
-                                    Empowering Visionaries. Accelerating Growth.
-                                </h3>
-
-
-                            </div>
-                            <p class="text-secondary" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: justify;">
-                                At Impact Nest, we partner with startups and growth-stage companies to unlock their true potential through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch design. Our mission is to provide founders with the clarity, tools, and connections needed to scale with confidence and purpose. With deep industry expertise and a founder-first approach, we don't just consult — we co-create. Every business is unique, and so is our approach. We combine sharp analytical thinking with creative execution to ensure your business is investor-ready and growth-aligned. Whether you're raising your first round or expanding into new markets, we’re here to guide you through every step of the journey — with insight, precision, and commitment.
-                            </p>
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-
+   
 
 
         <!-- ************************** -->
@@ -159,106 +156,235 @@
 
 
 
-        <div>
-            <!-- <h3 class="mb-4 fw-bold wow fadeInUp"
-                style="text-align:center; font-size: clamp(20px, 5vw, 35px); color: #2c3e50;">
+
+        <!-- 3 cores values section -->
+
+        <style>
+            .card-custom {
+                border-radius: 12px;
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+                background-color: #f8f9fa;
+                transition: transform 0.3s ease;
+            }
+
+            .card-custom:hover {
+                transform: translateY(-5px);
+            }
+
+            .icon-box {
+                background-color: #092c4c;
+                padding: 20px;
+                position: relative;
+                clip-path: polygon(0 0, 100% 0, 80% 100%, 0% 100%);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .icon-box i {
+                font-size: 32px;
+                color: white;
+            }
+
+            .card-body-custom {
+                padding: 20px;
+            }
+
+            .card-title-custom {
+                font-weight: 700;
+                color: #092c4c;
+                text-align: left;
+                margin-bottom: 12px;
+            }
+
+            .card-text {
+                font-size: 15px;
+                color: #444;
+                line-height: 1.6;
+            }
+        </style>
+
+        <div class="container py-5">
+            <h2 class="text-center mb-5 animate__animated animate__fadeInUp" style="font-size: 40px;">
                 Expertise. Innovation. Commitment.
-            </h3> -->
+            </h2>
 
-            <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-bottom:20px !important; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
-                Expertise. Innovation. Commitment.
-            </h3>
-
-            <div class="container py-4">
-                <div class="row justify-content-center" style="row-gap: 100px; column-gap: 50px;">
-
-
-                    <!-- Vision -->
-                    <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
-                        <div class="testimonial-item p-4  rounded  h-100">
-                            <div class="testimonial-top">
-                                <div class="counter-item">
-                                    <div class="counter text-center">
-                                        <h4 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-bottom:20px !important; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
-                                            Vision
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content mt-2">
-                                <div class="text">
-                                    At Impact Nest, our vision is to be the go-to partner for startups and growing businesses, delivering transformative impact through strategic guidance, smart fundraising, and financial clarity. We aim to redefine how founders scale their ventures by combining deep expertise, innovation, and unwavering commitment to long-term success.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Mission -->
-                    <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
-                        <div class="testimonial-item p-4 bg-white rounded h-100">
-                            <div class="testimonial-top">
-                                <div class="counter-item">
-                                    <div class="counter text-center">
-                                        <h4 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-bottom:20px !important; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
-                                            Mission
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content mt-2">
-                                <div class="text">
-                                    Our mission is to empower founders with the right tools, insights, and capital to grow
-                                    their businesses with confidence. We offer customized solutions in fundraising, strategy, financial
-                                    modelling, and pitch design—bridging the gap between business vision and investor expectations.
-                                    Through every stage, we remain focused on delivering real value and measurable outcomes. </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Core Values -->
-                    <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
-                        <div class="testimonial-item p-4 bg-white rounded  h-100">
-                            <div class="testimonial-top">
-                                <div class="counter-item">
-                                    <div class="counter text-center">
-                                        <h4 class="title-section text-anime-wave-1 mb-12 text-center" style="margin-bottom:20px !important; translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
-                                            Values
-                                        </h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item-content mt-2">
-                                <div class="text">
-
-                                    At the heart of Impact Nest are our core values: <strong>Commitment</strong> to every client’s journey, <strong>Innovation</strong> in every solution we offer, and <strong>Expertise</strong> that drives informed decisions. We believe in integrity, collaboration, and a results-driven mindset. These values shape our work, our relationships,
-                                    and the success we help create for each business we support.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- ************************************************** -->
-                    <!-- What We Offer -->
-                    <!-- <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
-      <div class="testimonial-item p-4 bg-white rounded shadow h-100">
-        <div class="testimonial-top">
-          <div class="counter-item">
-            <div class="counter text-center">
-              <h5 class="text fw-bold">What We Offer</h5>
-            </div>
-          </div>
         </div>
-        <div class="item-content mt-2">
-          <div class="text">
-            Impact Nest is your one-stop destination for business growth. We offer a seamless blend of strategy, fundraising, financial modelling, and pitch design — all under one roof. What sets us apart is our ability to deliver tailored, end-to-end solutions.
-          </div>
-        </div>
-      </div>
-    </div> -->
 
+        <style>
+            .vision-card {
+                background-color: #e4e8f2;
+                border-radius: 16px;
+                border-top-left-radius: 0px;
+                overflow: hidden;
+                box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+                /* max-width: 400px; */
+                margin: auto;
+                width: 250px;
+                height: 380px;
+
+            }
+
+            .vision-icon-box {
+                background-color: #244b6e;
+                padding: 30px;
+                position: relative;
+                clip-path: polygon(0 0, 100% 0, 0% 100%, 0% 100%);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 130px;
+                height: 130px;
+
+            }
+
+            .vision-icon-box-2 {
+                background-color: #244b6e;
+                padding: 30px;
+                position: absolute;
+                /* clip-path: polygon(0 0, 100% 0, 0% 100%, 0% 100%); */
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 150px;
+                height: 150px;
+                margin: -12px;
+                z-index: -1;
+            }
+
+            .vision-icon-box-3 {
+                background-color: rgba(179, 185, 190, 0.8);
+                padding: 30px;
+                position: absolute;
+                clip-path: polygon(0 0, 100% 0, 0% 100%, 0% 100%);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 140px;
+                height: 140px;
+                /* z-index: -0; */
+            }
+
+            .vision-icon-box img {
+                width: 40px;
+                height: auto;
+            }
+
+            .vision-content {
+                padding: 30px 24px;
+                text-align: center;
+                margin-top: -100px;
+            }
+
+            .vision-title {
+                /* font-weight: 600; */
+                font-size: 2.75rem;
+                color: #092c4c;
+                margin-bottom: 16px;
+            }
+
+            .vision-text {
+                font-size: 12.5px;
+                color: #333;
+                line-height: 1.6;
+            }
+
+            @media (max-width: 576px) {
+                .vision-content {
+                    padding: 24px 16px;
+                }
+
+                .vision-title {
+                    font-size: 1.1rem;
+                }
+            }
+        </style>
+
+        <div class="row">
+            <!-- Vision Card HTML -->
+            <div class="col-md-4 col-sm-6 mb-4">
+
+                <div class="vision-card mt-4 ">
+                    <div class="vision-icon-box-2">
+                    </div>
+                    <div class="vision-icon-box-3">
+                    </div>
+                    <div class="vision-icon-box">
+                        <img src="https://cdn-icons-png.flaticon.com/512/1065/1065686.png" alt="Vision Icon" style="filter: brightness(0) invert(1);
+                        margin-left:-80px;
+                        margin-top:-50px;
+                        ">
+                    </div>
+                    <div class="vision-content">
+                        <h5 class="vision-title">VISION</h5>
+                        <p class="vision-text">
+                            At Impact Nest, our vision is to be the go-to partner for startups and growing businesses, delivering transformative impact through strategic guidance, smart fundraising, and financial clarity. We aim to redefine how founders scale their ventures by combining deep expertise, innovation, and unwavering commitment to long-term success.
+                        </p>
+                    </div>
                 </div>
             </div>
 
+            <div class="col-md-4 col-sm-6 mb-4">
+
+                <div class="vision-card mt-4 ">
+                    <div class="vision-icon-box-2">
+                    </div>
+                    <div class="vision-icon-box-3">
+                    </div>
+                    <div class="vision-icon-box">
+                        <img src="https://cdn-icons-png.flaticon.com/512/1065/1065686.png" alt="Vision Icon" style="filter: brightness(0) invert(1);
+                        margin-left:-80px;
+                        margin-top:-50px;
+                        ">
+                    </div>
+                    <div class="vision-content">
+                        <h5 class="vision-title">MISSION</h5>
+                        <p class="vision-text">
+                            Our mission is to empower founders
+                            with the right tools, insights, and
+                            capital to grow their businesses with
+                            confidence. We offer customized
+                            solutions in fundraising, strategy,
+                            financial modelling, and pitch design
+                            —bridging the gap between business
+                            vision and investor expectations.
+                            Through every stage, we remain
+                            focused on delivering real value and
+                            measurable outcomes.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 mb-4">
+
+                <div class="vision-card mt-4 ">
+                    <div class="vision-icon-box-2">
+                    </div>
+                    <div class="vision-icon-box-3">
+                    </div>
+                    <div class="vision-icon-box">
+                        <img src="https://cdn-icons-png.flaticon.com/512/1065/1065686.png" alt="Vision Icon" 
+                        style="filter: brightness(0) invert(1);
+                        margin-left:-80px;
+                        margin-top:-50px;
+                        ">
+                    </div>
+                    <div class="vision-content">
+                        <h5 class="vision-title">VALUES</h5>
+                        <p class="vision-text">
+                            At the heart of Impact Nest are our core values: <strong>Commitment</strong> to every client’s journey, <strong>Innovation</strong> in every solution we offer, and <strong>Expertise</strong> that drives informed decisions. We believe in integrity, collaboration, and a results-driven mindset. These values shape our work, our relationships, and the success we help create for each business we support.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
+
+
+
+
+
+
         <!-- <section style="padding: 40px; background-color: #f9f9f9;">
                
 
@@ -933,4 +1059,7 @@
     <script src="js/carousel.js"></script>
 
     <script type="text/javascript" src="js/main.js"></script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
     <!-- /Javascript -->

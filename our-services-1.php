@@ -64,7 +64,7 @@
             <div class="tf-container w-1870">
                 <div class="row">
                     <div class="col-12">
-                        
+
                     </div>
                 </div>
             </div>
@@ -155,29 +155,28 @@
                                         <!-- div class="image-blog">
 
                                         </div>       < -->
-                                        <div class="desc-blog" style="background-color: #f9f9f9;">
-                                            <div class="counter text-center">
+                                        <div class="container">
+                                            <div class="row align-items-center">
+                                                <!-- Left Image -->
+                                                <div class="col-md-5 mb-0 mb-md-0">
+                                                    <img
+                                                        src="/image/about/team-meeting.jpg"
+                                                        alt="Team Discussion"
+                                                        class="img-fluid"
+                                                        style="border-radius: 20px; width: 400px;" />
 
-                                                <!-- <h3 class="mb-4 fw-bold wow fadeInUp" style="text-align:center;font-size: 35px; color: #2c3e50; margin: 20px;">
-                                                    Fund Raising
-                                                </h3> -->
-                                                <h3 class="title-section text-anime-wave-1 mb-12" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
-                                    Fund Raising
-                                </h3>
+                                                </div>
+
+                                                <!-- Right Content -->
+                                                <div class="col-md-6">
+
+                                                    <p class="text-secondary" style="font-size: 15px; color: black !important;">
+                                                        At Impact Nest, we help founders raise the right capital from the right investors — efficiently and strategically. Whether you're seeking pre-seed funding or Series A and beyond, we support you through every step of the fundraising journey with a structured, investor-ready approach.
+                                                        <br>
+                                                        We understand what investors look for and how to position your business to stand out. From refining your business model and building powerful pitch decks to connecting you with our curated network of angels, VCs, and institutions — we bring clarity, confidence, and momentum to your fundraising efforts.
+                                                    </p>
+                                                </div>
                                             </div>
-                                            <p class="tex-secondary list-grou" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: justify;">
-                                                At <span style="font-weight:bold">Impact Nest</span>, we help founders raise the right capital from the right investors —
-                                                efficiently and strategically. Whether you're seeking pre-seed funding or Series A and
-                                                beyond, we support you through every step of the fundraising journey with a structured,
-                                                investor-ready approach. <br>
-                                                We understand what investors look for and how to position your business to stand out.
-                                                From refining your business model and building powerful pitch decks to connecting you
-                                                with our curated network of angels, VCs, and institutions — we bring clarity, confidence,
-                                                and momentum to your fundraising efforts.
-                                            </p>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -192,9 +191,9 @@
                             What We Offer
                         </h3> -->
 
-<h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
-                                    What We Offer
-                                </h3>
+                        <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                            What We Offer
+                        </h3>
                         <div class="tf-container">
                             <div class="row">
                                 <div class="col-12">
@@ -425,11 +424,11 @@
                                         </h3> -->
 
                                         <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
-                                    End-to-End Fundraising Support
-                                </h3>
+                                            End-to-End Fundraising Support
+                                        </h3>
                                     </div>
                                     <p class="tex-secondary list-grou" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: center;">
-                                    Impact Nest offers 360° fundraising support to help startups raise capital with clarity and confidence. We craft compelling narratives, build robust financial models, design investor-ready decks, and facilitate warm investor introductions. From strategy to closure, we guide you through every stage of the funding journey-ensuring you're not just ready to pitch, but ready to win. Our expert team ensures every detail aligns with investor expectations, maximizing your chances of a successful raise.
+                                        Impact Nest offers 360° fundraising support to help startups raise capital with clarity and confidence. We craft compelling narratives, build robust financial models, design investor-ready decks, and facilitate warm investor introductions. From strategy to closure, we guide you through every stage of the funding journey-ensuring you're not just ready to pitch, but ready to win. Our expert team ensures every detail aligns with investor expectations, maximizing your chances of a successful raise.
                                     </p>
 
 
@@ -442,9 +441,9 @@
 
 
 
-<!-- ******************** -->
-<section style="padding: 60px 20px; background-color: #f8f9fa; font-family: 'Segoe UI', sans-serif;">
-            <div style="
+                <!-- ******************** -->
+                <section style="padding: 60px 20px; background-color: #f8f9fa; font-family: 'Segoe UI', sans-serif;">
+                    <div style="
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
@@ -453,75 +452,75 @@
     gap: 40px;
   ">
 
-                <!-- Left Image -->
-                <div style="flex: 1 1 300px; text-align: center;">
-                    <img src="image/section/wg-video-small.jpg" alt="Empowering Visionaries" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
-                </div>
+                        <!-- Left Image -->
+                        <div style="flex: 1 1 300px; text-align: center;">
+                            <img src="image/section/wg-video-small.jpg" alt="Empowering Visionaries" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+                        </div>
 
-                <!-- Right Content -->
-                <div style="flex: 1 1 500px; padding: 10px;">
-                    <!-- <h4 style="font-size: 30px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;" class="flex">
+                        <!-- Right Content -->
+                        <div style="flex: 1 1 500px; padding: 10px;">
+                            <!-- <h4 style="font-size: 30px; color: #2c3e50; font-weight: 700; margin-bottom: 20px;" class="flex">
                     Why Choose Impact Nest for Fundraising?
                     </h4> -->
 
-                     <h3 class="title-section text-anime-wave-1 mb-12 text-left" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
-                                    Why Choose Impact Nest for Fundraising?
-                                </h3>
+                            <h3 class="title-section text-anime-wave-1 mb-12 text-left" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                Why Choose Impact Nest for Fundraising?
+                            </h3>
 
-                    
-                  <div class="benefit-lists">
-                            <div class="benefit-items">
-                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                    <i class="icon-checkbox"></i>
+
+                            <div class="benefit-lists">
+                                <div class="benefit-items">
+                                    <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                        <i class="icon-checkbox"></i>
+                                    </div>
+                                    <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
+                                        Deep experience across startup and growth stages
+                                    </div>
                                 </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
-                                    Deep experience across startup and growth stages
+                                <div class="benefit-items">
+                                    <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                        <i class="icon-checkbox"></i>
+                                    </div>
+                                    <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
+                                        Strong investor network across sectors
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="benefit-items">
-                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                    <i class="icon-checkbox"></i>
+                                <div class="benefit-items">
+                                    <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                        <i class="icon-checkbox"></i>
+                                    </div>
+                                    <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
+                                        Founder-first approach with hands-on support
+                                    </div>
                                 </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
-                                    Strong investor network across sectors
+                                <div class="benefit-items">
+                                    <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                        <i class="icon-checkbox"></i>
+                                    </div>
+                                    <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
+                                        Transparent, insight-driven processes
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="benefit-items">
-                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                    <i class="icon-checkbox"></i>
-                                </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
-                                    Founder-first approach with hands-on support
-                                </div>
-                            </div>
-                            <div class="benefit-items">
-                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                    <i class="icon-checkbox"></i>
-                                </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
-                                    Transparent, insight-driven processes
-                                </div>
-                            </div>
-                            <div class="benefit-items">
-                                <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                    <i class="icon-checkbox"></i>
-                                </div>
-                                <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
-                                    Proven results across multiple successful fundraises
+                                <div class="benefit-items">
+                                    <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                        <i class="icon-checkbox"></i>
+                                    </div>
+                                    <div class="title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; font-weight:normal !important;">
+                                        Proven results across multiple successful fundraises
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                </div>
-            </div>
-        </section>
-<!-- ******************************************************* -->
+                    </div>
+                </section>
+                <!-- ******************************************************* -->
 
 
 
 
 
 
-           
+
 
                 <section class="section-cta h-1 tf-spacing" style="margin-top: 50px;">
                     <div class="tf-container">
@@ -881,477 +880,477 @@
             </svg>
         </div><!-- /.go-top -->
         <!-- Footer -->
-      </div><!-- /.main-content -->
-        <?php include 'includes/footer.php'; ?>
+    </div><!-- /.main-content -->
+    <?php include 'includes/footer.php'; ?>
     </div>
-        <!-- Mobile-nav-wrap -->
-        <div class="offcanvas offcanvas-start mobile-nav-wrap" id="canvasMobile">
-            <div class="inner-mobile-nav">
-                <div class="top-header-mobi">
-                    <div class="logo-mobile">
-                        <a href="index.php">
-                            <img src="image/logo/logo-2.svg" alt="">
-                        </a>
-                    </div>
-                    <button class="mobile-nav-close" data-bs-dismiss="offcanvas" aria-label="Close">
-                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="black" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 122.878 122.88" enable-background="new 0 0 122.878 122.88" xml:space="preserve">
-                            <g>
-                                <path d="M1.426,8.313c-1.901-1.901-1.901-4.984,0-6.886c1.901-1.902,4.984-1.902,6.886,0l53.127,53.127l53.127-53.127 c1.901-1.902,4.984-1.902,6.887,0c1.901,1.901,1.901,4.985,0,6.886L68.324,61.439l53.128,53.128c1.901,1.901,1.901,4.984,0,6.886 c-1.902,1.902-4.985,1.902-6.887,0L61.438,68.326L8.312,121.453c-1.901,1.902-4.984,1.902-6.886,0 c-1.901-1.901-1.901-4.984,0-6.886l53.127-53.128L1.426,8.313L1.426,8.313z">
-                                </path>
-                            </g>
-                        </svg>
-                    </button>
+    <!-- Mobile-nav-wrap -->
+    <div class="offcanvas offcanvas-start mobile-nav-wrap" id="canvasMobile">
+        <div class="inner-mobile-nav">
+            <div class="top-header-mobi">
+                <div class="logo-mobile">
+                    <a href="index.php">
+                        <img src="image/logo/logo-2.svg" alt="">
+                    </a>
                 </div>
-                <nav class="mobile-main-nav">
-                    <ul id="menu-mobile" class="menu">
-                        <li class="menu-item menu-item-has-children-mobile current-menu-mobile-item">
-                            <a href="#dropdown-menu-1" data-bs-toggle="collapse" class="collapsed">Home
-                            </a>
-                            <div id="dropdown-menu-1" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item current-menu-mobile-item"><a href="index.php">Financial Planning</a></li>
-                                    <li class="menu-item"><a href="consulting-agency.php">Consulting Agency</a></li>
-                                    <li class="menu-item"><a href="strategy-consulting.php">Strategy Consulting</a></li>
-                                    <li class="menu-item"><a href="digital-transformation.php">Digital Transformation</a></li>
-                                    <li class="menu-item"><a href="marketing-consulting.php">Marketing Consulting</a></li>
-                                    <li class="menu-item"><a href="insurance-consultancy.php">Insurance Consultancy</a></li>
-                                    <li class="menu-item"><a href="tax-advisory.php">Tax Advisory</a></li>
-                                    <li class="menu-item"><a href="it-consulting.php">It Consulting</a></li>
-                                    <li class="menu-item"><a href="home-LTR.php">Home LTR</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile">
-                            <a href="#dropdown-menu-2" data-bs-toggle="collapse" class="collapsed">Services
-                            </a>
-                            <div id="dropdown-menu-2" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item"><a href="our-services-1.php">Our Services 1</a></li>
-                                    <li class="menu-item"><a href="our-services-2.php">Our Services 2</a></li>
-                                    <li class="menu-item"><a href="services-details-1.php">Services Details 1</a>
-                                    </li>
-                                    <li class="menu-item"><a href="services-details-2.php">Services Details 2</a>
-                                    </li>
-                                    <li class="menu-item"><a href="services-details-3.php">Services Details 3</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile">
-                            <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Case</a>
-                            <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item"><a href="case-studies-1.php">Case Studies 1</a></li>
-                                    <li class="menu-item"><a href="case-studies-2.php">Case Studies 2</a></li>
-                                    <li class="menu-item"><a href="case-studies-details.php">Case Studies
-                                            Details</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile">
-                            <a href="#dropdown-menu-4" data-bs-toggle="collapse" class="collapsed">Pages</a>
-                            <div id="dropdown-menu-4" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item"><a href="about-us.php">About Us</a></li>
-                                    <li class="menu-item"><a href="our-teams.php">Our Teams Industries & Industries </a></li>
-                                    <!-- <li class="menu-item"><a href="industries.php">Industries</a></li> -->
-                                    <!-- <li class="menu-item"><a href="pricing.php">Pricing</a></li> -->
-                                    <!-- <li class="menu-item"><a href="testimonials.php">Testimonials</a></li> -->
-                                    <!-- <li class="menu-item"><a href="gallery.php">Gallery</a></li> -->
-                                    <li class="menu-item"><a href="faq.php">Faq</a></li>
-                                    <!-- <li class="menu-item"><a href="career.php">Career</a></li> -->
-                                    <!-- <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li> -->
-                                    <!-- <li class="menu-item"><a href="404.php">404 Error</a></li> -->
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile">
-                            <a href="#sub-product-5" data-bs-toggle="collapse" class="collapsed">Our Store</a>
-                            <div id="sub-product-5" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item"><a href="products.php">Products</a></li>
-                                    <li class="menu-item"><a href="products-details.php">Product Details</a></li>
-                                    <li class="menu-item"><a href="shopping-cart.php">Shopping Cart</a></li>
-                                    <li class="menu-item"><a href="check-out.php">Check Out</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item menu-item-has-children-mobile current-menu-item">
-                            <a href="#dropdown-menu-6" data-bs-toggle="collapse" class="collapsed">Blog</a>
-                            <div id="dropdown-menu-6" class="collapse" data-bs-parent="#menu-mobile">
-                                <ul class="sub-menu-mobile">
-                                    <li class="menu-item current-item"><a href="blog-right-sidebar.php">Blog Right
-                                            Sidebar</a></li>
-                                    <li class="menu-item"><a href="blog-left-sidebar.php">Blog Left Sidebar</a>
-                                    </li>
-                                    <li class="menu-item"><a href="blog-no-sidebar.php">Blog No Sidebarr</a></li>
-                                    <li class="menu-item"><a href="blog-details-1.php">Blog Details 1</a></li>
-                                    <li class="menu-item"><a href="blog-details-2.php">Blog Details 2</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li class="menu-item">
-                            <a href="contact-us.php">Contact Us</a>
-                        </li>
-                    </ul>
-                    <div class="contact-mobile">
-                        <h6 class="title-contact-mobile">Contact Info</h6>
-                        <div class="content-contact-moblile">
-                            <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
-                        </div>
-                        <div class="content-contact-moblile">
-                            <a href="#"><i class="icon-Envelope"></i>contact@panapadvisors.com</a>
-                        </div>
-                        <div class="content-contact-moblile">
-                            <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
-                        </div>
-                        <div class="content-contact-moblile">
-                            <ul class="tf-social style-border radius-50 g-8 style-2 color-on-suface-container">
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-messenger"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-x"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-ig1"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-skype"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-telegram"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </div><!-- /.mobile-nav-wrap -->
-
-        <!-- Top-search -->
-        <div class="top-search">
-            <div class="top-search-content">
-                <div class="tf-container w-1870">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="top-content">
-                                <div class="logo-search">
-                                    <a href="index.php">
-                                        <img src="image/logo/logo.svg" alt="">
-                                    </a>
-                                </div>
-                                <a href="javascript:void(0)" class="button-close">
-                                    <i class="icon-close1"></i>
-                                </a>
-                            </div>
-                            <div class="wg-box-search">
-                                <form action="#" class="form-search">
-                                    <fieldset class="input-search">
-                                        <input type="text" name="search" id="search" placeholder="Searching....">
-                                        <button type="submit" class="btn-search">
-                                            <i class="icon-MagnifyingGlass"></i>
-                                        </button>
-                                    </fieldset>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="ovelay"></div>
-        </div><!-- /.top-search -->
-
-        <!-- Canvnas-quick-view -->
-        <div class="offcanvas offcanvas-end canvnas-quick-view" id="canvnasQuickview">
-            <div class="canvnas-content">
-                <div class="tf-minicart-recommendations">
-                    <div class="wrap-recommendations">
-                        <div class="list-img">
-                            <div class="list-img-item">
-                                <div class="image">
-                                    <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-1.jpg" src="image/quick-view-img/img-quickview-1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="list-img-item">
-                                <div class="image">
-                                    <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-2.jpg" src="image/quick-view-img/img-quickview-2.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="list-img-item">
-                                <div class="image">
-                                    <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-3.jpg" src="image/quick-view-img/img-quickview-3.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="list-img-item">
-                                <div class="image">
-                                    <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-4.jpg" src="image/quick-view-img/img-quickview-4.jpg" alt="">
-                                </div>
-                            </div>
-
-                            <div class="list-img-item">
-                                <div class="image">
-                                    <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-1.jpg" src="image/quick-view-img/img-quickview-1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="list-img-item">
-                                <div class="image">
-                                    <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-2.jpg" src="image/quick-view-img/img-quickview-2.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="list-img-item">
-                                <div class="image">
-                                    <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-3.jpg" src="image/quick-view-img/img-quickview-3.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="list-img-item">
-                                <div class="image">
-                                    <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-4.jpg" src="image/quick-view-img/img-quickview-4.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="quick-view-content">
-                    <div class="heading-quick-view">
-                        <h5>Quick View</h5>
-                        <button class="mobile-nav-close" data-bs-dismiss="offcanvas" aria-label="Close">
-                            <i class="icon-close1"></i>
-                        </button>
-                    </div>
-                    <div class="tf-product-info-wrap">
-                        <div class="tf-product-info-sold">
-                            <div class="icon">
-                                <i class="icon-Lightning"></i>
-                            </div>
-                            <div class="text">
-                                18 sold in last 32 hours
-                            </div>
-                        </div>
-                        <div class="tf-product-info-heading">
-                            <h4 class="name-product">
-                                Essentials Storage Set (Black)
-                            </h4>
-
-                        </div>
-                        <div class="tf-product-info-desc">
-                            <div class="tf-product-info-price">
-                                <h4 class="price-on-sale font-2 cart-price">$79.99</h4>
-                                <h5 class="compare-at-price font-2">$128.99</h5>
-                                <div class="badges-on-sale text-btn-uppercase">
-                                    -25%
-                                </div>
-                            </div>
-                            <p>
-                                The most popular organization items sold together in a set at a discounted price. Each
-                                piece is made to sit flush with each other and can be re-arranged to fit...
-                            </p>
-                        </div>
-                        <div class="tf-product-info-choose-option">
-                            <div class="variant-picker-item">
-                                <div class="variant-picker-label title">
-                                    Type:
-                                    <span class="text-title">White Oak</span>
-                                </div>
-                                <div class="variant-picker-values">
-                                    <input id="type-1" type="radio" name="color1">
-                                    <label class="hover-tooltip tooltip-bot color-btn" for="type-1" data-value="type-1" data-color="type-1">
-                                        <a href="#" class="image">
-                                            <img src="image/type-color-item/type-1.jpg" data-src="image/type-color-item/type-1.jpg" alt="" class="lazyload">
-                                        </a>
-                                    </label>
-                                    <input id="type-2" type="radio" name="color1">
-                                    <label class="hover-tooltip tooltip-bot color-btn active" for="type-2" data-value="type-2" data-color="type-2">
-                                        <a href="#" class="image">
-                                            <img src="image/type-color-item/type-2.jpg" data-src="image/type-color-item/type-2.jpg" alt="" class="lazyload">
-                                        </a>
-                                    </label>
-
-                                    <input id="type-3" type="radio" name="color1">
-                                    <label class="hover-tooltip tooltip-bot color-btn" for="type-3" data-value="type-3" data-color="type-3">
-                                        <a href="#" class="image">
-                                            <img src="image/type-color-item/type-3.jpg" data-src="image/type-color-item/type-3.jpg" alt="" class="lazyload">
-                                        </a>
-                                    </label>
-                                </div>
-                            </div>
-                            <div class="tf-product-info-quantity">
-                                <div class="title">Quantity:</div>
-                                <div class="wg-quantity">
-                                    <span class="btn-quantity btn-decrease">-</span>
-                                    <input class="quantity-product" type="text" name="number" value="1">
-                                    <span class="btn-quantity btn-increase">+</span>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="tf-product-info-by-btn mb_10">
-                                    <a href="#" class="tf-btn style-2 w-full text-center bg-on-suface-container btn-add-to-cart"><span>Add
-                                            To Cart -&nbsp;</span><span class="cart-total tf-qty-price total-price">$79.99</span></a>
-                                    <a href="#compare" data-bs-toggle="offcanvas" class="box-icon hover-tooltip compare btn-icon-action">
-                                        <span class="icon icon-gitDiff"></span>
-                                    </a>
-                                    <a href="javascript:void(0);" class="box-icon hover-tooltip text-caption-2 wishlist btn-icon-action">
-                                        <span class="icon icon-heart"></span>
-                                    </a>
-                                </div>
-                                <a href="#" class="tf-btn w-full style-2 bg-color-primary text-center"><span>Buy It
-                                        Now</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div><!-- /.canvnas-quick-view -->
-
-        <!-- OffcanvasMegamenu -->
-        <div class="offcanvas offcanvas-end offcanvasMegamenu" id="canvnasMegamenu">
-            <div class="heading">
-                <button class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close">
+                <button class="mobile-nav-close" data-bs-dismiss="offcanvas" aria-label="Close">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="black" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 122.878 122.88" enable-background="new 0 0 122.878 122.88" xml:space="preserve">
+                        <g>
+                            <path d="M1.426,8.313c-1.901-1.901-1.901-4.984,0-6.886c1.901-1.902,4.984-1.902,6.886,0l53.127,53.127l53.127-53.127 c1.901-1.902,4.984-1.902,6.887,0c1.901,1.901,1.901,4.985,0,6.886L68.324,61.439l53.128,53.128c1.901,1.901,1.901,4.984,0,6.886 c-1.902,1.902-4.985,1.902-6.887,0L61.438,68.326L8.312,121.453c-1.901,1.902-4.984,1.902-6.886,0 c-1.901-1.901-1.901-4.984,0-6.886l53.127-53.128L1.426,8.313L1.426,8.313z">
+                            </path>
+                        </g>
+                    </svg>
                 </button>
             </div>
-            <div class="meag-menu-item">
-                <h4 class="title-content fw-7">
-                    Impact Nest Construction
-                </h4>
-                <p>
-                    Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
-                </p>
-            </div>
-
-            <div class="contact-mega-menu meag-menu-item">
-                <h4 class="title-content fw-7">
-                    Contact Us
-                </h4>
-                <ul class="contact-list-mega-menu">
-                    <li>
-                        <p>Address:
-                            <a href="#" target="_blank">
-                                55 East 10th Street, New York, NY 10003, United States
-                            </a>
-                        </p>
-                    </li>
-                    <li>
-                        <p>Email:
-                            <a href="mailto:contact@panapadvisors.com">
-                                contact@panapadvisors.com
-                            </a>
-                        </p>
-                    </li>
-                    <li>
-                        <p> Call: <a href="tel:+00012345688">
-                                +000 (123) 456 88</a>
-                        </p>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="list-img">
-                <a href="blog-details-1.php"><img src="image/blog/tf-post-list-small-1.jpg" data-src="image/blog/tf-post-list-small-1.jpg" alt="" class="lazyload"></a>
-                <a href="blog-details-1.php"><img src="image/blog/tf-post-list-small-2.jpg" data-src="image/blog/tf-post-list-small-2.jpg" alt="" class="lazyload"></a>
-                <a href="blog-details-1.php"><img src="image/blog/tf-post-list-small-3.jpg" data-src="image/blog/tf-post-list-small-3.jpg" alt="" class="lazyload"></a>
-                <a href="blog-details-1.php"><img src="image/blog/tf-post-list-small-4.jpg" data-src="image/blog/tf-post-list-small-4.jpg" alt="" class="lazyload"></a>
-            </div>
-        </div><!-- /.offcanvasMegamenu -->
-
-        <!-- Login -->
-        <div class="modal fade modalCenter auto-popup" id="modallogin">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content modal-xl">
-                    <div class="wg-new-letter">
-                        <div class="image">
-                            <img src="image/section/img-new-letter.jpg" data-src="image/section/img-new-letter.jpg" alt="" class="lazyload">
+            <nav class="mobile-main-nav">
+                <ul id="menu-mobile" class="menu">
+                    <li class="menu-item menu-item-has-children-mobile current-menu-mobile-item">
+                        <a href="#dropdown-menu-1" data-bs-toggle="collapse" class="collapsed">Home
+                        </a>
+                        <div id="dropdown-menu-1" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item current-menu-mobile-item"><a href="index.php">Financial Planning</a></li>
+                                <li class="menu-item"><a href="consulting-agency.php">Consulting Agency</a></li>
+                                <li class="menu-item"><a href="strategy-consulting.php">Strategy Consulting</a></li>
+                                <li class="menu-item"><a href="digital-transformation.php">Digital Transformation</a></li>
+                                <li class="menu-item"><a href="marketing-consulting.php">Marketing Consulting</a></li>
+                                <li class="menu-item"><a href="insurance-consultancy.php">Insurance Consultancy</a></li>
+                                <li class="menu-item"><a href="tax-advisory.php">Tax Advisory</a></li>
+                                <li class="menu-item"><a href="it-consulting.php">It Consulting</a></li>
+                                <li class="menu-item"><a href="home-LTR.php">Home LTR</a></li>
+                            </ul>
                         </div>
-                        <div class="new-letter-content text-center">
-                            <div class="heading">
-                                <div class="label text-btn-uppercase color-primary mb-8">
-                                    Subscribe To Our Newletter!
-                                </div>
-                                <h5 class="color-on-suface-container ">
-                                    Sign Up For Updates On Our Latest
-                                    <br>News And Events.
-                                </h5>
-                            </div>
-                            <fieldset>
-                                <input type="text" placeholder="Enter your email address">
-                            </fieldset>
-                            <a href="#" class="tf-btn style-2 bg-on-suface-container">
-                                <span>Subscribe</span>
-                            </a>
-                            <ul class="tf-social radius-50 g-8 color-on-suface-container">
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-messenger"></i>
-                                        </div>
-                                    </a>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-2" data-bs-toggle="collapse" class="collapsed">Services
+                        </a>
+                        <div id="dropdown-menu-2" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="our-services-1.php">Our Services 1</a></li>
+                                <li class="menu-item"><a href="our-services-2.php">Our Services 2</a></li>
+                                <li class="menu-item"><a href="services-details-1.php">Services Details 1</a>
                                 </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-x"></i>
-                                        </div>
-                                    </a>
+                                <li class="menu-item"><a href="services-details-2.php">Services Details 2</a>
                                 </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-ig1"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-skype"></i>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="item">
-                                    <a href="#">
-                                        <div class="icon">
-                                            <i class="icon-telegram"></i>
-                                        </div>
-                                    </a>
+                                <li class="menu-item"><a href="services-details-3.php">Services Details 3</a>
                                 </li>
                             </ul>
                         </div>
-                        <a href="#" data-bs-dismiss="modal" class="icon-new-letter btn-hide-popup">
-                            <i class="icon-close1">
-                            </i>
-                        </a>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-3" data-bs-toggle="collapse" class="collapsed">Case</a>
+                        <div id="dropdown-menu-3" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="case-studies-1.php">Case Studies 1</a></li>
+                                <li class="menu-item"><a href="case-studies-2.php">Case Studies 2</a></li>
+                                <li class="menu-item"><a href="case-studies-details.php">Case Studies
+                                        Details</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#dropdown-menu-4" data-bs-toggle="collapse" class="collapsed">Pages</a>
+                        <div id="dropdown-menu-4" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="about-us.php">About Us</a></li>
+                                <li class="menu-item"><a href="our-teams.php">Our Teams Industries & Industries </a></li>
+                                <!-- <li class="menu-item"><a href="industries.php">Industries</a></li> -->
+                                <!-- <li class="menu-item"><a href="pricing.php">Pricing</a></li> -->
+                                <!-- <li class="menu-item"><a href="testimonials.php">Testimonials</a></li> -->
+                                <!-- <li class="menu-item"><a href="gallery.php">Gallery</a></li> -->
+                                <li class="menu-item"><a href="faq.php">Faq</a></li>
+                                <!-- <li class="menu-item"><a href="career.php">Career</a></li> -->
+                                <!-- <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li> -->
+                                <!-- <li class="menu-item"><a href="404.php">404 Error</a></li> -->
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile">
+                        <a href="#sub-product-5" data-bs-toggle="collapse" class="collapsed">Our Store</a>
+                        <div id="sub-product-5" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item"><a href="products.php">Products</a></li>
+                                <li class="menu-item"><a href="products-details.php">Product Details</a></li>
+                                <li class="menu-item"><a href="shopping-cart.php">Shopping Cart</a></li>
+                                <li class="menu-item"><a href="check-out.php">Check Out</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item menu-item-has-children-mobile current-menu-item">
+                        <a href="#dropdown-menu-6" data-bs-toggle="collapse" class="collapsed">Blog</a>
+                        <div id="dropdown-menu-6" class="collapse" data-bs-parent="#menu-mobile">
+                            <ul class="sub-menu-mobile">
+                                <li class="menu-item current-item"><a href="blog-right-sidebar.php">Blog Right
+                                        Sidebar</a></li>
+                                <li class="menu-item"><a href="blog-left-sidebar.php">Blog Left Sidebar</a>
+                                </li>
+                                <li class="menu-item"><a href="blog-no-sidebar.php">Blog No Sidebarr</a></li>
+                                <li class="menu-item"><a href="blog-details-1.php">Blog Details 1</a></li>
+                                <li class="menu-item"><a href="blog-details-2.php">Blog Details 2</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="menu-item">
+                        <a href="contact-us.php">Contact Us</a>
+                    </li>
+                </ul>
+                <div class="contact-mobile">
+                    <h6 class="title-contact-mobile">Contact Info</h6>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-MapPin"></i>CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</a>
                     </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-Envelope"></i>contact@panapadvisors.com</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <a href="#"><i class="icon-PhoneCall"></i> +91-9971645151</a>
+                    </div>
+                    <div class="content-contact-moblile">
+                        <ul class="tf-social style-border radius-50 g-8 style-2 color-on-suface-container">
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-messenger"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-x"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-ig1"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-skype"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-telegram"></i>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div><!-- /.mobile-nav-wrap -->
 
+    <!-- Top-search -->
+    <div class="top-search">
+        <div class="top-search-content">
+            <div class="tf-container w-1870">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="top-content">
+                            <div class="logo-search">
+                                <a href="index.php">
+                                    <img src="image/logo/logo.svg" alt="">
+                                </a>
+                            </div>
+                            <a href="javascript:void(0)" class="button-close">
+                                <i class="icon-close1"></i>
+                            </a>
+                        </div>
+                        <div class="wg-box-search">
+                            <form action="#" class="form-search">
+                                <fieldset class="input-search">
+                                    <input type="text" name="search" id="search" placeholder="Searching....">
+                                    <button type="submit" class="btn-search">
+                                        <i class="icon-MagnifyingGlass"></i>
+                                    </button>
+                                </fieldset>
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div><!-- /.login -->
-
-        <!-- Go-top -->
-        <div class="progress-wrap">
-            <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-                <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 277.672;">
-                </path>
-            </svg>
         </div>
+        <div class="ovelay"></div>
+    </div><!-- /.top-search -->
+
+    <!-- Canvnas-quick-view -->
+    <div class="offcanvas offcanvas-end canvnas-quick-view" id="canvnasQuickview">
+        <div class="canvnas-content">
+            <div class="tf-minicart-recommendations">
+                <div class="wrap-recommendations">
+                    <div class="list-img">
+                        <div class="list-img-item">
+                            <div class="image">
+                                <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-1.jpg" src="image/quick-view-img/img-quickview-1.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="list-img-item">
+                            <div class="image">
+                                <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-2.jpg" src="image/quick-view-img/img-quickview-2.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="list-img-item">
+                            <div class="image">
+                                <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-3.jpg" src="image/quick-view-img/img-quickview-3.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="list-img-item">
+                            <div class="image">
+                                <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-4.jpg" src="image/quick-view-img/img-quickview-4.jpg" alt="">
+                            </div>
+                        </div>
+
+                        <div class="list-img-item">
+                            <div class="image">
+                                <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-1.jpg" src="image/quick-view-img/img-quickview-1.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="list-img-item">
+                            <div class="image">
+                                <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-2.jpg" src="image/quick-view-img/img-quickview-2.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="list-img-item">
+                            <div class="image">
+                                <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-3.jpg" src="image/quick-view-img/img-quickview-3.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="list-img-item">
+                            <div class="image">
+                                <img class=" lazyloaded" data-src="image/quick-view-img/img-quickview-4.jpg" src="image/quick-view-img/img-quickview-4.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="quick-view-content">
+                <div class="heading-quick-view">
+                    <h5>Quick View</h5>
+                    <button class="mobile-nav-close" data-bs-dismiss="offcanvas" aria-label="Close">
+                        <i class="icon-close1"></i>
+                    </button>
+                </div>
+                <div class="tf-product-info-wrap">
+                    <div class="tf-product-info-sold">
+                        <div class="icon">
+                            <i class="icon-Lightning"></i>
+                        </div>
+                        <div class="text">
+                            18 sold in last 32 hours
+                        </div>
+                    </div>
+                    <div class="tf-product-info-heading">
+                        <h4 class="name-product">
+                            Essentials Storage Set (Black)
+                        </h4>
+
+                    </div>
+                    <div class="tf-product-info-desc">
+                        <div class="tf-product-info-price">
+                            <h4 class="price-on-sale font-2 cart-price">$79.99</h4>
+                            <h5 class="compare-at-price font-2">$128.99</h5>
+                            <div class="badges-on-sale text-btn-uppercase">
+                                -25%
+                            </div>
+                        </div>
+                        <p>
+                            The most popular organization items sold together in a set at a discounted price. Each
+                            piece is made to sit flush with each other and can be re-arranged to fit...
+                        </p>
+                    </div>
+                    <div class="tf-product-info-choose-option">
+                        <div class="variant-picker-item">
+                            <div class="variant-picker-label title">
+                                Type:
+                                <span class="text-title">White Oak</span>
+                            </div>
+                            <div class="variant-picker-values">
+                                <input id="type-1" type="radio" name="color1">
+                                <label class="hover-tooltip tooltip-bot color-btn" for="type-1" data-value="type-1" data-color="type-1">
+                                    <a href="#" class="image">
+                                        <img src="image/type-color-item/type-1.jpg" data-src="image/type-color-item/type-1.jpg" alt="" class="lazyload">
+                                    </a>
+                                </label>
+                                <input id="type-2" type="radio" name="color1">
+                                <label class="hover-tooltip tooltip-bot color-btn active" for="type-2" data-value="type-2" data-color="type-2">
+                                    <a href="#" class="image">
+                                        <img src="image/type-color-item/type-2.jpg" data-src="image/type-color-item/type-2.jpg" alt="" class="lazyload">
+                                    </a>
+                                </label>
+
+                                <input id="type-3" type="radio" name="color1">
+                                <label class="hover-tooltip tooltip-bot color-btn" for="type-3" data-value="type-3" data-color="type-3">
+                                    <a href="#" class="image">
+                                        <img src="image/type-color-item/type-3.jpg" data-src="image/type-color-item/type-3.jpg" alt="" class="lazyload">
+                                    </a>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="tf-product-info-quantity">
+                            <div class="title">Quantity:</div>
+                            <div class="wg-quantity">
+                                <span class="btn-quantity btn-decrease">-</span>
+                                <input class="quantity-product" type="text" name="number" value="1">
+                                <span class="btn-quantity btn-increase">+</span>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="tf-product-info-by-btn mb_10">
+                                <a href="#" class="tf-btn style-2 w-full text-center bg-on-suface-container btn-add-to-cart"><span>Add
+                                        To Cart -&nbsp;</span><span class="cart-total tf-qty-price total-price">$79.99</span></a>
+                                <a href="#compare" data-bs-toggle="offcanvas" class="box-icon hover-tooltip compare btn-icon-action">
+                                    <span class="icon icon-gitDiff"></span>
+                                </a>
+                                <a href="javascript:void(0);" class="box-icon hover-tooltip text-caption-2 wishlist btn-icon-action">
+                                    <span class="icon icon-heart"></span>
+                                </a>
+                            </div>
+                            <a href="#" class="tf-btn w-full style-2 bg-color-primary text-center"><span>Buy It
+                                    Now</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- /.canvnas-quick-view -->
+
+    <!-- OffcanvasMegamenu -->
+    <div class="offcanvas offcanvas-end offcanvasMegamenu" id="canvnasMegamenu">
+        <div class="heading">
+            <button class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close">
+            </button>
+        </div>
+        <div class="meag-menu-item">
+            <h4 class="title-content fw-7">
+                Impact Nest Construction
+            </h4>
+            <p>
+                Nam augue velit, fermentum sed erat non, efficitur interdum lectus. Donec hendrerit lorem a dui euismod tempus. Vivamus auctor blandit tellus et interdum.
+            </p>
+        </div>
+
+        <div class="contact-mega-menu meag-menu-item">
+            <h4 class="title-content fw-7">
+                Contact Us
+            </h4>
+            <ul class="contact-list-mega-menu">
+                <li>
+                    <p>Address:
+                        <a href="#" target="_blank">
+                            55 East 10th Street, New York, NY 10003, United States
+                        </a>
+                    </p>
+                </li>
+                <li>
+                    <p>Email:
+                        <a href="mailto:contact@panapadvisors.com">
+                            contact@panapadvisors.com
+                        </a>
+                    </p>
+                </li>
+                <li>
+                    <p> Call: <a href="tel:+00012345688">
+                            +000 (123) 456 88</a>
+                    </p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="list-img">
+            <a href="blog-details-1.php"><img src="image/blog/tf-post-list-small-1.jpg" data-src="image/blog/tf-post-list-small-1.jpg" alt="" class="lazyload"></a>
+            <a href="blog-details-1.php"><img src="image/blog/tf-post-list-small-2.jpg" data-src="image/blog/tf-post-list-small-2.jpg" alt="" class="lazyload"></a>
+            <a href="blog-details-1.php"><img src="image/blog/tf-post-list-small-3.jpg" data-src="image/blog/tf-post-list-small-3.jpg" alt="" class="lazyload"></a>
+            <a href="blog-details-1.php"><img src="image/blog/tf-post-list-small-4.jpg" data-src="image/blog/tf-post-list-small-4.jpg" alt="" class="lazyload"></a>
+        </div>
+    </div><!-- /.offcanvasMegamenu -->
+
+    <!-- Login -->
+    <div class="modal fade modalCenter auto-popup" id="modallogin">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content modal-xl">
+                <div class="wg-new-letter">
+                    <div class="image">
+                        <img src="image/section/img-new-letter.jpg" data-src="image/section/img-new-letter.jpg" alt="" class="lazyload">
+                    </div>
+                    <div class="new-letter-content text-center">
+                        <div class="heading">
+                            <div class="label text-btn-uppercase color-primary mb-8">
+                                Subscribe To Our Newletter!
+                            </div>
+                            <h5 class="color-on-suface-container ">
+                                Sign Up For Updates On Our Latest
+                                <br>News And Events.
+                            </h5>
+                        </div>
+                        <fieldset>
+                            <input type="text" placeholder="Enter your email address">
+                        </fieldset>
+                        <a href="#" class="tf-btn style-2 bg-on-suface-container">
+                            <span>Subscribe</span>
+                        </a>
+                        <ul class="tf-social radius-50 g-8 color-on-suface-container">
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-messenger"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-x"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-ig1"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-skype"></i>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="#">
+                                    <div class="icon">
+                                        <i class="icon-telegram"></i>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <a href="#" data-bs-dismiss="modal" class="icon-new-letter btn-hide-popup">
+                        <i class="icon-close1">
+                        </i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div><!-- /.login -->
+
+    <!-- Go-top -->
+    <div class="progress-wrap">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 277.672;">
+            </path>
+        </svg>
+    </div>
     </div>
 
 
