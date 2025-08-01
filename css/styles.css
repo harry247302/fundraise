@@ -2097,7 +2097,7 @@ a:focus {
 }
 .footer .footer-left {
   padding-right: 30px;
-  border-right: 1px solid var(--bg-1);
+  border-right: 1px solid rgba(198, 198, 198, 0.096);
   padding-top: 30px;
   padding-bottom: 80px;
   max-width: 400px;
@@ -2121,7 +2121,7 @@ a:focus {
   padding-bottom: 80px;
   width: 100%;
   padding-left: 30px;
-  border-left: 1px solid var(--bg-1);
+  border-left: 1px solid rgba(198, 198, 198, 0.096);
 }
 .footer.style-2 {
   position: relative;
@@ -2434,7 +2434,7 @@ a:focus {
 }
 .footer-bottom .footer-bottom-inner .right ul li {
   padding-right: 11px;
-  border-right: 1px solid rgba(146, 146, 146, 0.36);
+  border-right: 1px solid rgba(198, 198, 198, 0.096);
   margin-right: 13px;
 }
 .footer-bottom .footer-bottom-inner .right ul li:last-child {
