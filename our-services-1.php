@@ -160,7 +160,7 @@
                                                 <!-- Left Image -->
                                                 <div class="col-md-5 mb-0 mb-md-0">
                                                     <img
-                                                        src="/image/about/team-meeting.jpg"
+                                                        src="/image/new-images-changes/our-services/meetings-services-1.jpg"
                                                         alt="Team Discussion"
                                                         class="img-fluid"
                                                         style="border-radius: 20px; width: 400px;" />
@@ -191,10 +191,13 @@
                             What We Offer
                         </h3> -->
 
-                        <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+
+                        <!-- what we offer section -->
+
+                        <!-- <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
                             What We Offer
-                        </h3>
-                        <div class="tf-container">
+                        </h3> -->
+                        <!-- <div class="tf-container">
                             <div class="row">
                                 <div class="col-12">
                                     <div class="sw-case-studies swiper sw-layout swiper-backface-hidden swiper-initialized swiper-horizontal" data-preview="3" data-tablet="2" data-mobile-sm="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="10" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
@@ -204,13 +207,7 @@
                                                     <div class="testimonial-top">
                                                         <div class="counter-item">
                                                             <div class="counter">
-                                                                <!-- <div class="number-counter">
-                                                                <h4 class="color-primary">₹</h4>
-                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
-                                                                <h4 class="plus color-primary">
-                                                                    Cr
-                                                                </h4>
-                                                            </div> -->
+
                                                                 <h6 class="text-center" style="font-size:22px">
                                                                     Fundraising Strategy & Planning
                                                                 </h6>
@@ -252,13 +249,7 @@
                                                     <div class="testimonial-top">
                                                         <div class="counter-item">
                                                             <div class="counter">
-                                                                <!-- <div class="number-counter">
-                                                                <h4 class="color-primary">₹</h4>
-                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
-                                                                <h4 class="plus color-primary">
-                                                                    Cr
-                                                                </h4>
-                                                            </div> -->
+
                                                                 <h6 class="text-center" style="font-size:22px">
                                                                     Investor-Ready Materials
                                                                 </h6>
@@ -306,13 +297,7 @@
                                                     <div class="testimonial-top">
                                                         <div class="counter-item">
                                                             <div class="counter">
-                                                                <!-- <div class="number-counter">
-                                                                <h4 class="color-primary">₹</h4>
-                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
-                                                                <h4 class="plus color-primary">
-                                                                    Cr
-                                                                </h4>
-                                                            </div> -->
+
                                                                 <h6 class="text-center" style="font-size:22px">
                                                                     Investor Outreach & Introductions
                                                                 </h6>
@@ -355,13 +340,7 @@
                                                     <div class="testimonial-top">
                                                         <div class="counter-item">
                                                             <div class="counter">
-                                                                <!-- <div class="number-counter">
-                                                                <h4 class="color-primary">₹</h4>
-                                                                <h4 class="number color-primary odometer odometer-auto-theme" data-to="25" data-inviewport="yes"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></h4>
-                                                                <h4 class="plus color-primary">
-                                                                    Cr
-                                                                </h4>
-                                                            </div> -->
+
                                                                 <h6 class="text-center" style="font-size:22px">
                                                                     Deal Structuring & Negotiation Support
                                                                 </h6>
@@ -401,7 +380,172 @@
 
 
 
-                                            </div>
+                                            </div> -->
+
+                        <style>
+                            .offer-card {
+                                border: 3px solid rgb(15, 65, 98);
+                                border-radius: 15px;
+                                padding: 10px;
+                                background-color: #fff;
+                                height: 100%;
+                                transition: 0.3s ease;
+                            }
+
+                            .offer-card:hover {
+                                box-shadow: 0 0 20px rgba(11, 43, 64, 0.1);
+                            }
+
+                            .offer-icon {
+                                font-size: 30px;
+                                margin-bottom: 15px;
+                                color: rgb(15, 65, 98);
+                            }
+
+                            .offer-title {
+                                font-weight: 700;
+                                color: rgb(15, 65, 98);
+                                margin-bottom: 10px;
+                                font-size: 14px;
+                                text-align: center;
+                            }
+
+
+
+                            .section-title {
+                                font-size: 65px;
+                                /* font-weight: 600; */
+                                text-align: center;
+                                color: #fff;
+                                padding: 60px 0 20px;
+                                background: url('https://images.unsplash.com/photo-1600880292203-757bb62b4baf') no-repeat center center/cover;
+                            }
+
+                            .section-content {
+                                /* background-color: #f8f9fa; */
+                                margin-top: -50px;
+                            }
+
+                            ul {
+                                padding-left: 20px;
+                            }
+
+                            ul li {
+                                margin-bottom: 2px;
+                            }
+                        </style>
+
+
+                        <div class="section-title">
+                            What We Offer
+                        </div>
+
+                        <!-- Section Content -->
+                        <div class="section-content container" style="width: 80rem;">
+                            <div class="row g-4">
+                                <!-- Card 1 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="offer-card">
+                                        <div class="d-flex align-items-center justify-content-center mb-3 gap-3">
+                                            <img
+                                                src="../image/icon/strategy-development_4129547.png"
+                                                alt="Marketing Strategy"
+                                                style="width: 30px; height: 30px; filter: brightness(0) saturate(100%) invert(12%) sepia(16%) saturate(1874%) hue-rotate(166deg) brightness(94%) contrast(97%);" />
+
+                                            <h5 class="offer-title">Fundraising Strategy & Planning</h5>
+                                        </div>
+                                        <div style="width: auto; height: 2px; background-color: #0b2b40;"></div>
+                                        <div style="padding: 20px !important; margin-top: -30px !important;">
+                                            <p style="font-size: 12px; line-height: normal; padding: 15px; margin-bottom: -10px !important; text-align: center !important;">Every successful round starts with the right strategy. We work with you to develop a capital raise roadmap – how much to raise, at what valuation, from whom, and for what purpose.</p>
+                                            <ul>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Capital planning and fund utilization strategy</li>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Ideal investor profiling</li>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Timeline and milestone mapping</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Card 2 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="offer-card">
+                                        <!-- <div class="offer-icon">📊</div> -->
+                                        <!-- <div class="offer-title">Investor-Ready Materials</div> -->
+                                        <div class="d-flex align-items-center justify-content-center mb-3 gap-3">
+                                            <img
+                                                src="../image/icon/strategy-development_4129547.png"
+                                                alt="Marketing Strategy"
+                                                style="width: 30px; height: 30px; filter: brightness(0) saturate(100%) invert(12%) sepia(16%) saturate(1874%) hue-rotate(166deg) brightness(94%) contrast(97%);" />
+
+                                            <h5 class="offer-title">Investor-Ready Materials</h5>
+                                        </div>
+                                        <div style="width: auto; height: 2px; background-color: #0b2b40;"></div>
+                                        <div style="padding: 20px !important; margin-top: -30px !important;">
+
+                                            <p style="text-align: center !important; font-size: 12px; line-height: normal; padding: 15px; margin-bottom: -10px !important;">We prepare everything you need to impress investors and drive meaningful conversations.</p>
+                                            <ul>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Investor pitch deck design & development</li>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Business plan and executive summary</li>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Financial model & valuation support</li>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Use of funds and cap table guidance</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Card 3 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="offer-card">
+                                        <!-- <div class="offer-icon">📬</div> -->
+                                        <!-- <div class="offer-title">Investor Outreach & Introductions</div> -->
+                                        <div class="d-flex align-items-center justify-content-center mb-3 gap-3">
+                                            <img
+                                                src="../image/icon/strategy-development_4129547.png"
+                                                alt="Marketing Strategy"
+                                                style="width: 30px; height: 30px; filter: brightness(0) saturate(100%) invert(12%) sepia(16%) saturate(1874%) hue-rotate(166deg) brightness(94%) contrast(97%);" />
+
+                                            <h5 class="offer-title">Investor Outreach & Introductions</h5>
+                                        </div>
+                                        <div style="width: auto; height: 2px; background-color: #0b2b40;"></div>
+                                        <div style="padding: 20px !important; margin-top: -30px !important;">
+
+                                            <p style="text-align: center !important; font-size: 12px; line-height: normal; padding: 15px; margin-bottom: -10px !important;">Access our curated network of angel investors, venture capital firms, family offices, and strategic funds. We facilitate warm introductions, investor shortlists, and pitch coordination.</p>
+                                            <ul>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Curated investor database</li>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Investor targeting strategy</li>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Pitch scheduling & feedback support</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Card 4 -->
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="offer-card">
+                                        <!-- <div class="offer-icon">🤝</div> -->
+                                        <!-- <div class="offer-title">Deal Structuring & Negotiation Support</div> -->
+                                        <div class="d-flex align-items-center justify-content-center mb-3 gap-3">
+                                            <img
+                                                src="../image/icon/strategy-development_4129547.png"
+                                                alt="Marketing Strategy"
+                                                style="width: 30px; height: 30px; filter: brightness(0) saturate(100%) invert(12%) sepia(16%) saturate(1874%) hue-rotate(166deg) brightness(94%) contrast(97%);" />
+
+                                            <h5 class="offer-title">Deal Structuring & Negotiation Support</h5>
+                                        </div>
+                                        <div style="width: auto; height: 2px; background-color: #0b2b40;"></div>
+                                        <div style="padding: 20px !important; margin-top: -30px !important;">
+
+                                            <p style="text-align: center !important; font-size: 12px; line-height: normal; padding: 15px; margin-bottom: -10px !important;">From term sheets to closing conversations, we provide expert advisory throughout the deal cycle to protect your equity and ensure founder-friendly terms.</p>
+                                            <ul>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Term sheet analysis</li>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Equity and convertible instrument advisory</li>
+                                                <li style="line-height: normal; list-style: disc !important; font-size: 12px; text-align: center !important;">Negotiation prep and investor communication</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
 
 
@@ -410,25 +554,26 @@
 
                 <div class="tf-containr" style="margin-top: 20px; margin-bottom:40px;">
                     <div class="row">
-                        <div class="col-12">
-                            <div class="blog-contnt blog-details-2-content blog-details-ontent">
+                        <div class="col-12" style="margin: 0px !important; padding: 0px !important; background-color:rgb(15, 65, 98) !important;">
+                            <div class="blog-contnt blog-details-2-content blog-details-ontent" >
 
                                 <!-- div class="image-blog">
 
                                         </div>       < -->
-                                <div class="desc-blog" style="background-color:rgb(255, 255, 255);">
+                                <div class="desc-blog" style="background-color:rgb(15, 65, 98);">
                                     <div class="counter text-center">
 
                                         <!-- <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
                                             End-to-End Fundraising Support
                                         </h3> -->
 
-                                        <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1;">
+                                        <h3 class="title-section text-anime-wave-1 mb-12 text-center" style="translate: none; rotate: none; scale: none; transform-origin: 50% 50% 0px; transform: translate(0px); opacity: 1; color: #fff !important; font-weight: 700; font-size: 50px;">
                                             End-to-End Fundraising Support
                                         </h3>
                                     </div>
-                                    <p class="tex-secondary list-grou" style="font-size: clamp(14px, 2.5vw, 18px); line-height: 1.7; text-align: center;">
-                                        Impact Nest offers 360° fundraising support to help startups raise capital with clarity and confidence. We craft compelling narratives, build robust financial models, design investor-ready decks, and facilitate warm investor introductions. From strategy to closure, we guide you through every stage of the funding journey-ensuring you're not just ready to pitch, but ready to win. Our expert team ensures every detail aligns with investor expectations, maximizing your chances of a successful raise.
+                                    <p class="tex-secondary list-grou" style="font-size:18px ; line-height: 1.7; text-align: center; color: #fff;">
+                                        Fundraising is a process, not a one-time event. We stay with you from preparation to closure, helping you refine
+                                        your approach at every stage.
                                     </p>
 
 

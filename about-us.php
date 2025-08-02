@@ -124,7 +124,7 @@
                             <!-- Left Image -->
                             <div class="col-md-5 mb-4 mb-md-0">
                                 <img
-                                    src="/image/about/team-meeting.jpg"
+                                    src="/image/new-images-changes/about/team-meeting.jpg"
                                     alt="Team Discussion"
                                     class="img-fluid"
                                     style="border-radius: 20px; width: 400px;" />

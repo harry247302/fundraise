@@ -1060,12 +1060,12 @@ progress {
 
 .g-4,
 .gx-4 {
-    --bs-gutter-x: 1.5rem
+    --bs-gutter-x: 4.5rem
 }
 
 .g-4,
 .gy-4 {
-    --bs-gutter-y: 1.5rem
+    --bs-gutter-y: 3.5rem
 }
 
 .g-5,

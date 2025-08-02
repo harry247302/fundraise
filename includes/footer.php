@@ -212,15 +212,16 @@
     </div>
     <div class="footer-bottom" style="border-top:1px solid rgba(198, 198, 198, 0.096);">
         <div class="tf-container">
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-12">
-                    <div class="footer-bottom-inner">
-                        <div class="left">
-                            <div class="text caption-1 text-body" style="font-size: 13px !important; font-weight: normal !important; color: rgba(198, 198, 198, 0.79) !important;">
-                                ©2025 Impact Nest. All Rights Reserved.
+                    <div class="footer-bottom-inner"> -->
+                        <!-- <div class="left"> -->
+                            <div style="font-size: 13px !important; font-weight: normal !important; color: rgba(198, 198, 198, 0.79) !important; text-align: center !important; padding: 5px !important;">
+                                ©2025 Impact Nest. All Rights Reserved. 
+                                <a href="https://nationalmarketingprojects.com/" target="_blank" style="color: rgba(198, 198, 198, 0.79) !important;"> Designed & Developed by NPMI ❤️</a>
                             </div>
-                        </div>
-                        <div class="right">
+                        <!-- </div> -->
+                        <!-- <div class="right">
                             <ul style="display: flex; gap: 20px; list-style: none; padding: 0; margin: 0;">
                                 <li>
                                     <a href="#" class="caption-1 text-body" style="font-size: 13px !important; font-weight: normal !important; color: rgba(198, 198, 198, 0.79) !important; ">Terms Of Services</a>
@@ -232,10 +233,10 @@
                                     <a href="#" class="caption-1 text-body" style="font-size: 13px !important; font-weight: normal !important; color: rgba(198, 198, 198, 0.79) !important;">Cookie Policy</a>
                                 </li>
                             </ul>
-                        </div>
-                    </div>
+                        </div> -->
+                    <!-- </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </footer>
